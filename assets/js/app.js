@@ -5,6 +5,7 @@
     news: []
   };
 
+  const sectionOrder = ['AI 與科技前沿', '全球財經脈動', '美股與全球市場焦點'];
   const el = {};
 
   document.addEventListener('DOMContentLoaded', init);
@@ -17,7 +18,7 @@
       category: document.querySelector('#category-filter'),
       source: document.querySelector('#source-filter'),
       reset: document.querySelector('#reset-filters'),
-      news: document.querySelector('#news-grid'),
+      brief: document.querySelector('#brief-container'),
       count: document.querySelector('#result-count'),
       updated: document.querySelector('#last-updated'),
       error: document.querySelector('#error-message'),
@@ -40,13 +41,13 @@
 
       validateData();
       populateFilters();
-      renderNews();
+      renderBrief();
       renderUpdatedTime();
     } catch (error) {
       console.error(error);
       showError(`資料載入失敗，請確認 data/news.json 可正常存取。錯誤訊息：${error.message}`);
     } finally {
-      el.news.setAttribute('aria-busy', 'false');
+      el.brief.setAttribute('aria-busy', 'false');
     }
   }
 
@@ -57,27 +58,27 @@
       localStorage.setItem('finance-hub-theme', next);
     });
 
-    el.search.addEventListener('input', renderNews);
-    [el.category, el.source].forEach((item) => item.addEventListener('change', renderNews));
+    el.search.addEventListener('input', renderBrief);
+    [el.category, el.source].forEach((item) => item.addEventListener('change', renderBrief));
     el.reset.addEventListener('click', () => {
       el.search.value = '';
       el.category.value = '';
       el.source.value = '';
-      renderNews();
+      renderBrief();
       el.search.focus();
     });
   }
 
   function validateData() {
-    if (!Array.isArray(state.news) || state.news.length < 15) {
-      throw new Error('news.json 必須包含至少 15 筆新聞');
+    if (!Array.isArray(state.news) || state.news.length < 9) {
+      throw new Error('news.json 必須包含至少 9 則早報條目');
     }
 
-    const requiredNewsFields = ['id', 'title', 'source', 'publishedAt', 'category', 'summary', 'tags', 'url'];
-    const invalidNews = state.news.find((item) => requiredNewsFields.some((field) => item[field] == null));
+    const requiredFields = ['id', 'section', 'subject', 'title', 'source', 'publishedAt', 'category', 'fact', 'inference', 'hypothesis', 'tags', 'url'];
+    const invalidItem = state.news.find((item) => requiredFields.some((field) => item[field] == null));
 
-    if (invalidNews) {
-      throw new Error(`news.json 欄位不完整：${invalidNews.id || '未知新聞'}`);
+    if (invalidItem) {
+      throw new Error(`news.json 欄位不完整：${invalidItem.id || '未知條目'}`);
     }
   }
 
@@ -99,12 +100,16 @@
     return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-Hant'));
   }
 
-  function renderNews() {
+  function renderBrief() {
     const query = el.search.value.trim().toLocaleLowerCase('zh-Hant');
     const filtered = state.news.filter((item) => {
       const searchableText = [
+        item.section,
+        item.subject,
         item.title,
-        item.summary,
+        item.fact,
+        item.inference,
+        item.hypothesis,
         item.source,
         item.category,
         ...(item.tags || [])
@@ -115,12 +120,29 @@
         (!el.source.value || item.source === el.source.value);
     });
 
-    el.count.textContent = `顯示 ${filtered.length} / ${state.news.length} 筆新聞`;
+    el.count.textContent = `顯示 ${filtered.length} / ${state.news.length} 則早報條目`;
     el.empty.hidden = filtered.length !== 0;
-    el.news.innerHTML = filtered.map(renderCard).join('');
+    el.brief.innerHTML = sectionOrder.map((section) => renderSection(section, filtered)).join('');
   }
 
-  function renderCard(item) {
+  function renderSection(section, items) {
+    const sectionItems = items.filter((item) => item.section === section);
+
+    if (sectionItems.length === 0) {
+      return '';
+    }
+
+    return `
+      <section class="brief-section" aria-labelledby="${safeId(section)}">
+        <h3 id="${safeId(section)}">${safe(section)}</h3>
+        <div class="brief-list">
+          ${sectionItems.map(renderItem).join('')}
+        </div>
+      </section>
+    `;
+  }
+
+  function renderItem(item) {
     const date = new Intl.DateTimeFormat('zh-TW', {
       month: '2-digit',
       day: '2-digit',
@@ -131,19 +153,18 @@
     const tags = (item.tags || []).map((tag) => `<span class="news-tag">${safe(tag)}</span>`).join('');
 
     return `
-      <article class="card">
+      <article class="brief-item">
         <div class="meta">
           <span class="tag">${safe(item.category)}</span>
           <span>${safe(item.source)}</span>
           <time datetime="${safe(item.publishedAt)}">${date}</time>
         </div>
-        <h3>${safe(item.title)}</h3>
-        <p>${safe(item.summary)}</p>
+        <h4><span>${safe(item.subject)}</span>${safe(item.title)}</h4>
+        <p class="analysis-line"><span class="claim-label">Fact</span>${safe(item.fact)}</p>
+        <p class="analysis-line"><span class="claim-label">Inference</span>${safe(item.inference)}</p>
+        <p class="analysis-line"><span class="claim-label">Hypothesis</span>${safe(item.hypothesis)}</p>
         <div class="news-tags" aria-label="新聞標籤">${tags}</div>
-        <footer>
-          <span class="scope-label">全球 AI 財經</span>
-          <a href="${safeUrl(item.url)}" target="_blank" rel="noopener noreferrer">閱讀原文</a>
-        </footer>
+        <a class="source-link" href="${safeUrl(item.url)}" target="_blank" rel="noopener noreferrer">閱讀來源</a>
       </article>
     `;
   }
@@ -164,13 +185,17 @@
     el.count.textContent = '資料載入失敗';
     el.updated.textContent = '載入失敗';
     el.empty.hidden = true;
-    el.news.innerHTML = '';
+    el.brief.innerHTML = '';
   }
 
   function safe(value) {
     const div = document.createElement('div');
     div.textContent = String(value || '');
     return div.innerHTML;
+  }
+
+  function safeId(value) {
+    return `section-${String(value).replace(/\s+/g, '-').replace(/[^\w\u4e00-\u9fa5-]/g, '')}`;
   }
 
   function safeUrl(value) {

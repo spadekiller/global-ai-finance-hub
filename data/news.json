@@ -1,212 +1,128 @@
 [
   {
-    "id": "gai001",
-    "title": "OpenAI 推進企業級代理工作流，市場聚焦 AI 應用落地速度",
-    "summary": "大型企業開始把生成式 AI 從聊天介面推向跨系統任務協作，資料治理、權限控管與可觀測性成為導入關鍵。",
-    "category": "企業 AI",
+    "id": "brief001",
+    "section": "AI 與科技前沿",
+    "subject": "OpenAI",
+    "title": "OpenAI 強化企業代理與即時多模態能力",
+    "category": "前沿模型",
     "source": "Global AI Brief",
     "publishedAt": "2026-07-11T09:20:00+08:00",
-    "tags": [
-      "OpenAI",
-      "AI代理",
-      "企業導入"
-    ],
+    "fact": "OpenAI 持續推進即時語音、多模態互動與企業代理工作流等產品方向。",
+    "inference": "技術重心正從單次問答轉向能串接工具、資料與業務流程的多模態代理。",
+    "hypothesis": "若企業導入門檻持續下降，AI 代理將成為雲端軟體與知識工作平台的新一輪競爭核心。",
+    "tags": ["OpenAI", "AI代理", "多模態", "企業AI"],
     "url": "https://openai.com/news/"
   },
   {
-    "id": "gai002",
-    "title": "Anthropic 擴大長上下文模型應用，法律與金融文件分析需求升溫",
-    "summary": "長上下文能力使模型能處理更大規模的文件集，企業客戶評估在合規審查、研究摘要與知識管理中的投資回報。",
-    "category": "前沿模型",
+    "id": "brief002",
+    "section": "AI 與科技前沿",
+    "subject": "Apple 與 Google",
+    "title": "AI 終端設備競爭升溫，私有雲端運算成關鍵架構",
+    "category": "AI 終端",
     "source": "Model Watch",
     "publishedAt": "2026-07-11T08:45:00+08:00",
-    "tags": [
-      "Anthropic",
-      "長上下文",
-      "文件分析"
-    ],
-    "url": "https://www.anthropic.com/news"
-  },
-  {
-    "id": "gai003",
-    "title": "Google 強化 Gemini 多模態能力，搜尋、工作區與雲端服務整合加深",
-    "summary": "多模態模型持續整合文字、影像、語音與影片理解，平台型廠商競爭焦點轉向產品滲透率與開發者生態。",
-    "category": "前沿模型",
-    "source": "Model Watch",
-    "publishedAt": "2026-07-10T17:30:00+08:00",
-    "tags": [
-      "Google",
-      "Gemini",
-      "多模態"
-    ],
+    "fact": "Apple、Google 等大型平台公司皆把裝置端 AI、雲端模型與隱私保護架構列為產品升級重點。",
+    "inference": "消費 AI 的差異化不只取決於模型能力，也取決於端雲協同、延遲、隱私與系統整合。",
+    "hypothesis": "若 AI 功能能解決明確日常痛點，智慧手機與個人裝置可能迎來新的換機敘事。",
+    "tags": ["Apple", "Google", "AI終端", "隱私運算"],
     "url": "https://blog.google/innovation-and-ai/technology/ai/"
   },
   {
-    "id": "gai004",
-    "title": "全球雲端業者提高 AI 資本支出，資料中心電力與散熱成瓶頸",
-    "summary": "大型雲端平台持續擴建 GPU 叢集，市場關注電力取得、液冷導入與資料中心選址對供應鏈的影響。",
-    "category": "雲端基礎設施",
-    "source": "Frontier Compute",
+    "id": "brief003",
+    "section": "AI 與科技前沿",
+    "subject": "Meta",
+    "title": "開源模型生態擴張，閉源模型定價壓力升高",
+    "category": "開源 AI",
+    "source": "Model Watch",
+    "publishedAt": "2026-07-10T17:30:00+08:00",
+    "fact": "Meta 與開源社群持續推動可自行部署與客製化的模型生態。",
+    "inference": "開源模型正在強化開發者黏著度，並讓企業在成本、資料主權與供應商議價上有更多選項。",
+    "hypothesis": "若開源模型在代理能力與工具使用上追近閉源模型，商用模型 API 的價格彈性可能受到壓縮。",
+    "tags": ["Meta", "開源模型", "模型定價", "開發者生態"],
+    "url": "https://ai.meta.com/blog/"
+  },
+  {
+    "id": "brief004",
+    "section": "全球財經脈動",
+    "subject": "IMF 與全球成長",
+    "title": "科技價值鏈支撐全球成長預期",
+    "category": "總體經濟",
+    "source": "AI Policy Monitor",
     "publishedAt": "2026-07-10T15:10:00+08:00",
-    "tags": [
-      "雲端",
-      "資料中心",
-      "液冷"
-    ],
-    "url": "https://cloud.google.com/blog/topics/ai-machine-learning"
+    "fact": "主要國際機構持續把科技投資、半導體循環與 AI 資本支出視為全球成長的重要觀察變數。",
+    "inference": "AI 相關出口與企業投資正在部分抵銷高利率、地緣政治與製造業放緩的壓力。",
+    "hypothesis": "若能源價格與金融條件不再惡化，AI 資本支出有機會延長全球經濟軟著陸路徑。",
+    "tags": ["IMF", "全球成長", "AI資本支出", "半導體"],
+    "url": "https://www.imf.org/en/Publications/WEO"
   },
   {
-    "id": "gai005",
-    "title": "AI 晶片供給競爭加劇，先進封裝與高頻寬記憶體仍是關鍵",
-    "summary": "GPU、ASIC 與推論晶片需求同步升溫，供應鏈焦點集中在先進製程、CoWoS、HBM 與測試介面產能。",
-    "category": "AI 晶片",
-    "source": "Frontier Compute",
+    "id": "brief005",
+    "section": "全球財經脈動",
+    "subject": "原油與通膨",
+    "title": "油價波動仍是 AI 資本支出外部變數",
+    "category": "能源與通膨",
+    "source": "Global AI Brief",
     "publishedAt": "2026-07-10T13:40:00+08:00",
-    "tags": [
-      "AI晶片",
-      "CoWoS",
-      "HBM"
-    ],
-    "url": "https://www.nvidia.com/en-us/ai/"
+    "fact": "國際油價仍受地緣政治、供需預期與美元利率走勢影響。",
+    "inference": "能源價格若降溫，將有助於緩解輸入性通膨與資料中心電力成本壓力。",
+    "hypothesis": "若油價維持溫和，市場可能更願意給予 AI 與雲端基礎設施投資較高估值。",
+    "tags": ["原油", "通膨", "資料中心", "利率"],
+    "url": "https://www.eia.gov/petroleum/"
   },
   {
-    "id": "gai006",
-    "title": "歐盟 AI 法案進入落地階段，企業加速盤點高風險系統",
-    "summary": "模型透明度、資料來源、風險分類與人類監督要求逐步明確，跨國企業開始建立 AI 合規治理流程。",
+    "id": "brief006",
+    "section": "全球財經脈動",
+    "subject": "AI 監管",
+    "title": "AI 法規落地，企業治理成本進入財務模型",
     "category": "AI 監管",
     "source": "AI Policy Monitor",
     "publishedAt": "2026-07-10T11:25:00+08:00",
-    "tags": [
-      "歐盟AI法案",
-      "合規",
-      "治理"
-    ],
+    "fact": "歐盟 AI 法案與各國 AI 風險管理框架正逐步要求透明度、風險分類與治理流程。",
+    "inference": "AI 合規不再只是法務議題，而會影響模型採購、資料治理、雲端成本與產品上市速度。",
+    "hypothesis": "具備合規工具鏈與企業安全能力的平台商，可能在大型客戶採購中取得更高勝率。",
+    "tags": ["AI監管", "歐盟AI法案", "合規成本", "企業治理"],
     "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
   },
   {
-    "id": "gai007",
-    "title": "美國討論 AI 出口管制與算力安全，晶片供應鏈地緣風險升高",
-    "summary": "先進 AI 晶片、雲端算力與模型權重管控成政策焦點，企業需要同時評估市場准入與供應鏈韌性。",
-    "category": "AI 監管",
-    "source": "AI Policy Monitor",
+    "id": "brief007",
+    "section": "美股與全球市場焦點",
+    "subject": "AI 晶片",
+    "title": "AI 晶片需求牽動美股科技權重股估值",
+    "category": "AI 晶片",
+    "source": "Frontier Compute",
     "publishedAt": "2026-07-09T18:05:00+08:00",
-    "tags": [
-      "出口管制",
-      "算力安全",
-      "地緣政治"
-    ],
-    "url": "https://www.nist.gov/itl/ai-risk-management-framework"
+    "fact": "GPU、客製化 ASIC、高頻寬記憶體與先進封裝仍是 AI 基礎設施投資的核心瓶頸。",
+    "inference": "市場資金正在把算力供應鏈視為 AI 商業化進度的前瞻指標。",
+    "hypothesis": "若雲端資本支出展望續強，AI 晶片與資料中心供應鏈仍可能維持估值溢價。",
+    "tags": ["AI晶片", "GPU", "HBM", "先進封裝"],
+    "url": "https://www.nvidia.com/en-us/ai/"
   },
   {
-    "id": "gai008",
-    "title": "開源模型社群加快迭代，企業評估私有部署與成本優勢",
-    "summary": "開源權重模型在推論成本、資料主權與客製化上具吸引力，但企業仍需補足安全評測與維運能力。",
-    "category": "開源 AI",
-    "source": "Model Watch",
-    "publishedAt": "2026-07-09T16:20:00+08:00",
-    "tags": [
-      "開源模型",
-      "私有部署",
-      "推論成本"
-    ],
-    "url": "https://ai.meta.com/blog/"
-  },
-  {
-    "id": "gai009",
-    "title": "AI 安全評測升級，紅隊測試與模型行為監控成標準流程",
-    "summary": "企業從單次模型測試轉向持續監控，提示注入、資料外洩與代理工具誤用是近期安全治理重點。",
-    "category": "AI 安全",
-    "source": "AI Policy Monitor",
-    "publishedAt": "2026-07-09T14:15:00+08:00",
-    "tags": [
-      "AI安全",
-      "紅隊測試",
-      "提示注入"
-    ],
-    "url": "https://openai.com/safety/"
-  },
-  {
-    "id": "gai010",
-    "title": "醫療 AI 審核標準趨嚴，臨床驗證與責任歸屬成商業化門檻",
-    "summary": "影像判讀、病歷摘要與臨床決策支援應用增加，監管機構要求更清楚的效能證據與風險揭露。",
-    "category": "企業 AI",
-    "source": "Enterprise AI Weekly",
-    "publishedAt": "2026-07-09T10:00:00+08:00",
-    "tags": [
-      "醫療AI",
-      "臨床驗證",
-      "風險揭露"
-    ],
-    "url": "https://cloud.google.com/solutions/healthcare-life-sciences"
-  },
-  {
-    "id": "gai011",
-    "title": "製造業導入視覺 AI 與機器人協作，邊緣推論需求提高",
-    "summary": "工廠端應用從瑕疵檢測延伸到產線調度與自主搬運，低延遲推論與工業電腦整合受到重視。",
-    "category": "機器人",
-    "source": "Enterprise AI Weekly",
-    "publishedAt": "2026-07-08T17:50:00+08:00",
-    "tags": [
-      "機器人",
-      "邊緣AI",
-      "製造業"
-    ],
-    "url": "https://mistral.ai/news/"
-  },
-  {
-    "id": "gai012",
-    "title": "金融業擴大 AI 助理試點，資料權限與模型稽核成導入核心",
-    "summary": "銀行與資產管理公司把 AI 用於研究摘要、客服與內部知識查詢，合規團隊要求完整的紀錄留存與答案追溯。",
-    "category": "企業 AI",
-    "source": "Enterprise AI Weekly",
-    "publishedAt": "2026-07-08T13:35:00+08:00",
-    "tags": [
-      "金融AI",
-      "模型稽核",
-      "知識管理"
-    ],
-    "url": "https://www.anthropic.com/customers"
-  },
-  {
-    "id": "gai013",
-    "title": "推論成本成 AI 平台競爭焦點，模型壓縮與專用晶片受關注",
-    "summary": "隨著企業工作負載增加，推論效率比訓練參數規模更貼近商業化成本，軟硬體共同最佳化成重要戰場。",
+    "id": "brief008",
+    "section": "美股與全球市場焦點",
+    "subject": "雲端巨頭",
+    "title": "雲端 AI 支出成大型科技公司財報主線",
     "category": "雲端基礎設施",
     "source": "Frontier Compute",
-    "publishedAt": "2026-07-08T11:40:00+08:00",
-    "tags": [
-      "推論成本",
-      "模型壓縮",
-      "ASIC"
-    ],
+    "publishedAt": "2026-07-09T16:20:00+08:00",
+    "fact": "主要雲端平台持續投資 AI 伺服器、網路、儲存、資料中心電力與散熱能力。",
+    "inference": "投資人會更重視 AI 資本支出能否轉化為雲端收入、企業合約與推論毛利。",
+    "hypothesis": "若雲端 AI 收入成長跟上折舊壓力，大型科技股仍可能支撐指數風險偏好。",
+    "tags": ["雲端", "資料中心", "資本支出", "推論收入"],
     "url": "https://cloud.google.com/blog/topics/ai-machine-learning"
   },
   {
-    "id": "gai014",
-    "title": "內容平台強化 AI 生成標示，深偽影像治理壓力升高",
-    "summary": "選舉、廣告與創作者內容的真偽辨識受到重視，平台導入浮水印、來源標記與審核流程。",
+    "id": "brief009",
+    "section": "美股與全球市場焦點",
+    "subject": "AI 安全與企業採用",
+    "title": "AI 安全能力成企業採購與平台估值變數",
     "category": "AI 安全",
-    "source": "Global AI Brief",
-    "publishedAt": "2026-07-07T16:45:00+08:00",
-    "tags": [
-      "深偽",
-      "內容治理",
-      "浮水印"
-    ],
-    "url": "https://ai.meta.com/blog/"
-  },
-  {
-    "id": "gai015",
-    "title": "主權 AI 投資升溫，各國建置本地語言模型與公共算力平台",
-    "summary": "政府與研究機構投入本地語料、公共雲算力與模型評測，希望在資料主權、產業升級與公共服務中取得主導權。",
-    "category": "AI 監管",
-    "source": "Global AI Brief",
-    "publishedAt": "2026-07-07T14:30:00+08:00",
-    "tags": [
-      "主權AI",
-      "公共算力",
-      "本地語言模型"
-    ],
-    "url": "https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence"
+    "source": "Enterprise AI Weekly",
+    "publishedAt": "2026-07-09T14:15:00+08:00",
+    "fact": "企業導入 AI 代理時，越來越重視提示注入、資料外洩、權限控管與模型行為監控。",
+    "inference": "安全與治理能力將影響 AI 平台從試點走向大規模部署的速度。",
+    "hypothesis": "能同時提供模型、工具鏈、稽核與安全控制的平台，可能享有更高企業客戶留存率。",
+    "tags": ["AI安全", "企業AI", "權限控管", "模型稽核"],
+    "url": "https://openai.com/safety/"
   }
 ]

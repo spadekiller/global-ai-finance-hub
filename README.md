@@ -1,12 +1,13 @@
-# Global AI Finance Hub
+# 我的 AI 財經早報
 
-Global AI Finance Hub 是一個使用純 HTML、CSS、JavaScript 製作的全球 AI 財經新聞儀表板測試版。內容主軸是全球 AI 產業、模型平台、雲端算力、晶片、監管、企業導入、開源與安全治理。
+Global AI Finance Hub 目前是一個純 HTML、CSS、JavaScript 製作的全球 AI 財經早報測試版。頁面以「早報」方式呈現，而不是單純新聞卡片列表：每則條目都拆成 `[Fact]`、`[Inference]`、`[Hypothesis]`，方便快速閱讀事件、判斷與可觀察情境。
 
-> 目前所有新聞內容皆為測試資料，非投資建議。
+> 目前所有內容皆為測試資料，非投資建議。
 
 ## 功能
 
-- 顯示全球 AI 財經最新新聞與最後更新時間
+- 顯示「AI 與科技前沿」、「全球財經脈動」、「美股與全球市場焦點」三段早報
+- 每則早報包含 Fact、Inference、Hypothesis
 - 支援搜尋、分類與來源篩選
 - 支援深色與淺色模式
 - 支援桌面版與手機版
@@ -29,4 +30,4 @@ node -e "const h=require('http'),f=require('fs'),p=require('path'),r=process.cwd
 node --test tests/site.test.mjs
 ```
 
-測試會驗證 HTML/CSS/JavaScript 基本結構、JSON 格式、全球 AI 財經新聞分類、新聞欄位，以及預設新聞渲染行為。
+測試會驗證 HTML/CSS/JavaScript 基本結構、JSON 格式、早報章節、Fact/Inference/Hypothesis 欄位，以及預設渲染行為。

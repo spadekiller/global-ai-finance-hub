@@ -3,18 +3,18 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Global AI Finance Hub 全球 AI 財經新聞儀表板測試版">
-  <title>Global AI Finance Hub</title>
+  <meta name="description" content="我的 AI 財經早報 - 全球 AI 財經新聞儀表板測試版">
+  <title>我的 AI 財經早報</title>
   <link rel="stylesheet" href="./assets/css/style.css">
   <script src="./assets/js/app.js" defer></script>
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="./" aria-label="Global AI Finance Hub 首頁">
+    <a class="brand" href="./" aria-label="我的 AI 財經早報首頁">
       <b>AI</b>
       <span>
-        <strong>Global AI Finance Hub</strong>
-        <small>全球 AI 財經新聞</small>
+        <strong>我的 AI 財經早報</strong>
+        <small>GLOBAL AI FINANCE BRIEF</small>
       </span>
     </a>
     <button id="theme-toggle" class="theme-toggle" type="button" aria-label="切換深色或淺色模式">
@@ -26,9 +26,9 @@
   <main class="shell">
     <section class="hero" aria-labelledby="page-title">
       <div>
-        <p class="eyebrow">GLOBAL AI FINANCE INTELLIGENCE</p>
-        <h1 id="page-title">全球 AI 財經新聞</h1>
-        <p>追蹤全球 AI 模型公司、晶片與算力投資、雲端基礎設施、監管政策、企業導入、開源生態與 AI 安全治理的財經動態。</p>
+        <p class="eyebrow">CUSTOM GEM STYLE BRIEFING</p>
+        <h1 id="page-title">我的 AI 財經早報</h1>
+        <p>用早報格式整理全球 AI 與財經重點：先列事實，再拆解推論，最後提出可觀察的情境假設。</p>
       </div>
       <aside class="status" aria-label="資料狀態">
         <i aria-hidden="true"></i>
@@ -39,19 +39,19 @@
       </aside>
     </section>
 
-    <section class="panel news-panel" aria-labelledby="news-title">
+    <section class="panel brief-panel" aria-labelledby="brief-title">
       <div class="section-head">
         <div>
-          <p class="eyebrow">LATEST NEWS</p>
-          <h2 id="news-title">最新新聞</h2>
+          <p class="eyebrow">MORNING BRIEF</p>
+          <h2 id="brief-title">早報摘要</h2>
         </div>
         <p>最後更新：<time id="last-updated">載入中</time></p>
       </div>
 
-      <div class="filters" aria-label="新聞篩選">
+      <div class="filters" aria-label="早報篩選">
         <label class="search">
           <span aria-hidden="true">⌕</span>
-          <input id="search-input" type="search" placeholder="搜尋模型、公司、政策、晶片、算力或標籤" aria-label="搜尋新聞">
+          <input id="search-input" type="search" placeholder="搜尋公司、事件、政策、晶片、模型或標籤" aria-label="搜尋早報">
         </label>
         <select id="category-filter" aria-label="依分類篩選">
           <option value="">全部分類</option>
@@ -64,16 +64,16 @@
 
       <p id="result-count" class="result-count">載入中</p>
       <div id="error-message" class="error" role="alert" hidden></div>
-      <div id="news-grid" class="news-grid" aria-live="polite" aria-busy="true"></div>
+      <div id="brief-container" class="brief-container" aria-live="polite" aria-busy="true"></div>
       <div id="empty-state" class="empty" hidden>
-        <strong>沒有符合條件的新聞</strong>
+        <strong>沒有符合條件的早報條目</strong>
         <p>請調整搜尋字詞或篩選條件。</p>
       </div>
     </section>
   </main>
 
   <footer>
-    <p>本網站目前使用全球 AI 財經測試新聞資料，非投資建議。</p>
+    <p>本網站目前使用全球 AI 財經測試資料，非投資建議。</p>
     <p>© <span id="current-year"></span> Global AI Finance Hub</p>
   </footer>
 </body>
