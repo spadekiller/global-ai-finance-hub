@@ -3,39 +3,91 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="全球 AI 財經情報站測試版">
-  <title>全球 AI 財經情報站</title>
+  <meta name="description" content="Global AI Finance Hub 測試版財經新聞儀表板">
+  <title>Global AI Finance Hub</title>
   <link rel="stylesheet" href="./assets/css/style.css">
   <script src="./assets/js/app.js" defer></script>
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="./"><b>AI</b><span><strong>全球 AI 財經情報站</strong><small>GLOBAL AI FINANCE HUB</small></span></a>
-    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="切換深淺色模式"><span>◐</span><span id="theme-label">淺色模式</span></button>
+    <a class="brand" href="./" aria-label="Global AI Finance Hub 首頁">
+      <b>AI</b>
+      <span>
+        <strong>Global AI Finance Hub</strong>
+        <small>全球 AI 財經資訊中樞</small>
+      </span>
+    </a>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="切換深色或淺色模式">
+      <span aria-hidden="true">◐</span>
+      <span id="theme-label">深色模式</span>
+    </button>
   </header>
+
   <main class="shell">
-    <section class="hero">
-      <div><p class="eyebrow">AI MARKET INTELLIGENCE</p><h1>掌握 AI 產業與台股供應鏈脈動</h1><p>聚焦半導體、伺服器、散熱與測試介面，快速整理市場關鍵訊號。</p></div>
-      <aside class="status"><i></i><div><small>資料狀態</small><strong>目前顯示測試資料</strong></div></aside>
+    <section class="hero" aria-labelledby="page-title">
+      <div>
+        <p class="eyebrow">AI MARKET INTELLIGENCE</p>
+        <h1 id="page-title">AI 產業與台股供應鏈新聞儀表板</h1>
+        <p>聚焦半導體、伺服器、散熱、機殼與測試介面等 AI 供應鏈動態，提供搜尋、分類、來源與自選股篩選。</p>
+      </div>
+      <aside class="status" aria-label="資料狀態">
+        <i aria-hidden="true"></i>
+        <div>
+          <small>資料狀態</small>
+          <strong>目前為測試資料</strong>
+        </div>
+      </aside>
     </section>
-    <section class="panel">
-      <div class="section-head"><div><p class="eyebrow">WATCHLIST</p><h2>自選股</h2></div><p>最後更新：<time id="last-updated">載入中</time></p></div>
+
+    <section class="panel watchlist-panel" aria-labelledby="watchlist-title">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">WATCHLIST</p>
+          <h2 id="watchlist-title">自選股</h2>
+        </div>
+        <p>最後更新：<time id="last-updated">載入中</time></p>
+      </div>
       <div id="ticker-grid" class="ticker-grid"></div>
     </section>
-    <section class="panel news-panel">
-      <div class="section-head"><div><p class="eyebrow">LATEST SIGNALS</p><h2>市場情報</h2></div><p id="result-count">載入中</p></div>
-      <div class="filters">
-        <label class="search"><span>⌕</span><input id="search-input" type="search" placeholder="搜尋標題、摘要或股票代號…" aria-label="搜尋新聞"></label>
-        <select id="category-filter" aria-label="分類"><option value="">所有分類</option></select>
-        <select id="source-filter" aria-label="來源"><option value="">所有來源</option></select>
-        <select id="watchlist-filter" aria-label="自選股"><option value="">所有自選股</option></select>
+
+    <section class="panel news-panel" aria-labelledby="news-title">
+      <div class="section-head">
+        <div>
+          <p class="eyebrow">LATEST NEWS</p>
+          <h2 id="news-title">最新新聞</h2>
+        </div>
+        <p id="result-count">載入中</p>
+      </div>
+
+      <div class="filters" aria-label="新聞篩選">
+        <label class="search">
+          <span aria-hidden="true">⌕</span>
+          <input id="search-input" type="search" placeholder="搜尋標題、摘要、來源或標籤" aria-label="搜尋新聞">
+        </label>
+        <select id="category-filter" aria-label="依分類篩選">
+          <option value="">全部分類</option>
+        </select>
+        <select id="source-filter" aria-label="依來源篩選">
+          <option value="">全部來源</option>
+        </select>
+        <select id="watchlist-filter" aria-label="依自選股篩選">
+          <option value="">全部自選股</option>
+        </select>
         <button id="reset-filters" type="button">重設</button>
       </div>
+
       <div id="error-message" class="error" role="alert" hidden></div>
       <div id="news-grid" class="news-grid" aria-live="polite" aria-busy="true"></div>
-      <div id="empty-state" class="empty" hidden><strong>找不到符合條件的新聞</strong><p>請調整關鍵字或篩選條件。</p></div>
+      <div id="empty-state" class="empty" hidden>
+        <strong>沒有符合條件的新聞</strong>
+        <p>請調整搜尋字詞或篩選條件。</p>
+      </div>
     </section>
   </main>
-  <footer><p>本網站內容為測試資料，不構成投資建議。</p><p>© <span id="current-year"></span> Global AI Finance Hub</p></footer>
+
+  <footer>
+    <p>本網站目前使用測試資料，非投資建議。</p>
+    <p>© <span id="current-year"></span> Global AI Finance Hub</p>
+  </footer>
 </body>
 </html>

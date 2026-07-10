@@ -1,19 +1,32 @@
-# 全球 AI 財經情報站
+# Global AI Finance Hub
 
-以純 HTML、CSS、JavaScript 製作的響應式財經新聞儀表板第一版，支援深色／淺色模式、關鍵字搜尋，以及分類、來源與自選股篩選。
+Global AI Finance Hub 是一個使用純 HTML、CSS、JavaScript 製作的測試版財經新聞儀表板，聚焦 AI 供應鏈與台股自選股新聞。
 
-> 目前所有內容均為測試資料，不構成投資建議。
+> 目前所有新聞與自選股內容皆為測試資料，非投資建議。
+
+## 功能
+
+- 顯示最新新聞與最後更新時間
+- 支援搜尋、分類、來源與自選股篩選
+- 支援深色與淺色模式
+- 支援桌面版與手機版
+- JSON 載入失敗時顯示明確錯誤訊息
+- 相對路徑相容 GitHub Pages
 
 ## 本地預覽
 
-由於頁面使用 fetch 載入 JSON，請在專案根目錄啟動靜態伺服器：
+由於頁面會透過 `fetch()` 載入 `data/news.json` 與 `data/watchlist.json`，請使用本地伺服器預覽，不要直接開啟 HTML 檔案。
 
-    python -m http.server 8000
+```bash
+node -e "const h=require('http'),f=require('fs'),p=require('path'),r=process.cwd();h.createServer((q,s)=>{const u=new URL(q.url,'http://local').pathname.slice(1)||'index.html';const x=p.join(r,u);f.readFile(x,(e,b)=>{if(e){s.writeHead(404);s.end('Not Found');return}s.end(b)})}).listen(8000)"
+```
 
-再開啟 http://localhost:8000/ 。
+也可以使用任何靜態檔案伺服器，並從專案根目錄開啟 `index.html`。
 
-## 驗證
+## 測試
 
-    node tests/site.test.mjs
+```bash
+node --test tests/site.test.mjs
+```
 
-所有資源皆採相對路徑，可直接部署至 GitHub Pages 的 repository 子路徑。
+測試會驗證 HTML/CSS/JavaScript 基本結構、JSON 格式、新聞欄位、自選股資料，以及預設新聞渲染行為。

@@ -1,7 +1,7 @@
 [
-  { "symbol": "2330", "name": "台積電", "sector": "半導體製造" },
-  { "symbol": "2382", "name": "廣達", "sector": "AI 伺服器" },
-  { "symbol": "3017", "name": "奇鋐", "sector": "散熱解決方案" },
-  { "symbol": "3693", "name": "營邦", "sector": "伺服器機殼" },
+  { "symbol": "2330", "name": "台積電", "sector": "半導體晶圓代工" },
+  { "symbol": "2382", "name": "廣達", "sector": "AI 伺服器與雲端硬體" },
+  { "symbol": "3017", "name": "奇鋐", "sector": "散熱模組與熱管理" },
+  { "symbol": "3693", "name": "營邦", "sector": "工業電腦與伺服器機殼" },
   { "symbol": "6683", "name": "雍智科技", "sector": "半導體測試介面" }
 ]
