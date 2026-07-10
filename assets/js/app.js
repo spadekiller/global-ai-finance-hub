@@ -162,7 +162,9 @@
     }).format(new Date(item.publishedAt));
 
     const tags = (item.tags || []).map((tag) => `<span class="news-tag">${safe(tag)}</span>`).join('');
-    const symbols = (item.symbols || []).map((symbol) => `<span>${safe(symbol)}</span>`).join('');
+    const symbols = (item.symbols || []).length
+      ? item.symbols.map((symbol) => `<span>${safe(symbol)}</span>`).join('')
+      : '<span>全球 AI</span>';
 
     return `
       <article class="card">

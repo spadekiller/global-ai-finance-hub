@@ -17,6 +17,7 @@ const watchlist = JSON.parse(watchlistText);
 
 assert.ok(html.includes('./assets/css/style.css'));
 assert.ok(html.includes('./assets/js/app.js'));
+assert.ok(html.includes('全球 AI 新聞儀表板'));
 assert.ok(html.includes('目前為測試資料'));
 assert.ok(html.includes('最新新聞'));
 assert.ok(html.indexOf('id="ticker-grid"') < html.indexOf('id="news-grid"'));
@@ -55,6 +56,16 @@ for (const item of news) {
   assert.ok(!Number.isNaN(Date.parse(item.publishedAt)), `${item.id} publishedAt must be parseable`);
 }
 
+const categories = new Set(news.map((item) => item.category));
+for (const expectedCategory of ['前沿模型', 'AI 晶片', '雲端基礎設施', 'AI 監管', '企業 AI', '開源 AI', 'AI 安全']) {
+  assert.ok(categories.has(expectedCategory), `missing global AI category: ${expectedCategory}`);
+}
+
+const globalSources = new Set(['Global AI Brief', 'Model Watch', 'AI Policy Monitor', 'Enterprise AI Weekly', 'Frontier Compute']);
+assert.ok(news.filter((item) => globalSources.has(item.source)).length >= 10, 'most news should use global AI sources');
+assert.ok(news.filter((item) => item.symbols.length === 0).length >= 8, 'global AI news should not all be tied to Taiwan watchlist symbols');
+assert.ok(news.some((item) => item.title.includes('OpenAI') || item.title.includes('Anthropic') || item.title.includes('Google')), 'news should include global AI labs or platforms');
+
 assert.deepEqual(watchlist.map(({ symbol, name }) => ({ symbol, name })), [
   { symbol: '2330', name: '台積電' },
   { symbol: '2382', name: '廣達' },
@@ -63,9 +74,4 @@ assert.deepEqual(watchlist.map(({ symbol, name }) => ({ symbol, name })), [
   { symbol: '6683', name: '雍智科技' }
 ]);
 
-const watchlistSymbols = new Set(watchlist.map((item) => item.symbol));
-for (const item of news) {
-  assert.ok(item.symbols.some((symbol) => watchlistSymbols.has(symbol)), `${item.id} must map to watchlist`);
-}
-
-console.log(`通過：${news.length} 筆新聞、${watchlist.length} 檔自選股，HTML/CSS/JS/JSON 檢查完成。`);
+console.log(`通過：${news.length} 筆全球 AI 測試新聞、${watchlist.length} 檔自選股，HTML/CSS/JS/JSON 檢查完成。`);
