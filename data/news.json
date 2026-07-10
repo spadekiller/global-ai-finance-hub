@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T21:04:48.711Z",
+  "generatedAt": "2026-07-10T22:51:19.087Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -24,6 +24,23 @@
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Meta",
+      "title": "Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
+      "category": "前沿模型",
+      "source": "iThome",
+      "publishedAt": "2026-07-10T06:01:23.000Z",
+      "fact": "iThome 報導：Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API &nbsp;&nbsp; iThome。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mSFBfQ1JIS01GU3RsNmVVY3UwWmZ0cGVJaWVWc1BnMzlvQWlnY0dmcEppTjl0Q2VkT1FxSEwzT1lKWWs4N2FzZHVRaFYzZw?oc=5"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
       "title": "祭破壞行情價！Meta 搶進 AI 代理寫程式市場 首推付費版 價格僅對手25%",
       "category": "AI 與科技前沿",
       "source": "經濟日報",
@@ -39,41 +56,7 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZm9DZWNtenJiVjVUYUZiRDAtSUo2cjlWcmh4TjBISUVyekZERWQxR2NzYzFWMXNwV3YxbEJUU01aOVJDRkdtQ3ZNdTNENjdqUHF3UjZKQ1ozd9IBX0FVX3lxTE9oTDRmRkhaUTVzMVc4QnpDOGhfWGtxWmgyX0lQbjNPOVNaZHE3aE1ycHJLRFo5SnJmNnRTdkxyTHBXZUVrSU5NNk4tODBQZ21OYjE2eVhDYjJhNlVvUVRz?oc=5"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
-      "category": "前沿模型",
-      "source": "iThome",
-      "publishedAt": "2026-07-10T06:01:23.000Z",
-      "fact": "iThome 報導：Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API &nbsp;&nbsp; iThome。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mSFBfQ1JIS01GU3RsNmVVY3UwWmZ0cGVJaWVWc1BnMzlvQWlnY0dmcEppTjl0Q2VkT1FxSEwzT1lKWWs4N2FzZHVRaFYzZw?oc=5"
-    },
-    {
       "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "蘋果又看上 AI 新創，讓大型 AI 模型直接在 iPh",
-      "title": "蘋果又看上 AI 新創，讓大型 AI 模型直接在 iPhone 運行 | 科技新報",
-      "category": "AI 與科技前沿",
-      "source": "LINE TODAY",
-      "publishedAt": "2026-07-10T11:50:25.000Z",
-      "fact": "LINE TODAY 報導：蘋果又看上 AI 新創，讓大型 AI 模型直接在 iPhone 運行 | 科技新報",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果又看上 AI 新創，讓大型 AI 模型直接在 iPhone 運行 | 科技新報 &nbsp;&nbsp; LINE TODAY。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yR09rTjV2a1p2SjRRM3JBcTBEZ2JxTDBaN2daVi1lVFIzSllIQjc1MzlocVpMajFBUXpzbjVTNGs4V3NWT0xmREpwQjdRZFdGM1VtOUN3?oc=5"
-    },
-    {
-      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "科技巨擘紛紛自研晶片！微軟、Google、Meta 全入局，圍攻輝達 AI 霸權",
@@ -90,6 +73,23 @@
         "AI"
       ],
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWNKSjVZTWxkLXlJbzNWaE91Rmg4WUduV2QxSWVNaDdzLUhTRlF0WXdOLXlfSlFzWF8wZTJRdlZVWDVOZkxBTkIwa3N5QW5YbHh4RHVGekx1WlhieTJDQlM2OTNjZGcwbHB5ZmxTQjNKbUhqaEwtMl9LUlNXSjA4QzZQM2Zwd3VHMDJicw?oc=5"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Gemini必裝擴充功能Voyager！解鎖多層資料夾一",
+      "title": "Gemini必裝擴充功能Voyager！解鎖多層資料夾一鍵下載無水印AI圖",
+      "category": "前沿模型",
+      "source": "香港01",
+      "publishedAt": "2026-07-10T16:01:44.000Z",
+      "fact": "香港01 報導：Gemini必裝擴充功能Voyager！解鎖多層資料夾一鍵下載無水印AI圖",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini必裝擴充功能Voyager！解鎖多層資料夾一鍵下載無水印AI圖 &nbsp;&nbsp; 香港01。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOQTBmTFFOM2sydWlIQmVpc0kxRHBXdzEzb1o2dTlQN1p5U0JFLWwwNVIybWJSNE12TnJ5SGo3bVpXa3VNZlZXU2dhOExMQVlnN2hQSjRoMWNsaUtadkRsdTBlVXZhRV9wek5oNFFzQ2ZyOTJ5T2pxbHE3V1FZUXNCcEoyV2NPbmtPYVpSbkxvSXdzLXRnVXZ0eVF0RGVaUGRpU2NOeTUwbVN6NTlhU0ZmOEd3VllKSzU4TVB2NnlzNklXT0ppM2FMUlRsVXR5eEFfZmxpNElxZUdxNDhpTUtTd2FyaXlHdi1UbkNibHFQcWQ2SlhHZzVIVk5EUkhtMHlWbEpzWl84U1c1QzJBYVJpNGw1Z2YyLWMxLURscTRHWVpuV2VTd3J6N1prTFRaZHRGOUwyMm9sSlJaZDRER2JyRTlaZ05XWjA3UUx2TTF6ZHVxOHlkcVJndnFQWlV4MjA1aGl6dko0MmVzNE9VcnhPMVhLTlhQNXhuSWFHbXh0bmQzaXVGSDd3?oc=5"
     },
     {
       "id": "全球財經脈動-1",
@@ -145,22 +145,6 @@
     },
     {
       "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "數據中心泵市場到2032年將達到$73.5億——Mark",
-      "title": "數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-10T10:59:00.000Z",
-      "fact": "Moomoo 報導：數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR21PUHQ5WExDZklrcmZSRV9XRnZxNkswbV9MYl9rM0tGMVU3MnlsLVVLcTBqNmh0WlI2YTIySmtYUV9aZkdQTGQxVFV0VTItbnlQSGxsSlM3VUN4VVFCYWFYWWlRaWtXbFdiVzhoclJNNmhveTVMRXdIVGdwUDZLRVU3UDRxei1zVzNCcXpNX1lmeVJYZFZzc1VGcHBGcU0?oc=5"
-    },
-    {
-      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "Morgan Stanley warns that se",
       "title": "Morgan Stanley warns that semiconductor sector valuations have overheated; tech giants' in-house chip development could erode the industry's pricing power.",
@@ -232,36 +216,39 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Nvidia",
-      "title": "Cheaper Than Micron, Closer to Nvidia: The Massive New AI Stock Debut -- Barrons.com",
+      "subject": "Meta",
+      "title": "Why Meta's In-House AI Chip Plans Sent Chip-Equipment Stocks Soaring -- Barrons.com",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-07-09T17:33:54.000Z",
-      "fact": "富途牛牛 報導：Cheaper Than Micron, Closer to Nvidia: The Massive New AI Stock Debut -- Barrons.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Cheaper Than Micron, Closer to Nvidia: The Massive New AI Stock Debut -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-07-09T18:51:19.000Z",
+      "fact": "富途牛牛 報導：Why Meta's In-House AI Chip Plans Sent Chip-Equipment Stocks Soaring -- Barrons.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Meta's In-House AI Chip Plans Sent Chip-Equipment Stocks Soaring -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
-        "AI"
+        "Meta",
+        "AI",
+        "stocks"
       ],
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSE95UTd0ZnNELUhmMXZ0ckU1SmpGNzZJbjVsd1lpMmE4TnJKZ1A5ZFhJTkQzNC1UUGt3VlJpS0p6WnJhTWxPdU1iQ1NWVk81MDZ4X3VoaklKRHJlWGhqWG9GM29rVEIxMmcyMloxU0ZWaWRZQzRBRWtNbFZsTDN4TUxsNGdfRVVVdWlyNVdjdXBZTmhiQi1LaDdqUTQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakRUVGpKR0V0VnE5OEQtM1d6Vk5kT3pOWENfVjU1SXVGa29qNzU4S3g4VW84bUc1bmprRm5pRGVNQklqTTR0M2RRMml6Ym5zWnpvWEdHUFhfQ1l1TUdEVWZBSks2eWpFSWNJSEtsWWhpakpNb1ljdEM4bDd4azVERUtfaHdMa3ZUdEM5bg?oc=5"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "達美航空Q2財報亮點",
-      "title": "達美航空Q2財報亮點：煉油廠助力燃油成本大降，高端需求撐起超預期獲利",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-07-10T13:29:21.000Z",
-      "fact": "TradingKey 報導：達美航空Q2財報亮點：煉油廠助力燃油成本大降，高端需求撐起超預期獲利",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；達美航空Q2財報亮點：煉油廠助力燃油成本大降，高端需求撐起超預期獲利 &nbsp;&nbsp; TradingKey。",
+      "subject": "【21",
+      "title": "【21:30 即時新聞】Lattice Semiconductor(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低",
+      "category": "AI 晶片",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-07-09T13:31:32.000Z",
+      "fact": "CMoney投資網誌 報導：【21:30 即時新聞】Lattice Semiconductor(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【21:30 即時新聞】Lattice Semiconductor(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低 &nbsp;&nbsp; CMoney投資網誌。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "AI",
+        "semiconductor"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUxRUEtLREpaTHNVaVNsSTFwcUU2YXhITFdYSjJwbGdCRzlOOVNCYTk4VTMyYzZxcEd4ZUhxUndaZ1NPY0RZT0w5N09DOWFTUFB4em9CelhBTk9OSlRPUTN5SDNOQUdjb2IzNzVkaTVSNS1ITC16SjN2ZEY5dkNNaDcyLWtxd2dJbS1uMmpob1MzYzc5YnBmMDBLNDV1SDR3bnEzMTBocHoxSnF3UHlWa2w3QQ?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3EyUGFFUWRfREVsVnVRQWljdFU3T0hpNWJKdlpsOEEzTlByZVExQkFwM3ZabnFOalhRQ2JhNFZiQ3BZSVE5N0RZSGNDV1lEemZNdFZlaUFkTGg3UUhzWUh0R1k5SndDNUVqUXhPSFBNYnRweW9uSlVURjdSRHNoWXpWcjBIanBzNzRDS0d3?oc=5"
     }
   ]
 }
