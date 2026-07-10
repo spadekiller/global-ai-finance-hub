@@ -1,128 +1,267 @@
-[
-  {
-    "id": "brief001",
-    "section": "AI 與科技前沿",
-    "subject": "OpenAI",
-    "title": "OpenAI 強化企業代理與即時多模態能力",
-    "category": "前沿模型",
-    "source": "Global AI Brief",
-    "publishedAt": "2026-07-11T09:20:00+08:00",
-    "fact": "OpenAI 持續推進即時語音、多模態互動與企業代理工作流等產品方向。",
-    "inference": "技術重心正從單次問答轉向能串接工具、資料與業務流程的多模態代理。",
-    "hypothesis": "若企業導入門檻持續下降，AI 代理將成為雲端軟體與知識工作平台的新一輪競爭核心。",
-    "tags": ["OpenAI", "AI代理", "多模態", "企業AI"],
-    "url": "https://openai.com/news/"
-  },
-  {
-    "id": "brief002",
-    "section": "AI 與科技前沿",
-    "subject": "Apple 與 Google",
-    "title": "AI 終端設備競爭升溫，私有雲端運算成關鍵架構",
-    "category": "AI 終端",
-    "source": "Model Watch",
-    "publishedAt": "2026-07-11T08:45:00+08:00",
-    "fact": "Apple、Google 等大型平台公司皆把裝置端 AI、雲端模型與隱私保護架構列為產品升級重點。",
-    "inference": "消費 AI 的差異化不只取決於模型能力，也取決於端雲協同、延遲、隱私與系統整合。",
-    "hypothesis": "若 AI 功能能解決明確日常痛點，智慧手機與個人裝置可能迎來新的換機敘事。",
-    "tags": ["Apple", "Google", "AI終端", "隱私運算"],
-    "url": "https://blog.google/innovation-and-ai/technology/ai/"
-  },
-  {
-    "id": "brief003",
-    "section": "AI 與科技前沿",
-    "subject": "Meta",
-    "title": "開源模型生態擴張，閉源模型定價壓力升高",
-    "category": "開源 AI",
-    "source": "Model Watch",
-    "publishedAt": "2026-07-10T17:30:00+08:00",
-    "fact": "Meta 與開源社群持續推動可自行部署與客製化的模型生態。",
-    "inference": "開源模型正在強化開發者黏著度，並讓企業在成本、資料主權與供應商議價上有更多選項。",
-    "hypothesis": "若開源模型在代理能力與工具使用上追近閉源模型，商用模型 API 的價格彈性可能受到壓縮。",
-    "tags": ["Meta", "開源模型", "模型定價", "開發者生態"],
-    "url": "https://ai.meta.com/blog/"
-  },
-  {
-    "id": "brief004",
-    "section": "全球財經脈動",
-    "subject": "IMF 與全球成長",
-    "title": "科技價值鏈支撐全球成長預期",
-    "category": "總體經濟",
-    "source": "AI Policy Monitor",
-    "publishedAt": "2026-07-10T15:10:00+08:00",
-    "fact": "主要國際機構持續把科技投資、半導體循環與 AI 資本支出視為全球成長的重要觀察變數。",
-    "inference": "AI 相關出口與企業投資正在部分抵銷高利率、地緣政治與製造業放緩的壓力。",
-    "hypothesis": "若能源價格與金融條件不再惡化，AI 資本支出有機會延長全球經濟軟著陸路徑。",
-    "tags": ["IMF", "全球成長", "AI資本支出", "半導體"],
-    "url": "https://www.imf.org/en/Publications/WEO"
-  },
-  {
-    "id": "brief005",
-    "section": "全球財經脈動",
-    "subject": "原油與通膨",
-    "title": "油價波動仍是 AI 資本支出外部變數",
-    "category": "能源與通膨",
-    "source": "Global AI Brief",
-    "publishedAt": "2026-07-10T13:40:00+08:00",
-    "fact": "國際油價仍受地緣政治、供需預期與美元利率走勢影響。",
-    "inference": "能源價格若降溫，將有助於緩解輸入性通膨與資料中心電力成本壓力。",
-    "hypothesis": "若油價維持溫和，市場可能更願意給予 AI 與雲端基礎設施投資較高估值。",
-    "tags": ["原油", "通膨", "資料中心", "利率"],
-    "url": "https://www.eia.gov/petroleum/"
-  },
-  {
-    "id": "brief006",
-    "section": "全球財經脈動",
-    "subject": "AI 監管",
-    "title": "AI 法規落地，企業治理成本進入財務模型",
-    "category": "AI 監管",
-    "source": "AI Policy Monitor",
-    "publishedAt": "2026-07-10T11:25:00+08:00",
-    "fact": "歐盟 AI 法案與各國 AI 風險管理框架正逐步要求透明度、風險分類與治理流程。",
-    "inference": "AI 合規不再只是法務議題，而會影響模型採購、資料治理、雲端成本與產品上市速度。",
-    "hypothesis": "具備合規工具鏈與企業安全能力的平台商，可能在大型客戶採購中取得更高勝率。",
-    "tags": ["AI監管", "歐盟AI法案", "合規成本", "企業治理"],
-    "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
-  },
-  {
-    "id": "brief007",
-    "section": "美股與全球市場焦點",
-    "subject": "AI 晶片",
-    "title": "AI 晶片需求牽動美股科技權重股估值",
-    "category": "AI 晶片",
-    "source": "Frontier Compute",
-    "publishedAt": "2026-07-09T18:05:00+08:00",
-    "fact": "GPU、客製化 ASIC、高頻寬記憶體與先進封裝仍是 AI 基礎設施投資的核心瓶頸。",
-    "inference": "市場資金正在把算力供應鏈視為 AI 商業化進度的前瞻指標。",
-    "hypothesis": "若雲端資本支出展望續強，AI 晶片與資料中心供應鏈仍可能維持估值溢價。",
-    "tags": ["AI晶片", "GPU", "HBM", "先進封裝"],
-    "url": "https://www.nvidia.com/en-us/ai/"
-  },
-  {
-    "id": "brief008",
-    "section": "美股與全球市場焦點",
-    "subject": "雲端巨頭",
-    "title": "雲端 AI 支出成大型科技公司財報主線",
-    "category": "雲端基礎設施",
-    "source": "Frontier Compute",
-    "publishedAt": "2026-07-09T16:20:00+08:00",
-    "fact": "主要雲端平台持續投資 AI 伺服器、網路、儲存、資料中心電力與散熱能力。",
-    "inference": "投資人會更重視 AI 資本支出能否轉化為雲端收入、企業合約與推論毛利。",
-    "hypothesis": "若雲端 AI 收入成長跟上折舊壓力，大型科技股仍可能支撐指數風險偏好。",
-    "tags": ["雲端", "資料中心", "資本支出", "推論收入"],
-    "url": "https://cloud.google.com/blog/topics/ai-machine-learning"
-  },
-  {
-    "id": "brief009",
-    "section": "美股與全球市場焦點",
-    "subject": "AI 安全與企業採用",
-    "title": "AI 安全能力成企業採購與平台估值變數",
-    "category": "AI 安全",
-    "source": "Enterprise AI Weekly",
-    "publishedAt": "2026-07-09T14:15:00+08:00",
-    "fact": "企業導入 AI 代理時，越來越重視提示注入、資料外洩、權限控管與模型行為監控。",
-    "inference": "安全與治理能力將影響 AI 平台從試點走向大規模部署的速度。",
-    "hypothesis": "能同時提供模型、工具鏈、稽核與安全控制的平台，可能享有更高企業客戶留存率。",
-    "tags": ["AI安全", "企業AI", "權限控管", "模型稽核"],
-    "url": "https://openai.com/safety/"
-  }
-]
+{
+  "generatedAt": "2026-07-10T21:04:48.711Z",
+  "source": "Google News RSS",
+  "items": [
+    {
+      "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？",
+      "category": "AI 與科技前沿",
+      "source": "TechOrange 科技報橘",
+      "publishedAt": "2026-07-10T04:35:10.000Z",
+      "fact": "TechOrange 科技報橘 報導：從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？ &nbsp;&nbsp; TechOrange 科技報橘。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aYlJIaWtUc0d3eHdrZ050c3NRei1rTGtselZyOVRaVG5BYnFZeHAtVHRJZXRFZUl4TXFmQ3NYRlZ6cGQ2a0ZHbk9lQ0ZlZ0kzMTVHYUZESmZUMkNqQUpj?oc=5"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "祭破壞行情價！Meta 搶進 AI 代理寫程式市場 首推付費版 價格僅對手25%",
+      "category": "AI 與科技前沿",
+      "source": "經濟日報",
+      "publishedAt": "2026-07-10T03:52:34.000Z",
+      "fact": "經濟日報 報導：祭破壞行情價！Meta 搶進 AI 代理寫程式市場 首推付費版 價格僅對手25%",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；祭破壞行情價！Meta 搶進 AI 代理寫程式市場 首推付費版 價格僅對手25% &nbsp;&nbsp; 經濟日報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZm9DZWNtenJiVjVUYUZiRDAtSUo2cjlWcmh4TjBISUVyekZERWQxR2NzYzFWMXNwV3YxbEJUU01aOVJDRkdtQ3ZNdTNENjdqUHF3UjZKQ1ozd9IBX0FVX3lxTE9oTDRmRkhaUTVzMVc4QnpDOGhfWGtxWmgyX0lQbjNPOVNaZHE3aE1ycHJLRFo5SnJmNnRTdkxyTHBXZUVrSU5NNk4tODBQZ21OYjE2eVhDYjJhNlVvUVRz?oc=5"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
+      "category": "前沿模型",
+      "source": "iThome",
+      "publishedAt": "2026-07-10T06:01:23.000Z",
+      "fact": "iThome 報導：Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API &nbsp;&nbsp; iThome。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mSFBfQ1JIS01GU3RsNmVVY3UwWmZ0cGVJaWVWc1BnMzlvQWlnY0dmcEppTjl0Q2VkT1FxSEwzT1lKWWs4N2FzZHVRaFYzZw?oc=5"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "蘋果又看上 AI 新創，讓大型 AI 模型直接在 iPh",
+      "title": "蘋果又看上 AI 新創，讓大型 AI 模型直接在 iPhone 運行 | 科技新報",
+      "category": "AI 與科技前沿",
+      "source": "LINE TODAY",
+      "publishedAt": "2026-07-10T11:50:25.000Z",
+      "fact": "LINE TODAY 報導：蘋果又看上 AI 新創，讓大型 AI 模型直接在 iPhone 運行 | 科技新報",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果又看上 AI 新創，讓大型 AI 模型直接在 iPhone 運行 | 科技新報 &nbsp;&nbsp; LINE TODAY。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yR09rTjV2a1p2SjRRM3JBcTBEZ2JxTDBaN2daVi1lVFIzSllIQjc1MzlocVpMajFBUXpzbjVTNGs4V3NWT0xmREpwQjdRZFdGM1VtOUN3?oc=5"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "科技巨擘紛紛自研晶片！微軟、Google、Meta 全入局，圍攻輝達 AI 霸權",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-07-10T02:28:26.000Z",
+      "fact": "TechNews 科技新報 報導：科技巨擘紛紛自研晶片！微軟、Google、Meta 全入局，圍攻輝達 AI 霸權",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；科技巨擘紛紛自研晶片！微軟、Google、Meta 全入局，圍攻輝達 AI 霸權 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWNKSjVZTWxkLXlJbzNWaE91Rmg4WUduV2QxSWVNaDdzLUhTRlF0WXdOLXlfSlFzWF8wZTJRdlZVWDVOZkxBTkIwa3N5QW5YbHh4RHVGekx1WlhieTJDQlM2OTNjZGcwbHB5ZmxTQjNKbUhqaEwtMl9LUlNXSjA4QzZQM2Zwd3VHMDJicw?oc=5"
+    },
+    {
+      "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "紐時賞析／美國AI用電暴增的解方",
+      "title": "紐時賞析／美國AI用電暴增的解方：從家庭開始| 放學微素養| 文教",
+      "category": "全球財經",
+      "source": "聯合新聞網",
+      "publishedAt": "2026-07-10T16:00:00.000Z",
+      "fact": "聯合新聞網 報導：紐時賞析／美國AI用電暴增的解方：從家庭開始| 放學微素養| 文教",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；紐時賞析／美國AI用電暴增的解方：從家庭開始| 放學微素養| 文教 &nbsp;&nbsp; 聯合新聞網。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3NUVPS0dwcnI5djE3Y05sczczd0V5eXNQVnZLZmxubmxXeUlOVk01M0tvOUI0d1hxbEtOM2hLWjBPZmpid1Rhd1ZCcFVRRFla?oc=5"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "How SpaceX and AI Spending A",
+      "title": "How SpaceX and AI Spending Are Reshaping Investment Grade Credit",
+      "category": "全球財經",
+      "source": "Neuberger Berman",
+      "publishedAt": "2026-07-10T12:28:12.000Z",
+      "fact": "Neuberger Berman 報導：How SpaceX and AI Spending Are Reshaping Investment Grade Credit",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；How SpaceX and AI Spending Are Reshaping Investment Grade Credit &nbsp;&nbsp; Neuberger Berman。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanZVR1FxTll0VGNlMXZXdl85Wjl5alBfc1hKbHJweE1zMHJmbE9teEVRN1VIRlYtQXpyRWVacG1EV0VyNGdqTnVsbFdRc1BEbEpGQTBsczY1RVFLYVZGQnc4QmpnZ1M4cE10YXNTMnowTUF1dmkxODVDcDZpOFZNMWQwb2ltZWxGV1gzSG9yRUQxRTVOdzRqemhRdlBJSkU?oc=5"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "AI Data Center Demand to Fue",
+      "title": "AI Data Center Demand to Fuel Clean Tech Order Inflection, Morgan Stanley Says",
+      "category": "雲端基礎設施",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-09T13:07:16.000Z",
+      "fact": "富途牛牛 報導：AI Data Center Demand to Fuel Clean Tech Order Inflection, Morgan Stanley Says",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI Data Center Demand to Fuel Clean Tech Order Inflection, Morgan Stanley Says &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "data center"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGozZ3hzaGdLUVo2eG1PRmRXRnJkOHdBbHJQbm8tUTJzREJkdTlNdUJKQ0Q5Yi1pSnl4ekRuRTZZVk5XbnNOWXVmSlhvZUI3c2tTNWlQZVo0S3NuUjBPRGlIS3oyR3hrNElVWjVmZXJLZjlIMGpRanFETW5DdVBEMUxZbS05ZFFQYTVQeHdsdUVqeUgyLVhjRHJ3SXBMb3M?oc=5"
+    },
+    {
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "數據中心泵市場到2032年將達到$73.5億——Mark",
+      "title": "數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
+      "category": "全球財經",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-10T10:59:00.000Z",
+      "fact": "Moomoo 報導：數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR21PUHQ5WExDZklrcmZSRV9XRnZxNkswbV9MYl9rM0tGMVU3MnlsLVVLcTBqNmh0WlI2YTIySmtYUV9aZkdQTGQxVFV0VTItbnlQSGxsSlM3VUN4VVFCYWFYWWlRaWtXbFdiVzhoclJNNmhveTVMRXdIVGdwUDZLRVU3UDRxei1zVzNCcXpNX1lmeVJYZFZzc1VGcHBGcU0?oc=5"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "Morgan Stanley warns that se",
+      "title": "Morgan Stanley warns that semiconductor sector valuations have overheated; tech giants' in-house chip development could erode the industry's pricing power.",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-10T14:57:00.000Z",
+      "fact": "富途牛牛 報導：Morgan Stanley warns that semiconductor sector valuations have overheated; tech giants' in-house chip development could erode the industry's pricing power.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Morgan Stanley warns that semiconductor sector valuations have overheated; tech giants' in-house chip development could。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "semiconductor"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZUZydlpDLUwzNFRSTEVidXBuZW1ySkFSUmtQbWl3Ylc3cDdFdm9TdU1sblNEM3I2QzJVQzlDLW9hU3Y5dnJyUDB2bXhnTExseXpIMjRzYUZtVHdCV1hLNk9tQ2hTSUFJVjZsSXJTSFQzcDU0dGpPRmYwcGJNSXltWG1QQ0dBV0gxYVFobEpsSFZ3Y0ZOV25hNUZVaGpldUk2Q2RXUE1lY0tlSk5ucmlabFBnZXVCVllfaWJZ?oc=5"
+    },
+    {
+      "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Slumping AI Stocks Could Be ",
+      "title": "Slumping AI Stocks Could Be Really Good News for Your Nontech Holdings, Says Market Strategist",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-10T11:59:00.000Z",
+      "fact": "Moomoo 報導：Slumping AI Stocks Could Be Really Good News for Your Nontech Holdings, Says Market Strategist",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Slumping AI Stocks Could Be Really Good News for Your Nontech Holdings, Says Market Strategist &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUWxqN2V1RHlqRGFBaEU4bWpsQjBjdVBDaXBNLTAzbC1RajlqNV9sXzBpTHpXVm1Vd0laYmgyVUpIT2NtWTVtS3JLajZabGcxT25lcVBqT1h1UEw1V25NTHRuTlh1dnpEd095V2lYTUxyd0E5eE9uMzNydlBZRVdhSUtvMW5DeDdaU0hER3ZpUS1Zd2dRU1BwQUp1a2dDSHFsbWc?oc=5"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "Equities",
+      "title": "Equities: AI Boom risks and resilience – Commerzbank",
+      "category": "市場焦點",
+      "source": "TMGM",
+      "publishedAt": "2026-07-10T14:01:07.000Z",
+      "fact": "TMGM 報導：Equities: AI Boom risks and resilience – Commerzbank",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Equities: AI Boom risks and resilience – Commerzbank &nbsp;&nbsp; TMGM。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnd2UXIwOGFLWFE1SmFpTURMYlR1VmNNVV9mUlRYRTZLTFVlNEFJcUgyZ3dXX0luY1VlTmJjZXo3Vno1cFBwR3duUjVNVWhfS2dRMDhYTnBmbGx0TjZ4NElhY3BNNlBCd0dzMUw2ZFdlZi04Y1A3S2wzbEZkQTdhd0cxaW1ERmlTQmx0a29NS3FnZm1hUmUzbks3Mnk1cUJabGxBVG9yUkc0Ql9BYkZENElGQWx2eWc?oc=5"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "Chip stocks have \"fizzled ou",
+      "title": "Chip stocks have \"fizzled out\" somewhat, but the AI cycle might not be dead yet.",
+      "category": "市場焦點",
+      "source": "odaily.news",
+      "publishedAt": "2026-07-10T06:53:19.000Z",
+      "fact": "odaily.news 報導：Chip stocks have \"fizzled out\" somewhat, but the AI cycle might not be dead yet.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip stocks have \"fizzled out\" somewhat, but the AI cycle might not be dead yet. &nbsp;&nbsp; odaily.news。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13bWhlSTVaZmRyNnNyRjZXajBxT0hMN2gtZEloWUFXaWlyZ1k3RTAtaEdSM2hYLUp4eGN6OXdNNGRJdGRrWWdGT1ZlY3VwSjFlOHEybQ?oc=5"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Nvidia",
+      "title": "Cheaper Than Micron, Closer to Nvidia: The Massive New AI Stock Debut -- Barrons.com",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-09T17:33:54.000Z",
+      "fact": "富途牛牛 報導：Cheaper Than Micron, Closer to Nvidia: The Massive New AI Stock Debut -- Barrons.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Cheaper Than Micron, Closer to Nvidia: The Massive New AI Stock Debut -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSE95UTd0ZnNELUhmMXZ0ckU1SmpGNzZJbjVsd1lpMmE4TnJKZ1A5ZFhJTkQzNC1UUGt3VlJpS0p6WnJhTWxPdU1iQ1NWVk81MDZ4X3VoaklKRHJlWGhqWG9GM29rVEIxMmcyMloxU0ZWaWRZQzRBRWtNbFZsTDN4TUxsNGdfRVVVdWlyNVdjdXBZTmhiQi1LaDdqUTQ?oc=5"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "達美航空Q2財報亮點",
+      "title": "達美航空Q2財報亮點：煉油廠助力燃油成本大降，高端需求撐起超預期獲利",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-10T13:29:21.000Z",
+      "fact": "TradingKey 報導：達美航空Q2財報亮點：煉油廠助力燃油成本大降，高端需求撐起超預期獲利",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；達美航空Q2財報亮點：煉油廠助力燃油成本大降，高端需求撐起超預期獲利 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTUxRUEtLREpaTHNVaVNsSTFwcUU2YXhITFdYSjJwbGdCRzlOOVNCYTk4VTMyYzZxcEd4ZUhxUndaZ1NPY0RZT0w5N09DOWFTUFB4em9CelhBTk9OSlRPUTN5SDNOQUdjb2IzNzVkaTVSNS1ITC16SjN2ZEY5dkNNaDcyLWtxd2dJbS1uMmpob1MzYzc5YnBmMDBLNDV1SDR3bnEzMTBocHoxSnF3UHlWa2w3QQ?oc=5"
+    }
+  ]
+}

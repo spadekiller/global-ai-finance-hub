@@ -2,10 +2,13 @@
 
 Global AI Finance Hub 目前是一個純 HTML、CSS、JavaScript 製作的全球 AI 財經早報測試版。頁面以「早報」方式呈現，而不是單純新聞卡片列表：每則條目都拆成 `[Fact]`、`[Inference]`、`[Hypothesis]`，方便快速閱讀事件、判斷與可觀察情境。
 
+新聞資料由 `scripts/fetch-news.mjs` 從 Google News RSS 產生，GitHub Actions 會定時更新 `data/news.json`。
+
 > 目前所有內容皆為測試資料，非投資建議。
 
 ## 功能
 
+- 從 Google News RSS 產生即時性較高的新聞資料
 - 顯示「AI 與科技前沿」、「全球財經脈動」、「美股與全球市場焦點」三段早報
 - 每則早報包含 Fact、Inference、Hypothesis
 - 支援搜尋、分類與來源篩選
@@ -31,3 +34,13 @@ node --test tests/site.test.mjs
 ```
 
 測試會驗證 HTML/CSS/JavaScript 基本結構、JSON 格式、早報章節、Fact/Inference/Hypothesis 欄位，以及預設渲染行為。
+
+## 更新新聞
+
+手動更新：
+
+```bash
+node scripts/fetch-news.mjs
+```
+
+GitHub Actions 也可以手動執行 `Update AI finance brief` workflow，或等排程自動更新。

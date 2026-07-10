@@ -2,7 +2,9 @@
   'use strict';
 
   const state = {
-    news: []
+    news: [],
+    generatedAt: null,
+    source: ''
   };
 
   const sectionOrder = ['AI 與科技前沿', '全球財經脈動', '美股與全球市場焦點'];
@@ -37,7 +39,10 @@
         throw new Error(`news.json 載入失敗：HTTP ${response.status}`);
       }
 
-      state.news = await response.json();
+      const payload = await response.json();
+      state.news = Array.isArray(payload) ? payload : payload.items;
+      state.generatedAt = Array.isArray(payload) ? null : payload.generatedAt;
+      state.source = Array.isArray(payload) ? 'Static JSON' : payload.source;
 
       validateData();
       populateFilters();
@@ -170,7 +175,9 @@
   }
 
   function renderUpdatedTime() {
-    const time = Math.max(...state.news.map((item) => Date.parse(item.publishedAt)));
+    const time = state.generatedAt
+      ? Date.parse(state.generatedAt)
+      : Math.max(...state.news.map((item) => Date.parse(item.publishedAt)));
     const updatedAt = new Date(time);
     el.updated.dateTime = updatedAt.toISOString();
     el.updated.textContent = new Intl.DateTimeFormat('zh-TW', {

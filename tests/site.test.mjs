@@ -5,14 +5,17 @@ import vm from 'node:vm';
 
 const read = (path) => readFile(new URL(`../${path}`, import.meta.url), 'utf8');
 
-const [html, css, js, newsText] = await Promise.all([
+const [html, css, js, newsText, fetcherText, workflowText] = await Promise.all([
   read('index.html'),
   read('assets/css/style.css'),
   read('assets/js/app.js'),
-  read('data/news.json')
+  read('data/news.json'),
+  read('scripts/fetch-news.mjs'),
+  read('.github/workflows/update-news.yml')
 ]);
 
-const news = JSON.parse(newsText);
+const payload = JSON.parse(newsText);
+const news = payload.items;
 
 assert.equal(existsSync(new URL('../data/watchlist.json', import.meta.url)), false, 'data/watchlist.json should not exist');
 
@@ -39,6 +42,7 @@ assert.match(css, /\.analysis-line/);
 assert.match(css, /\.claim-label/);
 
 assert.match(js, /fetch\(['"]\.\/data\/news\.json['"]\)/);
+assert.match(js, /payload\.items/);
 assert.doesNotMatch(js, /watchlist/i);
 assert.doesNotMatch(js, /ticker/i);
 assert.doesNotMatch(js, /symbols/);
@@ -48,8 +52,11 @@ assert.match(js, /Inference/);
 assert.match(js, /Hypothesis/);
 new vm.Script(js);
 
-assert.ok(Array.isArray(news), 'news.json must be an array');
-assert.ok(news.length >= 9, 'news.json must include at least 9 brief items');
+assert.equal(payload.source, 'Google News RSS');
+assert.ok(payload.generatedAt, 'news payload must include generatedAt');
+assert.ok(!Number.isNaN(Date.parse(payload.generatedAt)), 'generatedAt must be parseable');
+assert.ok(Array.isArray(news), 'payload.items must be an array');
+assert.ok(news.length >= 9, 'news payload must include at least 9 brief items');
 
 const requiredFields = ['id', 'section', 'subject', 'title', 'category', 'source', 'publishedAt', 'fact', 'inference', 'hypothesis', 'tags', 'url'];
 for (const item of news) {
@@ -70,8 +77,11 @@ assert.deepEqual([...new Set(news.map((item) => item.section))], [
   '美股與全球市場焦點'
 ]);
 
-assert.ok(news.some((item) => item.subject.includes('OpenAI') || item.subject.includes('Anthropic') || item.subject.includes('Google')), 'brief should include global AI labs or platforms');
-assert.ok(news.some((item) => item.section === '全球財經脈動'), 'brief should include macro finance items');
-assert.ok(news.some((item) => item.section === '美股與全球市場焦點'), 'brief should include market focus items');
+assert.match(fetcherText, /news\.google\.com\/rss\/search/);
+assert.match(fetcherText, /fact:/);
+assert.match(fetcherText, /inference:/);
+assert.match(fetcherText, /hypothesis:/);
+assert.match(workflowText, /cron:/);
+assert.match(workflowText, /node scripts\/fetch-news\.mjs/);
 
-console.log(`通過：${news.length} 則 AI 財經早報條目，HTML/CSS/JS/JSON 檢查完成。`);
+console.log(`通過：${news.length} 則 AI 財經早報條目，HTML/CSS/JS/JSON/RSS 抓取器檢查完成。`);
