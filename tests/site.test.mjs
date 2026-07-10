@@ -53,7 +53,13 @@ for (const item of news) {
   assert.ok(Array.isArray(item.tags), `${item.id} tags must be an array`);
   assert.ok(item.tags.length > 0, `${item.id} must include at least one tag`);
   assert.ok(/^https?:\/\//.test(item.url), `${item.id} url must be absolute`);
+  assert.ok(!item.url.includes('example.com'), `${item.id} must not use placeholder example.com links`);
   assert.ok(!Number.isNaN(Date.parse(item.publishedAt)), `${item.id} publishedAt must be parseable`);
+}
+
+const sourceDomains = new Set(news.map((item) => new URL(item.url).hostname.replace(/^www\./, '')));
+for (const expectedDomain of ['openai.com', 'anthropic.com', 'blog.google', 'cloud.google.com', 'ai.meta.com']) {
+  assert.ok(sourceDomains.has(expectedDomain), `missing readable source domain: ${expectedDomain}`);
 }
 
 const categories = new Set(news.map((item) => item.category));
