@@ -6,8 +6,11 @@
     "category": "企業 AI",
     "source": "Global AI Brief",
     "publishedAt": "2026-07-11T09:20:00+08:00",
-    "symbols": [],
-    "tags": ["OpenAI", "AI代理", "企業導入"],
+    "tags": [
+      "OpenAI",
+      "AI代理",
+      "企業導入"
+    ],
     "url": "https://openai.com/news/"
   },
   {
@@ -17,8 +20,11 @@
     "category": "前沿模型",
     "source": "Model Watch",
     "publishedAt": "2026-07-11T08:45:00+08:00",
-    "symbols": [],
-    "tags": ["Anthropic", "長上下文", "文件分析"],
+    "tags": [
+      "Anthropic",
+      "長上下文",
+      "文件分析"
+    ],
     "url": "https://www.anthropic.com/news"
   },
   {
@@ -28,8 +34,11 @@
     "category": "前沿模型",
     "source": "Model Watch",
     "publishedAt": "2026-07-10T17:30:00+08:00",
-    "symbols": [],
-    "tags": ["Google", "Gemini", "多模態"],
+    "tags": [
+      "Google",
+      "Gemini",
+      "多模態"
+    ],
     "url": "https://blog.google/innovation-and-ai/technology/ai/"
   },
   {
@@ -39,8 +48,11 @@
     "category": "雲端基礎設施",
     "source": "Frontier Compute",
     "publishedAt": "2026-07-10T15:10:00+08:00",
-    "symbols": ["2382", "3017"],
-    "tags": ["雲端", "資料中心", "液冷"],
+    "tags": [
+      "雲端",
+      "資料中心",
+      "液冷"
+    ],
     "url": "https://cloud.google.com/blog/topics/ai-machine-learning"
   },
   {
@@ -50,8 +62,11 @@
     "category": "AI 晶片",
     "source": "Frontier Compute",
     "publishedAt": "2026-07-10T13:40:00+08:00",
-    "symbols": ["2330", "6683"],
-    "tags": ["AI晶片", "CoWoS", "HBM"],
+    "tags": [
+      "AI晶片",
+      "CoWoS",
+      "HBM"
+    ],
     "url": "https://www.nvidia.com/en-us/ai/"
   },
   {
@@ -61,8 +76,11 @@
     "category": "AI 監管",
     "source": "AI Policy Monitor",
     "publishedAt": "2026-07-10T11:25:00+08:00",
-    "symbols": [],
-    "tags": ["歐盟AI法案", "合規", "治理"],
+    "tags": [
+      "歐盟AI法案",
+      "合規",
+      "治理"
+    ],
     "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai"
   },
   {
@@ -72,8 +90,11 @@
     "category": "AI 監管",
     "source": "AI Policy Monitor",
     "publishedAt": "2026-07-09T18:05:00+08:00",
-    "symbols": ["2330"],
-    "tags": ["出口管制", "算力安全", "地緣政治"],
+    "tags": [
+      "出口管制",
+      "算力安全",
+      "地緣政治"
+    ],
     "url": "https://www.nist.gov/itl/ai-risk-management-framework"
   },
   {
@@ -83,8 +104,11 @@
     "category": "開源 AI",
     "source": "Model Watch",
     "publishedAt": "2026-07-09T16:20:00+08:00",
-    "symbols": [],
-    "tags": ["開源模型", "私有部署", "推論成本"],
+    "tags": [
+      "開源模型",
+      "私有部署",
+      "推論成本"
+    ],
     "url": "https://ai.meta.com/blog/"
   },
   {
@@ -94,8 +118,11 @@
     "category": "AI 安全",
     "source": "AI Policy Monitor",
     "publishedAt": "2026-07-09T14:15:00+08:00",
-    "symbols": [],
-    "tags": ["AI安全", "紅隊測試", "提示注入"],
+    "tags": [
+      "AI安全",
+      "紅隊測試",
+      "提示注入"
+    ],
     "url": "https://openai.com/safety/"
   },
   {
@@ -105,8 +132,11 @@
     "category": "企業 AI",
     "source": "Enterprise AI Weekly",
     "publishedAt": "2026-07-09T10:00:00+08:00",
-    "symbols": [],
-    "tags": ["醫療AI", "臨床驗證", "風險揭露"],
+    "tags": [
+      "醫療AI",
+      "臨床驗證",
+      "風險揭露"
+    ],
     "url": "https://cloud.google.com/solutions/healthcare-life-sciences"
   },
   {
@@ -116,8 +146,11 @@
     "category": "機器人",
     "source": "Enterprise AI Weekly",
     "publishedAt": "2026-07-08T17:50:00+08:00",
-    "symbols": ["3693"],
-    "tags": ["機器人", "邊緣AI", "製造業"],
+    "tags": [
+      "機器人",
+      "邊緣AI",
+      "製造業"
+    ],
     "url": "https://mistral.ai/news/"
   },
   {
@@ -127,8 +160,11 @@
     "category": "企業 AI",
     "source": "Enterprise AI Weekly",
     "publishedAt": "2026-07-08T13:35:00+08:00",
-    "symbols": [],
-    "tags": ["金融AI", "模型稽核", "知識管理"],
+    "tags": [
+      "金融AI",
+      "模型稽核",
+      "知識管理"
+    ],
     "url": "https://www.anthropic.com/customers"
   },
   {
@@ -138,8 +174,11 @@
     "category": "雲端基礎設施",
     "source": "Frontier Compute",
     "publishedAt": "2026-07-08T11:40:00+08:00",
-    "symbols": [],
-    "tags": ["推論成本", "模型壓縮", "ASIC"],
+    "tags": [
+      "推論成本",
+      "模型壓縮",
+      "ASIC"
+    ],
     "url": "https://cloud.google.com/blog/topics/ai-machine-learning"
   },
   {
@@ -149,8 +188,11 @@
     "category": "AI 安全",
     "source": "Global AI Brief",
     "publishedAt": "2026-07-07T16:45:00+08:00",
-    "symbols": [],
-    "tags": ["深偽", "內容治理", "浮水印"],
+    "tags": [
+      "深偽",
+      "內容治理",
+      "浮水印"
+    ],
     "url": "https://ai.meta.com/blog/"
   },
   {
@@ -160,8 +202,11 @@
     "category": "AI 監管",
     "source": "Global AI Brief",
     "publishedAt": "2026-07-07T14:30:00+08:00",
-    "symbols": [],
-    "tags": ["主權AI", "公共算力", "本地語言模型"],
+    "tags": [
+      "主權AI",
+      "公共算力",
+      "本地語言模型"
+    ],
     "url": "https://digital-strategy.ec.europa.eu/en/policies/artificial-intelligence"
   }
 ]

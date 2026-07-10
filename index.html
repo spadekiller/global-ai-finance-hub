@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Global AI Finance Hub 全球 AI 新聞儀表板測試版">
+  <meta name="description" content="Global AI Finance Hub 全球 AI 財經新聞儀表板測試版">
   <title>Global AI Finance Hub</title>
   <link rel="stylesheet" href="./assets/css/style.css">
   <script src="./assets/js/app.js" defer></script>
@@ -14,7 +14,7 @@
       <b>AI</b>
       <span>
         <strong>Global AI Finance Hub</strong>
-        <small>全球 AI 新聞與市場情報</small>
+        <small>全球 AI 財經新聞</small>
       </span>
     </a>
     <button id="theme-toggle" class="theme-toggle" type="button" aria-label="切換深色或淺色模式">
@@ -26,9 +26,9 @@
   <main class="shell">
     <section class="hero" aria-labelledby="page-title">
       <div>
-        <p class="eyebrow">GLOBAL AI INTELLIGENCE</p>
-        <h1 id="page-title">全球 AI 新聞儀表板</h1>
-        <p>追蹤全球 AI 模型、晶片、雲端算力、監管政策、企業導入、開源生態與安全治理。自選股只是輔助篩選，不限制新聞範圍。</p>
+        <p class="eyebrow">GLOBAL AI FINANCE INTELLIGENCE</p>
+        <h1 id="page-title">全球 AI 財經新聞</h1>
+        <p>追蹤全球 AI 模型公司、晶片與算力投資、雲端基礎設施、監管政策、企業導入、開源生態與 AI 安全治理的財經動態。</p>
       </div>
       <aside class="status" aria-label="資料狀態">
         <i aria-hidden="true"></i>
@@ -39,30 +39,19 @@
       </aside>
     </section>
 
-    <section class="panel watchlist-panel" aria-labelledby="watchlist-title">
-      <div class="section-head">
-        <div>
-          <p class="eyebrow">WATCHLIST</p>
-          <h2 id="watchlist-title">自選股</h2>
-        </div>
-        <p>最後更新：<time id="last-updated">載入中</time></p>
-      </div>
-      <div id="ticker-grid" class="ticker-grid"></div>
-    </section>
-
     <section class="panel news-panel" aria-labelledby="news-title">
       <div class="section-head">
         <div>
           <p class="eyebrow">LATEST NEWS</p>
           <h2 id="news-title">最新新聞</h2>
         </div>
-        <p id="result-count">載入中</p>
+        <p>最後更新：<time id="last-updated">載入中</time></p>
       </div>
 
       <div class="filters" aria-label="新聞篩選">
         <label class="search">
           <span aria-hidden="true">⌕</span>
-          <input id="search-input" type="search" placeholder="搜尋模型、公司、政策、晶片或標籤" aria-label="搜尋新聞">
+          <input id="search-input" type="search" placeholder="搜尋模型、公司、政策、晶片、算力或標籤" aria-label="搜尋新聞">
         </label>
         <select id="category-filter" aria-label="依分類篩選">
           <option value="">全部分類</option>
@@ -70,12 +59,10 @@
         <select id="source-filter" aria-label="依來源篩選">
           <option value="">全部來源</option>
         </select>
-        <select id="watchlist-filter" aria-label="依自選股篩選">
-          <option value="">全部自選股</option>
-        </select>
         <button id="reset-filters" type="button">重設</button>
       </div>
 
+      <p id="result-count" class="result-count">載入中</p>
       <div id="error-message" class="error" role="alert" hidden></div>
       <div id="news-grid" class="news-grid" aria-live="polite" aria-busy="true"></div>
       <div id="empty-state" class="empty" hidden>
@@ -86,7 +73,7 @@
   </main>
 
   <footer>
-    <p>本網站目前使用全球 AI 測試新聞資料，非投資建議。</p>
+    <p>本網站目前使用全球 AI 財經測試新聞資料，非投資建議。</p>
     <p>© <span id="current-year"></span> Global AI Finance Hub</p>
   </footer>
 </body>

@@ -2,8 +2,7 @@
   'use strict';
 
   const state = {
-    news: [],
-    watchlist: []
+    news: []
   };
 
   const el = {};
@@ -17,9 +16,7 @@
       search: document.querySelector('#search-input'),
       category: document.querySelector('#category-filter'),
       source: document.querySelector('#source-filter'),
-      watchlist: document.querySelector('#watchlist-filter'),
       reset: document.querySelector('#reset-filters'),
-      tickers: document.querySelector('#ticker-grid'),
       news: document.querySelector('#news-grid'),
       count: document.querySelector('#result-count'),
       updated: document.querySelector('#last-updated'),
@@ -33,30 +30,21 @@
     setTheme(localStorage.getItem('finance-hub-theme') || (matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'));
 
     try {
-      const [newsResponse, watchlistResponse] = await Promise.all([
-        fetch('./data/news.json'),
-        fetch('./data/watchlist.json')
-      ]);
+      const response = await fetch('./data/news.json');
 
-      if (!newsResponse.ok) {
-        throw new Error(`news.json 載入失敗：HTTP ${newsResponse.status}`);
+      if (!response.ok) {
+        throw new Error(`news.json 載入失敗：HTTP ${response.status}`);
       }
 
-      if (!watchlistResponse.ok) {
-        throw new Error(`watchlist.json 載入失敗：HTTP ${watchlistResponse.status}`);
-      }
-
-      state.news = await newsResponse.json();
-      state.watchlist = await watchlistResponse.json();
+      state.news = await response.json();
 
       validateData();
       populateFilters();
-      renderTickers();
       renderNews();
       renderUpdatedTime();
     } catch (error) {
       console.error(error);
-      showError(`資料載入失敗，請確認 data/news.json 與 data/watchlist.json 可正常存取。錯誤訊息：${error.message}`);
+      showError(`資料載入失敗，請確認 data/news.json 可正常存取。錯誤訊息：${error.message}`);
     } finally {
       el.news.setAttribute('aria-busy', 'false');
     }
@@ -70,12 +58,11 @@
     });
 
     el.search.addEventListener('input', renderNews);
-    [el.category, el.source, el.watchlist].forEach((item) => item.addEventListener('change', renderNews));
+    [el.category, el.source].forEach((item) => item.addEventListener('change', renderNews));
     el.reset.addEventListener('click', () => {
       el.search.value = '';
       el.category.value = '';
       el.source.value = '';
-      el.watchlist.value = '';
       renderNews();
       el.search.focus();
     });
@@ -86,11 +73,7 @@
       throw new Error('news.json 必須包含至少 15 筆新聞');
     }
 
-    if (!Array.isArray(state.watchlist) || state.watchlist.length === 0) {
-      throw new Error('watchlist.json 必須包含自選股資料');
-    }
-
-    const requiredNewsFields = ['id', 'title', 'source', 'publishedAt', 'category', 'summary', 'symbols', 'tags', 'url'];
+    const requiredNewsFields = ['id', 'title', 'source', 'publishedAt', 'category', 'summary', 'tags', 'url'];
     const invalidNews = state.news.find((item) => requiredNewsFields.some((field) => item[field] == null));
 
     if (invalidNews) {
@@ -106,10 +89,6 @@
   function populateFilters() {
     addOptions(el.category, uniqueSorted(state.news.map((item) => item.category)));
     addOptions(el.source, uniqueSorted(state.news.map((item) => item.source)));
-
-    state.watchlist.forEach((item) => {
-      el.watchlist.add(new Option(`${item.symbol} ${item.name}`, item.symbol));
-    });
   }
 
   function addOptions(select, options) {
@@ -120,16 +99,6 @@
     return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-Hant'));
   }
 
-  function renderTickers() {
-    el.tickers.innerHTML = state.watchlist.map((item) => `
-      <article class="ticker">
-        <code>${safe(item.symbol)}</code>
-        <strong>${safe(item.name)}</strong>
-        <small>${safe(item.sector)}</small>
-      </article>
-    `).join('');
-  }
-
   function renderNews() {
     const query = el.search.value.trim().toLocaleLowerCase('zh-Hant');
     const filtered = state.news.filter((item) => {
@@ -138,14 +107,12 @@
         item.summary,
         item.source,
         item.category,
-        ...(item.symbols || []),
         ...(item.tags || [])
       ].join(' ').toLocaleLowerCase('zh-Hant');
 
       return (!query || searchableText.includes(query)) &&
         (!el.category.value || item.category === el.category.value) &&
-        (!el.source.value || item.source === el.source.value) &&
-        (!el.watchlist.value || (item.symbols || []).includes(el.watchlist.value));
+        (!el.source.value || item.source === el.source.value);
     });
 
     el.count.textContent = `顯示 ${filtered.length} / ${state.news.length} 筆新聞`;
@@ -162,9 +129,6 @@
     }).format(new Date(item.publishedAt));
 
     const tags = (item.tags || []).map((tag) => `<span class="news-tag">${safe(tag)}</span>`).join('');
-    const symbols = (item.symbols || []).length
-      ? item.symbols.map((symbol) => `<span>${safe(symbol)}</span>`).join('')
-      : '<span>全球 AI</span>';
 
     return `
       <article class="card">
@@ -177,7 +141,7 @@
         <p>${safe(item.summary)}</p>
         <div class="news-tags" aria-label="新聞標籤">${tags}</div>
         <footer>
-          <span class="symbols" aria-label="相關自選股">${symbols}</span>
+          <span class="scope-label">全球 AI 財經</span>
           <a href="${safeUrl(item.url)}" target="_blank" rel="noopener noreferrer">閱讀原文</a>
         </footer>
       </article>
