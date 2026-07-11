@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T06:05:34.093Z",
+  "generatedAt": "2026-07-11T06:19:00.888Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -21,7 +21,7 @@
         "OpenAI",
         "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAxSnZFeHUxcjNKZ0NKcmdqcFFOaW1nanJWUlZfOHhtZWRnT1NOaWRTVFJ5WFJjaV9BNHNDN3p5STVfZUo2N1hDR2t2RFgwNms?oc=5"
+      "url": "https://news.cnyes.com/news/id/6531209"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -41,7 +41,7 @@
         "AI 與科技前沿",
         "Meta"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GOXZsTl9qWmNYcERsdjlqaE1LaEpQby1pQmcyQWdGaWswdDdfMmVrdEdGTHhhWjlld0kzWDRDRVB2VXJxaXpMR3UzWDBTb2hFeVpOUHhVbEtQN01zdjNJddIBZkFVX3lxTFBtTzdDcm83US1zVW5DYnhvbFFWN1lEdkFITTRmTWlibzhpaTJWWUJHMUdhcFFGMU9xT1hxVENfRWZTVzZTb0t2TUpyR0QwVm5YOUpOVmVGWVR6aUlCR2I0VmZ4X2lGQQ?oc=5"
+      "url": "https://www.epochtimes.com/b5/26/7/11/n14807526.htm"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -60,7 +60,7 @@
       "tags": [
         "AI 與科技前沿"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0WjNTVll0UnlFTUllelZBWnRuUTRkMHhoSmFtV0lLZnhwRjdkc0JDVV9jdjA3ejJSajNQQ2Q4NERFbDRCNmg3UTczaE5RZWk1cktv?oc=5"
+      "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -80,7 +80,7 @@
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE91NHdUU3pneUhCWVQxZnZGRXhpejdwWE1hUTVCM2ctaXJyUl9rWm94Y011S0c5b1BXV2wydnBkV011Ym1ucFl6TlpjUi1PUQ?oc=5"
+      "url": "https://www.cool3c.com/article/249996"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -101,7 +101,7 @@
         "Meta",
         "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aYlJIaWtUc0d3eHdrZ050c3NRei1rTGtselZyOVRaVG5BYnFZeHAtVHRJZXRFZUl4TXFmQ3NYRlZ6cGQ2a0ZHbk9lQ0ZlZ0kzMTVHYUZESmZUMkNqQUpj?oc=5"
+      "url": "https://techorange.com/2026/07/10/meta-muse-spark/"
     },
     {
       "id": "全球財經脈動-1",
@@ -121,7 +121,7 @@
         "全球財經",
         "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3NUVPS0dwcnI5djE3Y05sczczd0V5eXNQVnZLZmxubmxXeUlOVk01M0tvOUI0d1hxbEtOM2hLWjBPZmpid1Rhd1ZCcFVRRFla?oc=5"
+      "url": "https://udn.com/news/story/6904/9620467"
     },
     {
       "id": "全球財經脈動-2",
@@ -141,29 +141,10 @@
         "全球財經",
         "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanZVR1FxTll0VGNlMXZXdl85Wjl5alBfc1hKbHJweE1zMHJmbE9teEVRN1VIRlYtQXpyRWVacG1EV0VyNGdqTnVsbFdRc1BEbEpGQTBsczY1RVFLYVZGQnc4QmpnZ1M4cE10YXNTMnowTUF1dmkxODVDcDZpOFZNMWQwb2ltZWxGV1gzSG9yRUQxRTVOdzRqemhRdlBJSkU?oc=5"
+      "url": "https://www.nb.com/zh-TW/insights/how-spacex-and-ai-spending-are-reshaping-investment-grade-credit"
     },
     {
       "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "數據中心泵市場到2032年將達到$73.5億——Mark",
-      "title": "數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "originalTitle": "數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "translatedTitle": "數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-10T10:59:00.000Z",
-      "fact": "Moomoo 報導：數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR21PUHQ5WExDZklrcmZSRV9XRnZxNkswbV9MYl9rM0tGMVU3MnlsLVVLcTBqNmh0WlI2YTIySmtYUV9aZkdQTGQxVFV0VTItbnlQSGxsSlM3VUN4VVFCYWFYWWlRaWtXbFdiVzhoclJNNmhveTVMRXdIVGdwUDZLRVU3UDRxei1zVzNCcXpNX1lmeVJYZFZzc1VGcHBGcU0?oc=5"
-    },
-    {
-      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "摩根士丹利 pours cold water",
       "title": "摩根士丹利 pours cold water: 晶片製造商 face 價格壓力, AI-related 資本支出 begins to 放緩, and U.S. 半導體 股票 are 'significantly 超買'",
@@ -182,10 +163,10 @@
         "semiconductor",
         "stocks"
       ],
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORml3alpPeTU0eFVQQ19xUmdocE5ycTRKbVU2cHNTb0ZVZW9MazJUa3U5UlVtWGJ4UjdoTUxUdXJkVVhuRG8zeGdnZUFHV2g3TllVek9aWTR6dnV2UE8xdUJheTBzVEthV1ptaWdCNWVhM3dHcTl6YjdXalpmM1hHWExLbjBpN2N1T1UtWUI1MEFoMS1qaVhtTzdpWlM1NXU4TnkteHY4MTMyV19l?oc=5"
+      "url": "https://news.futunn.com/en/post/75858106/morgan-stanley-pours-cold-water-chipmakers-face-pricing-pressure-ai"
     },
     {
-      "id": "全球財經脈動-5",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "Is AI 抽走資金 from the crypto 市",
       "title": "Is AI 抽走資金 from the crypto 市場 again? The 背後真相 資金流向 in 2026",
@@ -202,7 +183,28 @@
         "全球財經",
         "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwTlRqdXVNelRUTS1US3FPX3EzMTgwYnM5cVVVSnJGUl80aUdOMjduUGRpaDhYRldiU0J5ZlVqOHlxdF9mNEJqM2s4bDVfeWR6S0l5QQ?oc=5"
+      "url": "https://www.odaily.news/zh-TW/post/5211840"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "The 反彈聲浪 Against AI 資料中心 — B",
+      "title": "The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
+      "originalTitle": "The Backlash Against AI Data Centers -- Barrons.com",
+      "translatedTitle": "The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-10T23:29:10.000Z",
+      "fact": "富途牛牛 報導：The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The Backlash Against AI Data Centers -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "data center"
+      ],
+      "url": "https://news.futunn.com/en/post/75861563/the-backlash-against-ai-data-centers-barronscom"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -222,7 +224,7 @@
         "市場焦點",
         "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9INEZ1SmNLd3Qya3FOem5WX0p2ZlNHSUlhSTd0azVUYnZOS2VMT2g4QnlfVWVJZXdQcEtPR2JCT29mSG40VTJnNEZpRHBMUVU?oc=5"
+      "url": "https://news.cnyes.com/news/id/6531001"
     },
     {
       "id": "美股與全球市場焦點-2",
@@ -241,7 +243,7 @@
       "tags": [
         "市場焦點"
       ],
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQldDZEE5dE9CY2MxWnUyb2VNQ0R4WC1jaTZPUnJpV2tHRXJNOWwxeHlTclNkVmFseFF2aUVHOTR1azlnR01ialhKU3NIRVdwWERNcndfbzFBM19FXzhfdUNpandkblNhbkN4UWg5VU5pdldRMTJLMXQ4bHlvb3ZEMXZMb3k5YUZJeXZDYkxpR3FfSWRZSVR0Tg?oc=5"
+      "url": "https://www.moomoo.com/hant/news/post/72786608/the-ai-boom-needs-data-centres-2-tsx-stocks-to"
     },
     {
       "id": "美股與全球市場焦點-3",
@@ -261,30 +263,10 @@
         "市場焦點",
         "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBJb2stTVRRRHc0ZnZVOGxMeUhvLWdGVmdfQkpMYjNJbGdGN1RkVkpLdkRrd05DTlZnQVhUS0hNYWpMMnloSE52UVFDX09ROTR6VlNHTVI4ZG04SnVXemRCQzgyQ2VHdHNVeFBuZWsybFFqemp5Qnc?oc=5"
+      "url": "https://news.futunn.com/hk/post/75863281/bargains-abound-barron-s-3"
     },
     {
       "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Equities",
-      "title": "Equities: AI 熱潮 風險 and 韌性 – 德國商業銀行",
-      "originalTitle": "Equities: AI Boom risks and resilience – Commerzbank",
-      "translatedTitle": "Equities: AI 熱潮 風險 and 韌性 – 德國商業銀行",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TMGM",
-      "publishedAt": "2026-07-10T14:01:07.000Z",
-      "fact": "TMGM 報導：Equities: AI 熱潮 風險 and 韌性 – 德國商業銀行",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Equities: AI Boom risks and resilience – Commerzbank &nbsp;&nbsp; TMGM。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdnd2UXIwOGFLWFE1SmFpTURMYlR1VmNNVV9mUlRYRTZLTFVlNEFJcUgyZ3dXX0luY1VlTmJjZXo3Vno1cFBwR3duUjVNVWhfS2dRMDhYTnBmbGx0TjZ4NElhY3BNNlBCd0dzMUw2ZFdlZi04Y1A3S2wzbEZkQTdhd0cxaW1ERmlTQmx0a29NS3FnZm1hUmUzbks3Mnk1cUJabGxBVG9yUkc0Ql9BYkZENElGQWx2eWc?oc=5"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "晶片股 have \"fizzled out\" somew",
       "title": "晶片股 have \"fizzled out\" somewhat, but the AI cycle might not be dead yet.",
@@ -302,7 +284,28 @@
         "AI",
         "stocks"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13bWhlSTVaZmRyNnNyRjZXajBxT0hMN2gtZEloWUFXaWlyZ1k3RTAtaEdSM2hYLUp4eGN6OXdNNGRJdGRrWWdGT1ZlY3VwSjFlOHEybQ?oc=5"
+      "url": "https://www.odaily.news/zh-TW/post/5211838"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "【21",
+      "title": "【21:30 即時新聞】Lattice 半導體(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低",
+      "originalTitle": "【21:30 即時新聞】Lattice Semiconductor(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低",
+      "translatedTitle": "【21:30 即時新聞】Lattice 半導體(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-07-09T13:31:32.000Z",
+      "fact": "CMoney投資網誌 報導：【21:30 即時新聞】Lattice 半導體(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【21:30 即時新聞】Lattice Semiconductor(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低 &nbsp;&nbsp; CMoney投資網誌。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-7ff669ea-7b9a-11f1-962e-f3b17a228ba7"
     }
   ]
 }

@@ -29,10 +29,15 @@ const payload = {
 
 for (const feed of FEEDS) {
   const rss = await fetchRss(feed.query);
-  const parsed = parseItems(rss)
+  const rssItems = parseItems(rss)
     .filter((item) => item.title && item.url)
-    .slice(0, SECTION_LIMIT)
-    .map((item, index) => toBriefItem(feed, item, index));
+    .slice(0, SECTION_LIMIT);
+
+  const parsed = [];
+  for (const [index, item] of rssItems.entries()) {
+    const resolvedUrl = await resolveGoogleNewsUrl(item.url);
+    parsed.push(toBriefItem(feed, { ...item, url: resolvedUrl }, index));
+  }
 
   payload.items.push(...parsed);
 }
@@ -64,6 +69,115 @@ async function fetchRss(query) {
   }
 
   return response.text();
+}
+
+async function resolveGoogleNewsUrl(url) {
+  if (!url.includes('news.google.com/rss/articles/')) {
+    return url;
+  }
+
+  try {
+    const articlePage = await fetch(url, {
+      headers: {
+        'user-agent': 'global-ai-finance-hub/1.0'
+      }
+    });
+
+    if (!articlePage.ok) {
+      return url;
+    }
+
+    const html = await articlePage.text();
+    const id = readAttribute(html, 'data-n-a-id');
+    const timestamp = readAttribute(html, 'data-n-a-ts');
+    const signature = readAttribute(html, 'data-n-a-sg');
+
+    if (!id || !timestamp || !signature) {
+      return url;
+    }
+
+    const resolved = await fetchGoogleNewsResolvedUrl(id, timestamp, signature);
+    return resolved || url;
+  } catch {
+    return url;
+  }
+}
+
+async function fetchGoogleNewsResolvedUrl(id, timestamp, signature) {
+  const endpoint = new URL('https://news.google.com/_/DotsSplashUi/data/batchexecute');
+  endpoint.searchParams.set('rpcids', 'Fbv4je');
+
+  const requestPayload = [
+    'garturlreq',
+    [
+      [
+        'en-US',
+        'US',
+        ['FINANCE_TOP_INDICES', 'WEB_TEST_1_0_0'],
+        null,
+        null,
+        1,
+        1,
+        'US:en',
+        null,
+        180,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0,
+        null,
+        null,
+        [1608992183, 723341000]
+      ],
+      'en-US',
+      'US',
+      1,
+      [2, 3, 4, 8],
+      1,
+      0,
+      '655000234',
+      0,
+      0,
+      null,
+      0
+    ],
+    id,
+    Number(timestamp),
+    signature
+  ];
+  const rpcPayload = [[['Fbv4je', JSON.stringify(requestPayload), null, 'generic']]];
+  const body = `f.req=${encodeURIComponent(JSON.stringify(rpcPayload))}`;
+
+  const response = await fetch(endpoint, {
+    method: 'POST',
+    headers: {
+      'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
+      'user-agent': 'global-ai-finance-hub/1.0'
+    },
+    body
+  });
+
+  if (!response.ok) {
+    return '';
+  }
+
+  const text = await response.text();
+  const match = text.match(/\\"garturlres\\",\\"(https?:[^\\"]+)/);
+  return match ? decodeEscapedJsonString(match[1]) : '';
+}
+
+function readAttribute(html, name) {
+  const match = html.match(new RegExp(`${name}="([^"]+)"`));
+  return match?.[1] || '';
+}
+
+function decodeEscapedJsonString(value) {
+  return value
+    .replace(/\\u003d/g, '=')
+    .replace(/\\u0026/g, '&')
+    .replace(/\\\//g, '/');
 }
 
 function parseItems(xml) {

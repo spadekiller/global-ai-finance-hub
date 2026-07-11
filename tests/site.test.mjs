@@ -73,6 +73,7 @@ for (const item of news) {
   assert.ok(item.tags.length > 0, `${item.id} must include at least one tag`);
   assert.ok(/^https?:\/\//.test(item.url), `${item.id} url must be absolute`);
   assert.ok(!item.url.includes('example.com'), `${item.id} must not use placeholder example.com links`);
+  assert.ok(!item.url.includes('news.google.com/rss/articles'), `${item.id} should use the publisher URL, not the Google News wrapper URL`);
   assert.ok(!Number.isNaN(Date.parse(item.publishedAt)), `${item.id} publishedAt must be parseable`);
   assert.equal(item.title, item.translatedTitle, `${item.id} should display translatedTitle as title`);
   assert.ok(item.translationNote.includes('原文'), `${item.id} translationNote should mention original text`);
@@ -92,6 +93,8 @@ assert.match(fetcherText, /fact:/);
 assert.match(fetcherText, /inference:/);
 assert.match(fetcherText, /hypothesis:/);
 assert.match(fetcherText, /translateTitleToZhHant/);
+assert.match(fetcherText, /resolveGoogleNewsUrl/);
+assert.match(fetcherText, /data-n-a-sg/);
 assert.match(fetcherText, /originalTitle/);
 assert.match(fetcherText, /translatedTitle/);
 assert.match(workflowText, /cron:/);
