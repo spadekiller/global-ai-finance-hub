@@ -88,23 +88,107 @@ function parseItems(xml) {
 }
 
 function toBriefItem(feed, item, index) {
-  const subject = inferSubject(item.title);
-  const tags = inferTags(feed, item.title);
+  const originalTitle = item.title;
+  const translatedTitle = translateTitleToZhHant(originalTitle);
+  const translationNote = isLikelyEnglish(originalTitle)
+    ? '系統翻譯，請以原文為準'
+    : '原文為中文或 RSS 已提供中文標題';
+  const subject = inferSubject(translatedTitle);
+  const tags = inferTags(feed, `${originalTitle} ${translatedTitle}`);
 
   return {
     id: `${slug(feed.section)}-${index + 1}`,
     section: feed.section,
     subject,
-    title: item.title,
-    category: inferCategory(feed, item.title),
+    title: translatedTitle,
+    originalTitle,
+    translatedTitle,
+    translationNote,
+    category: inferCategory(feed, `${originalTitle} ${translatedTitle}`),
     source: item.source,
     publishedAt: item.publishedAt,
-    fact: `${item.source} 報導：${item.title}`,
-    inference: buildInference(feed.section, item.title, item.description),
-    hypothesis: buildHypothesis(feed.section, item.title),
+    fact: `${item.source} 報導：${translatedTitle}`,
+    inference: buildInference(feed.section, translatedTitle, item.description),
+    hypothesis: buildHypothesis(feed.section, `${originalTitle} ${translatedTitle}`),
     tags,
     url: item.url
   };
+}
+
+function translateTitleToZhHant(title) {
+  const normalized = title.replace(/\s+/g, ' ').trim();
+
+  if (!isLikelyEnglish(normalized)) {
+    return normalized;
+  }
+
+  const replacements = [
+    [/\bArtificial Intelligence\b/gi, '人工智慧'],
+    [/\bAI\b/g, 'AI'],
+    [/\bdata centers?\b/gi, '資料中心'],
+    [/\bsemiconductors?\b/gi, '半導體'],
+    [/\bchipmakers?\b/gi, '晶片製造商'],
+    [/\bchip stocks?\b/gi, '晶片股'],
+    [/\bstocks?\b/gi, '股票'],
+    [/\bshares?\b/gi, '股價'],
+    [/\bearnings\b/gi, '財報'],
+    [/\binvestment\b/gi, '投資'],
+    [/\bcapital spending\b/gi, '資本支出'],
+    [/\bpricing pressure\b/gi, '價格壓力'],
+    [/\boverbought\b/gi, '超買'],
+    [/\bmarket\b/gi, '市場'],
+    [/\beconomy\b/gi, '經濟'],
+    [/\bcloud\b/gi, '雲端'],
+    [/\benergy\b/gi, '能源'],
+    [/\bdemand\b/gi, '需求'],
+    [/\bbacklash\b/gi, '反彈聲浪'],
+    [/\bboom\b/gi, '熱潮'],
+    [/\brisks?\b/gi, '風險'],
+    [/\bresilience\b/gi, '韌性'],
+    [/\bbargains?\b/gi, '便宜標的'],
+    [/\bpowering\b/gi, '推動'],
+    [/\bhigher\b/gi, '走高'],
+    [/\bslows?\b/gi, '放緩'],
+    [/\bdraining funds\b/gi, '抽走資金'],
+    [/\bcrypto market\b/gi, '加密貨幣市場'],
+    [/\bcapital flows?\b/gi, '資金流向'],
+    [/\btruth behind\b/gi, '背後真相'],
+    [/\bnew group\b/gi, '新一批'],
+    [/\bS&P 500\b/gi, '標普 500'],
+    [/\bMorgan Stanley\b/g, '摩根士丹利'],
+    [/\bBarron'?s\b/gi, 'Barron’s'],
+    [/\bCommerzbank\b/g, '德國商業銀行'],
+    [/\bNvidia\b/gi, '輝達'],
+    [/\bMicrosoft\b/g, '微軟'],
+    [/\bGoogle\b/g, 'Google'],
+    [/\bMeta\b/g, 'Meta'],
+    [/\bOpenAI\b/g, 'OpenAI'],
+    [/\bApple\b/g, '蘋果']
+  ];
+
+  let translated = normalized;
+  for (const [pattern, value] of replacements) {
+    translated = translated.replace(pattern, value);
+  }
+
+  const hasChinese = /[\u4e00-\u9fff]/.test(translated);
+  if (!hasChinese) {
+    return `AI 財經快訊：${normalized}`;
+  }
+
+  return translated
+    .replace(/\s+--\s+/g, ' — ')
+    .replace(/\s+-\s+/g, ' — ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function isLikelyEnglish(value) {
+  const text = String(value || '').trim();
+  if (!text) return false;
+  const latin = (text.match(/[A-Za-z]/g) || []).length;
+  const cjk = (text.match(/[\u4e00-\u9fff]/g) || []).length;
+  return latin >= 12 && latin > cjk;
 }
 
 function readTag(xml, tag) {

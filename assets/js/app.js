@@ -79,7 +79,7 @@
       throw new Error('news.json 必須包含至少 9 則早報條目');
     }
 
-    const requiredFields = ['id', 'section', 'subject', 'title', 'source', 'publishedAt', 'category', 'fact', 'inference', 'hypothesis', 'tags', 'url'];
+    const requiredFields = ['id', 'section', 'subject', 'title', 'originalTitle', 'translatedTitle', 'translationNote', 'source', 'publishedAt', 'category', 'fact', 'inference', 'hypothesis', 'tags', 'url'];
     const invalidItem = state.news.find((item) => requiredFields.some((field) => item[field] == null));
 
     if (invalidItem) {
@@ -112,6 +112,9 @@
         item.section,
         item.subject,
         item.title,
+        item.originalTitle,
+        item.translatedTitle,
+        item.translationNote,
         item.fact,
         item.inference,
         item.hypothesis,
@@ -156,6 +159,13 @@
     }).format(new Date(item.publishedAt));
 
     const tags = (item.tags || []).map((tag) => `<span class="news-tag">${safe(tag)}</span>`).join('');
+    const title = item.translatedTitle || item.title;
+    const originalTitle = item.originalTitle && item.originalTitle !== title
+      ? `<p class="original-title">原文標題：${safe(item.originalTitle)}</p>`
+      : '';
+    const translationNote = item.translationNote
+      ? `<p class="translation-note">${safe(item.translationNote)}</p>`
+      : '';
 
     return `
       <article class="brief-item">
@@ -164,7 +174,9 @@
           <span>${safe(item.source)}</span>
           <time datetime="${safe(item.publishedAt)}">${date}</time>
         </div>
-        <h4><span>${safe(item.subject)}</span>${safe(item.title)}</h4>
+        <h4><span>${safe(item.subject)}</span>${safe(title)}</h4>
+        ${originalTitle}
+        ${translationNote}
         <p class="analysis-line"><span class="claim-label">Fact</span>${safe(item.fact)}</p>
         <p class="analysis-line"><span class="claim-label">Inference</span>${safe(item.inference)}</p>
         <p class="analysis-line"><span class="claim-label">Hypothesis</span>${safe(item.hypothesis)}</p>

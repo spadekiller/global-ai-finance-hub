@@ -50,6 +50,9 @@ assert.match(js, /資料載入失敗/);
 assert.match(js, /Fact/);
 assert.match(js, /Inference/);
 assert.match(js, /Hypothesis/);
+assert.match(js, /translatedTitle/);
+assert.match(js, /originalTitle/);
+assert.match(js, /translationNote/);
 new vm.Script(js);
 
 assert.equal(payload.source, 'Google News RSS');
@@ -58,7 +61,7 @@ assert.ok(!Number.isNaN(Date.parse(payload.generatedAt)), 'generatedAt must be p
 assert.ok(Array.isArray(news), 'payload.items must be an array');
 assert.ok(news.length >= 9, 'news payload must include at least 9 brief items');
 
-const requiredFields = ['id', 'section', 'subject', 'title', 'category', 'source', 'publishedAt', 'fact', 'inference', 'hypothesis', 'tags', 'url'];
+const requiredFields = ['id', 'section', 'subject', 'title', 'originalTitle', 'translatedTitle', 'translationNote', 'category', 'source', 'publishedAt', 'fact', 'inference', 'hypothesis', 'tags', 'url'];
 for (const item of news) {
   for (const field of requiredFields) {
     assert.ok(item[field] != null, `${item.id} missing ${field}`);
@@ -69,6 +72,11 @@ for (const item of news) {
   assert.ok(/^https?:\/\//.test(item.url), `${item.id} url must be absolute`);
   assert.ok(!item.url.includes('example.com'), `${item.id} must not use placeholder example.com links`);
   assert.ok(!Number.isNaN(Date.parse(item.publishedAt)), `${item.id} publishedAt must be parseable`);
+  assert.equal(item.title, item.translatedTitle, `${item.id} should display translatedTitle as title`);
+  assert.ok(item.translationNote.includes('原文'), `${item.id} translationNote should mention original text`);
+  if (/^[\x00-\x7F\s\-–—:;,.!?'"()&%0-9]+$/.test(item.originalTitle)) {
+    assert.match(item.translatedTitle, /[\u4e00-\u9fff]/, `${item.id} English original title should have Traditional Chinese translation`);
+  }
 }
 
 assert.deepEqual([...new Set(news.map((item) => item.section))], [
@@ -81,6 +89,9 @@ assert.match(fetcherText, /news\.google\.com\/rss\/search/);
 assert.match(fetcherText, /fact:/);
 assert.match(fetcherText, /inference:/);
 assert.match(fetcherText, /hypothesis:/);
+assert.match(fetcherText, /translateTitleToZhHant/);
+assert.match(fetcherText, /originalTitle/);
+assert.match(fetcherText, /translatedTitle/);
 assert.match(workflowText, /cron:/);
 assert.match(workflowText, /node scripts\/fetch-news\.mjs/);
 
