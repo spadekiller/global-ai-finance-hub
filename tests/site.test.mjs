@@ -53,6 +53,8 @@ assert.match(js, /Hypothesis/);
 assert.match(js, /translatedTitle/);
 assert.match(js, /originalTitle/);
 assert.match(js, /translationNote/);
+assert.match(js, /translate\.google\.com\/translate/);
+assert.match(js, /翻譯原文/);
 new vm.Script(js);
 
 assert.equal(payload.source, 'Google News RSS');

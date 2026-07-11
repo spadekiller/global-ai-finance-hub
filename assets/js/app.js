@@ -166,6 +166,7 @@
     const translationNote = item.translationNote
       ? `<p class="translation-note">${safe(item.translationNote)}</p>`
       : '';
+    const translatedSourceUrl = translatedUrl(item.url);
 
     return `
       <article class="brief-item">
@@ -181,7 +182,10 @@
         <p class="analysis-line"><span class="claim-label">Inference</span>${safe(item.inference)}</p>
         <p class="analysis-line"><span class="claim-label">Hypothesis</span>${safe(item.hypothesis)}</p>
         <div class="news-tags" aria-label="新聞標籤">${tags}</div>
-        <a class="source-link" href="${safeUrl(item.url)}" target="_blank" rel="noopener noreferrer">閱讀來源</a>
+        <div class="source-actions">
+          <a class="source-link" href="${safeUrl(item.url)}" target="_blank" rel="noopener noreferrer">閱讀來源</a>
+          <a class="source-link translate-link" href="${safeUrl(translatedSourceUrl)}" target="_blank" rel="noopener noreferrer">翻譯原文</a>
+        </div>
       </article>
     `;
   }
@@ -221,6 +225,18 @@
     try {
       const url = new URL(String(value), window.location.href);
       return safe(url.href);
+    } catch {
+      return '#';
+    }
+  }
+
+  function translatedUrl(value) {
+    try {
+      const url = new URL('https://translate.google.com/translate');
+      url.searchParams.set('sl', 'auto');
+      url.searchParams.set('tl', 'zh-TW');
+      url.searchParams.set('u', new URL(String(value), window.location.href).href);
+      return url.href;
     } catch {
       return '#';
     }
