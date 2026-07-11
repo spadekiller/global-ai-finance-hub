@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T22:51:19.087Z",
+  "generatedAt": "2026-07-11T01:24:48.136Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -23,19 +23,20 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
+      "subject": "OpenAI",
+      "title": "AI 硬體爭奪戰升溫，蘋果控告 OpenAI 系統性挖角與竊密",
       "category": "前沿模型",
-      "source": "iThome",
-      "publishedAt": "2026-07-10T06:01:23.000Z",
-      "fact": "iThome 報導：Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta升級Muse Spark 1.1，強化代理人能力並首度開放Model API &nbsp;&nbsp; iThome。",
+      "source": "鏈新聞 ABMedia",
+      "publishedAt": "2026-07-11T01:09:35.000Z",
+      "fact": "鏈新聞 ABMedia 報導：AI 硬體爭奪戰升溫，蘋果控告 OpenAI 系統性挖角與竊密",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 硬體爭奪戰升溫，蘋果控告 OpenAI 系統性挖角與竊密 &nbsp;&nbsp; 鏈新聞 ABMedia。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Meta"
+        "OpenAI",
+        "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9mSFBfQ1JIS01GU3RsNmVVY3UwWmZ0cGVJaWVWc1BnMzlvQWlnY0dmcEppTjl0Q2VkT1FxSEwzT1lKWWs4N2FzZHVRaFYzZw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBSVkdhYjBBLTlOLXBUazRYc0dodVV0Um0zTllaeVhPX0cwdzd0V1dpYktuQmxYQnhUQnJUb0FBOXEtZ08xM05UaVFCVGtEVzB6MXpyUzFEc1J1cTJpWktqMnB3Yw?oc=5"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -58,38 +59,37 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "科技巨擘紛紛自研晶片！微軟、Google、Meta 全入局，圍攻輝達 AI 霸權",
-      "category": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Muse Spark 模型更新、力推 Meta Model API，祖克柏罕見發推宣傳",
+      "category": "前沿模型",
       "source": "TechNews 科技新報",
-      "publishedAt": "2026-07-10T02:28:26.000Z",
-      "fact": "TechNews 科技新報 報導：科技巨擘紛紛自研晶片！微軟、Google、Meta 全入局，圍攻輝達 AI 霸權",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；科技巨擘紛紛自研晶片！微軟、Google、Meta 全入局，圍攻輝達 AI 霸權 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "publishedAt": "2026-07-11T00:01:27.000Z",
+      "fact": "TechNews 科技新報 報導：Muse Spark 模型更新、力推 Meta Model API，祖克柏罕見發推宣傳",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Muse Spark 模型更新、力推 Meta Model API，祖克柏罕見發推宣傳 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "Meta",
-        "AI"
+        "Meta"
       ],
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLWNKSjVZTWxkLXlJbzNWaE91Rmg4WUduV2QxSWVNaDdzLUhTRlF0WXdOLXlfSlFzWF8wZTJRdlZVWDVOZkxBTkIwa3N5QW5YbHh4RHVGekx1WlhieTJDQlM2OTNjZGcwbHB5ZmxTQjNKbUhqaEwtMl9LUlNXSjA4QzZQM2Zwd3VHMDJicw?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE41TU5ReVU2M0ROVXBuLWlKeHMwQ3hIMnB5TlhDVDdJQnFYa2hlOXU3MGZiVHQ4dTRvLURBMFJmMngzR0VRdzViQS1LSFViWkpLMUY0b0p3NGJha3NKTm91LWxKakg3QVRKZ2llVjVPbw?oc=5"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Gemini必裝擴充功能Voyager！解鎖多層資料夾一",
-      "title": "Gemini必裝擴充功能Voyager！解鎖多層資料夾一鍵下載無水印AI圖",
-      "category": "前沿模型",
-      "source": "香港01",
-      "publishedAt": "2026-07-10T16:01:44.000Z",
-      "fact": "香港01 報導：Gemini必裝擴充功能Voyager！解鎖多層資料夾一鍵下載無水印AI圖",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini必裝擴充功能Voyager！解鎖多層資料夾一鍵下載無水印AI圖 &nbsp;&nbsp; 香港01。",
+      "subject": "Meta",
+      "title": "Meta AI雙利多齊發！首款付費AI模型上線、Iris量產在即 股價強漲4.7%",
+      "category": "AI 與科技前沿",
+      "source": "news.cnyes.com",
+      "publishedAt": "2026-07-09T22:32:26.000Z",
+      "fact": "news.cnyes.com 報導：Meta AI雙利多齊發！首款付費AI模型上線、Iris量產在即 股價強漲4.7%",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta AI雙利多齊發！首款付費AI模型上線、Iris量產在即 股價強漲4.7% &nbsp;&nbsp; news.cnyes.com。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Meta",
         "AI"
       ],
-      "url": "https://news.google.com/rss/articles/CBMihwNBVV95cUxOQTBmTFFOM2sydWlIQmVpc0kxRHBXdzEzb1o2dTlQN1p5U0JFLWwwNVIybWJSNE12TnJ5SGo3bVpXa3VNZlZXU2dhOExMQVlnN2hQSjRoMWNsaUtadkRsdTBlVXZhRV9wek5oNFFzQ2ZyOTJ5T2pxbHE3V1FZUXNCcEoyV2NPbmtPYVpSbkxvSXdzLXRnVXZ0eVF0RGVaUGRpU2NOeTUwbVN6NTlhU0ZmOEd3VllKSzU4TVB2NnlzNklXT0ppM2FMUlRsVXR5eEFfZmxpNElxZUdxNDhpTUtTd2FyaXlHdi1UbkNibHFQcWQ2SlhHZzVIVk5EUkhtMHlWbEpzWl84U1c1QzJBYVJpNGw1Z2YyLWMxLURscTRHWVpuV2VTd3J6N1prTFRaZHRGOUwyMm9sSlJaZDRER2JyRTlaZ05XWjA3UUx2TTF6ZHVxOHlkcVJndnFQWlV4MjA1aGl6dko0MmVzNE9VcnhPMVhLTlhQNXhuSWFHbXh0bmQzaXVGSDd3?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE91clVqODlSOVdTLV9YTzBGOGJmYjduVWxMcTFvc3BYenV0OWQtTzN2WnZWX2x3bXNVZi1VZWtMZmRJQ2FLZGlaMEpPbFFUaUk?oc=5"
     },
     {
       "id": "全球財經脈動-1",
@@ -128,23 +128,40 @@
     {
       "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "AI Data Center Demand to Fue",
-      "title": "AI Data Center Demand to Fuel Clean Tech Order Inflection, Morgan Stanley Says",
+      "subject": "The Backlash Against AI Data",
+      "title": "The Backlash Against AI Data Centers -- Barrons.com",
       "category": "雲端基礎設施",
       "source": "富途牛牛",
-      "publishedAt": "2026-07-09T13:07:16.000Z",
-      "fact": "富途牛牛 報導：AI Data Center Demand to Fuel Clean Tech Order Inflection, Morgan Stanley Says",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI Data Center Demand to Fuel Clean Tech Order Inflection, Morgan Stanley Says &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-07-10T23:29:10.000Z",
+      "fact": "富途牛牛 報導：The Backlash Against AI Data Centers -- Barrons.com",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The Backlash Against AI Data Centers -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI",
         "data center"
       ],
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVGozZ3hzaGdLUVo2eG1PRmRXRnJkOHdBbHJQbm8tUTJzREJkdTlNdUJKQ0Q5Yi1pSnl4ekRuRTZZVk5XbnNOWXVmSlhvZUI3c2tTNWlQZVo0S3NuUjBPRGlIS3oyR3hrNElVWjVmZXJLZjlIMGpRanFETW5DdVBEMUxZbS05ZFFQYTVQeHdsdUVqeUgyLVhjRHJ3SXBMb3M?oc=5"
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPRm1fU3AtSHItQ2lnd1JjNGFjVjV0Y0RRVjNyRGlqOW4tb2NpanQxSUpOTmkzSnBTTzZhOXlJYlhiRFF0RlVCVzdsTEtqZ0ZDcFN4akNqdG5ScUtleW9SbGxEQTNqZ05Lb29wRGNkTllQMmJoOVpjSF9oR2RRM29DM3p6SElQZUpERHR1THRpYUU4Zw?oc=5"
     },
     {
       "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "Is AI draining funds from th",
+      "title": "Is AI draining funds from the crypto market again? The truth behind capital flows in 2026",
+      "category": "全球財經",
+      "source": "odaily.news",
+      "publishedAt": "2026-07-10T09:24:12.000Z",
+      "fact": "odaily.news 報導：Is AI draining funds from the crypto market again? The truth behind capital flows in 2026",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Is AI draining funds from the crypto market again? The truth behind capital flows in 2026 &nbsp;&nbsp; odaily.news。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAwTlRqdXVNelRUTS1US3FPX3EzMTgwYnM5cVVVSnJGUl80aUdOMjduUGRpaDhYRldiU0J5ZlVqOHlxdF9mNEJqM2s4bDVfeWR6S0l5QQ?oc=5"
+    },
+    {
+      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "Morgan Stanley warns that se",
       "title": "Morgan Stanley warns that semiconductor sector valuations have overheated; tech giants' in-house chip development could erode the industry's pricing power.",
@@ -216,6 +233,22 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
+      "subject": "人工智能熱潮需要數據中心",
+      "title": "人工智能熱潮需要數據中心：2只多倫多證券交易所股票值得關注",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-10T13:30:00.000Z",
+      "fact": "Moomoo 報導：人工智能熱潮需要數據中心：2只多倫多證券交易所股票值得關注",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；人工智能熱潮需要數據中心：2只多倫多證券交易所股票值得關注 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQldDZEE5dE9CY2MxWnUyb2VNQ0R4WC1jaTZPUnJpV2tHRXJNOWwxeHlTclNkVmFseFF2aUVHOTR1azlnR01ialhKU3NIRVdwWERNcndfbzFBM19FXzhfdUNpandkblNhbkN4UWg5VU5pdldRMTJLMXQ4bHlvb3ZEMXZMb3k5YUZJeXZDYkxpR3FfSWRZSVR0Tg?oc=5"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
       "subject": "Meta",
       "title": "Why Meta's In-House AI Chip Plans Sent Chip-Equipment Stocks Soaring -- Barrons.com",
       "category": "市場焦點",
@@ -231,24 +264,6 @@
         "stocks"
       ],
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQakRUVGpKR0V0VnE5OEQtM1d6Vk5kT3pOWENfVjU1SXVGa29qNzU4S3g4VW84bUc1bmprRm5pRGVNQklqTTR0M2RRMml6Ym5zWnpvWEdHUFhfQ1l1TUdEVWZBSks2eWpFSWNJSEtsWWhpakpNb1ljdEM4bDd4azVERUtfaHdMa3ZUdEM5bg?oc=5"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "【21",
-      "title": "【21:30 即時新聞】Lattice Semiconductor(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低",
-      "category": "AI 晶片",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-07-09T13:31:32.000Z",
-      "fact": "CMoney投資網誌 報導：【21:30 即時新聞】Lattice Semiconductor(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【21:30 即時新聞】Lattice Semiconductor(LSCC) 大漲逾5%／逆勢走強、反映AI晶片族群前一日過度殺低 &nbsp;&nbsp; CMoney投資網誌。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "semiconductor"
-      ],
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb3EyUGFFUWRfREVsVnVRQWljdFU3T0hpNWJKdlpsOEEzTlByZVExQkFwM3ZabnFOalhRQ2JhNFZiQ3BZSVE5N0RZSGNDV1lEemZNdFZlaUFkTGg3UUhzWUh0R1k5SndDNUVqUXhPSFBNYnRweW9uSlVURjdSRHNoWXpWcjBIanBzNzRDS0d3?oc=5"
     }
   ]
 }
