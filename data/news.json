@@ -1,130 +1,112 @@
 {
-  "generatedAt": "2026-07-12T01:26:41.260Z",
+  "generatedAt": "2026-07-12T22:38:06.358Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體",
-      "title": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
-      "originalTitle": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
-      "translatedTitle": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Cool3c",
-      "publishedAt": "2026-07-11T22:42:46.000Z",
-      "fact": "Cool3c 報導：蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996) &nbsp;&nbsp; Cool3c。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.cool3c.com/article/249996"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "蘋果怒告OpenAI竊取商業機密涉AI硬件開發400人被挖角- 國際",
-      "originalTitle": "蘋果怒告OpenAI竊取商業機密涉AI硬件開發400人被挖角- 國際",
-      "translatedTitle": "蘋果怒告OpenAI竊取商業機密涉AI硬件開發400人被挖角- 國際",
+      "title": "馬斯克再槓奧特曼！蘋果提告OpenAI、GPT-5.6與Grok 4.5同步登場成焦點",
+      "originalTitle": "馬斯克再槓奧特曼！蘋果提告OpenAI、GPT-5.6與Grok 4.5同步登場成焦點",
+      "translatedTitle": "馬斯克再槓奧特曼！蘋果提告OpenAI、GPT-5.6與Grok 4.5同步登場成焦點",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "大公文匯網",
-      "publishedAt": "2026-07-11T20:13:13.000Z",
-      "fact": "大公文匯網 報導：蘋果怒告OpenAI竊取商業機密涉AI硬件開發400人被挖角- 國際",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果怒告OpenAI竊取商業機密涉AI硬件開發400人被挖角- 國際 &nbsp;&nbsp; 大公文匯網。",
+      "source": "news.cnyes.com",
+      "publishedAt": "2026-07-12T10:10:04.000Z",
+      "fact": "news.cnyes.com 報導：馬斯克再槓奧特曼！蘋果提告OpenAI、GPT-5.6與Grok 4.5同步登場成焦點",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；馬斯克再槓奧特曼！蘋果提告OpenAI、GPT-5.6與Grok 4.5同步登場成焦點 &nbsp;&nbsp; news.cnyes.com。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://epaper.tkww.hk/a/202607/12/AP6a52a451e4b04773b0722936.html"
+      "url": "https://news.cnyes.com/news/id/6531461"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "GPT",
-      "title": "GPT-5.6：隨你的抱負而擴展的前沿智慧",
-      "originalTitle": "GPT-5.6：隨你的抱負而擴展的前沿智慧",
-      "translatedTitle": "GPT-5.6：隨你的抱負而擴展的前沿智慧",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "OpenAI",
-      "publishedAt": "2026-07-10T10:38:05.000Z",
-      "fact": "OpenAI 報導：GPT-5.6：隨你的抱負而擴展的前沿智慧",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-5.6：隨你的抱負而擴展的前沿智慧 &nbsp;&nbsp; OpenAI。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://openai.com/zh-Hant/index/gpt-5-6/"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "前沿AI模型存國安風險 美政府和國會警惕",
-      "title": "前沿AI模型存國安風險 美政府和國會警惕",
-      "originalTitle": "前沿AI模型存國安風險 美政府和國會警惕",
-      "translatedTitle": "前沿AI模型存國安風險 美政府和國會警惕",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "大纪元",
-      "publishedAt": "2026-07-11T20:07:00.000Z",
-      "fact": "大纪元 報導：前沿AI模型存國安風險 美政府和國會警惕",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；前沿AI模型存國安風險 美政府和國會警惕 &nbsp;&nbsp; 大纪元。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.epochtimes.com/b5/26/7/11/n14807704.htm/amp"
-    },
-    {
-      "id": "ai-與科技前沿-5",
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Meta",
-      "title": "從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？",
-      "originalTitle": "從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？",
-      "translatedTitle": "從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？",
-      "translationNote": "系統翻譯，請以原文為準",
+      "title": "AI算力狂潮不減！從Meta賣機器到晶片股震盪，真正危機不是需求而是供應失衡",
+      "originalTitle": "AI算力狂潮不減！從Meta賣機器到晶片股震盪，真正危機不是需求而是供應失衡",
+      "translatedTitle": "AI算力狂潮不減！從Meta賣機器到晶片股震盪，真正危機不是需求而是供應失衡",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "TechOrange 科技報橘",
-      "publishedAt": "2026-07-10T04:35:10.000Z",
-      "fact": "TechOrange 科技報橘 報導：從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；從開源 Llama 到付費 Muse Spark 1.1：Meta 如何用低價 API 搶攻 AI Agent 開發入口？ &nbsp;&nbsp; TechOrange 科技報橘。",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-07-12T06:00:27.000Z",
+      "fact": "CMoney投資網誌 報導：AI算力狂潮不減！從Meta賣機器到晶片股震盪，真正危機不是需求而是供應失衡",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI算力狂潮不減！從Meta賣機器到晶片股震盪，真正危機不是需求而是供應失衡 &nbsp;&nbsp; CMoney投資網誌。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Meta",
         "AI"
       ],
-      "url": "https://techorange.com/2026/07/10/meta-muse-spark/"
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-fb087647-7db6-11f1-87b3-5e46f87279d4?utm_source"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "全美首例 伊州強制AI實驗室通過第三方審計",
+      "title": "全美首例 伊州強制AI實驗室通過第三方審計",
+      "originalTitle": "全美首例 伊州強制AI實驗室通過第三方審計",
+      "translatedTitle": "全美首例 伊州強制AI實驗室通過第三方審計",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "世界新聞網",
+      "publishedAt": "2026-07-12T06:15:00.000Z",
+      "fact": "世界新聞網 報導：全美首例 伊州強制AI實驗室通過第三方審計",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；全美首例 伊州強制AI實驗室通過第三方審計 &nbsp;&nbsp; 世界新聞網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.worldjournal.com/wj/amp/story/121275/9619334"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬",
+      "title": "南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢",
+      "originalTitle": "南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢",
+      "translatedTitle": "南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-07-12T06:53:00.000Z",
+      "fact": "蕃新聞 報導：南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢 &nbsp;&nbsp; 蕃新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://n.yam.com/Article/20260712586654"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？",
+      "originalTitle": "從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？",
+      "translatedTitle": "從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "TradingView",
+      "publishedAt": "2026-07-11T06:06:04.000Z",
+      "fact": "TradingView 報導：從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？ &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/gelonghui:b95990885acdf:0/"
     },
     {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "紐時賞析／美國AI用電暴增的解方",
-      "title": "紐時賞析／美國AI用電暴增的解方：從家庭開始| 放學微素養| 文教",
-      "originalTitle": "紐時賞析／美國AI用電暴增的解方：從家庭開始| 放學微素養| 文教",
-      "translatedTitle": "紐時賞析／美國AI用電暴增的解方：從家庭開始| 放學微素養| 文教",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
-      "source": "聯合新聞網",
-      "publishedAt": "2026-07-10T16:00:00.000Z",
-      "fact": "聯合新聞網 報導：紐時賞析／美國AI用電暴增的解方：從家庭開始| 放學微素養| 文教",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；紐時賞析／美國AI用電暴增的解方：從家庭開始| 放學微素養| 文教 &nbsp;&nbsp; 聯合新聞網。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://udn.com/news/story/6904/9620467"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "How SpaceX and AI Spending A",
       "title": "How SpaceX and AI Spending Are Reshaping 投資 Grade Credit",
@@ -144,166 +126,186 @@
       "url": "https://www.nb.com/zh-tw/insights/how-spacex-and-ai-spending-are-reshaping-investment-grade-credit"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "數據中心泵市場到2032年將達到$73.5億——Mark",
-      "title": "數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "originalTitle": "數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "translatedTitle": "數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-10T10:59:00.000Z",
-      "fact": "Moomoo 報導：數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心泵市場到2032年將達到$73.5億——MarketsandMarkets獨家報告 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/72779315/data-center-pumps-market-worth-7-35-billion-by-2032"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "摩根士丹利 pours cold water",
-      "title": "摩根士丹利 pours cold water: 晶片製造商 face 價格壓力, AI-related 資本支出 begins to 放緩, and U.S. 半導體 股票 are 'significantly 超買'",
-      "originalTitle": "Morgan Stanley pours cold water: chipmakers face pricing pressure, AI-related capital spending begins to slow, and U.S. semiconductor stocks are 'significantly overbought'",
-      "translatedTitle": "摩根士丹利 pours cold water: 晶片製造商 face 價格壓力, AI-related 資本支出 begins to 放緩, and U.S. 半導體 股票 are 'significantly 超買'",
+      "subject": "This 資料中心 IPO Is the Next Bi",
+      "title": "This 資料中心 IPO Is the Next Big Test for the AI Trade — Barron’s.com",
+      "originalTitle": "This Data Center IPO Is the Next Big Test for the AI Trade -- Barrons.com",
+      "translatedTitle": "This 資料中心 IPO Is the Next Big Test for the AI Trade — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
+      "category": "雲端基礎設施",
       "source": "富途牛牛",
-      "publishedAt": "2026-07-10T20:49:25.000Z",
-      "fact": "富途牛牛 報導：摩根士丹利 pours cold water: 晶片製造商 face 價格壓力, AI-related 資本支出 begins to 放緩, and U.S. 半導體 股票 are 'significantly 超買'",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Morgan Stanley pours cold water: chipmakers face pricing pressure, AI-related capital spending begins to slow, and U.S.。",
+      "publishedAt": "2026-07-12T05:43:26.000Z",
+      "fact": "富途牛牛 報導：This 資料中心 IPO Is the Next Big Test for the AI Trade — Barron’s.com",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；This Data Center IPO Is the Next Big Test for the AI Trade -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI",
-        "semiconductor",
-        "stocks"
+        "data center"
       ],
-      "url": "https://news.futunn.com/en/post/75858106/morgan-stanley-pours-cold-water-chipmakers-face-pricing-pressure-ai"
+      "url": "https://news.futunn.com/en/post/75872651/this-data-center-ipo-is-the-next-big-test-for"
     },
     {
-      "id": "全球財經脈動-5",
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "Is AI 抽走資金 from the crypto 市",
-      "title": "Is AI 抽走資金 from the crypto 市場 again? The 背後真相 資金流向 in 2026",
-      "originalTitle": "Is AI draining funds from the crypto market again? The truth behind capital flows in 2026",
-      "translatedTitle": "Is AI 抽走資金 from the crypto 市場 again? The 背後真相 資金流向 in 2026",
+      "subject": "AI 熱潮 is too power",
+      "title": "AI 熱潮 is too power-intensive; gas turbine prices have surged 300% in three years.",
+      "originalTitle": "AI boom is too power-intensive; gas turbine prices have surged 300% in three years.",
+      "translatedTitle": "AI 熱潮 is too power-intensive; gas turbine prices have surged 300% in three years.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "odaily.news",
-      "publishedAt": "2026-07-10T09:24:12.000Z",
-      "fact": "odaily.news 報導：Is AI 抽走資金 from the crypto 市場 again? The 背後真相 資金流向 in 2026",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Is AI draining funds from the crypto market again? The truth behind capital flows in 2026 &nbsp;&nbsp; odaily.news。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-12T10:51:32.000Z",
+      "fact": "富途牛牛 報導：AI 熱潮 is too power-intensive; gas turbine prices have surged 300% in three years.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI boom is too power-intensive; gas turbine prices have surged 300% in three years. &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://www.odaily.news/zh-TW/post/5211840"
+      "url": "https://news.futunn.com/en/post/75874077/ai-boom-is-too-power-intensive-gas-turbine-prices-have"
+    },
+    {
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "The 反彈聲浪 Against AI 資料中心 — B",
+      "title": "The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
+      "originalTitle": "The Backlash Against AI Data Centers -- Barrons.com",
+      "translatedTitle": "The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-10T23:29:10.000Z",
+      "fact": "富途牛牛 報導：The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The Backlash Against AI Data Centers -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "data center"
+      ],
+      "url": "https://news.futunn.com/en/post/75861563/the-backlash-against-ai-data-centers-barronscom"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "Oracle 股票 extends gains on A",
+      "title": "Oracle 股票 extends gains on AI power push as 能源 需求 rises",
+      "originalTitle": "Oracle stock extends gains on AI power push as energy demand rises",
+      "translatedTitle": "Oracle 股票 extends gains on AI power push as 能源 需求 rises",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "MSN",
+      "publishedAt": "2026-07-11T16:41:19.000Z",
+      "fact": "MSN 報導：Oracle 股票 extends gains on AI power push as 能源 需求 rises",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Oracle stock extends gains on AI power push as energy demand rises &nbsp;&nbsp; MSN。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://www.msn.com/zh-hk/news/techandscience/oracle-stock-extends-gains-on-ai-power-push-as-energy-demand-rises/ar-AA20S2Ij?apiversion"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "晶片股漲太兇了？大摩警告AI支出恐開始踩煞車",
-      "title": "晶片股漲太兇了？大摩警告AI支出恐開始踩煞車",
-      "originalTitle": "晶片股漲太兇了？大摩警告AI支出恐開始踩煞車",
-      "translatedTitle": "晶片股漲太兇了？大摩警告AI支出恐開始踩煞車",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Big Tech's Massive AI Spendi",
+      "title": "Big Tech's Massive AI Spending Is Just Starting. 財報 Will Show It. — Barron’s.com",
+      "originalTitle": "Big Tech's Massive AI Spending Is Just Starting. Earnings Will Show It. -- Barrons.com",
+      "translatedTitle": "Big Tech's Massive AI Spending Is Just Starting. 財報 Will Show It. — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "news.cnyes.com",
-      "publishedAt": "2026-07-10T18:00:23.000Z",
-      "fact": "news.cnyes.com 報導：晶片股漲太兇了？大摩警告AI支出恐開始踩煞車",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；晶片股漲太兇了？大摩警告AI支出恐開始踩煞車 &nbsp;&nbsp; news.cnyes.com。",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-12T07:00:00.000Z",
+      "fact": "Moomoo 報導：Big Tech's Massive AI Spending Is Just Starting. 財報 Will Show It. — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Big Tech's Massive AI Spending Is Just Starting. Earnings Will Show It. -- Barrons.com &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "earnings"
       ],
-      "url": "https://news.cnyes.com/news/id/6531001"
+      "url": "https://www.moomoo.com/hant/news/post/72809719/big-tech-s-massive-ai-spending-is-just-starting-earnings"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Micron Technology (MU)",
-      "originalTitle": "Micron Technology (MU)",
-      "translatedTitle": "AI 財經快訊：Micron Technology (MU)",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "【MM一週盤前】南韓股市落入技術性熊市，本週聚焦美國 C",
+      "title": "【MM一週盤前】南韓股市落入技術性熊市，本週聚焦美國 CPI 與台積電法說！",
+      "originalTitle": "【MM一週盤前】南韓股市落入技術性熊市，本週聚焦美國 CPI 與台積電法說！",
+      "translatedTitle": "【MM一週盤前】南韓股市落入技術性熊市，本週聚焦美國 CPI 與台積電法說！",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-11T02:57:14.000Z",
-      "fact": "Moomoo 報導：AI 財經快訊：Micron Technology (MU)",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Micron Technology (MU) &nbsp;&nbsp; Moomoo。",
+      "source": "MacroMicro",
+      "publishedAt": "2026-07-12T04:55:35.000Z",
+      "fact": "MacroMicro 報導：【MM一週盤前】南韓股市落入技術性熊市，本週聚焦美國 CPI 與台積電法說！",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【MM一週盤前】南韓股市落入技術性熊市，本週聚焦美國 CPI 與台積電法說！ &nbsp;&nbsp; MacroMicro。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://www.moomoo.com/stock/MU-US/earnings?chain_id"
+      "url": "https://www.macromicro.me/blog/mm-weekly-premarket-update-south-korean-stocks-have-entered-a-technical-bear-market-this-week-s-focus-is-on-us-cpi-and-tsmc-s-earnings-report"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "ALAB 股票飆漲 150%！Astera Labs 財",
-      "title": "ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析",
-      "originalTitle": "ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析",
-      "translatedTitle": "ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Big Tech's Massive AI Spendi",
+      "title": "Big Tech's Massive AI Spending Is Just Starting. 財報 Will Show It. — Barron’s.com",
+      "originalTitle": "Big Tech's Massive AI Spending Is Just Starting. Earnings Will Show It. -- Barrons.com",
+      "translatedTitle": "Big Tech's Massive AI Spending Is Just Starting. 財報 Will Show It. — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "top1markets.com",
-      "publishedAt": "2026-07-10T17:30:38.000Z",
-      "fact": "top1markets.com 報導：ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析 &nbsp;&nbsp; top1markets.com。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-12T08:28:12.000Z",
+      "fact": "富途牛牛 報導：Big Tech's Massive AI Spending Is Just Starting. 財報 Will Show It. — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Big Tech's Massive AI Spending Is Just Starting. Earnings Will Show It. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "earnings"
       ],
-      "url": "https://www.top1markets.com/tw/news/alab-stock-analysis-astera-labs-earnings-ai-data-center"
+      "url": "https://news.futunn.com/hk/post/75873020/big-tech-s-massive-ai-spending-is-just-starting-earnings"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Equities",
-      "title": "Equities: AI 熱潮 風險 and 韌性 – 德國商業銀行",
-      "originalTitle": "Equities: AI Boom risks and resilience – Commerzbank",
-      "translatedTitle": "Equities: AI 熱潮 風險 and 韌性 – 德國商業銀行",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "美晶片股重燃動能 緊盯台積、ASML法說",
+      "title": "美晶片股重燃動能 緊盯台積、ASML法說",
+      "originalTitle": "美晶片股重燃動能 緊盯台積、ASML法說",
+      "translatedTitle": "美晶片股重燃動能 緊盯台積、ASML法說",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TMGM",
-      "publishedAt": "2026-07-10T14:01:07.000Z",
-      "fact": "TMGM 報導：Equities: AI 熱潮 風險 and 韌性 – 德國商業銀行",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Equities: AI Boom risks and resilience – Commerzbank &nbsp;&nbsp; TMGM。",
+      "source": "經濟日報",
+      "publishedAt": "2026-07-11T19:34:12.000Z",
+      "fact": "經濟日報 報導：美晶片股重燃動能 緊盯台積、ASML法說",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美晶片股重燃動能 緊盯台積、ASML法說 &nbsp;&nbsp; 經濟日報。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://www.tmgm.com/cht/analysis/market-news/article/equities-ai-boom-risks-and-resilience-commerzbank-202607101234"
+      "url": "https://money.udn.com/money/story/123398/9622028"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "股票 Are Seeing Increasingly W",
-      "title": "股票 Are Seeing Increasingly Wild Swings Post-財報. Why Even Good Numbers Often Aren't Enough to Impress.",
-      "originalTitle": "Stocks Are Seeing Increasingly Wild Swings Post-earnings. Why Even Good Numbers Often Aren't Enough to Impress.",
-      "translatedTitle": "股票 Are Seeing Increasingly Wild Swings Post-財報. Why Even Good Numbers Often Aren't Enough to Impress.",
+      "subject": "ON 半導體 to buy Synaptics in a",
+      "title": "ON 半導體 to buy Synaptics in all-股票 deal with $7 billion enterprise value",
+      "originalTitle": "ON Semiconductor to buy Synaptics in all-stock deal with $7 billion enterprise value",
+      "translatedTitle": "ON 半導體 to buy Synaptics in all-股票 deal with $7 billion enterprise value",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-10T11:34:42.000Z",
-      "fact": "富途牛牛 報導：股票 Are Seeing Increasingly Wild Swings Post-財報. Why Even Good Numbers Often Aren't Enough to Impress.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stocks Are Seeing Increasingly Wild Swings Post-earnings. Why Even Good Numbers Often Aren't Enough to Impress. &nbsp;&n。",
+      "source": "MSN",
+      "publishedAt": "2026-07-12T14:54:55.000Z",
+      "fact": "MSN 報導：ON 半導體 to buy Synaptics in all-股票 deal with $7 billion enterprise value",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；ON Semiconductor to buy Synaptics in all-stock deal with $7 billion enterprise value &nbsp;&nbsp; MSN。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "earnings",
-        "stocks"
+        "semiconductor"
       ],
-      "url": "https://news.futunn.com/hk/post/75842219/stocks-are-seeing-increasingly-wild-swings-post-earnings-why-even"
+      "url": "https://www.msn.com/zh-hk/money/other/on-semiconductor-to-buy-synaptics-in-all-stock-deal-with-7-billion-enterprise-value/ar-AA26yk4U"
     }
   ]
 }
