@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-07-11T22:38:01.642Z",
+  "generatedAt": "2026-07-12T01:26:41.260Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體",
+      "title": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
+      "originalTitle": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
+      "translatedTitle": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "Cool3c",
+      "publishedAt": "2026-07-11T22:42:46.000Z",
+      "fact": "Cool3c 報導：蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996) &nbsp;&nbsp; Cool3c。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.cool3c.com/article/249996"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "蘋果怒告OpenAI竊取商業機密涉AI硬件開發400人被挖角- 國際",
@@ -22,26 +42,6 @@
         "AI"
       ],
       "url": "https://epaper.tkww.hk/a/202607/12/AP6a52a451e4b04773b0722936.html"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "前沿AI模型存國安風險 美政府和國會警惕",
-      "title": "前沿AI模型存國安風險 美政府和國會警惕",
-      "originalTitle": "前沿AI模型存國安風險 美政府和國會警惕",
-      "translatedTitle": "前沿AI模型存國安風險 美政府和國會警惕",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "大纪元",
-      "publishedAt": "2026-07-11T20:07:00.000Z",
-      "fact": "大纪元 報導：前沿AI模型存國安風險 美政府和國會警惕",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；前沿AI模型存國安風險 美政府和國會警惕 &nbsp;&nbsp; 大纪元。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.epochtimes.com/b5/26/7/11/n14807704.htm/amp"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -65,22 +65,22 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體",
-      "title": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
-      "originalTitle": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
-      "translatedTitle": "蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
+      "subject": "前沿AI模型存國安風險 美政府和國會警惕",
+      "title": "前沿AI模型存國安風險 美政府和國會警惕",
+      "originalTitle": "前沿AI模型存國安風險 美政府和國會警惕",
+      "translatedTitle": "前沿AI模型存國安風險 美政府和國會警惕",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "Cool3c",
-      "publishedAt": "2026-07-11T16:42:41.000Z",
-      "fact": "Cool3c 報導：蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996)",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果控告Open AI涉嫌雇用前蘋果員工竊取機密發展硬體業務 #訴訟 (249996) &nbsp;&nbsp; Cool3c。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "source": "大纪元",
+      "publishedAt": "2026-07-11T20:07:00.000Z",
+      "fact": "大纪元 報導：前沿AI模型存國安風險 美政府和國會警惕",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；前沿AI模型存國安風險 美政府和國會警惕 &nbsp;&nbsp; 大纪元。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://www.cool3c.com/article/249996"
+      "url": "https://www.epochtimes.com/b5/26/7/11/n14807704.htm/amp"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -187,23 +187,22 @@
     {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "The 反彈聲浪 Against AI 資料中心 — B",
-      "title": "The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
-      "originalTitle": "The Backlash Against AI Data Centers -- Barrons.com",
-      "translatedTitle": "The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
+      "subject": "Is AI 抽走資金 from the crypto 市",
+      "title": "Is AI 抽走資金 from the crypto 市場 again? The 背後真相 資金流向 in 2026",
+      "originalTitle": "Is AI draining funds from the crypto market again? The truth behind capital flows in 2026",
+      "translatedTitle": "Is AI 抽走資金 from the crypto 市場 again? The 背後真相 資金流向 in 2026",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-10T23:29:10.000Z",
-      "fact": "富途牛牛 報導：The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The Backlash Against AI Data Centers -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "category": "全球財經",
+      "source": "odaily.news",
+      "publishedAt": "2026-07-10T09:24:12.000Z",
+      "fact": "odaily.news 報導：Is AI 抽走資金 from the crypto 市場 again? The 背後真相 資金流向 in 2026",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Is AI draining funds from the crypto market again? The truth behind capital flows in 2026 &nbsp;&nbsp; odaily.news。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI",
-        "data center"
+        "AI"
       ],
-      "url": "https://news.futunn.com/en/post/75861563/the-backlash-against-ai-data-centers-barronscom"
+      "url": "https://www.odaily.news/zh-TW/post/5211840"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -228,25 +227,45 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "鎧俠迎來重估契機！支撐AI存儲器的14隻日本股票，也向美",
-      "title": "鎧俠迎來重估契機！支撐AI存儲器的14隻日本股票，也向美光科技和SK海力士供貨",
-      "originalTitle": "鎧俠迎來重估契機！支撐AI存儲器的14隻日本股票，也向美光科技和SK海力士供貨",
-      "translatedTitle": "鎧俠迎來重估契機！支撐AI存儲器的14隻日本股票，也向美光科技和SK海力士供貨",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Micron Technology (MU)",
+      "originalTitle": "Micron Technology (MU)",
+      "translatedTitle": "AI 財經快訊：Micron Technology (MU)",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-07-10T05:32:42.000Z",
-      "fact": "Moomoo 報導：鎧俠迎來重估契機！支撐AI存儲器的14隻日本股票，也向美光科技和SK海力士供貨",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；鎧俠迎來重估契機！支撐AI存儲器的14隻日本股票，也向美光科技和SK海力士供貨 &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-07-11T02:57:14.000Z",
+      "fact": "Moomoo 報導：AI 財經快訊：Micron Technology (MU)",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Micron Technology (MU) &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.moomoo.com/hant/community/feed/a-renewed-sense-of-optimism-for-kioxia-14-japanese-stocks-116894044127238"
+      "url": "https://www.moomoo.com/stock/MU-US/earnings?chain_id"
     },
     {
       "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "ALAB 股票飆漲 150%！Astera Labs 財",
+      "title": "ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析",
+      "originalTitle": "ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析",
+      "translatedTitle": "ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "top1markets.com",
+      "publishedAt": "2026-07-10T17:30:38.000Z",
+      "fact": "top1markets.com 報導：ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；ALAB 股票飆漲 150%！Astera Labs 財報利多與 AI 晶片佈局全解析 &nbsp;&nbsp; top1markets.com。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.top1markets.com/tw/news/alab-stock-analysis-astera-labs-earnings-ai-data-center"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Equities",
       "title": "Equities: AI 熱潮 風險 and 韌性 – 德國商業銀行",
@@ -266,7 +285,7 @@
       "url": "https://www.tmgm.com/cht/analysis/market-news/article/equities-ai-boom-risks-and-resilience-commerzbank-202607101234"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "股票 Are Seeing Increasingly W",
       "title": "股票 Are Seeing Increasingly Wild Swings Post-財報. Why Even Good Numbers Often Aren't Enough to Impress.",
@@ -285,27 +304,6 @@
         "stocks"
       ],
       "url": "https://news.futunn.com/hk/post/75842219/stocks-are-seeing-increasingly-wild-swings-post-earnings-why-even"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "晶片股 have \"fizzled out\" somew",
-      "title": "晶片股 have \"fizzled out\" somewhat, but the AI cycle might not be dead yet.",
-      "originalTitle": "Chip stocks have \"fizzled out\" somewhat, but the AI cycle might not be dead yet.",
-      "translatedTitle": "晶片股 have \"fizzled out\" somewhat, but the AI cycle might not be dead yet.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "odaily.news",
-      "publishedAt": "2026-07-10T06:53:19.000Z",
-      "fact": "odaily.news 報導：晶片股 have \"fizzled out\" somewhat, but the AI cycle might not be dead yet.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip stocks have \"fizzled out\" somewhat, but the AI cycle might not be dead yet. &nbsp;&nbsp; odaily.news。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://www.odaily.news/zh-TW/post/5211838"
     }
   ]
 }
