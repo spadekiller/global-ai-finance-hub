@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-07-12T22:38:06.358Z",
+  "generatedAt": "2026-07-13T01:27:51.655Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
+      "title": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
+      "originalTitle": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
+      "translatedTitle": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-07-12T23:47:41.000Z",
+      "fact": "TechNews 科技新報 報導：AI 競賽進入「省錢」時代，各家新模型拚成本效率",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 競賽進入「省錢」時代，各家新模型拚成本效率 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/07/13/competition-to-develop-more-cost-efficient-ai-models/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "馬斯克再槓奧特曼！蘋果提告OpenAI、GPT-5.6與Grok 4.5同步登場成焦點",
@@ -24,7 +44,28 @@
       "url": "https://news.cnyes.com/news/id/6531461"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "國際產經：蘋果控OpenAI竊取商業機密，昔日AI盟友為硬體入口全面開戰",
+      "originalTitle": "國際產經：蘋果控OpenAI竊取商業機密，昔日AI盟友為硬體入口全面開戰",
+      "translatedTitle": "國際產經：蘋果控OpenAI竊取商業機密，昔日AI盟友為硬體入口全面開戰",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "富聯網",
+      "publishedAt": "2026-07-13T00:23:00.000Z",
+      "fact": "富聯網 報導：國際產經：蘋果控OpenAI竊取商業機密，昔日AI盟友為硬體入口全面開戰",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；國際產經：蘋果控OpenAI竊取商業機密，昔日AI盟友為硬體入口全面開戰 &nbsp;&nbsp; 富聯網。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "AI算力狂潮不減！從Meta賣機器到晶片股震盪，真正危機不是需求而是供應失衡",
@@ -45,7 +86,7 @@
       "url": "https://cmnews.com.tw/article/cmoneyairesearcher-fb087647-7db6-11f1-87b3-5e46f87279d4?utm_source"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "全美首例 伊州強制AI實驗室通過第三方審計",
       "title": "全美首例 伊州強制AI實驗室通過第三方審計",
@@ -65,68 +106,7 @@
       "url": "https://www.worldjournal.com/wj/amp/story/121275/9619334"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬",
-      "title": "南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢",
-      "originalTitle": "南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢",
-      "translatedTitle": "南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "蕃新聞",
-      "publishedAt": "2026-07-12T06:53:00.000Z",
-      "fact": "蕃新聞 報導：南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；南韓推自主AI模型聯盟 Naver、LG等企業領軍強化硬體優勢 &nbsp;&nbsp; 蕃新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://n.yam.com/Article/20260712586654"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？",
-      "originalTitle": "從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？",
-      "translatedTitle": "從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "TradingView",
-      "publishedAt": "2026-07-11T06:06:04.000Z",
-      "fact": "TradingView 報導：從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；從親密盟友到法庭見：蘋果起訴OpenAI，AI界“世紀訴訟”開啟？ &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/gelonghui:b95990885acdf:0/"
-    },
-    {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "How SpaceX and AI Spending A",
-      "title": "How SpaceX and AI Spending Are Reshaping 投資 Grade Credit",
-      "originalTitle": "How SpaceX and AI Spending Are Reshaping Investment Grade Credit",
-      "translatedTitle": "How SpaceX and AI Spending Are Reshaping 投資 Grade Credit",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Neuberger Berman",
-      "publishedAt": "2026-07-10T23:50:31.000Z",
-      "fact": "Neuberger Berman 報導：How SpaceX and AI Spending Are Reshaping 投資 Grade Credit",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；How SpaceX and AI Spending Are Reshaping Investment Grade Credit &nbsp;&nbsp; Neuberger Berman。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://www.nb.com/zh-tw/insights/how-spacex-and-ai-spending-are-reshaping-investment-grade-credit"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "This 資料中心 IPO Is the Next Bi",
       "title": "This 資料中心 IPO Is the Next Big Test for the AI Trade — Barron’s.com",
@@ -147,7 +127,7 @@
       "url": "https://news.futunn.com/en/post/75872651/this-data-center-ipo-is-the-next-big-test-for"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 熱潮 is too power",
       "title": "AI 熱潮 is too power-intensive; gas turbine prices have surged 300% in three years.",
@@ -167,28 +147,7 @@
       "url": "https://news.futunn.com/en/post/75874077/ai-boom-is-too-power-intensive-gas-turbine-prices-have"
     },
     {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "The 反彈聲浪 Against AI 資料中心 — B",
-      "title": "The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
-      "originalTitle": "The Backlash Against AI Data Centers -- Barrons.com",
-      "translatedTitle": "The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-10T23:29:10.000Z",
-      "fact": "富途牛牛 報導：The 反彈聲浪 Against AI 資料中心 — Barron’s.com",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The Backlash Against AI Data Centers -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "data center"
-      ],
-      "url": "https://news.futunn.com/en/post/75861563/the-backlash-against-ai-data-centers-barronscom"
-    },
-    {
-      "id": "全球財經脈動-5",
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "Oracle 股票 extends gains on A",
       "title": "Oracle 股票 extends gains on AI power push as 能源 需求 rises",
@@ -290,22 +249,22 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "ON 半導體 to buy Synaptics in a",
-      "title": "ON 半導體 to buy Synaptics in all-股票 deal with $7 billion enterprise value",
-      "originalTitle": "ON Semiconductor to buy Synaptics in all-stock deal with $7 billion enterprise value",
-      "translatedTitle": "ON 半導體 to buy Synaptics in all-股票 deal with $7 billion enterprise value",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Legendary Hedge Fund Manager Says SpaceX Is ‘The Equivalent Of Dogecoin’ And Bitcoin Is The One That's Actually Cheap",
+      "originalTitle": "Legendary Hedge Fund Manager Says SpaceX Is ‘The Equivalent Of Dogecoin’ And Bitcoin Is The One That's Actually Cheap",
+      "translatedTitle": "AI 財經快訊：Legendary Hedge Fund Manager Says SpaceX Is ‘The Equivalent Of Dogecoin’ And Bitcoin Is The One That's Actually Cheap",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "MSN",
-      "publishedAt": "2026-07-12T14:54:55.000Z",
-      "fact": "MSN 報導：ON 半導體 to buy Synaptics in all-股票 deal with $7 billion enterprise value",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；ON Semiconductor to buy Synaptics in all-stock deal with $7 billion enterprise value &nbsp;&nbsp; MSN。",
+      "source": "TradingView",
+      "publishedAt": "2026-07-11T12:22:08.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Legendary Hedge Fund Manager Says SpaceX Is ‘The Equivalent Of Dogecoin’ And Bitcoin Is The One That's Actually Cheap",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Legendary Hedge Fund Manager Says SpaceX Is ‘The Equivalent Of Dogecoin’ And Bitcoin Is The One That's Actually Cheap &n。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "semiconductor"
+        "AI"
       ],
-      "url": "https://www.msn.com/zh-hk/money/other/on-semiconductor-to-buy-synaptics-in-all-stock-deal-with-7-billion-enterprise-value/ar-AA26yk4U"
+      "url": "https://tw.tradingview.com/news/stocktwits:0be005e4f094b:0-legendary-hedge-fund-manager-says-spacex-is-the-equivalent-of-dogecoin-and-bitcoin-is-the-one-that-s-actually-cheap/"
     }
   ]
 }
