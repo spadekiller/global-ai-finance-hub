@@ -1,129 +1,130 @@
 {
-  "generatedAt": "2026-07-14T01:16:58.448Z",
+  "generatedAt": "2026-07-14T22:47:31.791Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "【科技早餐】AI 擴張進入資源戰",
-      "title": "【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電",
-      "originalTitle": "【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電",
-      "translatedTitle": "【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電",
+      "subject": "Meta",
+      "title": "【科技早餐】AI 算力擴張擠壓供應鏈，Meta 加碼 5GW、手機出貨創 13 年同期新低",
+      "originalTitle": "【科技早餐】AI 算力擴張擠壓供應鏈，Meta 加碼 5GW、手機出貨創 13 年同期新低",
+      "translatedTitle": "【科技早餐】AI 算力擴張擠壓供應鏈，Meta 加碼 5GW、手機出貨創 13 年同期新低",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "TechOrange 科技報橘",
-      "publishedAt": "2026-07-13T21:30:00.000Z",
-      "fact": "TechOrange 科技報橘 報導：【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【科技早餐】AI 擴張進入資源戰：川普重押 Intel、台積電營收創高、資料中心搶土地水電 &nbsp;&nbsp; TechOrange 科技報橘。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://techorange.com/2026/07/14/ai-resource-race-intel-tsmc-data-centers/"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "AI 財經快訊：Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com",
-      "originalTitle": "Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com",
-      "translatedTitle": "AI 財經快訊：Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-13T22:19:34.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-07-14T21:30:00.000Z",
+      "fact": "TechOrange 科技報橘 報導：【科技早餐】AI 算力擴張擠壓供應鏈，Meta 加碼 5GW、手機出貨創 13 年同期新低",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【科技早餐】AI 算力擴張擠壓供應鏈，Meta 加碼 5GW、手機出貨創 13 年同期新低 &nbsp;&nbsp; TechOrange 科技報橘。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Meta",
         "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/75939282/meta-spends-50-billion-more-on-ai-is-that-a"
+      "url": "https://techorange.com/2026/07/15/meta-hyperion-5gw-ai-memory-shortage-smartphone-shipments/"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
-      "title": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
-      "originalTitle": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
-      "translatedTitle": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
+      "subject": "監管前沿 AI 刻不容緩，Demis Hassabis ",
+      "title": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
+      "originalTitle": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
+      "translatedTitle": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "TechNews 科技新報",
-      "publishedAt": "2026-07-12T23:47:41.000Z",
-      "fact": "TechNews 科技新報 報導：AI 競賽進入「省錢」時代，各家新模型拚成本效率",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 競賽進入「省錢」時代，各家新模型拚成本效率 &nbsp;&nbsp; TechNews 科技新報。",
+      "publishedAt": "2026-07-14T18:55:32.000Z",
+      "fact": "TechNews 科技新報 報導：監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://technews.tw/2026/07/13/competition-to-develop-more-cost-efficient-ai-models/"
+      "url": "https://technews.tw/2026/07/15/demis-hassabis-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI 首款設備為便攜式智能音箱 配備鏡頭與感測器",
+      "originalTitle": "OpenAI 首款設備為便攜式智能音箱 配備鏡頭與感測器",
+      "translatedTitle": "OpenAI 首款設備為便攜式智能音箱 配備鏡頭與感測器",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "流動日報",
+      "publishedAt": "2026-07-14T21:56:27.000Z",
+      "fact": "流動日報 報導：OpenAI 首款設備為便攜式智能音箱 配備鏡頭與感測器",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 首款設備為便攜式智能音箱 配備鏡頭與感測器 &nbsp;&nbsp; 流動日報。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://www.newmobilelife.com/2026/07/15/openai-portable-smart-speaker-camera-sensors/"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Meta",
-      "title": "谷歌Meta智慧眼鏡競逐升溫 關鍵目標為機器人數據 - 科技新聞 - PChome Online 新聞",
-      "originalTitle": "谷歌Meta智慧眼鏡競逐升溫 關鍵目標為機器人數據 - 科技新聞 - PChome Online 新聞",
-      "translatedTitle": "谷歌Meta智慧眼鏡競逐升溫 關鍵目標為機器人數據 - 科技新聞 - PChome Online 新聞",
+      "title": "砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？",
+      "originalTitle": "砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？",
+      "translatedTitle": "砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-07-13T04:41:11.000Z",
-      "fact": "PChome Online 新聞 報導：谷歌Meta智慧眼鏡競逐升溫 關鍵目標為機器人數據 - 科技新聞 - PChome Online 新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；谷歌Meta智慧眼鏡競逐升溫 關鍵目標為機器人數據 - 科技新聞 - PChome Online 新聞 &nbsp;&nbsp; PChome Online 新聞。",
+      "source": "Mashdigi",
+      "publishedAt": "2026-07-14T03:00:34.000Z",
+      "fact": "Mashdigi 報導：砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？ &nbsp;&nbsp; Mashdigi。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Meta"
+        "Meta",
+        "AI"
       ],
-      "url": "https://news.pchome.com.tw/science/sunmedia/20260713/index-78391767142104329005.html"
+      "url": "https://mashdigi.com/meta-is-betting-50-billion-on-ai-computing-power-why-is-wall-street-not-buying-into-its-massive-expansion-of-a-data-center-in-louisiana/"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？",
-      "originalTitle": "OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？",
-      "translatedTitle": "OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？",
-      "translationNote": "系統翻譯，請以原文為準",
+      "title": "Apple 告上 OpenAI！我要看到血流成河",
+      "originalTitle": "Apple 告上 OpenAI！我要看到血流成河",
+      "translatedTitle": "Apple 告上 OpenAI！我要看到血流成河",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "Yellow.com",
-      "publishedAt": "2026-07-13T08:35:36.000Z",
-      "fact": "Yellow.com 報導：OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？ &nbsp;&nbsp; Yellow.com。",
+      "source": "電獺少女",
+      "publishedAt": "2026-07-14T09:19:03.000Z",
+      "fact": "電獺少女 報導：Apple 告上 OpenAI！我要看到血流成河",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple 告上 OpenAI！我要看到血流成河 &nbsp;&nbsp; 電獺少女。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
-        "Anthropic",
+        "Apple",
         "AI"
       ],
-      "url": "https://yellow.com/zh-tw/research/openai-%E5%B0%8D%E6%B1%BA-anthropic%EF%BC%9A%E8%AA%B0%E6%9B%B4%E6%9C%89%E6%9C%AC%E9%8C%A2%E7%A8%B1%E9%9C%B8-ai-%E9%95%B7%E7%B7%9A%E7%8E%8B%E5%BA%A7%EF%BC%9F"
+      "url": "https://agirls.aotter.net/post/64919"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "AI 熱潮 is too power",
-      "title": "AI 熱潮 is too power-intensive; gas turbine prices have surged 300% in three years.",
-      "originalTitle": "AI boom is too power-intensive; gas turbine prices have surged 300% in three years.",
-      "translatedTitle": "AI 熱潮 is too power-intensive; gas turbine prices have surged 300% in three years.",
+      "subject": "SK Hynix 股價 Plunge in Korea ",
+      "title": "SK Hynix 股價 Plunge in Korea After Big US Debut. What to Know",
+      "originalTitle": "SK Hynix Shares Plunge in Korea After Big US Debut. What to Know",
+      "translatedTitle": "SK Hynix 股價 Plunge in Korea After Big US Debut. What to Know",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-12T10:51:32.000Z",
-      "fact": "富途牛牛 報導：AI 熱潮 is too power-intensive; gas turbine prices have surged 300% in three years.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI boom is too power-intensive; gas turbine prices have surged 300% in three years. &nbsp;&nbsp; 富途牛牛。",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-07-13T11:42:45.000Z",
+      "fact": "TradingView 報導：SK Hynix 股價 Plunge in Korea After Big US Debut. What to Know",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；SK Hynix Shares Plunge in Korea After Big US Debut. What to Know &nbsp;&nbsp; TradingView。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經",
-        "AI"
+        "全球財經"
       ],
-      "url": "https://news.futunn.com/en/post/75874077/ai-boom-is-too-power-intensive-gas-turbine-prices-have"
+      "url": "https://tw.tradingview.com/chart/000660/op3nrkrn-SK-Hynix-Shares-Plunge-in-Korea-After-Big-US-Debut-What-to-Know/"
     },
     {
       "id": "全球財經脈動-2",
@@ -168,68 +169,86 @@
     {
       "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "This 資料中心 IPO Is the Next Bi",
-      "title": "This 資料中心 IPO Is the Next Big Test for the AI Trade — Barron’s.com",
-      "originalTitle": "This Data Center IPO Is the Next Big Test for the AI Trade -- Barrons.com",
-      "translatedTitle": "This 資料中心 IPO Is the Next Big Test for the AI Trade — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
+      "subject": "人工智能基礎設施擴張推動數據中心機架市場加速增長| 到2",
+      "title": "人工智能基礎設施擴張推動數據中心機架市場加速增長| 到2033年將達到135億美元| Persistence Market Research",
+      "originalTitle": "人工智能基礎設施擴張推動數據中心機架市場加速增長| 到2033年將達到135億美元| Persistence Market Research",
+      "translatedTitle": "人工智能基礎設施擴張推動數據中心機架市場加速增長| 到2033年將達到135億美元| Persistence Market Research",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
       "source": "富途牛牛",
-      "publishedAt": "2026-07-12T05:43:26.000Z",
-      "fact": "富途牛牛 報導：This 資料中心 IPO Is the Next Big Test for the AI Trade — Barron’s.com",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；This Data Center IPO Is the Next Big Test for the AI Trade -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-07-14T14:16:00.000Z",
+      "fact": "富途牛牛 報導：人工智能基礎設施擴張推動數據中心機架市場加速增長| 到2033年將達到135億美元| Persistence Market Research",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；人工智能基礎設施擴張推動數據中心機架市場加速增長| 到2033年將達到135億美元| Persistence Market Research &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經",
-        "AI",
-        "data center"
+        "全球財經"
       ],
-      "url": "https://news.futunn.com/en/post/75872651/this-data-center-ipo-is-the-next-big-test-for"
+      "url": "https://news.futunn.com/hk/post/76008591/data-center-rack-market-accelerates-with-ai-infrastructure-expansion-reach"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "AI Jitters Return as 晶片股 Tum",
-      "title": "AI Jitters Return as 晶片股 Tumble Across Globe — Update",
-      "originalTitle": "AI Jitters Return as Chip Stocks Tumble Across Globe -- Update",
-      "translatedTitle": "AI Jitters Return as 晶片股 Tumble Across Globe — Update",
+      "subject": "輝達",
+      "title": "輝達, Broadcom, AMD Lead AI 晶片股 Selloff After SK Hynix Slump",
+      "originalTitle": "Nvidia, Broadcom, AMD Lead AI Chip Stock Selloff After SK Hynix Slump",
+      "translatedTitle": "輝達, Broadcom, AMD Lead AI 晶片股 Selloff After SK Hynix Slump",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-13T14:26:34.000Z",
-      "fact": "富途牛牛 報導：AI Jitters Return as 晶片股 Tumble Across Globe — Update",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Jitters Return as Chip Stocks Tumble Across Globe -- Update &nbsp;&nbsp; 富途牛牛。",
+      "source": "TradingView",
+      "publishedAt": "2026-07-13T13:06:43.000Z",
+      "fact": "TradingView 報導：輝達, Broadcom, AMD Lead AI 晶片股 Selloff After SK Hynix Slump",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia, Broadcom, AMD Lead AI Chip Stock Selloff After SK Hynix Slump &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "stocks"
+        "Nvidia",
+        "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/75933032/ai-jitters-return-as-chip-stocks-tumble-across-globe-update"
+      "url": "https://tw.tradingview.com/news/gurufocus:aef8ea0b4094b:0-nvidia-broadcom-amd-lead-ai-chip-stock-selloff-after-sk-hynix-slump/"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "Billionaires Are Loading up ",
-      "title": "Billionaires Are Loading up on These Superior 股票. Why It Pays to Follow Their Money.",
-      "originalTitle": "Billionaires Are Loading up on These Superior Stocks. Why It Pays to Follow Their Money.",
-      "translatedTitle": "Billionaires Are Loading up on These Superior 股票. Why It Pays to Follow Their Money.",
+      "subject": "曝光機巨頭艾司摩爾Q2財報前瞻",
+      "title": "曝光機巨頭艾司摩爾Q2財報前瞻：AI週期下的成長考驗與地緣風險",
+      "originalTitle": "曝光機巨頭艾司摩爾Q2財報前瞻：AI週期下的成長考驗與地緣風險",
+      "translatedTitle": "曝光機巨頭艾司摩爾Q2財報前瞻：AI週期下的成長考驗與地緣風險",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-14T09:52:12.000Z",
+      "fact": "TradingKey 報導：曝光機巨頭艾司摩爾Q2財報前瞻：AI週期下的成長考驗與地緣風險",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；曝光機巨頭艾司摩爾Q2財報前瞻：AI週期下的成長考驗與地緣風險 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262028804-asml-q2-earnings-preview-ai-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "U.S. 股票 Fall as AI Selloff",
+      "title": "U.S. 股票 Fall as AI Selloff, Oil Jump Rattle Markets",
+      "originalTitle": "U.S. Stocks Fall as AI Selloff, Oil Jump Rattle Markets",
+      "translatedTitle": "U.S. 股票 Fall as AI Selloff, Oil Jump Rattle Markets",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-07-13T16:41:00.000Z",
-      "fact": "Moomoo 報導：Billionaires Are Loading up on These Superior 股票. Why It Pays to Follow Their Money.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Billionaires Are Loading up on These Superior Stocks. Why It Pays to Follow Their Money. &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-07-14T04:01:41.000Z",
+      "fact": "Moomoo 報導：U.S. 股票 Fall as AI Selloff, Oil Jump Rattle Markets",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Stocks Fall as AI Selloff, Oil Jump Rattle Markets &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/72872640/billionaires-are-loading-up-on-these-superior-stocks-why-it"
+      "url": "https://www.moomoo.com/hant/news/post/72897426/us-stocks-fall-as-ai-selloff-oil-jump-rattle-markets"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "These Biggest and 'Least Lov",
       "title": "These Biggest and 'Least Loved' 股票 Are the Ones to Pick Ahead of 財報",
@@ -238,7 +257,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-07-13T10:38:00.000Z",
+      "publishedAt": "2026-07-13T10:46:53.000Z",
       "fact": "富途牛牛 報導：These Biggest and 'Least Loved' 股票 Are the Ones to Pick Ahead of 財報",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；These Biggest and 'Least Loved' Stocks Are the Ones to Pick Ahead of Earnings &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
@@ -248,49 +267,6 @@
         "stocks"
       ],
       "url": "https://news.futunn.com/hk/post/75921516/these-biggest-and-least-loved-stocks-are-the-ones-to"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Google",
-      "title": "Intel leads AI and 晶片股 走高 after report that 輝達, Google considering it as backup 晶片製造商",
-      "originalTitle": "Intel leads AI and chip stocks higher after report that Nvidia, Google considering it as backup chipmaker",
-      "translatedTitle": "Intel leads AI and 晶片股 走高 after report that 輝達, Google considering it as backup 晶片製造商",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "MSN",
-      "publishedAt": "2026-07-12T05:52:44.000Z",
-      "fact": "MSN 報導：Intel leads AI and 晶片股 走高 after report that 輝達, Google considering it as backup 晶片製造商",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Intel leads AI and chip stocks higher after report that Nvidia, Google considering it as backup chipmaker &nbsp;&nbsp; M。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Google",
-        "Nvidia",
-        "AI",
-        "stocks"
-      ],
-      "url": "http://www.msn.com/zh-hk/news/techandscience/intel-leads-ai-and-chip-stocks-higher-after-report-that-nvidia-google-considering-it-as-backup-chipmaker/ar-AA256l7f?apiversion"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "The 股票",
-      "title": "The 股票-市場 Rally Now Hinges More on AI Than Oil",
-      "originalTitle": "The Stock-market Rally Now Hinges More on AI Than Oil",
-      "translatedTitle": "The 股票-市場 Rally Now Hinges More on AI Than Oil",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-12T15:34:14.000Z",
-      "fact": "Moomoo 報導：The 股票-市場 Rally Now Hinges More on AI Than Oil",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The Stock-market Rally Now Hinges More on AI Than Oil &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/72811605/the-stock-market-rally-now-hinges-more-on-ai-than"
     }
   ]
 }
