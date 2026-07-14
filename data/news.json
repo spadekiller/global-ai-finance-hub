@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T22:45:03.266Z",
+  "generatedAt": "2026-07-14T01:16:58.448Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -25,46 +25,26 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "AI 財經快訊：Google Traffic Grows Even as AI Rivals Explode -- Barrons.com",
-      "originalTitle": "Google Traffic Grows Even as AI Rivals Explode -- Barrons.com",
-      "translatedTitle": "AI 財經快訊：Google Traffic Grows Even as AI Rivals Explode -- Barrons.com",
+      "subject": "Meta",
+      "title": "AI 財經快訊：Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com",
+      "originalTitle": "Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com",
+      "translatedTitle": "AI 財經快訊：Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
       "source": "富途牛牛",
-      "publishedAt": "2026-07-13T17:14:00.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Google Traffic Grows Even as AI Rivals Explode -- Barrons.com",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Traffic Grows Even as AI Rivals Explode -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-07-13T22:19:34.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Spends $50 Billion More on AI. Is That a Good Thing? -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
+        "Meta",
         "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/75938529/google-traffic-grows-even-as-ai-rivals-explode-barronscom"
+      "url": "https://news.futunn.com/hk/post/75939282/meta-spends-50-billion-more-on-ai-is-that-a"
     },
     {
       "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "全面導入Gemini算力！Waze推出全新AI功能",
-      "title": "全面導入Gemini算力！Waze推出全新AI功能：首創「機車導航模式」與貼心「少囉嗦」精簡語音",
-      "originalTitle": "全面導入Gemini算力！Waze推出全新AI功能：首創「機車導航模式」與貼心「少囉嗦」精簡語音",
-      "translatedTitle": "全面導入Gemini算力！Waze推出全新AI功能：首創「機車導航模式」與貼心「少囉嗦」精簡語音",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "Mashdigi",
-      "publishedAt": "2026-07-13T16:00:39.000Z",
-      "fact": "Mashdigi 報導：全面導入Gemini算力！Waze推出全新AI功能：首創「機車導航模式」與貼心「少囉嗦」精簡語音",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；全面導入Gemini算力！Waze推出全新AI功能：首創「機車導航模式」與貼心「少囉嗦」精簡語音 &nbsp;&nbsp; Mashdigi。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://mashdigi.com/waze-introduces-new-ai-features-with-full-gemini-computing-power-a-first-of-its-kind-motorcycle-navigation-mode-and-a-conveniently-simplified-voice-assistant/"
-    },
-    {
-      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
       "title": "AI 競賽進入「省錢」時代，各家新模型拚成本效率",
@@ -84,7 +64,7 @@
       "url": "https://technews.tw/2026/07/13/competition-to-develop-more-cost-efficient-ai-models/"
     },
     {
-      "id": "ai-與科技前沿-5",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "谷歌Meta智慧眼鏡競逐升溫 關鍵目標為機器人數據 - 科技新聞 - PChome Online 新聞",
@@ -104,27 +84,29 @@
       "url": "https://news.pchome.com.tw/science/sunmedia/20260713/index-78391767142104329005.html"
     },
     {
-      "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry",
-      "originalTitle": "China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry",
-      "translatedTitle": "AI 財經快訊：China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry",
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？",
+      "originalTitle": "OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？",
+      "translatedTitle": "OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "TMGM trading",
-      "publishedAt": "2026-07-13T05:53:51.000Z",
-      "fact": "TMGM trading 報導：AI 財經快訊：China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry &nbsp;&nbsp; TMGM trading。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "category": "前沿模型",
+      "source": "Yellow.com",
+      "publishedAt": "2026-07-13T08:35:36.000Z",
+      "fact": "Yellow.com 報導：OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 對決 Anthropic：誰更有本錢稱霸 AI 長線王座？ &nbsp;&nbsp; Yellow.com。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
-        "全球財經",
+        "AI 與科技前沿",
+        "OpenAI",
+        "Anthropic",
         "AI"
       ],
-      "url": "https://www.tmgm.com/cht/analysis/market-insight/china-helium-export-ban"
+      "url": "https://yellow.com/zh-tw/research/openai-%E5%B0%8D%E6%B1%BA-anthropic%EF%BC%9A%E8%AA%B0%E6%9B%B4%E6%9C%89%E6%9C%AC%E9%8C%A2%E7%A8%B1%E9%9C%B8-ai-%E9%95%B7%E7%B7%9A%E7%8E%8B%E5%BA%A7%EF%BC%9F"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-1",
       "section": "全球財經脈動",
       "subject": "AI 熱潮 is too power",
       "title": "AI 熱潮 is too power-intensive; gas turbine prices have surged 300% in three years.",
@@ -144,7 +126,7 @@
       "url": "https://news.futunn.com/en/post/75874077/ai-boom-is-too-power-intensive-gas-turbine-prices-have"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "U Power's HYDRO DATA Showcas",
       "title": "U Power's HYDRO DATA Showcases Hydrogen Power Solutions at 資料中心 Asia 2026 Through Keynote Speech and Industry Panel Discussion — 全球企業動態",
@@ -162,6 +144,26 @@
         "data center"
       ],
       "url": "https://www.quamnet.com/post/V-g-hyXWgXqGxOdxCd4DY"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry",
+      "originalTitle": "China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry",
+      "translatedTitle": "AI 財經快訊：China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "TMGM trading",
+      "publishedAt": "2026-07-13T05:53:51.000Z",
+      "fact": "TMGM trading 報導：AI 財經快訊：China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；China Temporarily Bans Helium Exports: Assessing the Impact on the U.S. AI Industry &nbsp;&nbsp; TMGM trading。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://www.tmgm.com/cht/analysis/market-insight/china-helium-export-ban"
     },
     {
       "id": "全球財經脈動-4",
