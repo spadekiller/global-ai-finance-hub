@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T22:47:31.791Z",
+  "generatedAt": "2026-07-15T01:14:03.228Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,26 +26,6 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "監管前沿 AI 刻不容緩，Demis Hassabis ",
-      "title": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
-      "originalTitle": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
-      "translatedTitle": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-07-14T18:55:32.000Z",
-      "fact": "TechNews 科技新報 報導：監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://technews.tw/2026/07/15/demis-hassabis-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI 首款設備為便攜式智能音箱 配備鏡頭與感測器",
       "originalTitle": "OpenAI 首款設備為便攜式智能音箱 配備鏡頭與感測器",
@@ -65,25 +45,45 @@
       "url": "https://www.newmobilelife.com/2026/07/15/openai-portable-smart-speaker-camera-sensors/"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？",
-      "originalTitle": "砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？",
-      "translatedTitle": "砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？",
+      "subject": "監管前沿 AI 刻不容緩，Demis Hassabis ",
+      "title": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
+      "originalTitle": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
+      "translatedTitle": "監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "Mashdigi",
-      "publishedAt": "2026-07-14T03:00:34.000Z",
-      "fact": "Mashdigi 報導：砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；砸下500億美元的AI算力豪賭！Meta擴建路易斯安那州巨型資料中心，華爾街為何反而不買單？ &nbsp;&nbsp; Mashdigi。",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-07-14T18:55:32.000Z",
+      "fact": "TechNews 科技新報 報導：監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；監管前沿 AI 刻不容緩，Demis Hassabis 籲美國設立獨立標準機構 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Meta",
         "AI"
       ],
-      "url": "https://mashdigi.com/meta-is-betting-50-billion-on-ai-computing-power-why-is-wall-street-not-buying-into-its-massive-expansion-of-a-data-center-in-louisiana/"
+      "url": "https://technews.tw/2026/07/15/demis-hassabis-calls-for-an-independent-standards-body-to-regulate-frontier-ai/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI首款硬體細節曝光！將推出無螢幕、會移動的AI智慧音箱，引爆與蘋果之間商業機密訴訟戰",
+      "originalTitle": "OpenAI首款硬體細節曝光！將推出無螢幕、會移動的AI智慧音箱，引爆與蘋果之間商業機密訴訟戰",
+      "translatedTitle": "OpenAI首款硬體細節曝光！將推出無螢幕、會移動的AI智慧音箱，引爆與蘋果之間商業機密訴訟戰",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "Mashdigi",
+      "publishedAt": "2026-07-15T00:00:40.000Z",
+      "fact": "Mashdigi 報導：OpenAI首款硬體細節曝光！將推出無螢幕、會移動的AI智慧音箱，引爆與蘋果之間商業機密訴訟戰",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI首款硬體細節曝光！將推出無螢幕、會移動的AI智慧音箱，引爆與蘋果之間商業機密訴訟戰 &nbsp;&nbsp; Mashdigi。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://mashdigi.com/openais-first-hardware-details-revealed-a-screenless-mobile-ai-smart-speaker-is-set-to-launch-igniting-a-trade-secret-lawsuit-with-apple/"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -267,6 +267,27 @@
         "stocks"
       ],
       "url": "https://news.futunn.com/hk/post/75921516/these-biggest-and-least-loved-stocks-are-the-ones-to"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "GOOGL Reportedly Expands TPU",
+      "title": "GOOGL Reportedly Expands TPU Sales To Battle 輝達 Amid Wall Street Price Target Cuts On Big Tech Ahead Of Q2 財報",
+      "originalTitle": "GOOGL Reportedly Expands TPU Sales To Battle Nvidia Amid Wall Street Price Target Cuts On Big Tech Ahead Of Q2 Earnings",
+      "translatedTitle": "GOOGL Reportedly Expands TPU Sales To Battle 輝達 Amid Wall Street Price Target Cuts On Big Tech Ahead Of Q2 財報",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-07-13T17:22:51.000Z",
+      "fact": "TradingView 報導：GOOGL Reportedly Expands TPU Sales To Battle 輝達 Amid Wall Street Price Target Cuts On Big Tech Ahead Of Q2 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GOOGL Reportedly Expands TPU Sales To Battle Nvidia Amid Wall Street Price Target Cuts On Big Tech Ahead Of Q2 Earnings。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "earnings"
+      ],
+      "url": "https://tw.tradingview.com/news/stocktwits:354636929094b:0-googl-reportedly-expands-tpu-sales-to-battle-nvidia-amid-wall-street-price-target-cuts-on-big-tech-ahead-of-q2-earnings/"
     }
   ]
 }
