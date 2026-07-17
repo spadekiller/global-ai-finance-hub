@@ -1,50 +1,48 @@
 {
-  "generatedAt": "2026-07-16T22:49:25.022Z",
+  "generatedAt": "2026-07-17T22:39:32.034Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "英特爾與 Google Cloud 擴大 AI 戰略合作，將 Gemini 企業版導入半導體研發全流程",
-      "originalTitle": "英特爾與 Google Cloud 擴大 AI 戰略合作，將 Gemini 企業版導入半導體研發全流程",
-      "translatedTitle": "英特爾與 Google Cloud 擴大 AI 戰略合作，將 Gemini 企業版導入半導體研發全流程",
+      "subject": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業",
+      "title": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
+      "originalTitle": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
+      "translatedTitle": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "雲端基礎設施",
-      "source": "TradingKey",
-      "publishedAt": "2026-07-16T17:23:00.000Z",
-      "fact": "TradingKey 報導：英特爾與 Google Cloud 擴大 AI 戰略合作，將 Gemini 企業版導入半導體研發全流程",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；英特爾與 Google Cloud 擴大 AI 戰略合作，將 Gemini 企業版導入半導體研發全流程 &nbsp;&nbsp; TradingKey。",
+      "category": "AI 與科技前沿",
+      "source": "RFI",
+      "publishedAt": "2026-07-17T15:25:30.000Z",
+      "fact": "RFI 報導：中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰 &nbsp;&nbsp; RFI。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "AI",
-        "cloud"
+        "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262035536-intel-intc-google-cloud-googl-gemini-ai-chip-rd-partnership-tradingkey"
+      "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20260717-%E4%B8%AD%E5%9C%8Bai%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%99%BC%E5%B8%83%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-%E5%90%91%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%85%88%E4%BC%81%E6%A5%AD%E7%99%BC%E8%B5%B7%E6%8C%91%E6%88%B0"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Intel, Google 雲端 Expand AI Partnership With Gemini Enterprise Rollout",
-      "originalTitle": "Intel, Google Cloud Expand AI Partnership With Gemini Enterprise Rollout",
-      "translatedTitle": "Intel, Google 雲端 Expand AI Partnership With Gemini Enterprise Rollout",
+      "subject": "OpenAI",
+      "title": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
+      "originalTitle": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
+      "translatedTitle": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-16T16:47:51.000Z",
-      "fact": "富途牛牛 報導：Intel, Google 雲端 Expand AI Partnership With Gemini Enterprise Rollout",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Intel, Google Cloud Expand AI Partnership With Gemini Enterprise Rollout &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "category": "前沿模型",
+      "source": "TechOrange 科技報橘",
+      "publishedAt": "2026-07-17T04:29:50.000Z",
+      "fact": "TechOrange 科技報橘 報導：OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場 &nbsp;&nbsp; TechOrange 科技報橘。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "AI",
-        "cloud"
+        "OpenAI",
+        "Anthropic",
+        "AI"
       ],
-      "url": "https://news.futunn.com/en/post/76149586/intel-google-cloud-expand-ai-partnership-with-gemini-enterprise-rollout"
+      "url": "https://techorange.com/2026/07/17/moonshot-kimi-k3/"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -70,205 +68,181 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Apple",
-      "title": "摩根士丹利：中國批准Apple Intelligence是蘋果AI發展的關鍵催化劑",
-      "originalTitle": "摩根士丹利：中國批准Apple Intelligence是蘋果AI發展的關鍵催化劑",
-      "translatedTitle": "摩根士丹利：中國批准Apple Intelligence是蘋果AI發展的關鍵催化劑",
+      "subject": "Google",
+      "title": "歐盟要求Google開放安卓AI功能 共享搜索數據",
+      "originalTitle": "歐盟要求Google開放安卓AI功能 共享搜索數據",
+      "translatedTitle": "歐盟要求Google開放安卓AI功能 共享搜索數據",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "Yahoo 財經",
-      "publishedAt": "2026-07-16T14:38:51.000Z",
-      "fact": "Yahoo 財經 報導：摩根士丹利：中國批准Apple Intelligence是蘋果AI發展的關鍵催化劑",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；摩根士丹利：中國批准Apple Intelligence是蘋果AI發展的關鍵催化劑 &nbsp;&nbsp; Yahoo 財經。",
+      "publishedAt": "2026-07-17T03:10:34.000Z",
+      "fact": "Yahoo 財經 報導：歐盟要求Google開放安卓AI功能 共享搜索數據",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；歐盟要求Google開放安卓AI功能 共享搜索數據 &nbsp;&nbsp; Yahoo 財經。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Apple",
+        "Google",
         "AI"
       ],
-      "url": "https://hk.finance.yahoo.com/news/%E6%91%A9%E6%A0%B9%E5%A3%AB%E4%B8%B9%E5%88%A9-%E4%B8%AD%E5%9C%8B%E6%89%B9%E5%87%86apple-intelligence%E6%98%AF%E8%98%8B%E6%9E%9Cai%E7%99%BC%E5%B1%95%E7%9A%84%E9%97%9C%E9%8D%B5%E5%82%AC%E5%8C%96%E5%8A%91-143851256.html"
+      "url": "https://hk.finance.yahoo.com/news/%E6%AD%90%E7%9B%9F%E8%A6%81%E6%B1%82google%E9%96%8B%E6%94%BE%E5%AE%89%E5%8D%93ai%E5%8A%9F%E8%83%BD-%E5%85%B1%E4%BA%AB%E6%90%9C%E7%B4%A2%E6%95%B8%E6%93%9A-022410635.html"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "AI智商天花板再刷新！GPT",
-      "title": "AI智商天花板再刷新！GPT-5.6離線測試IQ達136 比99%人類還高",
-      "originalTitle": "AI智商天花板再刷新！GPT-5.6離線測試IQ達136　比99%人類還高",
-      "translatedTitle": "AI智商天花板再刷新！GPT-5.6離線測試IQ達136 比99%人類還高",
+      "subject": "Google",
+      "title": "Googlebook新品再洩密！不只筆電 專屬AI滑鼠也曝光了",
+      "originalTitle": "Googlebook新品再洩密！不只筆電　專屬AI滑鼠也曝光了",
+      "translatedTitle": "Googlebook新品再洩密！不只筆電 專屬AI滑鼠也曝光了",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "ETtoday AI科技",
-      "publishedAt": "2026-07-16T09:30:00.000Z",
-      "fact": "ETtoday AI科技 報導：AI智商天花板再刷新！GPT-5.6離線測試IQ達136 比99%人類還高",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI智商天花板再刷新！GPT-5.6離線測試IQ達136 比99%人類還高 &nbsp;&nbsp; ETtoday AI科技。",
+      "source": "自由電子報3C科技",
+      "publishedAt": "2026-07-17T07:00:00.000Z",
+      "fact": "自由電子報3C科技 報導：Googlebook新品再洩密！不只筆電 專屬AI滑鼠也曝光了",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Googlebook新品再洩密！不只筆電 專屬AI滑鼠也曝光了 &nbsp;&nbsp; 自由電子報3C科技。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Google",
         "AI"
       ],
-      "url": "https://ai.ettoday.net/news/3202232"
+      "url": "https://3c.ltn.com.tw/news/66857"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "NTT Debuts Financial AI Fabr",
-      "title": "NTT Debuts Financial AI Fabric at LEAP East as Strategic Infrastructure Roadmap to Meet Hong Kong's Financial AI Demands — 全球企業動態",
-      "originalTitle": "NTT Debuts Financial AI Fabric at LEAP East as Strategic Infrastructure Roadmap to Meet Hong Kong's Financial AI Demands - 全球企業動態",
-      "translatedTitle": "NTT Debuts Financial AI Fabric at LEAP East as Strategic Infrastructure Roadmap to Meet Hong Kong's Financial AI Demands — 全球企業動態",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
+      "originalTitle": "Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
+      "translatedTitle": "AI 財經快訊：Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Quamnet",
-      "publishedAt": "2026-07-16T10:00:02.000Z",
-      "fact": "Quamnet 報導：NTT Debuts Financial AI Fabric at LEAP East as Strategic Infrastructure Roadmap to Meet Hong Kong's Financial AI Demands — 全球企業動態",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；NTT Debuts Financial AI Fabric at LEAP East as Strategic Infrastructure Roadmap to Meet Hong Kong's Financial AI Demands。",
+      "source": "Neuberger Berman",
+      "publishedAt": "2026-07-17T20:47:03.000Z",
+      "fact": "Neuberger Berman 報導：AI 財經快訊：Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low &nbsp;&nbsp; Neuberger Berman。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://www.quamnet.com/post/jZGfNxx1VNnwA9I-oFpyi"
+      "url": "https://www.nb.com/zh-HK/insights/fixed-income-outlook-3q-2026-looking-to-the-data-when-visibility-is-low"
     },
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "JA Solar Begins Module Deliv",
-      "title": "JA Solar Begins Module Deliveries for Masdar's World-First 24/7 Gigascale Clean 能源 Project — 全球企業動態",
-      "originalTitle": "JA Solar Begins Module Deliveries for Masdar's World-First 24/7 Gigascale Clean Energy Project - 全球企業動態",
-      "translatedTitle": "JA Solar Begins Module Deliveries for Masdar's World-First 24/7 Gigascale Clean 能源 Project — 全球企業動態",
+      "subject": "Foreign visitors get a close",
+      "title": "Foreign visitors get a close look at Hefei's emerging tech sector — 全球企業動態",
+      "originalTitle": "Foreign visitors get a close look at Hefei's emerging tech sector - 全球企業動態",
+      "translatedTitle": "Foreign visitors get a close look at Hefei's emerging tech sector — 全球企業動態",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
       "source": "Quamnet",
-      "publishedAt": "2026-07-16T10:00:02.000Z",
-      "fact": "Quamnet 報導：JA Solar Begins Module Deliveries for Masdar's World-First 24/7 Gigascale Clean 能源 Project — 全球企業動態",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；JA Solar Begins Module Deliveries for Masdar's World-First 24/7 Gigascale Clean Energy Project - 全球企業動態 &nbsp;&nbsp; Qua。",
+      "publishedAt": "2026-07-16T15:00:01.000Z",
+      "fact": "Quamnet 報導：Foreign visitors get a close look at Hefei's emerging tech sector — 全球企業動態",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Foreign visitors get a close look at Hefei's emerging tech sector - 全球企業動態 &nbsp;&nbsp; Quamnet。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經"
       ],
-      "url": "https://www.quamnet.com/post/mMqWRkpmtzibgRcoZR2Ti"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Futu Unveils Major AI Upgrade, Making Professional Agentic Investing Accessible to All, Seize the Next Rally with FUTU AI",
-      "originalTitle": "Futu Unveils Major AI Upgrade, Making Professional Agentic Investing Accessible to All, Seize the Next Rally with FUTU AI",
-      "translatedTitle": "AI 財經快訊：Futu Unveils Major AI Upgrade, Making Professional Agentic Investing Accessible to All, Seize the Next Rally with FUTU AI",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Quamnet",
-      "publishedAt": "2026-07-16T06:00:01.000Z",
-      "fact": "Quamnet 報導：AI 財經快訊：Futu Unveils Major AI Upgrade, Making Professional Agentic Investing Accessible to All, Seize the Next Rally with FUTU AI",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Futu Unveils Major AI Upgrade, Making Professional Agentic Investing Accessible to All, Seize the Next Rally with FUTU A。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://www.quamnet.com/post/QBkOZ_OTxa-loIeItyUZ8"
+      "url": "https://www.quamnet.com/post/bLwt-s0aRB_hDxv_3vmcX"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Why These Cheap 人工智慧 (AI) 股票",
-      "title": "Why These Cheap 人工智慧 (AI) 股票 Are Still a Buy Despite the Selloff",
-      "originalTitle": "Why These Cheap Artificial Intelligence (AI) Stocks Are Still a Buy Despite the Selloff",
-      "translatedTitle": "Why These Cheap 人工智慧 (AI) 股票 Are Still a Buy Despite the Selloff",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
+      "originalTitle": "《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-15T12:17:00.000Z",
-      "fact": "TradingView 報導：Why These Cheap 人工智慧 (AI) 股票 Are Still a Buy Despite the Selloff",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why These Cheap Artificial Intelligence (AI) Stocks Are Still a Buy Despite the Selloff &nbsp;&nbsp; TradingView。",
+      "source": "自由時報",
+      "publishedAt": "2026-07-17T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff &nbsp;&nbsp; 自由時報。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "stocks"
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/investorplace:167286658094b:0-why-these-cheap-artificial-intelligence-ai-stocks-are-still-a-buy-despite-the-selloff/"
+      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5509173"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "AI Has Upended 晶片股. This Cha",
-      "title": "AI Has Upended 晶片股. This Chart Shows How Much. — Barron’s.com",
-      "originalTitle": "AI Has Upended Chip Stocks. This Chart Shows How Much. -- Barrons.com",
-      "translatedTitle": "AI Has Upended 晶片股. This Chart Shows How Much. — Barron’s.com",
+      "subject": "Stop Worrying About AI and F",
+      "title": "Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
+      "originalTitle": "Stop Worrying About AI and Focus on the Rest of the Market -- Barrons.com",
+      "translatedTitle": "Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-07-16T19:49:00.000Z",
-      "fact": "富途牛牛 報導：AI Has Upended 晶片股. This Chart Shows How Much. — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Has Upended Chip Stocks. This Chart Shows How Much. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-07-17T05:30:00.000Z",
+      "fact": "富途牛牛 報導：Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stop Worrying About AI and Focus on the Rest of the Market -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "stocks"
+        "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/76154478/ai-has-upended-chip-stocks-this-chart-shows-how-much"
+      "url": "https://news.futunn.com/hk/post/76177656/stop-worrying-about-ai-and-focus-on-the-rest-of"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "輝達 Pushes Into a Big New AI ",
-      "title": "輝達 Pushes Into a Big New AI 市場 That Could Rally the 股票 — Barron’s.com",
-      "originalTitle": "Nvidia Pushes Into a Big New AI Market That Could Rally the Stock -- Barrons.com",
-      "translatedTitle": "輝達 Pushes Into a Big New AI 市場 That Could Rally the 股票 — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
+      "title": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
+      "originalTitle": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
+      "translatedTitle": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-07-16T14:21:13.000Z",
-      "fact": "Moomoo 報導：輝達 Pushes Into a Big New AI 市場 That Could Rally the 股票 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Pushes Into a Big New AI Market That Could Rally the Stock -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-07-17T02:52:44.000Z",
+      "fact": "Moomoo 報導：高盛股價創歷史新高，銀行股乘AI浪潮上漲",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；高盛股價創歷史新高，銀行股乘AI浪潮上漲 &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
         "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/73082965/nvidia-pushes-into-a-big-new-ai-market-that-could"
+      "url": "https://www.moomoo.com/hant/news/post/73107677/goldman-sachs-hits-record-high-as-bank-stocks-ride-ai"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "台積電 Q2 業績超預期！上修全年展望，追加 1000 ",
-      "title": "台積電 Q2 業績超預期！上修全年展望，追加 1000 億美元在美投資迎戰 AI 熱潮",
-      "originalTitle": "台積電 Q2 業績超預期！上修全年展望，追加 1000 億美元在美投資迎戰 AI 熱潮",
-      "translatedTitle": "台積電 Q2 業績超預期！上修全年展望，追加 1000 億美元在美投資迎戰 AI 熱潮",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Teradyne and Intel 股價 Are Fa",
+      "title": "Teradyne and Intel 股價 Are Falling, What You Need To Know",
+      "originalTitle": "Teradyne and Intel Shares Are Falling, What You Need To Know",
+      "translatedTitle": "Teradyne and Intel 股價 Are Falling, What You Need To Know",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-07-16T09:43:36.000Z",
-      "fact": "TradingKey 報導：台積電 Q2 業績超預期！上修全年展望，追加 1000 億美元在美投資迎戰 AI 熱潮",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；台積電 Q2 業績超預期！上修全年展望，追加 1000 億美元在美投資迎戰 AI 熱潮 &nbsp;&nbsp; TradingKey。",
+      "source": "TradingView",
+      "publishedAt": "2026-07-16T16:45:42.000Z",
+      "fact": "TradingView 報導：Teradyne and Intel 股價 Are Falling, What You Need To Know",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Teradyne and Intel Shares Are Falling, What You Need To Know &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/more/262034509-tsmc-q2-earnings-beat-expectations-raises-full-year-outlook-tradingkey"
+      "url": "https://tw.tradingview.com/news/stockstory:756db8e2e094b:0-teradyne-and-intel-shares-are-falling-what-you-need-to-know/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Asian 股票 lean lower due to t",
-      "title": "Asian 股票 lean lower due to tech sell-off, rising US-Iran tensions",
-      "originalTitle": "Asian stocks lean lower due to tech sell-off, rising US-Iran tensions",
-      "translatedTitle": "Asian 股票 lean lower due to tech sell-off, rising US-Iran tensions",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "台積電失守400美元關口",
+      "title": "台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點",
+      "originalTitle": "台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點",
+      "translatedTitle": "台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TMGM trading",
-      "publishedAt": "2026-07-16T05:46:24.000Z",
-      "fact": "TMGM trading 報導：Asian 股票 lean lower due to tech sell-off, rising US-Iran tensions",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asian stocks lean lower due to tech sell-off, rising US-Iran tensions &nbsp;&nbsp; TMGM trading。",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-17T15:05:46.000Z",
+      "fact": "TradingKey 報導：台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "stocks"
+        "市場焦點"
       ],
-      "url": "https://www.tmgm.com/cht/analysis/market-news/article/asian-stocks-lean-lower-due-to-tech-sell-off-rising-us-iran-tensions-202607160518"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262038129-tsm-q2-earnings-price-target-upgrades-stock-drop-400-tradingkey"
     }
   ]
 }
