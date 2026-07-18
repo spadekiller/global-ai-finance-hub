@@ -1,28 +1,49 @@
 {
-  "generatedAt": "2026-07-18T01:18:22.760Z",
+  "generatedAt": "2026-07-18T22:38:50.412Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告",
-      "title": "蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱",
-      "originalTitle": "蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱",
-      "translatedTitle": "蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱",
+      "subject": "OpenRouter 傳出售給科技巨頭，估值上看數十億美",
+      "title": "OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "originalTitle": "OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "translatedTitle": "OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "news.cnyes.com",
-      "publishedAt": "2026-07-17T23:40:32.000Z",
-      "fact": "news.cnyes.com 報導：蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱 &nbsp;&nbsp; news.cnyes.com。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "source": "動區動趨",
+      "publishedAt": "2026-07-18T03:53:58.000Z",
+      "fact": "動區動趨 報導：OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體 &nbsp;&nbsp; 動區動趨。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿"
       ],
-      "url": "https://news.cnyes.com/news/id/6539179"
+      "url": "https://www.blocktempo.com/openrouter-explores-multibillion-dollar-sale-big-tech-ai-model-aggregator/"
     },
     {
       "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文）",
+      "originalTitle": "大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文）",
+      "translatedTitle": "大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文）",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "鉅亨號",
+      "publishedAt": "2026-07-18T09:29:07.000Z",
+      "fact": "鉅亨號 報導：大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文）",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文） &nbsp;&nbsp; 鉅亨號。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://hao.cnyes.com/post/259740"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業",
       "title": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
@@ -42,7 +63,7 @@
       "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20260717-%E4%B8%AD%E5%9C%8Bai%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%99%BC%E5%B8%83%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-%E5%90%91%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%85%88%E4%BC%81%E6%A5%AD%E7%99%BC%E8%B5%B7%E6%8C%91%E6%88%B0"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
@@ -64,69 +85,27 @@
       "url": "https://techorange.com/2026/07/17/moonshot-kimi-k3/"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta Plans to Hire Top Amazon Computing Executive as It Weighs 雲端 Push — 2nd Update",
-      "originalTitle": "Meta Plans to Hire Top Amazon Computing Executive as It Weighs Cloud Push -- 2nd Update",
-      "translatedTitle": "Meta Plans to Hire Top Amazon Computing Executive as It Weighs 雲端 Push — 2nd Update",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-17T18:03:48.000Z",
-      "fact": "Moomoo 報導：Meta Plans to Hire Top Amazon Computing Executive as It Weighs 雲端 Push — 2nd Update",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Plans to Hire Top Amazon Computing Executive as It Weighs Cloud Push -- 2nd Update &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "cloud"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/73156882/meta-plans-to-hire-top-amazon-computing-executive-as-it"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "蘋果蘋果 Intelligence取得中國生成式AI服務",
-      "title": "蘋果蘋果 Intelligence取得中國生成式AI服務備案",
-      "originalTitle": "蘋果Apple Intelligence取得中國生成式AI服務備案",
-      "translatedTitle": "蘋果蘋果 Intelligence取得中國生成式AI服務備案",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "Google",
+      "title": "品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報",
+      "originalTitle": "品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報",
+      "translatedTitle": "品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "iThome",
-      "publishedAt": "2026-07-16T03:06:58.000Z",
-      "fact": "iThome 報導：蘋果蘋果 Intelligence取得中國生成式AI服務備案",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果Apple Intelligence取得中國生成式AI服務備案 &nbsp;&nbsp; iThome。",
+      "source": "udn科技玩家",
+      "publishedAt": "2026-07-18T01:27:22.000Z",
+      "fact": "udn科技玩家 報導：品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報 &nbsp;&nbsp; udn科技玩家。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Apple",
-        "AI"
+        "Google"
       ],
-      "url": "https://www.ithome.com.tw/news/177355"
+      "url": "https://tech.udn.com/tech/story/123153/9635315"
     },
     {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "Goldman's Equity Underwritin",
-      "title": "Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal 熱潮",
-      "originalTitle": "Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal Boom",
-      "translatedTitle": "Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal 熱潮",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "TradingView",
-      "publishedAt": "2026-07-16T19:27:10.000Z",
-      "fact": "TradingView 報導：Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal 熱潮",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal Boom &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:517da0892094b:0-goldman-s-equity-underwriting-revenue-jumps-130-on-spacex-ai-deal-boom/"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
@@ -148,44 +127,104 @@
     {
       "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "Foreign visitors get a close",
-      "title": "Foreign visitors get a close look at Hefei's emerging tech sector — 全球企業動態",
-      "originalTitle": "Foreign visitors get a close look at Hefei's emerging tech sector - 全球企業動態",
-      "translatedTitle": "Foreign visitors get a close look at Hefei's emerging tech sector — 全球企業動態",
+      "subject": "Gulf South Business Roundtab",
+      "title": "Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計",
+      "originalTitle": "Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計",
+      "translatedTitle": "Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Quamnet",
-      "publishedAt": "2026-07-16T15:00:01.000Z",
-      "fact": "Quamnet 報導：Foreign visitors get a close look at Hefei's emerging tech sector — 全球企業動態",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Foreign visitors get a close look at Hefei's emerging tech sector - 全球企業動態 &nbsp;&nbsp; Quamnet。",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-17T22:13:00.000Z",
+      "fact": "Moomoo 報導：Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計 &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經"
       ],
-      "url": "https://www.quamnet.com/post/bLwt-s0aRB_hDxv_3vmcX"
+      "url": "https://www.moomoo.com/hant/news/post/73162189/gulf-south-business-roundtable-convenes-national-leaders-to-advance-america"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Lattice 半導體",
-      "title": "Lattice 半導體, AMD, and Qualcomm 股價 Are Falling, What You Need To Know",
-      "originalTitle": "Lattice Semiconductor, AMD, and Qualcomm Shares Are Falling, What You Need To Know",
-      "translatedTitle": "Lattice 半導體, AMD, and Qualcomm 股價 Are Falling, What You Need To Know",
+      "subject": "El",
+      "title": "El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
+      "originalTitle": "El-Erian Flags ‘Fascinating’ Market Shift As Dow, S&P 500 Catch Up To Nasdaq",
+      "translatedTitle": "El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-07-16T20:05:46.000Z",
-      "fact": "TradingView 報導：Lattice 半導體, AMD, and Qualcomm 股價 Are Falling, What You Need To Know",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Lattice Semiconductor, AMD, and Qualcomm Shares Are Falling, What You Need To Know &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-07-17T07:04:18.000Z",
+      "fact": "TradingView 報導：El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；El-Erian Flags ‘Fascinating’ Market Shift As Dow, S&P 500 Catch Up To Nasdaq &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "semiconductor"
+        "市場焦點"
       ],
-      "url": "https://tw.tradingview.com/news/stockstory:7be44ae85094b:0-lattice-semiconductor-amd-and-qualcomm-shares-are-falling-what-you-need-to-know/"
+      "url": "https://tw.tradingview.com/news/stocktwits:65488d53d094b:0-el-erian-flags-fascinating-market-shift-as-dow-s-p-500-catch-up-to-nasdaq/"
     },
     {
       "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "便宜標的 in the Software 股票 Wrec",
+      "title": "便宜標的 in the Software 股票 Wreckage — Barron’s",
+      "originalTitle": "Bargains in the Software Stock Wreckage -- Barron's",
+      "translatedTitle": "便宜標的 in the Software 股票 Wreckage — Barron’s",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-18T02:22:07.000Z",
+      "fact": "Moomoo 報導：便宜標的 in the Software 股票 Wreckage — Barron’s",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Bargains in the Software Stock Wreckage -- Barron's &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/73164643/bargains-in-the-software-stock-wreckage-barron-s"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "TradingKey 每日市場簡報",
+      "title": "TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售",
+      "originalTitle": "TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售",
+      "translatedTitle": "TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-17T01:03:36.000Z",
+      "fact": "TradingKey 報導：TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262035928-gold-fell-below-4000-tsmc-strong-earnings-cooling-ai-market-sell-off-chip-stocks-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "MU",
+      "title": "MU, SNDK, INTC, AMD, Other 晶片股 Extend Slide – Retail Traders Still Buying The Memory Theme",
+      "originalTitle": "MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide – Retail Traders Still Buying The Memory Theme",
+      "translatedTitle": "MU, SNDK, INTC, AMD, Other 晶片股 Extend Slide – Retail Traders Still Buying The Memory Theme",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-07-17T08:56:27.000Z",
+      "fact": "TradingView 報導：MU, SNDK, INTC, AMD, Other 晶片股 Extend Slide – Retail Traders Still Buying The Memory Theme",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide – Retail Traders Still Buying The Memory Theme &nbsp;&nbsp; TradingV。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/stocktwits:81678ceac094b:0-mu-sndk-intc-amd-other-chip-stocks-extend-slide-retail-traders-still-buying-the-memory-theme/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
@@ -203,66 +242,6 @@
         "AI"
       ],
       "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5509173"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Stop Worrying About AI and F",
-      "title": "Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
-      "originalTitle": "Stop Worrying About AI and Focus on the Rest of the Market -- Barrons.com",
-      "translatedTitle": "Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-17T05:30:00.000Z",
-      "fact": "富途牛牛 報導：Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stop Worrying About AI and Focus on the Rest of the Market -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/hk/post/76177656/stop-worrying-about-ai-and-focus-on-the-rest-of"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
-      "title": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
-      "originalTitle": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
-      "translatedTitle": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-17T02:52:44.000Z",
-      "fact": "Moomoo 報導：高盛股價創歷史新高，銀行股乘AI浪潮上漲",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；高盛股價創歷史新高，銀行股乘AI浪潮上漲 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/73107677/goldman-sachs-hits-record-high-as-bank-stocks-ride-ai"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "US 晶片股 are just one step awa",
-      "title": "US 晶片股 are just one step away from a bear 市場",
-      "originalTitle": "US chip stocks are just one step away from a bear market",
-      "translatedTitle": "US 晶片股 are just one step away from a bear 市場",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "odaily.news",
-      "publishedAt": "2026-07-17T11:25:48.000Z",
-      "fact": "odaily.news 報導：US 晶片股 are just one step away from a bear 市場",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；US chip stocks are just one step away from a bear market &nbsp;&nbsp; odaily.news。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://www.odaily.news/zh-TW/post/5211967"
     }
   ]
 }
