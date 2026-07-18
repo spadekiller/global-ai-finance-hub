@@ -1,9 +1,28 @@
 {
-  "generatedAt": "2026-07-17T22:39:32.034Z",
+  "generatedAt": "2026-07-18T01:18:22.760Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告",
+      "title": "蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱",
+      "originalTitle": "蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱",
+      "translatedTitle": "蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "news.cnyes.com",
+      "publishedAt": "2026-07-17T23:40:32.000Z",
+      "fact": "news.cnyes.com 報導：蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果財報多空對決！滙豐喊買 目標價衝366美元 空頭警告估值已過熱 &nbsp;&nbsp; news.cnyes.com。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://news.cnyes.com/news/id/6539179"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業",
       "title": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
@@ -23,7 +42,7 @@
       "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20260717-%E4%B8%AD%E5%9C%8Bai%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%99%BC%E5%B8%83%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-%E5%90%91%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%85%88%E4%BC%81%E6%A5%AD%E7%99%BC%E8%B5%B7%E6%8C%91%E6%88%B0"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
@@ -45,7 +64,28 @@
       "url": "https://techorange.com/2026/07/17/moonshot-kimi-k3/"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta Plans to Hire Top Amazon Computing Executive as It Weighs 雲端 Push — 2nd Update",
+      "originalTitle": "Meta Plans to Hire Top Amazon Computing Executive as It Weighs Cloud Push -- 2nd Update",
+      "translatedTitle": "Meta Plans to Hire Top Amazon Computing Executive as It Weighs 雲端 Push — 2nd Update",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-17T18:03:48.000Z",
+      "fact": "Moomoo 報導：Meta Plans to Hire Top Amazon Computing Executive as It Weighs 雲端 Push — 2nd Update",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Plans to Hire Top Amazon Computing Executive as It Weighs Cloud Push -- 2nd Update &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "cloud"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/73156882/meta-plans-to-hire-top-amazon-computing-executive-as-it"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "蘋果蘋果 Intelligence取得中國生成式AI服務",
       "title": "蘋果蘋果 Intelligence取得中國生成式AI服務備案",
@@ -66,49 +106,27 @@
       "url": "https://www.ithome.com.tw/news/177355"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "歐盟要求Google開放安卓AI功能 共享搜索數據",
-      "originalTitle": "歐盟要求Google開放安卓AI功能 共享搜索數據",
-      "translatedTitle": "歐盟要求Google開放安卓AI功能 共享搜索數據",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Yahoo 財經",
-      "publishedAt": "2026-07-17T03:10:34.000Z",
-      "fact": "Yahoo 財經 報導：歐盟要求Google開放安卓AI功能 共享搜索數據",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；歐盟要求Google開放安卓AI功能 共享搜索數據 &nbsp;&nbsp; Yahoo 財經。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://hk.finance.yahoo.com/news/%E6%AD%90%E7%9B%9F%E8%A6%81%E6%B1%82google%E9%96%8B%E6%94%BE%E5%AE%89%E5%8D%93ai%E5%8A%9F%E8%83%BD-%E5%85%B1%E4%BA%AB%E6%90%9C%E7%B4%A2%E6%95%B8%E6%93%9A-022410635.html"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Googlebook新品再洩密！不只筆電 專屬AI滑鼠也曝光了",
-      "originalTitle": "Googlebook新品再洩密！不只筆電　專屬AI滑鼠也曝光了",
-      "translatedTitle": "Googlebook新品再洩密！不只筆電 專屬AI滑鼠也曝光了",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "自由電子報3C科技",
-      "publishedAt": "2026-07-17T07:00:00.000Z",
-      "fact": "自由電子報3C科技 報導：Googlebook新品再洩密！不只筆電 專屬AI滑鼠也曝光了",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Googlebook新品再洩密！不只筆電 專屬AI滑鼠也曝光了 &nbsp;&nbsp; 自由電子報3C科技。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://3c.ltn.com.tw/news/66857"
-    },
-    {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "Goldman's Equity Underwritin",
+      "title": "Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal 熱潮",
+      "originalTitle": "Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal Boom",
+      "translatedTitle": "Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal 熱潮",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "TradingView",
+      "publishedAt": "2026-07-16T19:27:10.000Z",
+      "fact": "TradingView 報導：Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal 熱潮",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Goldman's Equity Underwriting Revenue Jumps 130% on SpaceX, AI Deal Boom &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:517da0892094b:0-goldman-s-equity-underwriting-revenue-jumps-130-on-spacex-ai-deal-boom/"
+    },
+    {
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
@@ -128,7 +146,7 @@
       "url": "https://www.nb.com/zh-HK/insights/fixed-income-outlook-3q-2026-looking-to-the-data-when-visibility-is-low"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "Foreign visitors get a close",
       "title": "Foreign visitors get a close look at Hefei's emerging tech sector — 全球企業動態",
@@ -149,6 +167,26 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
+      "subject": "Lattice 半導體",
+      "title": "Lattice 半導體, AMD, and Qualcomm 股價 Are Falling, What You Need To Know",
+      "originalTitle": "Lattice Semiconductor, AMD, and Qualcomm Shares Are Falling, What You Need To Know",
+      "translatedTitle": "Lattice 半導體, AMD, and Qualcomm 股價 Are Falling, What You Need To Know",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-07-16T20:05:46.000Z",
+      "fact": "TradingView 報導：Lattice 半導體, AMD, and Qualcomm 股價 Are Falling, What You Need To Know",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Lattice Semiconductor, AMD, and Qualcomm Shares Are Falling, What You Need To Know &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "semiconductor"
+      ],
+      "url": "https://tw.tradingview.com/news/stockstory:7be44ae85094b:0-lattice-semiconductor-amd-and-qualcomm-shares-are-falling-what-you-need-to-know/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
       "originalTitle": "《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
@@ -167,7 +205,7 @@
       "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5509173"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "Stop Worrying About AI and F",
       "title": "Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
@@ -187,7 +225,7 @@
       "url": "https://news.futunn.com/hk/post/76177656/stop-worrying-about-ai-and-focus-on-the-rest-of"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
       "title": "高盛股價創歷史新高，銀行股乘AI浪潮上漲",
@@ -207,42 +245,24 @@
       "url": "https://www.moomoo.com/hant/news/post/73107677/goldman-sachs-hits-record-high-as-bank-stocks-ride-ai"
     },
     {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Teradyne and Intel 股價 Are Fa",
-      "title": "Teradyne and Intel 股價 Are Falling, What You Need To Know",
-      "originalTitle": "Teradyne and Intel Shares Are Falling, What You Need To Know",
-      "translatedTitle": "Teradyne and Intel 股價 Are Falling, What You Need To Know",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-16T16:45:42.000Z",
-      "fact": "TradingView 報導：Teradyne and Intel 股價 Are Falling, What You Need To Know",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Teradyne and Intel Shares Are Falling, What You Need To Know &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://tw.tradingview.com/news/stockstory:756db8e2e094b:0-teradyne-and-intel-shares-are-falling-what-you-need-to-know/"
-    },
-    {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "台積電失守400美元關口",
-      "title": "台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點",
-      "originalTitle": "台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點",
-      "translatedTitle": "台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "US 晶片股 are just one step awa",
+      "title": "US 晶片股 are just one step away from a bear 市場",
+      "originalTitle": "US chip stocks are just one step away from a bear market",
+      "translatedTitle": "US 晶片股 are just one step away from a bear 市場",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-07-17T15:05:46.000Z",
-      "fact": "TradingKey 報導：台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；台積電失守400美元關口：華爾街最高看漲至650美元，但仍跌至兩個月低點 &nbsp;&nbsp; TradingKey。",
+      "source": "odaily.news",
+      "publishedAt": "2026-07-17T11:25:48.000Z",
+      "fact": "odaily.news 報導：US 晶片股 are just one step away from a bear 市場",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；US chip stocks are just one step away from a bear market &nbsp;&nbsp; odaily.news。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "stocks"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262038129-tsm-q2-earnings-price-target-upgrades-stock-drop-400-tradingkey"
+      "url": "https://www.odaily.news/zh-TW/post/5211967"
     }
   ]
 }
