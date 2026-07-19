@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-07-18T22:38:50.412Z",
+  "generatedAt": "2026-07-19T01:24:55.036Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "originalTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "translatedTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-18T11:06:39.000Z",
+      "fact": "TradingKey 報導：Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/261951082-anthropic-ipo-claude-ai-tradingkey"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenRouter 傳出售給科技巨頭，估值上看數十億美",
       "title": "OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
@@ -22,7 +42,7 @@
       "url": "https://www.blocktempo.com/openrouter-explores-multibillion-dollar-sale-big-tech-ai-model-aggregator/"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文）",
@@ -43,7 +63,7 @@
       "url": "https://hao.cnyes.com/post/259740"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業",
       "title": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
@@ -63,7 +83,7 @@
       "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20260717-%E4%B8%AD%E5%9C%8Bai%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%99%BC%E5%B8%83%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-%E5%90%91%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%85%88%E4%BC%81%E6%A5%AD%E7%99%BC%E8%B5%B7%E6%8C%91%E6%88%B0"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
@@ -83,26 +103,6 @@
         "AI"
       ],
       "url": "https://techorange.com/2026/07/17/moonshot-kimi-k3/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報",
-      "originalTitle": "品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報",
-      "translatedTitle": "品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "udn科技玩家",
-      "publishedAt": "2026-07-18T01:27:22.000Z",
-      "fact": "udn科技玩家 報導：品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；品牌大統整！Google NotebookLM正式更名加入原生程式碼執行功能| 科技新情報 &nbsp;&nbsp; udn科技玩家。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://tech.udn.com/tech/story/123153/9635315"
     },
     {
       "id": "全球財經脈動-1",
@@ -146,21 +146,23 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "El",
-      "title": "El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
-      "originalTitle": "El-Erian Flags ‘Fascinating’ Market Shift As Dow, S&P 500 Catch Up To Nasdaq",
-      "translatedTitle": "El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
+      "subject": "TSMC",
+      "title": "輝達, AMD, Mircon, TSMC 股價 Sink as China Unveils Powerful New AI Model",
+      "originalTitle": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
+      "translatedTitle": "輝達, AMD, Mircon, TSMC 股價 Sink as China Unveils Powerful New AI Model",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-07-17T07:04:18.000Z",
-      "fact": "TradingView 報導：El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；El-Erian Flags ‘Fascinating’ Market Shift As Dow, S&P 500 Catch Up To Nasdaq &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-07-17T17:52:11.000Z",
+      "fact": "TradingView 報導：輝達, AMD, Mircon, TSMC 股價 Sink as China Unveils Powerful New AI Model",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "Nvidia",
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:65488d53d094b:0-el-erian-flags-fascinating-market-shift-as-dow-s-p-500-catch-up-to-nasdaq/"
+      "url": "https://tw.tradingview.com/news/gurufocus:8e535e85a094b:0-nvidia-amd-mircon-tsmc-shares-sink-as-china-unveils-powerful-new-ai-model/"
     },
     {
       "id": "美股與全球市場焦點-2",
@@ -185,63 +187,61 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "TradingKey 每日市場簡報",
-      "title": "TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售",
-      "originalTitle": "TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售",
-      "translatedTitle": "TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Stop Worrying About AI and F",
+      "title": "Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
+      "originalTitle": "Stop Worrying About AI and Focus on the Rest of the Market -- Barrons.com",
+      "translatedTitle": "Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-07-17T01:03:36.000Z",
-      "fact": "TradingKey 報導：TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；TradingKey 每日市場簡報：黃金跌破4000美元，台積電強勁財報難擋AI交易降溫，晶片股遭拋售 &nbsp;&nbsp; TradingKey。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-17T06:03:13.000Z",
+      "fact": "富途牛牛 報導：Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stop Worrying About AI and Focus on the Rest of the Market -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262035928-gold-fell-below-4000-tsmc-strong-earnings-cooling-ai-market-sell-off-chip-stocks-tradingkey"
+      "url": "https://news.futunn.com/hk/post/76177656/stop-worrying-about-ai-and-focus-on-the-rest-of"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "MU",
-      "title": "MU, SNDK, INTC, AMD, Other 晶片股 Extend Slide – Retail Traders Still Buying The Memory Theme",
-      "originalTitle": "MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide – Retail Traders Still Buying The Memory Theme",
-      "translatedTitle": "MU, SNDK, INTC, AMD, Other 晶片股 Extend Slide – Retail Traders Still Buying The Memory Theme",
+      "subject": "HubSpot",
+      "title": "HubSpot, ZoomInfo, and Paycom 股票 trade up, what you need to know",
+      "originalTitle": "HubSpot, ZoomInfo, and Paycom stocks trade up, what you need to know",
+      "translatedTitle": "HubSpot, ZoomInfo, and Paycom 股票 trade up, what you need to know",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-17T08:56:27.000Z",
-      "fact": "TradingView 報導：MU, SNDK, INTC, AMD, Other 晶片股 Extend Slide – Retail Traders Still Buying The Memory Theme",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；MU, SNDK, INTC, AMD, Other Chip Stocks Extend Slide – Retail Traders Still Buying The Memory Theme &nbsp;&nbsp; TradingV。",
+      "source": "MSN",
+      "publishedAt": "2026-07-18T21:52:02.000Z",
+      "fact": "MSN 報導：HubSpot, ZoomInfo, and Paycom 股票 trade up, what you need to know",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；HubSpot, ZoomInfo, and Paycom stocks trade up, what you need to know &nbsp;&nbsp; MSN。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:81678ceac094b:0-mu-sndk-intc-amd-other-chip-stocks-extend-slide-retail-traders-still-buying-the-memory-theme/"
+      "url": "https://www.msn.com/zh-hk/money/%E7%A7%91%E6%8A%80/hubspot-zoominfo-and-paycom-stocks-trade-up-what-you-need-to-know/ar-AA27PVw0"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
-      "originalTitle": "《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
+      "subject": "El",
+      "title": "El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
+      "originalTitle": "El-Erian Flags ‘Fascinating’ Market Shift As Dow, S&P 500 Catch Up To Nasdaq",
+      "translatedTitle": "El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "自由時報",
-      "publishedAt": "2026-07-17T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；《TAIPEI TIMES》TAIEX tumbles 2,953.71 points amid tech selloff &nbsp;&nbsp; 自由時報。",
+      "source": "TradingView",
+      "publishedAt": "2026-07-17T07:04:18.000Z",
+      "fact": "TradingView 報導：El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；El-Erian Flags ‘Fascinating’ Market Shift As Dow, S&P 500 Catch Up To Nasdaq &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5509173"
+      "url": "https://tw.tradingview.com/news/stocktwits:65488d53d094b:0-el-erian-flags-fascinating-market-shift-as-dow-s-p-500-catch-up-to-nasdaq/"
     }
   ]
 }
