@@ -1,49 +1,134 @@
 {
-  "generatedAt": "2026-07-19T01:24:55.036Z",
+  "generatedAt": "2026-07-20T22:46:24.962Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
-      "originalTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
-      "translatedTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "subject": "OpenAI",
+      "title": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
+      "originalTitle": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 Apple 為何從合作走向打官司一途？",
+      "translatedTitle": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "TradingKey",
-      "publishedAt": "2026-07-18T11:06:39.000Z",
-      "fact": "TradingKey 報導：Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "source": "GQ Taiwan",
+      "publishedAt": "2026-07-20T08:22:51.000Z",
+      "fact": "GQ Taiwan 報導：【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 Apple 為何從合作走向打官司一途？ &nbsp;&nbsp; GQ Taiwan。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic"
+        "OpenAI",
+        "Apple",
+        "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/261951082-anthropic-ipo-claude-ai-tradingkey"
+      "url": "https://www.gq.com.tw/article/openai-apple-%E6%89%93%E5%AE%98%E5%8F%B8"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "OpenRouter 傳出售給科技巨頭，估值上看數十億美",
-      "title": "OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "originalTitle": "OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translatedTitle": "OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "動區動趨",
-      "publishedAt": "2026-07-18T03:53:58.000Z",
-      "fact": "動區動趨 報導：OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenRouter 傳出售給科技巨頭，估值上看數十億美元| 動區動趨-最具影響力的區塊鏈新聞媒體 &nbsp;&nbsp; 動區動趨。",
+      "subject": "Anthropic",
+      "title": "Alibaba's New AI Model Takes On Anthropic. What It Means for the 股票. — Barron’s.com",
+      "originalTitle": "Alibaba's New AI Model Takes On Anthropic. What It Means for the Stock. -- Barrons.com",
+      "translatedTitle": "Alibaba's New AI Model Takes On Anthropic. What It Means for the 股票. — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-20T12:44:47.000Z",
+      "fact": "富途牛牛 報導：Alibaba's New AI Model Takes On Anthropic. What It Means for the 股票. — Barron’s.com",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Alibaba's New AI Model Takes On Anthropic. What It Means for the Stock. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "Anthropic",
+        "AI"
       ],
-      "url": "https://www.blocktempo.com/openrouter-explores-multibillion-dollar-sale-big-tech-ai-model-aggregator/"
+      "url": "https://news.futunn.com/hk/post/76289590/alibaba-s-new-ai-model-takes-on-anthropic-what-it"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "美銀表示，Meta Platforms第二季度業績可能超出預期，受益於廣告增長和人工智能優勢。",
+      "originalTitle": "美銀表示，Meta Platforms第二季度業績可能超出預期，受益於廣告增長和人工智能優勢。",
+      "translatedTitle": "美銀表示，Meta Platforms第二季度業績可能超出預期，受益於廣告增長和人工智能優勢。",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-20T15:43:23.000Z",
+      "fact": "Moomoo 報導：美銀表示，Meta Platforms第二季度業績可能超出預期，受益於廣告增長和人工智能優勢。",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美銀表示，Meta Platforms第二季度業績可能超出預期，受益於廣告增長和人工智能優勢。 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/73232157/meta-platforms-likely-to-beat-q2-estimates-on-ad-growth"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI：便宜模型未必更省 企業評估AI不該只看Token價格",
+      "originalTitle": "OpenAI：便宜模型未必更省　企業評估AI不該只看Token價格",
+      "translatedTitle": "OpenAI：便宜模型未必更省 企業評估AI不該只看Token價格",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "ETtoday AI科技",
+      "publishedAt": "2026-07-20T10:00:00.000Z",
+      "fact": "ETtoday AI科技 報導：OpenAI：便宜模型未必更省 企業評估AI不該只看Token價格",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI：便宜模型未必更省 企業評估AI不該只看Token價格 &nbsp;&nbsp; ETtoday AI科技。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://ai.ettoday.net/amp/amp_news.php7?news_id"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "市場報導",
+      "title": "市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉",
+      "originalTitle": "市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉",
+      "translatedTitle": "市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "科技產業資訊室",
+      "publishedAt": "2026-07-20T02:17:03.000Z",
+      "fact": "科技產業資訊室 報導：市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉 &nbsp;&nbsp; 科技產業資訊室。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://iknow.stpi.narl.org.tw/Post/Read.aspx?PostID"
+    },
+    {
+      "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "AI Infrastructure 熱潮 Intact",
+      "title": "AI Infrastructure 熱潮 Intact: Why 輝達, Alphabet, and Micron Are Top Picks for 2027",
+      "originalTitle": "AI Infrastructure Boom Intact: Why Nvidia, Alphabet, and Micron Are Top Picks for 2027",
+      "translatedTitle": "AI Infrastructure 熱潮 Intact: Why 輝達, Alphabet, and Micron Are Top Picks for 2027",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-07-19T18:06:00.000Z",
+      "fact": "finance.biggo.com 報導：AI Infrastructure 熱潮 Intact: Why 輝達, Alphabet, and Micron Are Top Picks for 2027",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI Infrastructure Boom Intact: Why Nvidia, Alphabet, and Micron Are Top Picks for 2027 &nbsp;&nbsp; finance.biggo.com。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://finance.biggo.com/news/e40ca03c-5c75-4c3e-9061-bf6f016a31fa"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
       "subject": "OpenAI",
       "title": "大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文）",
       "originalTitle": "大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文）",
@@ -51,197 +136,140 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
       "source": "鉅亨號",
-      "publishedAt": "2026-07-18T09:29:07.000Z",
+      "publishedAt": "2026-07-19T10:52:47.000Z",
       "fact": "鉅亨號 報導：大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文）",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文） &nbsp;&nbsp; 鉅亨號。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://hao.cnyes.com/post/259740"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業",
-      "title": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
-      "originalTitle": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
-      "translatedTitle": "中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "RFI",
-      "publishedAt": "2026-07-17T15:25:30.000Z",
-      "fact": "RFI 報導：中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；中國AI公司月之暗面發布全球最大開源模型 向美國領先企業發起挑戰 &nbsp;&nbsp; RFI。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20260717-%E4%B8%AD%E5%9C%8Bai%E5%85%AC%E5%8F%B8%E6%9C%88%E4%B9%8B%E6%9A%97%E9%9D%A2%E7%99%BC%E5%B8%83%E5%85%A8%E7%90%83%E6%9C%80%E5%A4%A7%E9%96%8B%E6%BA%90%E6%A8%A1%E5%9E%8B-%E5%90%91%E7%BE%8E%E5%9C%8B%E9%A0%98%E5%85%88%E4%BC%81%E6%A5%AD%E7%99%BC%E8%B5%B7%E6%8C%91%E6%88%B0"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
-      "originalTitle": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
-      "translatedTitle": "OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "TechOrange 科技報橘",
-      "publishedAt": "2026-07-17T04:29:50.000Z",
-      "fact": "TechOrange 科技報橘 報導：OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI、Anthropic 不再獨占最強 AI？中國 Kimi K3 讓開源模型站上 Frontier 戰場 &nbsp;&nbsp; TechOrange 科技報橘。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://techorange.com/2026/07/17/moonshot-kimi-k3/"
-    },
-    {
-      "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
-      "originalTitle": "Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
-      "translatedTitle": "AI 財經快訊：Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Neuberger Berman",
-      "publishedAt": "2026-07-17T20:47:03.000Z",
-      "fact": "Neuberger Berman 報導：AI 財經快訊：Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low &nbsp;&nbsp; Neuberger Berman。",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；大空頭1.5萬字長文引爭論：“OpenAI必將崩潰，全球股市恐遭清算”（中英全文） &nbsp;&nbsp; 鉅亨號。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
+        "OpenAI",
         "AI"
       ],
-      "url": "https://www.nb.com/zh-HK/insights/fixed-income-outlook-3q-2026-looking-to-the-data-when-visibility-is-low"
+      "url": "https://hao.cnyes.com/post/259884"
     },
     {
       "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "Gulf South Business Roundtab",
-      "title": "Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計",
-      "originalTitle": "Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計",
-      "translatedTitle": "Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計",
+      "subject": "Six Themes Redefining the Co",
+      "title": "Six Themes Redefining the Corporate Hybrid 市場",
+      "originalTitle": "Six Themes Redefining the Corporate Hybrid Market",
+      "translatedTitle": "Six Themes Redefining the Corporate Hybrid 市場",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-17T22:13:00.000Z",
-      "fact": "Moomoo 報導：Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Gulf South Business Roundtable召集國家領導人，共商推進美國能源與工業未來大計 &nbsp;&nbsp; Moomoo。",
+      "source": "Neuberger Berman",
+      "publishedAt": "2026-07-20T12:43:54.000Z",
+      "fact": "Neuberger Berman 報導：Six Themes Redefining the Corporate Hybrid 市場",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Six Themes Redefining the Corporate Hybrid Market &nbsp;&nbsp; Neuberger Berman。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/73162189/gulf-south-business-roundtable-convenes-national-leaders-to-advance-america"
+      "url": "https://www.nb.com/zh-HK/insights/article-six-themes-redefining-the-corporate-hybrid-market"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "TSMC",
-      "title": "輝達, AMD, Mircon, TSMC 股價 Sink as China Unveils Powerful New AI Model",
-      "originalTitle": "Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model",
-      "translatedTitle": "輝達, AMD, Mircon, TSMC 股價 Sink as China Unveils Powerful New AI Model",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI -- WSJ",
+      "originalTitle": "Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI -- WSJ",
+      "translatedTitle": "AI 財經快訊：Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI -- WSJ",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-17T17:52:11.000Z",
-      "fact": "TradingView 報導：輝達, AMD, Mircon, TSMC 股價 Sink as China Unveils Powerful New AI Model",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia, AMD, Mircon, TSMC Shares Sink as China Unveils Powerful New AI Model &nbsp;&nbsp; TradingView。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-20T20:52:23.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI -- WSJ",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI -- WSJ &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:8e535e85a094b:0-nvidia-amd-mircon-tsmc-shares-sink-as-china-unveils-powerful-new-ai-model/"
+      "url": "https://news.futunn.com/hk/post/76304775/nasdaq-loses-early-gains-as-fears-persist-over-oil-prices"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "便宜標的 in the Software 股票 Wrec",
-      "title": "便宜標的 in the Software 股票 Wreckage — Barron’s",
-      "originalTitle": "Bargains in the Software Stock Wreckage -- Barron's",
-      "translatedTitle": "便宜標的 in the Software 股票 Wreckage — Barron’s",
+      "subject": "Forget 輝達. These 5 標普 500 股票",
+      "title": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
+      "originalTitle": "Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI.",
+      "translatedTitle": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-07-18T02:22:07.000Z",
-      "fact": "Moomoo 報導：便宜標的 in the Software 股票 Wreckage — Barron’s",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Bargains in the Software Stock Wreckage -- Barron's &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-07-20T13:46:00.000Z",
+      "fact": "Moomoo 報導：Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI. &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "Nvidia",
+        "AI",
+        "stocks"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/73164643/bargains-in-the-software-stock-wreckage-barron-s"
+      "url": "https://www.moomoo.com/hant/news/post/73227506/forget-nvidia-these-5-s-p-500-stocks-are-quietly"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Stop Worrying About AI and F",
-      "title": "Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
-      "originalTitle": "Stop Worrying About AI and Focus on the Rest of the Market -- Barrons.com",
-      "translatedTitle": "Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
+      "subject": "CIO Weekly",
+      "title": "CIO Weekly: Will 財報 Sustain Equities Momentum?",
+      "originalTitle": "CIO Weekly: Will Earnings Sustain Equities Momentum?",
+      "translatedTitle": "CIO Weekly: Will 財報 Sustain Equities Momentum?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-17T06:03:13.000Z",
-      "fact": "富途牛牛 報導：Stop Worrying About AI and Focus on the Rest of the 市場 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stop Worrying About AI and Focus on the Rest of the Market -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "source": "Neuberger Berman",
+      "publishedAt": "2026-07-20T02:33:13.000Z",
+      "fact": "Neuberger Berman 報導：CIO Weekly: Will 財報 Sustain Equities Momentum?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；CIO Weekly: Will Earnings Sustain Equities Momentum? &nbsp;&nbsp; Neuberger Berman。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "earnings"
       ],
-      "url": "https://news.futunn.com/hk/post/76177656/stop-worrying-about-ai-and-focus-on-the-rest-of"
+      "url": "https://www.nb.com/zh-TW/insights/cio-weekly-article-will-earnings-sustain-equities-momentum"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "HubSpot",
-      "title": "HubSpot, ZoomInfo, and Paycom 股票 trade up, what you need to know",
-      "originalTitle": "HubSpot, ZoomInfo, and Paycom stocks trade up, what you need to know",
-      "translatedTitle": "HubSpot, ZoomInfo, and Paycom 股票 trade up, what you need to know",
+      "subject": "Google",
+      "title": "Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google 雲端 還能撐起成長神話嗎？",
+      "originalTitle": "Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google Cloud 還能撐起成長神話嗎？",
+      "translatedTitle": "Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google 雲端 還能撐起成長神話嗎？",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "MSN",
-      "publishedAt": "2026-07-18T21:52:02.000Z",
-      "fact": "MSN 報導：HubSpot, ZoomInfo, and Paycom 股票 trade up, what you need to know",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；HubSpot, ZoomInfo, and Paycom stocks trade up, what you need to know &nbsp;&nbsp; MSN。",
+      "category": "雲端基礎設施",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-20T11:44:56.000Z",
+      "fact": "TradingKey 報導：Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google 雲端 還能撐起成長神話嗎？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google Cloud 還能撐起成長神話嗎？ &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "stocks"
+        "Google",
+        "AI",
+        "cloud"
       ],
-      "url": "https://www.msn.com/zh-hk/money/%E7%A7%91%E6%8A%80/hubspot-zoominfo-and-paycom-stocks-trade-up-what-you-need-to-know/ar-AA27PVw0"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262041400-alphabet-q2-earnings-preview-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "El",
-      "title": "El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
-      "originalTitle": "El-Erian Flags ‘Fascinating’ Market Shift As Dow, S&P 500 Catch Up To Nasdaq",
-      "translatedTitle": "El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
+      "subject": "Week Ahead",
+      "title": "Week Ahead: Oil, Tech 財報 and ECB Take Centre Stage",
+      "originalTitle": "Week Ahead: Oil, Tech Earnings and ECB Take Centre Stage",
+      "translatedTitle": "Week Ahead: Oil, Tech 財報 and ECB Take Centre Stage",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-17T07:04:18.000Z",
-      "fact": "TradingView 報導：El-Erian Flags ‘Fascinating’ 市場 Shift As Dow, 標普 500 Catch Up To Nasdaq",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；El-Erian Flags ‘Fascinating’ Market Shift As Dow, S&P 500 Catch Up To Nasdaq &nbsp;&nbsp; TradingView。",
+      "source": "TMGM trading",
+      "publishedAt": "2026-07-20T08:11:23.000Z",
+      "fact": "TMGM trading 報導：Week Ahead: Oil, Tech 財報 and ECB Take Centre Stage",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Week Ahead: Oil, Tech Earnings and ECB Take Centre Stage &nbsp;&nbsp; TMGM trading。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "earnings"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:65488d53d094b:0-el-erian-flags-fascinating-market-shift-as-dow-s-p-500-catch-up-to-nasdaq/"
+      "url": "https://www.tmgm.com/zh-hant/analysis/market-insight/oil-tech-earnings-ecb-take-centre-stage"
     }
   ]
 }
