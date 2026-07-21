@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-07-20T22:46:24.962Z",
+  "generatedAt": "2026-07-21T01:24:13.364Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
+      "originalTitle": "Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
+      "translatedTitle": "Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-07-21T00:37:59.000Z",
+      "fact": "TechNews 科技新報 報導：Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 傳開發新款 AI 晶片，提高 Gemini 運算效率 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/07/21/google-plans-new-frozen-chip-to-run-its-ai-models-much-more-efficiently/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
@@ -25,7 +46,27 @@
       "url": "https://www.gq.com.tw/article/openai-apple-%E6%89%93%E5%AE%98%E5%8F%B8"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：China: Chinese AI models challenge US-led economics – Deutsche Bank",
+      "originalTitle": "China: Chinese AI models challenge US-led economics – Deutsche Bank",
+      "translatedTitle": "AI 財經快訊：China: Chinese AI models challenge US-led economics – Deutsche Bank",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TMGM trading",
+      "publishedAt": "2026-07-20T21:34:01.000Z",
+      "fact": "TMGM trading 報導：AI 財經快訊：China: Chinese AI models challenge US-led economics – Deutsche Bank",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；China: Chinese AI models challenge US-led economics – Deutsche Bank &nbsp;&nbsp; TMGM trading。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.tmgm.com/cht/analysis/market-news/article/china-chinese-ai-models-challenge-us-led-economics-deutsche-bank-202607201934"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "Alibaba's New AI Model Takes On Anthropic. What It Means for the 股票. — Barron’s.com",
@@ -46,7 +87,7 @@
       "url": "https://news.futunn.com/hk/post/76289590/alibaba-s-new-ai-model-takes-on-anthropic-what-it"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "美銀表示，Meta Platforms第二季度業績可能超出預期，受益於廣告增長和人工智能優勢。",
@@ -64,46 +105,6 @@
         "Meta"
       ],
       "url": "https://www.moomoo.com/hant/news/post/73232157/meta-platforms-likely-to-beat-q2-estimates-on-ad-growth"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI：便宜模型未必更省 企業評估AI不該只看Token價格",
-      "originalTitle": "OpenAI：便宜模型未必更省　企業評估AI不該只看Token價格",
-      "translatedTitle": "OpenAI：便宜模型未必更省 企業評估AI不該只看Token價格",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "ETtoday AI科技",
-      "publishedAt": "2026-07-20T10:00:00.000Z",
-      "fact": "ETtoday AI科技 報導：OpenAI：便宜模型未必更省 企業評估AI不該只看Token價格",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI：便宜模型未必更省 企業評估AI不該只看Token價格 &nbsp;&nbsp; ETtoday AI科技。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://ai.ettoday.net/amp/amp_news.php7?news_id"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "市場報導",
-      "title": "市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉",
-      "originalTitle": "市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉",
-      "translatedTitle": "市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "科技產業資訊室",
-      "publishedAt": "2026-07-20T02:17:03.000Z",
-      "fact": "科技產業資訊室 報導：市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；市場報導： 蘋果即將超越輝達成為全球市值第一，這代表著市場走向進入又再次反轉 &nbsp;&nbsp; 科技產業資訊室。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://iknow.stpi.narl.org.tw/Post/Read.aspx?PostID"
     },
     {
       "id": "全球財經脈動-1",
@@ -167,7 +168,7 @@
       "url": "https://www.nb.com/zh-HK/insights/article-six-themes-redefining-the-corporate-hybrid-market"
     },
     {
-      "id": "美股與全球市場焦點-1",
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Nasdaq Loses Early Gains as Fears Persist Over Oil Prices, AI -- WSJ",
@@ -187,7 +188,26 @@
       "url": "https://news.futunn.com/hk/post/76304775/nasdaq-loses-early-gains-as-fears-persist-over-oil-prices"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "TradingKey 每日市場簡報",
+      "title": "TradingKey 每日市場簡報：AMD微軟合作提振半導體類股，AMD、英特爾、美光集體反彈",
+      "originalTitle": "TradingKey 每日市場簡報：AMD微軟合作提振半導體類股，AMD、英特爾、美光集體反彈",
+      "translatedTitle": "TradingKey 每日市場簡報：AMD微軟合作提振半導體類股，AMD、英特爾、美光集體反彈",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-21T01:23:28.000Z",
+      "fact": "TradingKey 報導：TradingKey 每日市場簡報：AMD微軟合作提振半導體類股，AMD、英特爾、美光集體反彈",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；TradingKey 每日市場簡報：AMD微軟合作提振半導體類股，AMD、英特爾、美光集體反彈 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262042586-amd-microsoft-partnership-boosted-semiconductor-intel-micron-rebound-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Forget 輝達. These 5 標普 500 股票",
       "title": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
@@ -209,67 +229,24 @@
       "url": "https://www.moomoo.com/hant/news/post/73227506/forget-nvidia-these-5-s-p-500-stocks-are-quietly"
     },
     {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "CIO Weekly",
-      "title": "CIO Weekly: Will 財報 Sustain Equities Momentum?",
-      "originalTitle": "CIO Weekly: Will Earnings Sustain Equities Momentum?",
-      "translatedTitle": "CIO Weekly: Will 財報 Sustain Equities Momentum?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Neuberger Berman",
-      "publishedAt": "2026-07-20T02:33:13.000Z",
-      "fact": "Neuberger Berman 報導：CIO Weekly: Will 財報 Sustain Equities Momentum?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；CIO Weekly: Will Earnings Sustain Equities Momentum? &nbsp;&nbsp; Neuberger Berman。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://www.nb.com/zh-TW/insights/cio-weekly-article-will-earnings-sustain-equities-momentum"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Google",
-      "title": "Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google 雲端 還能撐起成長神話嗎？",
-      "originalTitle": "Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google Cloud 還能撐起成長神話嗎？",
-      "translatedTitle": "Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google 雲端 還能撐起成長神話嗎？",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "TradingKey",
-      "publishedAt": "2026-07-20T11:44:56.000Z",
-      "fact": "TradingKey 報導：Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google 雲端 還能撐起成長神話嗎？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Alphabet Q2 財報前瞻：1,900 億美元 AI 豪賭迎大考，Google Cloud 還能撐起成長神話嗎？ &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Google",
-        "AI",
-        "cloud"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262041400-alphabet-q2-earnings-preview-tradingkey"
-    },
-    {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Week Ahead",
-      "title": "Week Ahead: Oil, Tech 財報 and ECB Take Centre Stage",
-      "originalTitle": "Week Ahead: Oil, Tech Earnings and ECB Take Centre Stage",
-      "translatedTitle": "Week Ahead: Oil, Tech 財報 and ECB Take Centre Stage",
+      "subject": "AMD's 股票 Climbs",
+      "title": "AMD's 股票 Climbs, and a New 微軟 Deal Is Only Part of the Reason",
+      "originalTitle": "AMD's Stock Climbs, and a New Microsoft Deal Is Only Part of the Reason",
+      "translatedTitle": "AMD's 股票 Climbs, and a New 微軟 Deal Is Only Part of the Reason",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TMGM trading",
-      "publishedAt": "2026-07-20T08:11:23.000Z",
-      "fact": "TMGM trading 報導：Week Ahead: Oil, Tech 財報 and ECB Take Centre Stage",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Week Ahead: Oil, Tech Earnings and ECB Take Centre Stage &nbsp;&nbsp; TMGM trading。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-20T17:24:00.000Z",
+      "fact": "富途牛牛 報導：AMD's 股票 Climbs, and a New 微軟 Deal Is Only Part of the Reason",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AMD's Stock Climbs, and a New Microsoft Deal Is Only Part of the Reason &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "earnings"
+        "Microsoft"
       ],
-      "url": "https://www.tmgm.com/zh-hant/analysis/market-insight/oil-tech-earnings-ecb-take-centre-stage"
+      "url": "https://news.futunn.com/hk/post/76300142/amd-s-stock-climbs-and-a-new-microsoft-deal-is"
     }
   ]
 }
