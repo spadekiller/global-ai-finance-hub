@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T22:45:08.168Z",
+  "generatedAt": "2026-07-22T01:22:52.016Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,22 +26,23 @@
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "OpenAI 為何主動暫停一款強大的 AI？一場內部測試揭 Agent 資安新盲點",
-      "originalTitle": "OpenAI 為何主動暫停一款強大的 AI？一場內部測試揭 Agent 資安新盲點",
-      "translatedTitle": "OpenAI 為何主動暫停一款強大的 AI？一場內部測試揭 Agent 資安新盲點",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "title": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
+      "originalTitle": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 Apple 為何從合作走向打官司一途？",
+      "translatedTitle": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "TechOrange 科技報橘",
-      "publishedAt": "2026-07-21T04:09:45.000Z",
-      "fact": "TechOrange 科技報橘 報導：OpenAI 為何主動暫停一款強大的 AI？一場內部測試揭 Agent 資安新盲點",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 為何主動暫停一款強大的 AI？一場內部測試揭 Agent 資安新盲點 &nbsp;&nbsp; TechOrange 科技報橘。",
+      "source": "GQ Taiwan",
+      "publishedAt": "2026-07-20T08:22:51.000Z",
+      "fact": "GQ Taiwan 報導：【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 Apple 為何從合作走向打官司一途？ &nbsp;&nbsp; GQ Taiwan。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
+        "Apple",
         "AI"
       ],
-      "url": "https://techorange.com/2026/07/21/openai-safety-alignment-long-horizon-models/"
+      "url": "https://www.gq.com.tw/article/openai-apple-%E6%89%93%E5%AE%98%E5%8F%B8"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -67,6 +68,27 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
+      "originalTitle": "Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
+      "translatedTitle": "Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-07-21T00:37:59.000Z",
+      "fact": "TechNews 科技新報 報導：Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 傳開發新款 AI 晶片，提高 Gemini 運算效率 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/07/21/google-plans-new-frozen-chip-to-run-its-ai-models-much-more-efficiently/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
       "subject": "金融科技擁抱 AI 服務 財富管理平台導入智慧助理 ",
       "title": "金融科技擁抱 AI 服務 財富管理平台導入智慧助理 - 科技新聞 - PChome Online 新聞",
       "originalTitle": "金融科技擁抱 AI 服務 財富管理平台導入智慧助理 - 科技新聞 - PChome Online 新聞",
@@ -83,28 +105,6 @@
         "AI"
       ],
       "url": "https://news.pchome.com.tw/science/sunmedia/20260721/index-78460659276185329005.html"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
-      "originalTitle": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 Apple 為何從合作走向打官司一途？",
-      "translatedTitle": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "GQ Taiwan",
-      "publishedAt": "2026-07-20T08:22:51.000Z",
-      "fact": "GQ Taiwan 報導：【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 Apple 為何從合作走向打官司一途？ &nbsp;&nbsp; GQ Taiwan。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Apple",
-        "AI"
-      ],
-      "url": "https://www.gq.com.tw/article/openai-apple-%E6%89%93%E5%AE%98%E5%8F%B8"
     },
     {
       "id": "全球財經脈動-1",
@@ -128,23 +128,24 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "晶片股 Shrug Off Chinese AI Wor",
-      "title": "晶片股 Shrug Off Chinese AI Worries — WSJ",
-      "originalTitle": "Chip Stocks Shrug Off Chinese AI Worries -- WSJ",
-      "translatedTitle": "晶片股 Shrug Off Chinese AI Worries — WSJ",
+      "subject": "Forget 輝達. These 5 標普 500 股票",
+      "title": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
+      "originalTitle": "Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI.",
+      "translatedTitle": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-21T20:19:00.000Z",
-      "fact": "富途牛牛 報導：晶片股 Shrug Off Chinese AI Worries — WSJ",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip Stocks Shrug Off Chinese AI Worries -- WSJ &nbsp;&nbsp; 富途牛牛。",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-21T20:25:13.000Z",
+      "fact": "Moomoo 報導：Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI. &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
+        "Nvidia",
         "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/76374301/chip-stocks-shrug-off-chinese-ai-worries-wsj"
+      "url": "https://www.moomoo.com/hant/news/post/73310669/forget-nvidia-these-5-s-p-500-stocks-are-quietly"
     },
     {
       "id": "美股與全球市場焦點-2",
@@ -169,6 +170,27 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
+      "subject": "晶片股 Shrug Off Chinese AI Wor",
+      "title": "晶片股 Shrug Off Chinese AI Worries — WSJ",
+      "originalTitle": "Chip Stocks Shrug Off Chinese AI Worries -- WSJ",
+      "translatedTitle": "晶片股 Shrug Off Chinese AI Worries — WSJ",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-21T20:19:00.000Z",
+      "fact": "富途牛牛 報導：晶片股 Shrug Off Chinese AI Worries — WSJ",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip Stocks Shrug Off Chinese AI Worries -- WSJ &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/76374301/chip-stocks-shrug-off-chinese-ai-worries-wsj"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
       "subject": "伯恩斯坦解讀",
       "title": "伯恩斯坦解讀： 50GW 算力重估設備股， AI 設備超級週期來了？",
       "originalTitle": "伯恩斯坦解讀： 50GW 算力重估設備股， AI 設備超級週期來了？",
@@ -187,7 +209,7 @@
       "url": "https://www.odaily.news/zh-TW/post/5212016"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：China: Chinese AI models challenge US-led economics – Deutsche Bank",
@@ -205,28 +227,6 @@
         "AI"
       ],
       "url": "https://www.tmgm.com/cht/analysis/market-news/article/china-chinese-ai-models-challenge-us-led-economics-deutsche-bank-202607201934"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Forget 輝達. These 5 標普 500 股票",
-      "title": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
-      "originalTitle": "Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI.",
-      "translatedTitle": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-20T13:46:00.000Z",
-      "fact": "Moomoo 報導：Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI. &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/73227506/forget-nvidia-these-5-s-p-500-stocks-are-quietly"
     }
   ]
 }
