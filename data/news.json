@@ -1,232 +1,229 @@
 {
-  "generatedAt": "2026-07-22T01:22:52.016Z",
+  "generatedAt": "2026-07-23T22:47:21.276Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Ainos嗅覺AI累積收集逾6.13億筆工業氣味資料 加",
-      "title": "Ainos嗅覺AI累積收集逾6.13億筆工業氣味資料 加速布局實體AI",
-      "originalTitle": "Ainos嗅覺AI累積收集逾6.13億筆工業氣味資料 加速布局實體AI",
-      "translatedTitle": "Ainos嗅覺AI累積收集逾6.13億筆工業氣味資料 加速布局實體AI",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "經濟日報",
-      "publishedAt": "2026-07-21T16:07:30.000Z",
-      "fact": "經濟日報 報導：Ainos嗅覺AI累積收集逾6.13億筆工業氣味資料 加速布局實體AI",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Ainos嗅覺AI累積收集逾6.13億筆工業氣味資料 加速布局實體AI &nbsp;&nbsp; 經濟日報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://money.udn.com/money/story/5612/9642731"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
-      "originalTitle": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 Apple 為何從合作走向打官司一途？",
-      "translatedTitle": "【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
-      "translationNote": "系統翻譯，請以原文為準",
+      "title": "OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館",
+      "originalTitle": "OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館",
+      "translatedTitle": "OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "GQ Taiwan",
-      "publishedAt": "2026-07-20T08:22:51.000Z",
-      "fact": "GQ Taiwan 報導：【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 蘋果 為何從合作走向打官司一途？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【TechGuide】從 Siri 盟友到硬體大敵：OpenAI 與 Apple 為何從合作走向打官司一途？ &nbsp;&nbsp; GQ Taiwan。",
+      "source": "梅花新聞網",
+      "publishedAt": "2026-07-23T12:10:00.000Z",
+      "fact": "梅花新聞網 報導：OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館 &nbsp;&nbsp; 梅花新聞網。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
-        "Apple",
         "AI"
       ],
-      "url": "https://www.gq.com.tw/article/openai-apple-%E6%89%93%E5%AE%98%E5%8F%B8"
+      "url": "https://www.i-meihua.com/Article/Detail/53084"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Galaxy Z Fold 8 與 Flip 8 首發搭",
+      "title": "Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
+      "originalTitle": "Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
+      "translatedTitle": "Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "流動日報",
+      "publishedAt": "2026-07-22T21:23:18.000Z",
+      "fact": "流動日報 報導：Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場 &nbsp;&nbsp; 流動日報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.newmobilelife.com/2026/07/23/samsung-galaxy-z-fold-8-flip-8-gemini-intelligence-nano-4/"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
+      "subject": "摩根士丹利表示，Alphabet的Gemini 4推出和",
+      "title": "摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑",
+      "originalTitle": "摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑",
+      "translatedTitle": "摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-23T15:12:41.000Z",
+      "fact": "富途牛牛 報導：摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑 &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://news.futunn.com/hk/post/76501849/alphabet-s-gemini-4-rollout-tpu-opportunity-key-catalysts-to"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "Meta",
-      "title": "AI 財經快訊：Meta's AI Push Threatens Shopify's Core Business, Analyst Warns",
-      "originalTitle": "Meta's AI Push Threatens Shopify's Core Business, Analyst Warns",
-      "translatedTitle": "AI 財經快訊：Meta's AI Push Threatens Shopify's Core Business, Analyst Warns",
-      "translationNote": "系統翻譯，請以原文為準",
+      "title": "三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "originalTitle": "三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "translatedTitle": "三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-21T16:57:00.000Z",
-      "fact": "Moomoo 報導：AI 財經快訊：Meta's AI Push Threatens Shopify's Core Business, Analyst Warns",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta's AI Push Threatens Shopify's Core Business, Analyst Warns &nbsp;&nbsp; Moomoo。",
+      "source": "動區動趨",
+      "publishedAt": "2026-07-23T03:15:52.000Z",
+      "fact": "動區動趨 報導：三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體 &nbsp;&nbsp; 動區動趨。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Meta",
         "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/73305300/meta-s-ai-push-threatens-shopify-s-core-business-analyst"
+      "url": "https://www.blocktempo.com/samsung-smart-glasses-google-gentle-monster-warby-parker-battery-meta/"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
-      "originalTitle": "Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
-      "translatedTitle": "Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
+      "title": "首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
+      "originalTitle": "首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
+      "translatedTitle": "首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-07-21T00:37:59.000Z",
-      "fact": "TechNews 科技新報 報導：Google 傳開發新款 AI 晶片，提高 Gemini 運算效率",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 傳開發新款 AI 晶片，提高 Gemini 運算效率 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "ETtoday新聞雲",
+      "publishedAt": "2026-07-23T02:21:00.000Z",
+      "fact": "ETtoday新聞雲 報導：首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作 &nbsp;&nbsp; ETtoday新聞雲。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Google",
         "AI"
       ],
-      "url": "https://technews.tw/2026/07/21/google-plans-new-frozen-chip-to-run-its-ai-models-much-more-efficiently/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "金融科技擁抱 AI 服務 財富管理平台導入智慧助理 ",
-      "title": "金融科技擁抱 AI 服務 財富管理平台導入智慧助理 - 科技新聞 - PChome Online 新聞",
-      "originalTitle": "金融科技擁抱 AI 服務 財富管理平台導入智慧助理 - 科技新聞 - PChome Online 新聞",
-      "translatedTitle": "金融科技擁抱 AI 服務 財富管理平台導入智慧助理 - 科技新聞 - PChome Online 新聞",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-07-21T04:03:12.000Z",
-      "fact": "PChome Online 新聞 報導：金融科技擁抱 AI 服務 財富管理平台導入智慧助理 - 科技新聞 - PChome Online 新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；金融科技擁抱 AI 服務 財富管理平台導入智慧助理 - 科技新聞 - PChome Online 新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.pchome.com.tw/science/sunmedia/20260721/index-78460659276185329005.html"
+      "url": "https://www.ettoday.net/amp/3206172"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "Six Themes Redefining the Co",
-      "title": "Six Themes Redefining the Corporate Hybrid 市場",
-      "originalTitle": "Six Themes Redefining the Corporate Hybrid Market",
-      "translatedTitle": "Six Themes Redefining the Corporate Hybrid 市場",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Cognizant and Gulf Edge Announce Strategic Partnership to Accelerate Enterprise AI Adoption in Southeast Asia",
+      "originalTitle": "Cognizant and Gulf Edge Announce Strategic Partnership to Accelerate Enterprise AI Adoption in Southeast Asia",
+      "translatedTitle": "AI 財經快訊：Cognizant and Gulf Edge Announce Strategic Partnership to Accelerate Enterprise AI Adoption in Southeast Asia",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Neuberger Berman",
-      "publishedAt": "2026-07-20T12:43:54.000Z",
-      "fact": "Neuberger Berman 報導：Six Themes Redefining the Corporate Hybrid 市場",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Six Themes Redefining the Corporate Hybrid Market &nbsp;&nbsp; Neuberger Berman。",
+      "source": "Quamnet",
+      "publishedAt": "2026-07-23T09:00:01.000Z",
+      "fact": "Quamnet 報導：AI 財經快訊：Cognizant and Gulf Edge Announce Strategic Partnership to Accelerate Enterprise AI Adoption in Southeast Asia",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Cognizant and Gulf Edge Announce Strategic Partnership to Accelerate Enterprise AI Adoption in Southeast Asia &nbsp;&nbs。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經"
+        "全球財經",
+        "AI"
       ],
-      "url": "https://www.nb.com/zh-HK/insights/article-six-themes-redefining-the-corporate-hybrid-market"
+      "url": "https://www.quamnet.com/post/wiW-OMTjKWSA_ga8ZYMpI"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Forget 輝達. These 5 標普 500 股票",
-      "title": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
-      "originalTitle": "Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI.",
-      "translatedTitle": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
+      "subject": "AI 股票 Are Echoing a 1990s 市場",
+      "title": "AI 股票 Are Echoing a 1990s 市場 Split. JPMorgan Warns the Next Few Weeks Are Critical.",
+      "originalTitle": "AI Stocks Are Echoing a 1990s Market Split. JPMorgan Warns the Next Few Weeks Are Critical.",
+      "translatedTitle": "AI 股票 Are Echoing a 1990s 市場 Split. JPMorgan Warns the Next Few Weeks Are Critical.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-21T20:25:13.000Z",
-      "fact": "Moomoo 報導：Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI. &nbsp;&nbsp; Moomoo。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-23T11:02:00.000Z",
+      "fact": "富途牛牛 報導：AI 股票 Are Echoing a 1990s 市場 Split. JPMorgan Warns the Next Few Weeks Are Critical.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stocks Are Echoing a 1990s Market Split. JPMorgan Warns the Next Few Weeks Are Critical. &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
         "AI",
         "stocks"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/73310669/forget-nvidia-these-5-s-p-500-stocks-are-quietly"
+      "url": "https://news.futunn.com/hk/post/76487689/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "NVDA",
-      "title": "NVDA, AVGO Offer Best Value Among 晶片股 Amid Recent Sell-Off, Says 摩根士丹利 — Sees 'Compelling Entry Point' In Memory 股票",
-      "originalTitle": "NVDA, AVGO Offer Best Value Among Chip Stocks Amid Recent Sell-Off, Says Morgan Stanley — Sees 'Compelling Entry Point' In Memory Stocks",
-      "translatedTitle": "NVDA, AVGO Offer Best Value Among 晶片股 Amid Recent Sell-Off, Says 摩根士丹利 — Sees 'Compelling Entry Point' In Memory 股票",
+      "subject": "CRDO vs. MRVL",
+      "title": "CRDO vs. MRVL: Which AI Connectivity 股票 Is the Better Buy?",
+      "originalTitle": "CRDO vs. MRVL: Which AI Connectivity Stock Is the Better Buy?",
+      "translatedTitle": "CRDO vs. MRVL: Which AI Connectivity 股票 Is the Better Buy?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-07-20T15:06:47.000Z",
-      "fact": "TradingView 報導：NVDA, AVGO Offer Best Value Among 晶片股 Amid Recent Sell-Off, Says 摩根士丹利 — Sees 'Compelling Entry Point' In Memory 股票",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVDA, AVGO Offer Best Value Among Chip Stocks Amid Recent Sell-Off, Says Morgan Stanley — Sees 'Compelling Entry Point'。",
+      "publishedAt": "2026-07-22T14:31:00.000Z",
+      "fact": "TradingView 報導：CRDO vs. MRVL: Which AI Connectivity 股票 Is the Better Buy?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；CRDO vs. MRVL: Which AI Connectivity Stock Is the Better Buy? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "stocks"
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:d0e9d8b27094b:0-nvda-avgo-offer-best-value-among-chip-stocks-amid-recent-sell-off-says-morgan-stanley-sees-compelling-entry-point-in-memory-stocks/"
+      "url": "https://tw.tradingview.com/news/zacks:0e916efcc094b:0-crdo-vs-mrvl-which-ai-connectivity-stock-is-the-better-buy/"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "晶片股 Shrug Off Chinese AI Wor",
-      "title": "晶片股 Shrug Off Chinese AI Worries — WSJ",
-      "originalTitle": "Chip Stocks Shrug Off Chinese AI Worries -- WSJ",
-      "translatedTitle": "晶片股 Shrug Off Chinese AI Worries — WSJ",
+      "subject": "AI 股票 Rally Loses Steam Ahea",
+      "title": "AI 股票 Rally Loses Steam Ahead of Key Big Tech 財報",
+      "originalTitle": "AI Stock Rally Loses Steam Ahead of Key Big Tech Earnings",
+      "translatedTitle": "AI 股票 Rally Loses Steam Ahead of Key Big Tech 財報",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-21T20:19:00.000Z",
-      "fact": "富途牛牛 報導：晶片股 Shrug Off Chinese AI Worries — WSJ",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip Stocks Shrug Off Chinese AI Worries -- WSJ &nbsp;&nbsp; 富途牛牛。",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-22T08:26:03.000Z",
+      "fact": "Moomoo 報導：AI 股票 Rally Loses Steam Ahead of Key Big Tech 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stock Rally Loses Steam Ahead of Key Big Tech Earnings &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "stocks"
+        "earnings"
       ],
-      "url": "https://news.futunn.com/hk/post/76374301/chip-stocks-shrug-off-chinese-ai-worries-wsj"
+      "url": "https://www.moomoo.com/hant/news/post/73343081/ai-stock-rally-loses-steam-ahead-of-key-big-tech"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "伯恩斯坦解讀",
-      "title": "伯恩斯坦解讀： 50GW 算力重估設備股， AI 設備超級週期來了？",
-      "originalTitle": "伯恩斯坦解讀： 50GW 算力重估設備股， AI 設備超級週期來了？",
-      "translatedTitle": "伯恩斯坦解讀： 50GW 算力重估設備股， AI 設備超級週期來了？",
+      "subject": "谷歌股價預測",
+      "title": "谷歌股價預測：財報優於預期，股價為什麼下跌？",
+      "originalTitle": "谷歌股價預測：財報優於預期，股價為什麼下跌？",
+      "translatedTitle": "谷歌股價預測：財報優於預期，股價為什麼下跌？",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "odaily.news",
-      "publishedAt": "2026-07-21T09:38:36.000Z",
-      "fact": "odaily.news 報導：伯恩斯坦解讀： 50GW 算力重估設備股， AI 設備超級週期來了？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；伯恩斯坦解讀： 50GW 算力重估設備股， AI 設備超級週期來了？ &nbsp;&nbsp; odaily.news。",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-23T08:07:17.000Z",
+      "fact": "TradingKey 報導：谷歌股價預測：財報優於預期，股價為什麼下跌？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；谷歌股價預測：財報優於預期，股價為什麼下跌？ &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://www.odaily.news/zh-TW/post/5212016"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262049252-google-stock-price-prediction-earnings-report-exceeded-expectations-why-stock-price-fall-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：China: Chinese AI models challenge US-led economics – Deutsche Bank",
-      "originalTitle": "China: Chinese AI models challenge US-led economics – Deutsche Bank",
-      "translatedTitle": "AI 財經快訊：China: Chinese AI models challenge US-led economics – Deutsche Bank",
+      "subject": "ChinaAMC Unveils Strategy fo",
+      "title": "ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to 財報",
+      "originalTitle": "ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to Earnings",
+      "translatedTitle": "ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to 財報",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "TMGM trading",
-      "publishedAt": "2026-07-20T21:34:01.000Z",
-      "fact": "TMGM trading 報導：AI 財經快訊：China: Chinese AI models challenge US-led economics – Deutsche Bank",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；China: Chinese AI models challenge US-led economics – Deutsche Bank &nbsp;&nbsp; TMGM trading。",
+      "category": "市場焦點",
+      "source": "Quamnet",
+      "publishedAt": "2026-07-22T13:00:01.000Z",
+      "fact": "Quamnet 報導：ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to Earnings &nbsp;&nbsp; Quamnet。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "earnings"
       ],
-      "url": "https://www.tmgm.com/cht/analysis/market-news/article/china-chinese-ai-models-challenge-us-led-economics-deutsche-bank-202607201934"
+      "url": "https://www.quamnet.com/post/TMhusg_TmbHDiBiOS-f9o"
     }
   ]
 }
