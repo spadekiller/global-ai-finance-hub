@@ -1,106 +1,108 @@
 {
-  "generatedAt": "2026-07-24T01:26:42.024Z",
+  "generatedAt": "2026-07-24T22:53:20.085Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館",
-      "originalTitle": "OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館",
-      "translatedTitle": "OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "梅花新聞網",
-      "publishedAt": "2026-07-23T12:10:00.000Z",
-      "fact": "梅花新聞網 報導：OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI坦承AI模型測試中失控 成功入侵同業數位圖書館 &nbsp;&nbsp; 梅花新聞網。",
+      "subject": "Why 輝達 CEO Jensen Huang Is D",
+      "title": "Why 輝達 CEO Jensen Huang Is Defending Chinese AI Models — Barron’s.com",
+      "originalTitle": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models -- Barrons.com",
+      "translatedTitle": "Why 輝達 CEO Jensen Huang Is Defending Chinese AI Models — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-24T17:25:39.000Z",
+      "fact": "富途牛牛 報導：Why 輝達 CEO Jensen Huang Is Defending Chinese AI Models — Barron’s.com",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "OpenAI",
+        "Nvidia",
         "AI"
       ],
-      "url": "https://www.i-meihua.com/Article/Detail/53084"
+      "url": "https://news.futunn.com/hk/post/76572032/why-nvidia-ceo-jensen-huang-is-defending-chinese-ai-models"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "【名家專欄】美中AI博弈 反擊中共出口管制",
-      "title": "【名家專欄】美中AI博弈 反擊中共出口管制",
-      "originalTitle": "【名家專欄】美中AI博弈 反擊中共出口管制",
-      "translatedTitle": "【名家專欄】美中AI博弈 反擊中共出口管制",
+      "subject": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
+      "title": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
+      "originalTitle": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
+      "translatedTitle": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "大纪元",
-      "publishedAt": "2026-07-23T21:50:00.000Z",
-      "fact": "大纪元 報導：【名家專欄】美中AI博弈 反擊中共出口管制",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【名家專欄】美中AI博弈 反擊中共出口管制 &nbsp;&nbsp; 大纪元。",
+      "source": "商傳媒",
+      "publishedAt": "2026-07-24T11:56:58.000Z",
+      "fact": "商傳媒 報導：「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴 &nbsp;&nbsp; 商傳媒。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://www.epochtimes.com/b5/26/7/20/n14813479.htm/amp"
+      "url": "https://sunmedia.tw/news/technology/1784849504-%E3%80%8C%E4%B8%BB%E6%AC%8AAI%E3%80%8D%E5%B7%A5%E5%85%B7%E8%99%9F%E7%A8%B1%E8%87%AA%E4%B8%BB%E5%8F%AF%E6%8E%A7%20%E5%B7%A8%E9%A0%AD%E6%81%90%E7%B6%81%E5%AE%9A%E4%BC%81%E6%A5%AD%E5%8A%A0%E5%8A%87%E4%BE%9D%E8%B3%B4"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Galaxy Z Fold 8 與 Flip 8 首發搭",
-      "title": "Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
-      "originalTitle": "Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
-      "translatedTitle": "Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "流動日報",
-      "publishedAt": "2026-07-22T21:23:18.000Z",
-      "fact": "流動日報 報導：Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場 &nbsp;&nbsp; 流動日報。",
+      "subject": "Google",
+      "title": "Google 最新研究：AI 已滲透 88% 職業，但多為「輔助」而非「取代」",
+      "originalTitle": "Google 最新研究：AI 已滲透 88% 職業，但多為「輔助」而非「取代」",
+      "translatedTitle": "Google 最新研究：AI 已滲透 88% 職業，但多為「輔助」而非「取代」",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-07-24T03:54:40.000Z",
+      "fact": "TechNews 科技新報 報導：Google 最新研究：AI 已滲透 88% 職業，但多為「輔助」而非「取代」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 最新研究：AI 已滲透 88% 職業，但多為「輔助」而非「取代」 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "Google",
+        "AI"
       ],
-      "url": "https://www.newmobilelife.com/2026/07/23/samsung-galaxy-z-fold-8-flip-8-gemini-intelligence-nano-4/"
+      "url": "https://technews.tw/2026/07/24/google-study-says-ai-is-helping-workers-not-replacing-them/"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "摩根士丹利表示，Alphabet的Gemini 4推出和",
-      "title": "摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑",
-      "originalTitle": "摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑",
-      "translatedTitle": "摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑",
+      "subject": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
+      "title": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
+      "originalTitle": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
+      "translatedTitle": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-23T15:12:41.000Z",
-      "fact": "富途牛牛 報導：摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑 &nbsp;&nbsp; 富途牛牛。",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-07-24T11:56:00.000Z",
+      "fact": "蕃新聞 報導：「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴 &nbsp;&nbsp; 蕃新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/76501849/alphabet-s-gemini-4-rollout-tpu-opportunity-key-catalysts-to"
+      "url": "https://n.yam.com/Article/20260724646895"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "originalTitle": "三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translatedTitle": "三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Elon Musk Warns Of AI 風險 — S",
+      "title": "Elon Musk Warns Of AI 風險 — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The World'",
+      "originalTitle": "Elon Musk Warns Of AI Risks — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The World'",
+      "translatedTitle": "Elon Musk Warns Of AI 風險 — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The World'",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "動區動趨",
-      "publishedAt": "2026-07-23T03:15:52.000Z",
-      "fact": "動區動趨 報導：三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體 &nbsp;&nbsp; 動區動趨。",
+      "source": "TradingView",
+      "publishedAt": "2026-07-23T12:49:20.000Z",
+      "fact": "TradingView 報導：Elon Musk Warns Of AI 風險 — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The World'",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Elon Musk Warns Of AI Risks — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The Wor。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Meta",
         "AI"
       ],
-      "url": "https://www.blocktempo.com/samsung-smart-glasses-google-gentle-monster-warby-parker-battery-meta/"
+      "url": "https://tw.tradingview.com/news/stocktwits:792a2cc2e094b:0-elon-musk-warns-of-ai-risks-says-he-and-sam-altman-may-need-to-set-aside-personal-differences-for-the-good-of-the-world/"
     },
     {
       "id": "全球財經脈動-1",
@@ -111,119 +113,138 @@
       "translatedTitle": "AI 財經快訊：Cognizant and Gulf Edge Announce Strategic Partnership to Accelerate Enterprise AI Adoption in Southeast Asia",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Quamnet",
-      "publishedAt": "2026-07-23T09:00:01.000Z",
-      "fact": "Quamnet 報導：AI 財經快訊：Cognizant and Gulf Edge Announce Strategic Partnership to Accelerate Enterprise AI Adoption in Southeast Asia",
+      "source": "TradingView",
+      "publishedAt": "2026-07-23T07:58:00.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Cognizant and Gulf Edge Announce Strategic Partnership to Accelerate Enterprise AI Adoption in Southeast Asia",
       "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Cognizant and Gulf Edge Announce Strategic Partnership to Accelerate Enterprise AI Adoption in Southeast Asia &nbsp;&nbs。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://www.quamnet.com/post/wiW-OMTjKWSA_ga8ZYMpI"
+      "url": "https://tw.tradingview.com/news/prnewswire:1206b2f437f35:0-cognizant-and-gulf-edge-announce-strategic-partnership-to-accelerate-enterprise-ai-adoption-in-southeast-asia/"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Right2Compute Coalition啓動，旨在",
+      "title": "Right2Compute Coalition啓動，旨在確保建設人工智能數據中心的權利，以實現主權人工智能和數據所有權",
+      "originalTitle": "Right2Compute Coalition啓動，旨在確保建設人工智能數據中心的權利，以實現主權人工智能和數據所有權",
+      "translatedTitle": "Right2Compute Coalition啓動，旨在確保建設人工智能數據中心的權利，以實現主權人工智能和數據所有權",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-23T18:15:00.000Z",
+      "fact": "富途牛牛 報導：Right2Compute Coalition啓動，旨在確保建設人工智能數據中心的權利，以實現主權人工智能和數據所有權",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Right2Compute Coalition啓動，旨在確保建設人工智能數據中心的權利，以實現主權人工智能和數據所有權 &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://news.futunn.com/hk/post/76506967/right2compute-coalition-launches-to-secure-rights-for-building-ai-data"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "AI 股票 Are Echoing a 1990s 市場",
-      "title": "AI 股票 Are Echoing a 1990s 市場 Split. JPMorgan Warns the Next Few Weeks Are Critical.",
-      "originalTitle": "AI Stocks Are Echoing a 1990s Market Split. JPMorgan Warns the Next Few Weeks Are Critical.",
-      "translatedTitle": "AI 股票 Are Echoing a 1990s 市場 Split. JPMorgan Warns the Next Few Weeks Are Critical.",
+      "subject": "Oppenheimer Issues Stark Mes",
+      "title": "Oppenheimer Issues Stark Message on 微軟 股票 Ahead of 財報",
+      "originalTitle": "Oppenheimer Issues Stark Message on Microsoft Stock Ahead of Earnings",
+      "translatedTitle": "Oppenheimer Issues Stark Message on 微軟 股票 Ahead of 財報",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-07-23T12:04:15.000Z",
+      "fact": "TradingView 報導：Oppenheimer Issues Stark Message on 微軟 股票 Ahead of 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Oppenheimer Issues Stark Message on Microsoft Stock Ahead of Earnings &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Microsoft",
+        "earnings"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:d27969d49094b:0-oppenheimer-issues-stark-message-on-microsoft-stock-ahead-of-earnings/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "BE 半導體 Industries N.V. (BESI",
+      "title": "BE 半導體 Industries N.V. (BESIY) 股價、新聞、報價和記錄",
+      "originalTitle": "BE Semiconductor Industries N.V. (BESIY) 股價、新聞、報價和記錄",
+      "translatedTitle": "BE 半導體 Industries N.V. (BESIY) 股價、新聞、報價和記錄",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "Yahoo 財經",
+      "publishedAt": "2026-07-24T04:01:50.000Z",
+      "fact": "Yahoo 財經 報導：BE 半導體 Industries N.V. (BESIY) 股價、新聞、報價和記錄",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；BE Semiconductor Industries N.V. (BESIY) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "semiconductor"
+      ],
+      "url": "https://hk.finance.yahoo.com/quote/BESIY/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "Intel",
+      "title": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "originalTitle": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today's Market -- Barrons.com",
+      "translatedTitle": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More 股票 That Explain Today's 市場 — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-07-23T11:02:00.000Z",
-      "fact": "富途牛牛 報導：AI 股票 Are Echoing a 1990s 市場 Split. JPMorgan Warns the Next Few Weeks Are Critical.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stocks Are Echoing a 1990s Market Split. JPMorgan Warns the Next Few Weeks Are Critical. &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-07-24T12:49:00.000Z",
+      "fact": "富途牛牛 報導：Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today's Market -- Barrons.com &nbsp;&nbsp。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/76487689/ai-stocks-are-echoing-a-1990s-market-split-jpmorgan-warns"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "CRDO vs. MRVL",
-      "title": "CRDO vs. MRVL: Which AI Connectivity 股票 Is the Better Buy?",
-      "originalTitle": "CRDO vs. MRVL: Which AI Connectivity Stock Is the Better Buy?",
-      "translatedTitle": "CRDO vs. MRVL: Which AI Connectivity 股票 Is the Better Buy?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-22T14:31:00.000Z",
-      "fact": "TradingView 報導：CRDO vs. MRVL: Which AI Connectivity 股票 Is the Better Buy?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；CRDO vs. MRVL: Which AI Connectivity Stock Is the Better Buy? &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/zacks:0e916efcc094b:0-crdo-vs-mrvl-which-ai-connectivity-stock-is-the-better-buy/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "AI 股票 Rally Loses Steam Ahea",
-      "title": "AI 股票 Rally Loses Steam Ahead of Key Big Tech 財報",
-      "originalTitle": "AI Stock Rally Loses Steam Ahead of Key Big Tech Earnings",
-      "translatedTitle": "AI 股票 Rally Loses Steam Ahead of Key Big Tech 財報",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-22T08:26:03.000Z",
-      "fact": "Moomoo 報導：AI 股票 Rally Loses Steam Ahead of Key Big Tech 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stock Rally Loses Steam Ahead of Key Big Tech Earnings &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/73343081/ai-stock-rally-loses-steam-ahead-of-key-big-tech"
+      "url": "https://news.futunn.com/hk/post/76562332/intel-spacex-verizon-oracle-sap-tenet-amex-and-more-stocks"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "ChinaAMC Unveils Strategy fo",
-      "title": "ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to 財報",
-      "originalTitle": "ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to Earnings",
-      "translatedTitle": "ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to 財報",
+      "subject": "Intel",
+      "title": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "originalTitle": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today's Market -- Barrons.com",
+      "translatedTitle": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More 股票 That Explain Today's 市場 — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Quamnet",
-      "publishedAt": "2026-07-22T13:00:01.000Z",
-      "fact": "Quamnet 報導：ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to Earnings &nbsp;&nbsp; Quamnet。",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-24T12:49:00.000Z",
+      "fact": "Moomoo 報導：Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today's Market -- Barrons.com &nbsp;&nbsp。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "earnings"
+        "stocks"
       ],
-      "url": "https://www.quamnet.com/post/TMhusg_TmbHDiBiOS-f9o"
+      "url": "https://www.moomoo.com/hant/news/post/73504822/intel-spacex-verizon-oracle-sap-tenet-amex-and-more-stocks"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Yes",
-      "title": "Yes, the AI 股票 Selloff Looks Terrifying. But It Might Actually Save the Bull 市場.",
-      "originalTitle": "Yes, the AI Stock Selloff Looks Terrifying. But It Might Actually Save the Bull Market.",
-      "translatedTitle": "Yes, the AI 股票 Selloff Looks Terrifying. But It Might Actually Save the Bull 市場.",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，",
+      "title": "英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角",
+      "originalTitle": "英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角",
+      "translatedTitle": "英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-22T16:00:40.000Z",
-      "fact": "富途牛牛 報導：Yes, the AI 股票 Selloff Looks Terrifying. But It Might Actually Save the Bull 市場.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Yes, the AI Stock Selloff Looks Terrifying. But It Might Actually Save the Bull Market. &nbsp;&nbsp; 富途牛牛。",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-24T03:20:05.000Z",
+      "fact": "TradingKey 報導：英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/76432652/yes-the-ai-stock-selloff-looks-terrifying-but-it-might"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262051349-intel-earnings-sweep-expectations-59-data-center-growth-cpus-tradingkey"
     }
   ]
 }
