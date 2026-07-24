@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T22:47:21.276Z",
+  "generatedAt": "2026-07-24T01:26:42.024Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,6 +26,26 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "【名家專欄】美中AI博弈 反擊中共出口管制",
+      "title": "【名家專欄】美中AI博弈 反擊中共出口管制",
+      "originalTitle": "【名家專欄】美中AI博弈 反擊中共出口管制",
+      "translatedTitle": "【名家專欄】美中AI博弈 反擊中共出口管制",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "大纪元",
+      "publishedAt": "2026-07-23T21:50:00.000Z",
+      "fact": "大纪元 報導：【名家專欄】美中AI博弈 反擊中共出口管制",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【名家專欄】美中AI博弈 反擊中共出口管制 &nbsp;&nbsp; 大纪元。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.epochtimes.com/b5/26/7/20/n14813479.htm/amp"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "Galaxy Z Fold 8 與 Flip 8 首發搭",
       "title": "Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
       "originalTitle": "Galaxy Z Fold 8 與 Flip 8 首發搭載 Gemini Intelligence Gemini Nano 4 同步登場",
@@ -43,7 +63,7 @@
       "url": "https://www.newmobilelife.com/2026/07/23/samsung-galaxy-z-fold-8-flip-8-gemini-intelligence-nano-4/"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "摩根士丹利表示，Alphabet的Gemini 4推出和",
       "title": "摩根士丹利表示，Alphabet的Gemini 4推出和TPU機遇是未來上漲的關鍵催化劑",
@@ -62,7 +82,7 @@
       "url": "https://news.futunn.com/hk/post/76501849/alphabet-s-gemini-4-rollout-tpu-opportunity-key-catalysts-to"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "三星公開兩款新AI 智慧眼鏡，功能幾乎照抄Meta、隱私問題同樣未解| 動區動趨-最具影響力的區塊鏈新聞媒體",
@@ -81,27 +101,6 @@
         "AI"
       ],
       "url": "https://www.blocktempo.com/samsung-smart-glasses-google-gentle-monster-warby-parker-battery-meta/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
-      "originalTitle": "首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
-      "translatedTitle": "首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "ETtoday新聞雲",
-      "publishedAt": "2026-07-23T02:21:00.000Z",
-      "fact": "ETtoday新聞雲 報導：首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作 &nbsp;&nbsp; ETtoday新聞雲。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://www.ettoday.net/amp/3206172"
     },
     {
       "id": "全球財經脈動-1",
@@ -188,25 +187,6 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "谷歌股價預測",
-      "title": "谷歌股價預測：財報優於預期，股價為什麼下跌？",
-      "originalTitle": "谷歌股價預測：財報優於預期，股價為什麼下跌？",
-      "translatedTitle": "谷歌股價預測：財報優於預期，股價為什麼下跌？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-07-23T08:07:17.000Z",
-      "fact": "TradingKey 報導：谷歌股價預測：財報優於預期，股價為什麼下跌？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；谷歌股價預測：財報優於預期，股價為什麼下跌？ &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262049252-google-stock-price-prediction-earnings-report-exceeded-expectations-why-stock-price-fall-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
       "subject": "ChinaAMC Unveils Strategy fo",
       "title": "ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to 財報",
       "originalTitle": "ChinaAMC Unveils Strategy for H2 as AI Shifts from Conviction to Earnings",
@@ -224,6 +204,26 @@
         "earnings"
       ],
       "url": "https://www.quamnet.com/post/TMhusg_TmbHDiBiOS-f9o"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "Yes",
+      "title": "Yes, the AI 股票 Selloff Looks Terrifying. But It Might Actually Save the Bull 市場.",
+      "originalTitle": "Yes, the AI Stock Selloff Looks Terrifying. But It Might Actually Save the Bull Market.",
+      "translatedTitle": "Yes, the AI 股票 Selloff Looks Terrifying. But It Might Actually Save the Bull 市場.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-22T16:00:40.000Z",
+      "fact": "富途牛牛 報導：Yes, the AI 股票 Selloff Looks Terrifying. But It Might Actually Save the Bull 市場.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Yes, the AI Stock Selloff Looks Terrifying. But It Might Actually Save the Bull Market. &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/76432652/yes-the-ai-stock-selloff-looks-terrifying-but-it-might"
     }
   ]
 }
