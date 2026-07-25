@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T22:53:20.085Z",
+  "generatedAt": "2026-07-25T01:26:44.646Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -87,22 +87,23 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Elon Musk Warns Of AI 風險 — S",
-      "title": "Elon Musk Warns Of AI 風險 — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The World'",
-      "originalTitle": "Elon Musk Warns Of AI Risks — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The World'",
-      "translatedTitle": "Elon Musk Warns Of AI 風險 — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The World'",
+      "subject": "Google",
+      "title": "首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
+      "originalTitle": "首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
+      "translatedTitle": "首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "TradingView",
-      "publishedAt": "2026-07-23T12:49:20.000Z",
-      "fact": "TradingView 報導：Elon Musk Warns Of AI 風險 — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The World'",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Elon Musk Warns Of AI Risks — Says He And Sam Altman May Need To Set Aside Personal Differences 'For The Good Of The Wor。",
+      "category": "前沿模型",
+      "source": "ETtoday新聞雲",
+      "publishedAt": "2026-07-23T02:21:00.000Z",
+      "fact": "ETtoday新聞雲 報導：首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；首批 Gemini Intelligence 手機發表！Google 大秀 AI 全自動操作 &nbsp;&nbsp; ETtoday新聞雲。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Google",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:792a2cc2e094b:0-elon-musk-warns-of-ai-risks-says-he-and-sam-altman-may-need-to-set-aside-personal-differences-for-the-good-of-the-world/"
+      "url": "https://www.ettoday.net/news/20260723/3206172.htm"
     },
     {
       "id": "全球財經脈動-1",
@@ -208,43 +209,42 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Intel",
-      "title": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More 股票 That Explain Today's 市場 — Barron’s.com",
-      "originalTitle": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today's Market -- Barrons.com",
-      "translatedTitle": "Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More 股票 That Explain Today's 市場 — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-24T12:49:00.000Z",
-      "fact": "Moomoo 報導：Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More 股票 That Explain Today's 市場 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Intel, SpaceX, Verizon, Oracle, SAP, Tenet, Amex, and More Stocks That Explain Today's Market -- Barrons.com &nbsp;&nbsp。",
+      "subject": "Google",
+      "title": "Google 財報營收超預期、股價為何反跌？研究員曝 Gemini 落後成關鍵",
+      "originalTitle": "Google 財報營收超預期、股價為何反跌？研究員曝 Gemini 落後成關鍵",
+      "translatedTitle": "Google 財報營收超預期、股價為何反跌？研究員曝 Gemini 落後成關鍵",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "鏈新聞 ABMedia",
+      "publishedAt": "2026-07-23T04:58:38.000Z",
+      "fact": "鏈新聞 ABMedia 報導：Google 財報營收超預期、股價為何反跌？研究員曝 Gemini 落後成關鍵",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Google 財報營收超預期、股價為何反跌？研究員曝 Gemini 落後成關鍵 &nbsp;&nbsp; 鏈新聞 ABMedia。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "stocks"
+        "Google"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/73504822/intel-spacex-verizon-oracle-sap-tenet-amex-and-more-stocks"
+      "url": "https://abmedia.io/why-google-earnings-beat-stock-price-fall-gemini"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，",
-      "title": "英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角",
-      "originalTitle": "英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角",
-      "translatedTitle": "英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "CBRS vs. AVGO",
+      "title": "CBRS vs. AVGO: Which 股票 Leads the AI Infrastructure 熱潮?",
+      "originalTitle": "CBRS vs. AVGO: Which Stock Leads the AI Infrastructure Boom?",
+      "translatedTitle": "CBRS vs. AVGO: Which 股票 Leads the AI Infrastructure 熱潮?",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-07-24T03:20:05.000Z",
-      "fact": "TradingKey 報導：英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；英特爾 Q2 財報遠超預期！59% 數據中心業務成長率，CPU 正重新成為 AI 時代主角 &nbsp;&nbsp; TradingKey。",
+      "source": "TradingView",
+      "publishedAt": "2026-07-23T15:54:00.000Z",
+      "fact": "TradingView 報導：CBRS vs. AVGO: Which 股票 Leads the AI Infrastructure 熱潮?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；CBRS vs. AVGO: Which Stock Leads the AI Infrastructure Boom? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262051349-intel-earnings-sweep-expectations-59-data-center-growth-cpus-tradingkey"
+      "url": "https://tw.tradingview.com/news/zacks:08ba10a6a094b:0-cbrs-vs-avgo-which-stock-leads-the-ai-infrastructure-boom/"
     }
   ]
 }
