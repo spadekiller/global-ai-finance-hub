@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-07-26T01:30:04.737Z",
+  "generatedAt": "2026-07-26T22:50:50.880Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "美國圖書館開課教人關掉AI，報名人數破紀錄| 動區動趨",
+      "title": "美國圖書館開課教人關掉AI，報名人數破紀錄| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "originalTitle": "美國圖書館開課教人關掉AI，報名人數破紀錄| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "translatedTitle": "美國圖書館開課教人關掉AI，報名人數破紀錄| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "動區動趨",
+      "publishedAt": "2026-07-26T09:53:09.000Z",
+      "fact": "動區動趨 報導：美國圖書館開課教人關掉AI，報名人數破紀錄| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美國圖書館開課教人關掉AI，報名人數破紀錄| 動區動趨-最具影響力的區塊鏈新聞媒體 &nbsp;&nbsp; 動區動趨。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.blocktempo.com/librarians-viral-avoiding-ai-workshops-teach-disabling-apple-intelligence-gemini/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "[深度]一個“超神”公司的誕生：OpenAI關於模仿的慾望",
+      "originalTitle": "[深度]一個“超神”公司的誕生：OpenAI關於模仿的慾望",
+      "translatedTitle": "[深度]一個“超神”公司的誕生：OpenAI關於模仿的慾望",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "鉅亨號",
+      "publishedAt": "2026-07-26T10:32:35.000Z",
+      "fact": "鉅亨號 報導：[深度]一個“超神”公司的誕生：OpenAI關於模仿的慾望",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；[深度]一個“超神”公司的誕生：OpenAI關於模仿的慾望 &nbsp;&nbsp; 鉅亨號。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://hao.cnyes.com/post/260867"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "J",
+      "title": "J-Hope同款摺疊機亮相！三星Galaxy Z Fold8 Ultra規格、亮點一次看",
+      "originalTitle": "J-Hope同款摺疊機亮相！三星Galaxy Z Fold8 Ultra規格、亮點一次看",
+      "translatedTitle": "J-Hope同款摺疊機亮相！三星Galaxy Z Fold8 Ultra規格、亮點一次看",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "elle.com",
+      "publishedAt": "2026-07-26T06:57:05.000Z",
+      "fact": "elle.com 報導：J-Hope同款摺疊機亮相！三星Galaxy Z Fold8 Ultra規格、亮點一次看",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；J-Hope同款摺疊機亮相！三星Galaxy Z Fold8 Ultra規格、亮點一次看 &nbsp;&nbsp; elle.com。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.elle.com/tw/life/hot-news/g73237588/j-hope-galaxy-z-fold8-ultrafold8flip8/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "AI 跑分不再是唯一，科技巨頭新戰場",
       "title": "AI 跑分不再是唯一，科技巨頭新戰場：模型的「性格」將決定勝負",
@@ -23,83 +83,25 @@
       "url": "https://technews.tw/2026/07/26/ai-competition-personality-over-iq/"
     },
     {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "黃仁勳李在明會面談AI與SK合作達5千億美元",
-      "title": "黃仁勳李在明會面談AI與SK合作達5千億美元",
-      "originalTitle": "黃仁勳李在明會面談AI與SK合作達5千億美元",
-      "translatedTitle": "黃仁勳李在明會面談AI與SK合作達5千億美元",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "新唐人電視台",
-      "publishedAt": "2026-07-25T17:28:55.000Z",
-      "fact": "新唐人電視台 報導：黃仁勳李在明會面談AI與SK合作達5千億美元",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；黃仁勳李在明會面談AI與SK合作達5千億美元 &nbsp;&nbsp; 新唐人電視台。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.ntdtv.com/b5/2026/07/25/a104118555.html/amp"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta的下一個增長難題可能是用戶沉默，而非用戶流失",
-      "originalTitle": "Meta的下一個增長難題可能是用戶沉默，而非用戶流失",
-      "translatedTitle": "Meta的下一個增長難題可能是用戶沉默，而非用戶流失",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "鉅亨號",
-      "publishedAt": "2026-07-25T09:17:35.000Z",
-      "fact": "鉅亨號 報導：Meta的下一個增長難題可能是用戶沉默，而非用戶流失",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta的下一個增長難題可能是用戶沉默，而非用戶流失 &nbsp;&nbsp; 鉅亨號。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta"
-      ],
-      "url": "https://hao.cnyes.com/post/260804"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "震撼科技股！Alphabet、Intel與AMD本週焦點",
-      "title": "震撼科技股！Alphabet、Intel與AMD本週焦點大揭密",
-      "originalTitle": "震撼科技股！Alphabet、Intel與AMD本週焦點大揭密",
-      "translatedTitle": "震撼科技股！Alphabet、Intel與AMD本週焦點大揭密",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-07-25T14:17:18.000Z",
-      "fact": "CMoney投資網誌 報導：震撼科技股！Alphabet、Intel與AMD本週焦點大揭密",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；震撼科技股！Alphabet、Intel與AMD本週焦點大揭密 &nbsp;&nbsp; CMoney投資網誌。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-8b6f07e7-8833-11f1-a386-72f872757504?utm_source"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴 ",
-      "title": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴 - 科技新聞 - PChome Online 新聞",
-      "originalTitle": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴 - 科技新聞 - PChome Online 新聞",
-      "translatedTitle": "「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴 - 科技新聞 - PChome Online 新聞",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-07-24T11:56:58.000Z",
-      "fact": "PChome Online 新聞 報導：「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴 - 科技新聞 - PChome Online 新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；「主權AI」工具號稱自主可控 巨頭恐綁定企業加劇依賴 - 科技新聞 - PChome Online 新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "subject": "Why 輝達 CEO Jensen Huang Is D",
+      "title": "Why 輝達 CEO Jensen Huang Is Defending Chinese AI Models — Barron’s.com",
+      "originalTitle": "Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models -- Barrons.com",
+      "translatedTitle": "Why 輝達 CEO Jensen Huang Is Defending Chinese AI Models — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-25T13:45:17.000Z",
+      "fact": "富途牛牛 報導：Why 輝達 CEO Jensen Huang Is Defending Chinese AI Models — Barron’s.com",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why Nvidia CEO Jensen Huang Is Defending Chinese AI Models -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
+        "Nvidia",
         "AI"
       ],
-      "url": "https://news.pchome.com.tw/science/sunmedia/20260724/index-78489421816171329005.html"
+      "url": "https://news.futunn.com/hk/post/76586208/why-nvidia-ceo-jensen-huang-is-defending-chinese-ai-models"
     },
     {
       "id": "全球財經脈動-1",
@@ -124,6 +126,25 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
+      "subject": "這份榜單裡幾乎全是半導體、儲存和科技硬體的巨頭，我們一隻",
+      "title": "這份榜單裡幾乎全是半導體、儲存和科技硬體的巨頭，我們一隻一隻來看👁️👁️",
+      "originalTitle": "這份榜單裡幾乎全是半導體、儲存和科技硬體的巨頭，我們一隻一隻來看👁️👁️",
+      "translatedTitle": "這份榜單裡幾乎全是半導體、儲存和科技硬體的巨頭，我們一隻一隻來看👁️👁️",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-26T11:57:34.000Z",
+      "fact": "Moomoo 報導：這份榜單裡幾乎全是半導體、儲存和科技硬體的巨頭，我們一隻一隻來看👁️👁️",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；這份榜單裡幾乎全是半導體、儲存和科技硬體的巨頭，我們一隻一隻來看👁️👁️ &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.moomoo.com/community/feed/this-list-is-almost-entirely-made-up-of-giants-in-116986154450949"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
       "subject": "Yes",
       "title": "Yes, the AI 股票 Selloff Looks Terrifying. But It Might Actually Save the Bull 市場.",
       "originalTitle": "Yes, the AI Stock Selloff Looks Terrifying. But It Might Actually Save the Bull Market.",
@@ -131,7 +152,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-07-25T18:59:00.000Z",
+      "publishedAt": "2026-07-25T19:15:24.000Z",
       "fact": "富途牛牛 報導：Yes, the AI 股票 Selloff Looks Terrifying. But It Might Actually Save the Bull 市場.",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Yes, the AI Stock Selloff Looks Terrifying. But It Might Actually Save the Bull Market. &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
@@ -142,87 +163,64 @@
       "url": "https://news.futunn.com/hk/post/76588151/yes-the-ai-stock-selloff-looks-terrifying-but-it-might"
     },
     {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "微軟 股票 Before Q4 財報",
-      "title": "微軟 股票 Before Q4 財報: Buy Now or Wait for Results?",
-      "originalTitle": "Microsoft Stock Before Q4 Earnings: Buy Now or Wait for Results?",
-      "translatedTitle": "微軟 股票 Before Q4 財報: Buy Now or Wait for Results?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-24T15:31:00.000Z",
-      "fact": "TradingView 報導：微軟 股票 Before Q4 財報: Buy Now or Wait for Results?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft Stock Before Q4 Earnings: Buy Now or Wait for Results? &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Microsoft",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://tw.tradingview.com/news/zacks:458623a4f094b:0-microsoft-stock-before-q4-earnings-buy-now-or-wait-for-results/"
-    },
-    {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Russell RAFI Global Large Co",
-      "title": "Russell RAFI Global Large Compa (^RUFGLTU) 最新股票消息和頭條新聞",
-      "originalTitle": "Russell RAFI Global Large Compa (^RUFGLTU) 最新股票消息和頭條新聞",
-      "translatedTitle": "Russell RAFI Global Large Compa (^RUFGLTU) 最新股票消息和頭條新聞",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "恆指摩通九一熊Ｑ(RP) (59245.HK) 最新股票",
+      "title": "恆指摩通九一熊Ｑ(RP) (59245.HK) 最新股票消息和頭條新聞",
+      "originalTitle": "恆指摩通九一熊Ｑ(RP) (59245.HK) 最新股票消息和頭條新聞",
+      "translatedTitle": "恆指摩通九一熊Ｑ(RP) (59245.HK) 最新股票消息和頭條新聞",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "Yahoo 財經",
-      "publishedAt": "2026-07-24T21:25:47.000Z",
-      "fact": "Yahoo 財經 報導：Russell RAFI Global Large Compa (^RUFGLTU) 最新股票消息和頭條新聞",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Russell RAFI Global Large Compa (^RUFGLTU) 最新股票消息和頭條新聞 &nbsp;&nbsp; Yahoo 財經。",
+      "publishedAt": "2026-07-25T14:05:52.000Z",
+      "fact": "Yahoo 財經 報導：恆指摩通九一熊Ｑ(RP) (59245.HK) 最新股票消息和頭條新聞",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；恆指摩通九一熊Ｑ(RP) (59245.HK) 最新股票消息和頭條新聞 &nbsp;&nbsp; Yahoo 財經。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://hk.finance.yahoo.com/quote/%5ERUFGLTU/news/"
+      "url": "https://hk.finance.yahoo.com/quote/59245.HK/news/"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "AI Has Completely Rewritten ",
-      "title": "AI Has Completely Rewritten the Rules of the 股票 市場 — Barron’s.com",
-      "originalTitle": "AI Has Completely Rewritten the Rules of the Stock Market -- Barrons.com",
-      "translatedTitle": "AI Has Completely Rewritten the Rules of the 股票 市場 — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "Meta",
+      "title": "一周前瞻：聯準會利率決議成焦點，蘋果，微軟，META與亞馬遜財報來襲",
+      "originalTitle": "一周前瞻：聯準會利率決議成焦點，蘋果，微軟，META與亞馬遜財報來襲",
+      "translatedTitle": "一周前瞻：聯準會利率決議成焦點，蘋果，微軟，META與亞馬遜財報來襲",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-24T15:41:00.000Z",
-      "fact": "Moomoo 報導：AI Has Completely Rewritten the Rules of the 股票 市場 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Has Completely Rewritten the Rules of the Stock Market -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "source": "TradingKey",
+      "publishedAt": "2026-07-26T12:06:09.000Z",
+      "fact": "TradingKey 報導：一周前瞻：聯準會利率決議成焦點，蘋果，微軟，META與亞馬遜財報來襲",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；一周前瞻：聯準會利率決議成焦點，蘋果，微軟，META與亞馬遜財報來襲 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "Meta"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/73512266/ai-has-completely-rewritten-the-rules-of-the-stock-market"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262054301-weekly-preview-fed-apple-microsoft-meta-amazon-earnings-reports-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Forget 輝達. These 5 標普 500 股票",
-      "title": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
-      "originalTitle": "Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI.",
-      "translatedTitle": "Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
+      "subject": "Why are 輝達",
+      "title": "Why are 輝達-backed CoreWeave, Nebius, and IREN 股票 plunging?",
+      "originalTitle": "Why are Nvidia-backed CoreWeave, Nebius, and IREN stocks plunging?",
+      "translatedTitle": "Why are 輝達-backed CoreWeave, Nebius, and IREN 股票 plunging?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-25T17:52:47.000Z",
-      "fact": "富途牛牛 報導：Forget 輝達. These 5 標普 500 股票 Are Quietly Going All in on AI.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Forget Nvidia. These 5 S&P 500 Stocks Are Quietly Going All in on AI. &nbsp;&nbsp; 富途牛牛。",
+      "source": "TradingView",
+      "publishedAt": "2026-07-25T09:14:59.000Z",
+      "fact": "TradingView 報導：Why are 輝達-backed CoreWeave, Nebius, and IREN 股票 plunging?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why are Nvidia-backed CoreWeave, Nebius, and IREN stocks plunging? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "Nvidia",
-        "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/76586914/forget-nvidia-these-5-s-p-500-stocks-are-quietly"
+      "url": "https://tw.tradingview.com/news/invezz:59e82c0f5094b:0-why-are-nvidia-backed-coreweave-nebius-and-iren-stocks-plunging/"
     }
   ]
 }
