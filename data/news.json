@@ -1,25 +1,26 @@
 {
-  "generatedAt": "2026-07-25T22:43:18.328Z",
+  "generatedAt": "2026-07-26T01:30:04.737Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件",
-      "title": "如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件＋扣款前提醒",
-      "originalTitle": "如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件＋扣款前提醒",
-      "translatedTitle": "如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件＋扣款前提醒",
+      "subject": "AI 跑分不再是唯一，科技巨頭新戰場",
+      "title": "AI 跑分不再是唯一，科技巨頭新戰場：模型的「性格」將決定勝負",
+      "originalTitle": "AI 跑分不再是唯一，科技巨頭新戰場：模型的「性格」將決定勝負",
+      "translatedTitle": "AI 跑分不再是唯一，科技巨頭新戰場：模型的「性格」將決定勝負",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
+      "category": "AI 與科技前沿",
       "source": "TechNews 科技新報",
-      "publishedAt": "2026-07-25T06:05:19.000Z",
-      "fact": "TechNews 科技新報 報導：如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件＋扣款前提醒",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；如何讓 Gemini 幫你計算訂閱支出，檢查所有收據信件＋扣款前提醒 &nbsp;&nbsp; TechNews 科技新報。",
+      "publishedAt": "2026-07-26T00:35:24.000Z",
+      "fact": "TechNews 科技新報 報導：AI 跑分不再是唯一，科技巨頭新戰場：模型的「性格」將決定勝負",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 跑分不再是唯一，科技巨頭新戰場：模型的「性格」將決定勝負 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "AI"
       ],
-      "url": "https://technews.tw/2026/07/25/how-gemini-can-help-manage-your-subscription-finances/"
+      "url": "https://technews.tw/2026/07/26/ai-competition-personality-over-iq/"
     },
     {
       "id": "ai-與科技前沿-2",
