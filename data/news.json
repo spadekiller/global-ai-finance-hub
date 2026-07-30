@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-07-29T22:51:54.490Z",
+  "generatedAt": "2026-07-30T01:16:32.900Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
-      "originalTitle": "被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
-      "translatedTitle": "被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
+      "subject": "OpenAI",
+      "title": "OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制",
+      "originalTitle": "OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制",
+      "translatedTitle": "OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "T客邦",
-      "publishedAt": "2026-07-29T03:00:00.000Z",
-      "fact": "T客邦 報導：被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向 &nbsp;&nbsp; T客邦。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "source": "unwire PRO",
+      "publishedAt": "2026-07-29T23:41:04.000Z",
+      "fact": "unwire PRO 報導：OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制 &nbsp;&nbsp; unwire PRO。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
+        "OpenAI",
         "AI"
       ],
-      "url": "https://www.techbang.com/posts/131660-anthropic-ceo-denies-stifling-open-source-competition"
+      "url": "https://unwire.pro/2026/07/30/ai-pacing-frontier-letter-openai-anthropic/news/"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -46,6 +46,27 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
+      "originalTitle": "被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
+      "translatedTitle": "被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "T客邦",
+      "publishedAt": "2026-07-29T03:00:00.000Z",
+      "fact": "T客邦 報導：被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向 &nbsp;&nbsp; T客邦。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://www.techbang.com/posts/131660-anthropic-ceo-denies-stifling-open-source-competition"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "「三星摺疊機」7/30起預購，Galaxy Z Fold",
       "title": "「三星摺疊機」7/30起預購，Galaxy Z Fold8僅1本護照大小，全新 「專屬聚焦」功能追星必備！",
       "originalTitle": "「三星摺疊機」7/30起預購，Galaxy Z Fold8僅1本護照大小，全新 「專屬聚焦」功能追星必備！",
@@ -63,7 +84,7 @@
       "url": "https://www.cosmopolitan.com/tw/lifestyle/3c-tech/g73237991/samsung-galaxy-z-0729/"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值",
       "title": "AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值",
@@ -81,26 +102,6 @@
         "AI"
       ],
       "url": "https://finance.technews.tw/2026/07/29/apple-ai-capex/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "一鍵召喚！Google升級macOS版Gemini App：長按「fn」鍵即可語音對話、感知螢幕內容",
-      "originalTitle": "一鍵召喚！Google升級macOS版Gemini App：長按「fn」鍵即可語音對話、感知螢幕內容",
-      "translatedTitle": "一鍵召喚！Google升級macOS版Gemini App：長按「fn」鍵即可語音對話、感知螢幕內容",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "mashdigi.com",
-      "publishedAt": "2026-07-29T16:00:07.000Z",
-      "fact": "mashdigi.com 報導：一鍵召喚！Google升級macOS版Gemini App：長按「fn」鍵即可語音對話、感知螢幕內容",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；一鍵召喚！Google升級macOS版Gemini App：長按「fn」鍵即可語音對話、感知螢幕內容 &nbsp;&nbsp; mashdigi.com。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://mashdigi.com/one-click-summon-google-upgrades-the-macos-version-of-the-gemini-app-long-press-the-fn-key-to-have-voice-conversations-and-sense-screen-content/"
     },
     {
       "id": "全球財經脈動-1",
@@ -123,26 +124,29 @@
       "url": "https://news.futunn.com/hk/post/76777877/press-release-nocera-advances-ai-infrastructure-strategy-with-agreement-to"
     },
     {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "游庭皓的財經皓角. . 2026/7/28(二)海力士破",
-      "title": "游庭皓的財經皓角. . 2026/7/28(二)海力士破發 輝達重挫5% 晶片股跳水 資本支出鬆了?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance 我的粉",
-      "originalTitle": "游庭皓的財經皓角. . 2026/7/28(二)海力士破發 輝達重挫5% 晶片股跳水 資本支出鬆了?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance 我的粉",
-      "translatedTitle": "游庭皓的財經皓角. . 2026/7/28(二)海力士破發 輝達重挫5% 晶片股跳水 資本支出鬆了?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance 我的粉",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
-      "source": "facebook.com",
-      "publishedAt": "2026-07-28T00:33:51.000Z",
-      "fact": "facebook.com 報導：游庭皓的財經皓角. . 2026/7/28(二)海力士破發 輝達重挫5% 晶片股跳水 資本支出鬆了?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance 我的粉",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；游庭皓的財經皓角. . 2026/7/28(二)海力士破發 輝達重挫5% 晶片股跳水 資本支出鬆了?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https:/。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "2 AI 股票 That Beat 輝達 — and C",
+      "title": "2 AI 股票 That Beat 輝達 — and Could Soar Even 走高",
+      "originalTitle": "2 AI Stocks That Beat NVIDIA - and Could Soar Even Higher",
+      "translatedTitle": "2 AI 股票 That Beat 輝達 — and Could Soar Even 走高",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-07-28T19:00:00.000Z",
+      "fact": "TradingView 報導：2 AI 股票 That Beat 輝達 — and Could Soar Even 走高",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；2 AI Stocks That Beat NVIDIA - and Could Soar Even Higher &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "全球財經"
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "stocks"
       ],
-      "url": "https://www.facebook.com/yutinghaosfinance/videos/2026728%E4%BA%8C%E6%B5%B7%E5%8A%9B%E5%A3%AB%E7%A0%B4%E7%99%BC-%E8%BC%9D%E9%81%94%E9%87%8D%E6%8C%AB5-%E6%99%B6%E7%89%87%E8%82%A1%E8%B7%B3%E6%B0%B4-%E8%B3%87%E6%9C%AC%E6%94%AF%E5%87%BA%E9%AC%86%E4%BA%86%E6%97%A9%E6%99%A8%E8%B2%A1%E7%B6%93%E9%80%9F%E8%A7%A3%E8%AE%80/1755316392149214/"
+      "url": "https://tw.tradingview.com/news/zacks:7dfcd18df094b:0-2-ai-stocks-that-beat-nvidia-and-could-soar-even-higher/"
     },
     {
-      "id": "美股與全球市場焦點-1",
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "3 AI Questions for 微軟 財報",
       "title": "3 AI Questions for 微軟 財報",
@@ -164,47 +168,7 @@
       "url": "https://www.moomoo.com/hant/news/post/73698013/3-ai-questions-for-microsoft-earnings"
     },
     {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "BigBear.ai Before Q2 財報",
-      "title": "BigBear.ai Before Q2 財報: Buy, Sell or Hold the 股票?",
-      "originalTitle": "BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock?",
-      "translatedTitle": "BigBear.ai Before Q2 財報: Buy, Sell or Hold the 股票?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-28T14:06:00.000Z",
-      "fact": "TradingView 報導：BigBear.ai Before Q2 財報: Buy, Sell or Hold the 股票?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock? &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://tw.tradingview.com/news/zacks:18c7f6543094b:0-bigbear-ai-before-q2-earnings-buy-sell-or-hold-the-stock/"
-    },
-    {
       "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "半導體股遭拋售 資金轉進軟體股、防禦類股？",
-      "title": "半導體股遭拋售 資金轉進軟體股、防禦類股？",
-      "originalTitle": "半導體股遭拋售 資金轉進軟體股、防禦類股？",
-      "translatedTitle": "半導體股遭拋售 資金轉進軟體股、防禦類股？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-07-29T06:13:23.000Z",
-      "fact": "TechNews 科技新報 報導：半導體股遭拋售 資金轉進軟體股、防禦類股？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；半導體股遭拋售 資金轉進軟體股、防禦類股？ &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://finance.technews.tw/2026/07/29/semiconductor-stocks-sold-off-funds-shifting-software-defensive-stocks/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Meta",
       "title": "本周美股財報前瞻：微軟、 Meta 、蘋果和亞馬遜迎來 AI 投入與聯準會雙重考驗",
@@ -225,7 +189,7 @@
       "url": "https://www.odaily.news/zh-TW/post/5212190"
     },
     {
-      "id": "美股與全球市場焦點-5",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "China",
       "title": "China, AI-Spending Fears Fuel Continued Slide in 晶片股",
@@ -244,6 +208,27 @@
         "stocks"
       ],
       "url": "https://news.futunn.com/hk/post/76719384/china-ai-spending-fears-fuel-continued-slide-in-chip-stocks"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "BigBear.ai Before Q2 財報",
+      "title": "BigBear.ai Before Q2 財報: Buy, Sell or Hold the 股票?",
+      "originalTitle": "BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock?",
+      "translatedTitle": "BigBear.ai Before Q2 財報: Buy, Sell or Hold the 股票?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-07-28T14:06:00.000Z",
+      "fact": "TradingView 報導：BigBear.ai Before Q2 財報: Buy, Sell or Hold the 股票?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock? &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings"
+      ],
+      "url": "https://tw.tradingview.com/news/zacks:18c7f6543094b:0-bigbear-ai-before-q2-earnings-buy-sell-or-hold-the-stock/"
     }
   ]
 }
