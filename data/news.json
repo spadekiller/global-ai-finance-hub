@@ -1,107 +1,107 @@
 {
-  "generatedAt": "2026-07-30T01:16:32.900Z",
+  "generatedAt": "2026-07-30T22:56:22.022Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
+      "originalTitle": "Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
+      "translatedTitle": "Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "動區動趨",
+      "publishedAt": "2026-07-30T16:01:06.000Z",
+      "fact": "動區動趨 報導：Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI &nbsp;&nbsp; 動區動趨。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.blocktempo.com/google-deepmind-gemini-robotics-2-whole-body-intelligence/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
+      "originalTitle": "跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
+      "translatedTitle": "跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "PChome Online 新聞",
+      "publishedAt": "2026-07-30T08:41:57.000Z",
+      "fact": "PChome Online 新聞 報導：跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞 &nbsp;&nbsp; PChome Online 新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://news.pchome.com.tw/science/technice/20260730/index-78540091700400338005.html"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制",
-      "originalTitle": "OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制",
-      "translatedTitle": "OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制",
+      "title": "OpenAI 推出「ChatGPT 學術研究者計畫」，萬名學者可免費使用最新模型",
+      "originalTitle": "OpenAI 推出「ChatGPT 學術研究者計畫」，萬名學者可免費使用最新模型",
+      "translatedTitle": "OpenAI 推出「ChatGPT 學術研究者計畫」，萬名學者可免費使用最新模型",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "unwire PRO",
-      "publishedAt": "2026-07-29T23:41:04.000Z",
-      "fact": "unwire PRO 報導：OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 測試模型疑突破沙盒 過1200名業界人士籲美國建立 AI「煞車」機制 &nbsp;&nbsp; unwire PRO。",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-07-30T02:11:31.000Z",
+      "fact": "TechNews 科技新報 報導：OpenAI 推出「ChatGPT 學術研究者計畫」，萬名學者可免費使用最新模型",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 推出「ChatGPT 學術研究者計畫」，萬名學者可免費使用最新模型 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://unwire.pro/2026/07/30/ai-pacing-frontier-letter-openai-anthropic/news/"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "奧爾特曼最新訪談",
-      "title": "奧爾特曼最新訪談：別指望AI開啟每周4小時工作制| 科技",
-      "originalTitle": "奧爾特曼最新訪談：別指望AI開啟每周4小時工作制| 科技",
-      "translatedTitle": "奧爾特曼最新訪談：別指望AI開啟每周4小時工作制| 科技",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "鉅亨號",
-      "publishedAt": "2026-07-29T10:03:18.000Z",
-      "fact": "鉅亨號 報導：奧爾特曼最新訪談：別指望AI開啟每周4小時工作制| 科技",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；奧爾特曼最新訪談：別指望AI開啟每周4小時工作制| 科技 &nbsp;&nbsp; 鉅亨號。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://hao.cnyes.com/post/261332"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
-      "originalTitle": "被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
-      "translatedTitle": "被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "T客邦",
-      "publishedAt": "2026-07-29T03:00:00.000Z",
-      "fact": "T客邦 報導：被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；被指控打壓開源AI？Anthropic執行長發文澄清： 真正的威脅是威權政體與算力流向 &nbsp;&nbsp; T客邦。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://www.techbang.com/posts/131660-anthropic-ceo-denies-stifling-open-source-competition"
+      "url": "https://technews.tw/2026/07/30/openai-will-provide-free-ai-models-to-select-researchers/"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "「三星摺疊機」7/30起預購，Galaxy Z Fold",
-      "title": "「三星摺疊機」7/30起預購，Galaxy Z Fold8僅1本護照大小，全新 「專屬聚焦」功能追星必備！",
-      "originalTitle": "「三星摺疊機」7/30起預購，Galaxy Z Fold8僅1本護照大小，全新 「專屬聚焦」功能追星必備！",
-      "translatedTitle": "「三星摺疊機」7/30起預購，Galaxy Z Fold8僅1本護照大小，全新 「專屬聚焦」功能追星必備！",
+      "subject": "OpenAI",
+      "title": "OpenAI執行長Sam Altman宣布大幅降價 公司釋放聚焦成本效益訊號",
+      "originalTitle": "OpenAI執行長Sam Altman宣布大幅降價 公司釋放聚焦成本效益訊號",
+      "translatedTitle": "OpenAI執行長Sam Altman宣布大幅降價 公司釋放聚焦成本效益訊號",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Cosmopolitan",
-      "publishedAt": "2026-07-29T19:23:53.000Z",
-      "fact": "Cosmopolitan 報導：「三星摺疊機」7/30起預購，Galaxy Z Fold8僅1本護照大小，全新 「專屬聚焦」功能追星必備！",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；「三星摺疊機」7/30起預購，Galaxy Z Fold8僅1本護照大小，全新 「專屬聚焦」功能追星必備！ &nbsp;&nbsp; Cosmopolitan。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "category": "前沿模型",
+      "source": "Business Insider Taiwan",
+      "publishedAt": "2026-07-30T20:29:00.000Z",
+      "fact": "Business Insider Taiwan 報導：OpenAI執行長Sam Altman宣布大幅降價 公司釋放聚焦成本效益訊號",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI執行長Sam Altman宣布大幅降價 公司釋放聚焦成本效益訊號 &nbsp;&nbsp; Business Insider Taiwan。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
       ],
-      "url": "https://www.cosmopolitan.com/tw/lifestyle/3c-tech/g73237991/samsung-galaxy-z-0729/"
+      "url": "https://www.businessinsider.tw/article/5229"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值",
-      "title": "AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值",
-      "originalTitle": "AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值",
-      "translatedTitle": "AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Tech",
+      "title": "Tech, Media & Telecom Roundup: 市場 Talk",
+      "originalTitle": "Tech, Media & Telecom Roundup: Market Talk",
+      "translatedTitle": "Tech, Media & Telecom Roundup: 市場 Talk",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-07-29T09:31:45.000Z",
-      "fact": "TechNews 科技新報 報導：AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 花越多錢越好？蘋果不燒錢卻登 5 兆美元市值 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-07-30T16:45:44.000Z",
+      "fact": "news.futunn.com 報導：Tech, Media & Telecom Roundup: 市場 Talk",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Tech, Media & Telecom Roundup: Market Talk &nbsp;&nbsp; news.futunn.com。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://finance.technews.tw/2026/07/29/apple-ai-capex/"
+      "url": "https://news.futunn.com/hk/post/76873460/tech-media-telecom-roundup-market-talk"
     },
     {
       "id": "全球財經脈動-1",
@@ -112,9 +112,9 @@
       "translatedTitle": "AI 財經快訊：Press Release: Nocera Advances AI Infrastructure Strategy With Agreement to Acquire QMAX Technology, a Taiwan-Based Authorized Distributor of Micron / Crucial Memory and Storage Products",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "富途牛牛",
+      "source": "news.futunn.com",
       "publishedAt": "2026-07-29T12:00:00.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Press Release: Nocera Advances AI Infrastructure Strategy With Agreement to Acquire QMAX Technology, a Taiwan-Based Authorized Distributor of Micron / Crucial Memory and Storage Products",
+      "fact": "news.futunn.com 報導：AI 財經快訊：Press Release: Nocera Advances AI Infrastructure Strategy With Agreement to Acquire QMAX Technology, a Taiwan-Based Authorized Distributor of Micron / Crucial Memory and Storage Products",
       "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Press Release: Nocera Advances AI Infrastructure Strategy With Agreement to Acquire QMAX Technology, a Taiwan-Based Auth。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
@@ -124,40 +124,103 @@
       "url": "https://news.futunn.com/hk/post/76777877/press-release-nocera-advances-ai-infrastructure-strategy-with-agreement-to"
     },
     {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Nocera通過達成收購QMAX Technology的",
+      "title": "Nocera通過達成收購QMAX Technology的協議，推進其AI基礎設施戰略。QMAX Technology是一家總部位於臺灣的授權分銷商，分銷Micron/Crucial內存和存儲產品。",
+      "originalTitle": "Nocera通過達成收購QMAX Technology的協議，推進其AI基礎設施戰略。QMAX Technology是一家總部位於臺灣的授權分銷商，分銷Micron/Crucial內存和存儲產品。",
+      "translatedTitle": "Nocera通過達成收購QMAX Technology的協議，推進其AI基礎設施戰略。QMAX Technology是一家總部位於臺灣的授權分銷商，分銷Micron/Crucial內存和存儲產品。",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-07-29T12:00:00.000Z",
+      "fact": "news.futunn.com 報導：Nocera通過達成收購QMAX Technology的協議，推進其AI基礎設施戰略。QMAX Technology是一家總部位於臺灣的授權分銷商，分銷Micron/Crucial內存和存儲產品。",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Nocera通過達成收購QMAX Technology的協議，推進其AI基礎設施戰略。QMAX Technology是一家總部位於臺灣的授權分銷商，分銷Micron/Crucial內存和存儲產品。 &nbsp;&nbsp; news.fut。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/76778419/nocera-advances-ai-infrastructure-strategy-with-agreement-to-acquire-qmax"
+    },
+    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "2 AI 股票 That Beat 輝達 — and C",
-      "title": "2 AI 股票 That Beat 輝達 — and Could Soar Even 走高",
-      "originalTitle": "2 AI Stocks That Beat NVIDIA - and Could Soar Even Higher",
-      "translatedTitle": "2 AI 股票 That Beat 輝達 — and Could Soar Even 走高",
+      "subject": "Top News Today",
+      "title": "Top News Today: 股票 Rally as 微軟 財報 Quell AI Fears",
+      "originalTitle": "Top News Today: Stocks Rally as Microsoft Earnings Quell AI Fears",
+      "translatedTitle": "Top News Today: 股票 Rally as 微軟 財報 Quell AI Fears",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-28T19:00:00.000Z",
-      "fact": "TradingView 報導：2 AI 股票 That Beat 輝達 — and Could Soar Even 走高",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；2 AI Stocks That Beat NVIDIA - and Could Soar Even Higher &nbsp;&nbsp; TradingView。",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-07-30T20:37:00.000Z",
+      "fact": "news.futunn.com 報導：Top News Today: 股票 Rally as 微軟 財報 Quell AI Fears",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Top News Today: Stocks Rally as Microsoft Earnings Quell AI Fears &nbsp;&nbsp; news.futunn.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
+        "Microsoft",
         "AI",
+        "earnings",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/zacks:7dfcd18df094b:0-2-ai-stocks-that-beat-nvidia-and-could-soar-even-higher/"
+      "url": "https://news.futunn.com/hk/post/76883391/top-news-today-stocks-rally-as-microsoft-earnings-quell-ai"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "3 AI Questions for 微軟 財報",
-      "title": "3 AI Questions for 微軟 財報",
-      "originalTitle": "3 AI Questions for Microsoft Earnings",
-      "translatedTitle": "3 AI Questions for 微軟 財報",
+      "subject": "Move Over Memory",
+      "title": "Move Over Memory, Fortinet 財報 Show Cybersecurity 股票 Are Red-Hot AI Plays — Barron’s.com",
+      "originalTitle": "Move Over Memory, Fortinet Earnings Show Cybersecurity Stocks Are Red-Hot AI Plays -- Barrons.com",
+      "translatedTitle": "Move Over Memory, Fortinet 財報 Show Cybersecurity 股票 Are Red-Hot AI Plays — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-07-29T10:52:17.000Z",
-      "fact": "Moomoo 報導：3 AI Questions for 微軟 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；3 AI Questions for Microsoft Earnings &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-07-30T14:27:54.000Z",
+      "fact": "Moomoo 報導：Move Over Memory, Fortinet 財報 Show Cybersecurity 股票 Are Red-Hot AI Plays — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Move Over Memory, Fortinet Earnings Show Cybersecurity Stocks Are Red-Hot AI Plays -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/73816616/move-over-memory-fortinet-earnings-show-cybersecurity-stocks-are-red"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "Should You 'Buy' or 'Sell' P",
+      "title": "Should You 'Buy' or 'Sell' Palantir 股票 Before Aug. 3 財報?",
+      "originalTitle": "Should You 'Buy' or 'Sell' Palantir Stock Before Aug. 3 Earnings?",
+      "translatedTitle": "Should You 'Buy' or 'Sell' Palantir 股票 Before Aug. 3 財報?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-07-29T13:29:12.000Z",
+      "fact": "TradingView 報導：Should You 'Buy' or 'Sell' Palantir 股票 Before Aug. 3 財報?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Should You 'Buy' or 'Sell' Palantir Stock Before Aug. 3 Earnings? &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "earnings"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:71113138e094b:0-should-you-buy-or-sell-palantir-stock-before-aug-3-earnings/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Tech Up as 微軟 財報 Quell AI Fe",
+      "title": "Tech Up as 微軟 財報 Quell AI Fears — Tech Roundup",
+      "originalTitle": "Tech Up as Microsoft Earnings Quell AI Fears - Tech Roundup",
+      "translatedTitle": "Tech Up as 微軟 財報 Quell AI Fears — Tech Roundup",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-07-30T21:47:00.000Z",
+      "fact": "news.futunn.com 報導：Tech Up as 微軟 財報 Quell AI Fears — Tech Roundup",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Tech Up as Microsoft Earnings Quell AI Fears - Tech Roundup &nbsp;&nbsp; news.futunn.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
@@ -165,70 +228,26 @@
         "AI",
         "earnings"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/73698013/3-ai-questions-for-microsoft-earnings"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Meta",
-      "title": "本周美股財報前瞻：微軟、 Meta 、蘋果和亞馬遜迎來 AI 投入與聯準會雙重考驗",
-      "originalTitle": "本周美股財報前瞻：微軟、 Meta 、蘋果和亞馬遜迎來 AI 投入與聯準會雙重考驗",
-      "translatedTitle": "本周美股財報前瞻：微軟、 Meta 、蘋果和亞馬遜迎來 AI 投入與聯準會雙重考驗",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "odaily.news",
-      "publishedAt": "2026-07-29T02:19:32.000Z",
-      "fact": "odaily.news 報導：本周美股財報前瞻：微軟、 Meta 、蘋果和亞馬遜迎來 AI 投入與聯準會雙重考驗",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；本周美股財報前瞻：微軟、 Meta 、蘋果和亞馬遜迎來 AI 投入與聯準會雙重考驗 &nbsp;&nbsp; odaily.news。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://www.odaily.news/zh-TW/post/5212190"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "China",
-      "title": "China, AI-Spending Fears Fuel Continued Slide in 晶片股",
-      "originalTitle": "China, AI-Spending Fears Fuel Continued Slide in Chip Stocks",
-      "translatedTitle": "China, AI-Spending Fears Fuel Continued Slide in 晶片股",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-28T17:16:24.000Z",
-      "fact": "富途牛牛 報導：China, AI-Spending Fears Fuel Continued Slide in 晶片股",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；China, AI-Spending Fears Fuel Continued Slide in Chip Stocks &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/hk/post/76719384/china-ai-spending-fears-fuel-continued-slide-in-chip-stocks"
+      "url": "https://news.futunn.com/hk/post/76885750/tech-up-as-microsoft-earnings-quell-ai-fears-tech-roundup"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "BigBear.ai Before Q2 財報",
-      "title": "BigBear.ai Before Q2 財報: Buy, Sell or Hold the 股票?",
-      "originalTitle": "BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock?",
-      "translatedTitle": "BigBear.ai Before Q2 財報: Buy, Sell or Hold the 股票?",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "半导体股暴跌 40%后，重新审视算力需求的基本面",
+      "title": "半导体股暴跌 40%后，重新审视算力需求的基本面",
+      "originalTitle": "半导体股暴跌 40%后，重新审视算力需求的基本面",
+      "translatedTitle": "半导体股暴跌 40%后，重新审视算力需求的基本面",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-28T14:06:00.000Z",
-      "fact": "TradingView 報導：BigBear.ai Before Q2 財報: Buy, Sell or Hold the 股票?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；BigBear.ai Before Q2 Earnings: Buy, Sell or Hold the Stock? &nbsp;&nbsp; TradingView。",
+      "source": "odaily.news",
+      "publishedAt": "2026-07-30T07:18:33.000Z",
+      "fact": "odaily.news 報導：半导体股暴跌 40%后，重新审视算力需求的基本面",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；半导体股暴跌 40%后，重新审视算力需求的基本面 &nbsp;&nbsp; odaily.news。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI",
-        "earnings"
+        "市場焦點"
       ],
-      "url": "https://tw.tradingview.com/news/zacks:18c7f6543094b:0-bigbear-ai-before-q2-earnings-buy-sell-or-hold-the-stock/"
+      "url": "https://www.odaily.news/zh-TW/post/5212224"
     }
   ]
 }
