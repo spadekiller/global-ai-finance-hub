@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T22:51:54.163Z",
+  "generatedAt": "2026-08-01T01:43:55.081Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -54,10 +54,10 @@
       "translatedTitle": "【測試又出事】再有AI模型意外入侵三公司",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "sbs.com.au",
+      "source": "SBS",
       "publishedAt": "2026-07-31T02:55:33.000Z",
-      "fact": "sbs.com.au 報導：【測試又出事】再有AI模型意外入侵三公司",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【測試又出事】再有AI模型意外入侵三公司 &nbsp;&nbsp; sbs.com.au。",
+      "fact": "SBS 報導：【測試又出事】再有AI模型意外入侵三公司",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【測試又出事】再有AI模型意外入侵三公司 &nbsp;&nbsp; SBS。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -68,43 +68,42 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Tim Cook 表示",
-      "title": "Tim Cook 表示：未來 蘋果 Intelligence 與 Siri AI 要額外收費",
-      "originalTitle": "Tim Cook 表示：未來 Apple Intelligence 與 Siri AI 要額外收費",
-      "translatedTitle": "Tim Cook 表示：未來 蘋果 Intelligence 與 Siri AI 要額外收費",
+      "subject": "Google",
+      "title": "Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
+      "originalTitle": "Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
+      "translatedTitle": "Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "ePrice.HK",
-      "publishedAt": "2026-07-31T11:46:28.000Z",
-      "fact": "ePrice.HK 報導：Tim Cook 表示：未來 蘋果 Intelligence 與 Siri AI 要額外收費",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Tim Cook 表示：未來 Apple Intelligence 與 Siri AI 要額外收費 &nbsp;&nbsp; ePrice.HK。",
+      "category": "前沿模型",
+      "source": "動區動趨",
+      "publishedAt": "2026-07-30T16:01:06.000Z",
+      "fact": "動區動趨 報導：Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI &nbsp;&nbsp; 動區動趨。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Apple",
-        "AI"
+        "Google"
       ],
-      "url": "https://www.eprice.com.hk/mobile/talk/4544/227756/1"
+      "url": "https://www.blocktempo.com/google-deepmind-gemini-robotics-2-whole-body-intelligence/"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "GPT",
-      "title": "GPT-5.6 Luna 價格大砍八成、Terra 降 20% 對標Gemini，AI 價格戰白熱化| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "originalTitle": "GPT-5.6 Luna 價格大砍八成、Terra 降 20% 對標Gemini，AI 價格戰白熱化| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translatedTitle": "GPT-5.6 Luna 價格大砍八成、Terra 降 20% 對標Gemini，AI 價格戰白熱化| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Google",
+      "title": "跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
+      "originalTitle": "跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
+      "translatedTitle": "跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "動區動趨",
-      "publishedAt": "2026-07-31T02:55:34.000Z",
-      "fact": "動區動趨 報導：GPT-5.6 Luna 價格大砍八成、Terra 降 20% 對標Gemini，AI 價格戰白熱化| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-5.6 Luna 價格大砍八成、Terra 降 20% 對標Gemini，AI 價格戰白熱化| 動區動趨-最具影響力的區塊鏈新聞媒體 &nbsp;&nbsp; 動區動趨。",
+      "source": "PChome Online 新聞",
+      "publishedAt": "2026-07-30T08:41:57.000Z",
+      "fact": "PChome Online 新聞 報導：跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞 &nbsp;&nbsp; PChome Online 新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "AI"
+        "Google"
       ],
-      "url": "https://www.blocktempo.com/openai-gpt-luna-price-cut-80-percent-model-cost-war/"
+      "url": "https://news.pchome.com.tw/science/technice/20260730/index-78540091700400338005.html"
     },
     {
       "id": "全球財經脈動-1",
@@ -115,10 +114,10 @@
       "translatedTitle": "Top News Today: 股票 Rally as 微軟 財報 Quell AI Fears",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "publishedAt": "2026-07-30T20:37:00.000Z",
-      "fact": "moomoo.com 報導：Top News Today: 股票 Rally as 微軟 財報 Quell AI Fears",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Top News Today: Stocks Rally as Microsoft Earnings Quell AI Fears &nbsp;&nbsp; moomoo.com。",
+      "fact": "Moomoo 報導：Top News Today: 股票 Rally as 微軟 財報 Quell AI Fears",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Top News Today: Stocks Rally as Microsoft Earnings Quell AI Fears &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
@@ -211,27 +210,6 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Asian 股票 surge",
-      "title": "Asian 股票 surge, led by KOSPI on AI optimism, Wall Street gains",
-      "originalTitle": "Asian stocks surge, led by KOSPI on AI optimism, Wall Street gains",
-      "translatedTitle": "Asian 股票 surge, led by KOSPI on AI optimism, Wall Street gains",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TMGM trading",
-      "publishedAt": "2026-07-31T07:00:14.000Z",
-      "fact": "TMGM trading 報導：Asian 股票 surge, led by KOSPI on AI optimism, Wall Street gains",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asian stocks surge, led by KOSPI on AI optimism, Wall Street gains &nbsp;&nbsp; TMGM trading。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://www.tmgm.com/cht/analysis/market-news/article/asian-stocks-surge-led-by-kospi-on-ai-optimism-wall-street-gains-202607310508"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
       "subject": "Meta",
       "title": "微軟 Calms AI Fears, Meta Eats Dust: 市場 Reacts",
       "originalTitle": "Microsoft Calms AI Fears, Meta Eats Dust: Market Reacts",
@@ -250,6 +228,26 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/chart/MSFT/TPgUih07-Microsoft-Calms-AI-Fears-Meta-Eats-Dust-Market-Reacts/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨",
+      "title": "半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "originalTitle": "半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "translatedTitle": "半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "動區動趨",
+      "publishedAt": "2026-07-30T04:42:48.000Z",
+      "fact": "動區動趨 報導：半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體 &nbsp;&nbsp; 動區動趨。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.blocktempo.com/semiconductor-stock-crash-40-percent-ai-computing-demand-infinite-substack/"
     }
   ]
 }
