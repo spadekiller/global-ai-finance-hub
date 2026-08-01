@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-08-01T01:43:55.081Z",
+  "generatedAt": "2026-08-01T22:44:11.123Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "微軟的AI轉型對AI基礎設施ETF的利多可能超過押注OpenAI",
+      "originalTitle": "微軟的AI轉型對AI基礎設施ETF的利多可能超過押注OpenAI",
+      "translatedTitle": "微軟的AI轉型對AI基礎設施ETF的利多可能超過押注OpenAI",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "鉅亨號",
+      "publishedAt": "2026-08-01T10:00:42.000Z",
+      "fact": "鉅亨號 報導：微軟的AI轉型對AI基礎設施ETF的利多可能超過押注OpenAI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；微軟的AI轉型對AI基礎設施ETF的利多可能超過押注OpenAI &nbsp;&nbsp; 鉅亨號。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://hao.cnyes.com/post/261753"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
+      "originalTitle": "Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
+      "translatedTitle": "Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "壹蘋新聞網",
+      "publishedAt": "2026-08-01T06:51:00.000Z",
+      "fact": "壹蘋新聞網 報導：Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI &nbsp;&nbsp; 壹蘋新聞網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://news.nextapple.com/aitech/20260801/43E21BEDC731929A36B6E71CDC6182DD"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| ",
       "title": "紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| 文教",
@@ -23,30 +65,28 @@
       "url": "https://udn.com/news/story/6904/9663787"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "ORCL 股票 Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup",
-      "originalTitle": "ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup",
-      "translatedTitle": "ORCL 股票 Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-30T14:02:37.000Z",
-      "fact": "TradingView 報導：ORCL 股票 Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；ORCL Stock Gains After Google’s Gemini Joins Meta, OpenAI, xAI In Oracle’s AI Model Lineup &nbsp;&nbsp; TradingView。",
+      "title": "【資安週報】0725~0731，OpenAI的AI模型自主攻擊影響範圍擴大，傳出有第二家公司受害",
+      "originalTitle": "【資安週報】0725~0731，OpenAI的AI模型自主攻擊影響範圍擴大，傳出有第二家公司受害",
+      "translatedTitle": "【資安週報】0725~0731，OpenAI的AI模型自主攻擊影響範圍擴大，傳出有第二家公司受害",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "iThome",
+      "publishedAt": "2026-07-31T09:30:14.000Z",
+      "fact": "iThome 報導：【資安週報】0725~0731，OpenAI的AI模型自主攻擊影響範圍擴大，傳出有第二家公司受害",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【資安週報】0725~0731，OpenAI的AI模型自主攻擊影響範圍擴大，傳出有第二家公司受害 &nbsp;&nbsp; iThome。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
-        "Google",
-        "Meta",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:857751e03094b:0-orcl-stock-gains-after-google-s-gemini-joins-meta-openai-xai-in-oracle-s-ai-model-lineup/"
+      "url": "https://www.ithome.com.tw/news/177770"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "【測試又出事】再有AI模型意外入侵三公司",
       "title": "【測試又出事】再有AI模型意外入侵三公司",
@@ -54,10 +94,10 @@
       "translatedTitle": "【測試又出事】再有AI模型意外入侵三公司",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "SBS",
+      "source": "sbs.com.au",
       "publishedAt": "2026-07-31T02:55:33.000Z",
-      "fact": "SBS 報導：【測試又出事】再有AI模型意外入侵三公司",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【測試又出事】再有AI模型意外入侵三公司 &nbsp;&nbsp; SBS。",
+      "fact": "sbs.com.au 報導：【測試又出事】再有AI模型意外入侵三公司",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【測試又出事】再有AI模型意外入侵三公司 &nbsp;&nbsp; sbs.com.au。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -66,90 +106,7 @@
       "url": "https://www.sbs.com.au/language/chinese/zh-hant/article/anthropic-says-claude-ai-hacked-three-companies-during-cyber-tests/ogwna41yh"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
-      "originalTitle": "Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
-      "translatedTitle": "Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "動區動趨",
-      "publishedAt": "2026-07-30T16:01:06.000Z",
-      "fact": "動區動趨 報導：Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google DeepMind 發表 Gemini Robotics 2！賦予機器人「全身智能」邁向實體 AGI &nbsp;&nbsp; 動區動趨。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://www.blocktempo.com/google-deepmind-gemini-robotics-2-whole-body-intelligence/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
-      "originalTitle": "跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
-      "translatedTitle": "跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-07-30T08:41:57.000Z",
-      "fact": "PChome Online 新聞 報導：跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；跳脫傳統聊天視窗！Google 發表 macOS 版 Gemini 語音輔助功能- 科技新聞- PChome Online 新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://news.pchome.com.tw/science/technice/20260730/index-78540091700400338005.html"
-    },
-    {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "Top News Today",
-      "title": "Top News Today: 股票 Rally as 微軟 財報 Quell AI Fears",
-      "originalTitle": "Top News Today: Stocks Rally as Microsoft Earnings Quell AI Fears",
-      "translatedTitle": "Top News Today: 股票 Rally as 微軟 財報 Quell AI Fears",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-07-30T20:37:00.000Z",
-      "fact": "Moomoo 報導：Top News Today: 股票 Rally as 微軟 財報 Quell AI Fears",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Top News Today: Stocks Rally as Microsoft Earnings Quell AI Fears &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "Microsoft",
-        "AI",
-        "earnings",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/73843660/top-news-today-stocks-rally-as-microsoft-earnings-quell-ai"
-    },
-    {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：U.S. Economic Growth Slowed to 1.5% in Second Quarter",
-      "originalTitle": "U.S. Economic Growth Slowed to 1.5% in Second Quarter",
-      "translatedTitle": "AI 財經快訊：U.S. Economic Growth Slowed to 1.5% in Second Quarter",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-30T14:43:10.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：U.S. Economic Growth Slowed to 1.5% in Second Quarter",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；U.S. Economic Growth Slowed to 1.5% in Second Quarter &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/hk/post/76868582/us-economic-growth-slowed-to-1-5-in-second-quarter"
-    },
-    {
-      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Nocera, Inc. (Nasdaq: NCRA) in $8M note default, adds QMAX VIE stake",
@@ -171,83 +128,105 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "NBIS 股票 On Track For Its Big",
-      "title": "NBIS 股票 On Track For Its Biggest Single-Day Gains This Year – But Thursday's Rally Does Little To Alleviate July's Pain",
-      "originalTitle": "NBIS Stock On Track For Its Biggest Single-Day Gains This Year – But Thursday's Rally Does Little To Alleviate July's Pain",
-      "translatedTitle": "NBIS 股票 On Track For Its Biggest Single-Day Gains This Year – But Thursday's Rally Does Little To Alleviate July's Pain",
+      "subject": "MU",
+      "title": "MU, NVDA, ORCL, NBIS: AI 股票 In Focus As Situational Awareness Reportedly Seeks Fresh 投資 After July Rout",
+      "originalTitle": "MU, NVDA, ORCL, NBIS: AI Stocks In Focus As Situational Awareness Reportedly Seeks Fresh Investment After July Rout",
+      "translatedTitle": "MU, NVDA, ORCL, NBIS: AI 股票 In Focus As Situational Awareness Reportedly Seeks Fresh 投資 After July Rout",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-07-30T16:01:08.000Z",
-      "fact": "TradingView 報導：NBIS 股票 On Track For Its Biggest Single-Day Gains This Year – But Thursday's Rally Does Little To Alleviate July's Pain",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NBIS Stock On Track For Its Biggest Single-Day Gains This Year – But Thursday's Rally Does Little To Alleviate July's Pa。",
+      "publishedAt": "2026-07-31T07:32:36.000Z",
+      "fact": "TradingView 報導：MU, NVDA, ORCL, NBIS: AI 股票 In Focus As Situational Awareness Reportedly Seeks Fresh 投資 After July Rout",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；MU, NVDA, ORCL, NBIS: AI Stocks In Focus As Situational Awareness Reportedly Seeks Fresh Investment After July Rout &nbs。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:8a1e8fd18094b:0-nbis-stock-on-track-for-its-biggest-single-day-gains-this-year-but-thursday-s-rally-does-little-to-alleviate-july-s-pain/"
+      "url": "https://tw.tradingview.com/news/stocktwits:de34370c9094b:0-mu-nvda-orcl-nbis-ai-stocks-in-focus-as-situational-awareness-reportedly-seeks-fresh-investment-after-july-rout/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "AI 股票 May Have Bottomed Out.",
+      "title": "AI 股票 May Have Bottomed Out. What Investors Should Watch for Next.",
+      "originalTitle": "AI Stocks May Have Bottomed Out. What Investors Should Watch for Next.",
+      "translatedTitle": "AI 股票 May Have Bottomed Out. What Investors Should Watch for Next.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-07-31T18:59:03.000Z",
+      "fact": "Moomoo 報導：AI 股票 May Have Bottomed Out. What Investors Should Watch for Next.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stocks May Have Bottomed Out. What Investors Should Watch for Next. &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/73920860/ai-stocks-may-have-bottomed-out-what-investors-should-watch"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "晶片股正在暴跌——但分析師表示，人工智能晶片需求到202",
-      "title": "晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」",
-      "originalTitle": "晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」",
-      "translatedTitle": "晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」",
+      "subject": "納斯達克100指數創2025年5月以來最佳單日表現",
+      "title": "納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢",
+      "originalTitle": "納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢",
+      "translatedTitle": "納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "鉅亨號",
-      "publishedAt": "2026-07-31T05:30:38.000Z",
-      "fact": "鉅亨號 報導：晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」 &nbsp;&nbsp; 鉅亨號。",
+      "publishedAt": "2026-07-30T23:45:37.000Z",
+      "fact": "鉅亨號 報導：納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢 &nbsp;&nbsp; 鉅亨號。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://hao.cnyes.com/post/261657"
+      "url": "https://hao.cnyes.com/post/261642"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Meta",
-      "title": "微軟 Calms AI Fears, Meta Eats Dust: 市場 Reacts",
-      "originalTitle": "Microsoft Calms AI Fears, Meta Eats Dust: Market Reacts",
-      "translatedTitle": "微軟 Calms AI Fears, Meta Eats Dust: 市場 Reacts",
+      "subject": "U.S. AI 晶片股 rose collectivel",
+      "title": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Intel up nearly 5% and AMD gaining over 3%.",
+      "originalTitle": "U.S. AI chip stocks rose collectively in pre-market trading, with Intel up nearly 5% and AMD gaining over 3%.",
+      "translatedTitle": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Intel up nearly 5% and AMD gaining over 3%.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-07-30T14:19:37.000Z",
-      "fact": "TradingView 報導：微軟 Calms AI Fears, Meta Eats Dust: 市場 Reacts",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft Calms AI Fears, Meta Eats Dust: Market Reacts &nbsp;&nbsp; TradingView。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-07-31T09:07:09.000Z",
+      "fact": "富途牛牛 報導：U.S. AI 晶片股 rose collectively in pre-市場 trading, with Intel up nearly 5% and AMD gaining over 3%.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. AI chip stocks rose collectively in pre-market trading, with Intel up nearly 5% and AMD gaining over 3%. &nbsp;&nbs。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Meta",
-        "Microsoft",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/chart/MSFT/TPgUih07-Microsoft-Calms-AI-Fears-Meta-Eats-Dust-Market-Reacts/"
+      "url": "https://news.futunn.com/en/post/76921992/us-ai-chip-stocks-rose-collectively-in-pre-market-trading"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨",
-      "title": "半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "originalTitle": "半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translatedTitle": "半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Asian 股票 surge",
+      "title": "Asian 股票 surge, led by KOSPI on AI optimism, Wall Street gains",
+      "originalTitle": "Asian stocks surge, led by KOSPI on AI optimism, Wall Street gains",
+      "translatedTitle": "Asian 股票 surge, led by KOSPI on AI optimism, Wall Street gains",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "動區動趨",
-      "publishedAt": "2026-07-30T04:42:48.000Z",
-      "fact": "動區動趨 報導：半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；半導體慘崩40%？2兆訂單揭AI算力無底洞| 動區動趨-最具影響力的區塊鏈新聞媒體 &nbsp;&nbsp; 動區動趨。",
+      "source": "TMGM trading",
+      "publishedAt": "2026-07-31T07:00:14.000Z",
+      "fact": "TMGM trading 報導：Asian 股票 surge, led by KOSPI on AI optimism, Wall Street gains",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asian stocks surge, led by KOSPI on AI optimism, Wall Street gains &nbsp;&nbsp; TMGM trading。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://www.blocktempo.com/semiconductor-stock-crash-40-percent-ai-computing-demand-infinite-substack/"
+      "url": "https://www.tmgm.com/cht/analysis/market-news/article/asian-stocks-surge-led-by-kospi-on-ai-optimism-wall-street-gains-202607310508"
     }
   ]
 }
