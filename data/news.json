@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T22:44:11.123Z",
+  "generatedAt": "2026-08-02T01:29:11.643Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,37 +26,16 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
-      "originalTitle": "Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
-      "translatedTitle": "Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "壹蘋新聞網",
-      "publishedAt": "2026-08-01T06:51:00.000Z",
-      "fact": "壹蘋新聞網 報導：Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI &nbsp;&nbsp; 壹蘋新聞網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://news.nextapple.com/aitech/20260801/43E21BEDC731929A36B6E71CDC6182DD"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
       "subject": "紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| ",
       "title": "紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| 文教",
       "originalTitle": "紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| 文教",
       "translatedTitle": "紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| 文教",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "UDN",
+      "source": "udn",
       "publishedAt": "2026-07-31T16:00:00.000Z",
-      "fact": "UDN 報導：紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| 文教",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| 文教 &nbsp;&nbsp; UDN。",
+      "fact": "udn 報導：紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| 文教",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；紐時賞析／該封鎖中國AI嗎？矽谷陷分歧| 放學微素養| 文教 &nbsp;&nbsp; udn。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -65,7 +44,7 @@
       "url": "https://udn.com/news/story/6904/9663787"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "【資安週報】0725~0731，OpenAI的AI模型自主攻擊影響範圍擴大，傳出有第二家公司受害",
@@ -86,6 +65,27 @@
       "url": "https://www.ithome.com.tw/news/177770"
     },
     {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
+      "originalTitle": "Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
+      "translatedTitle": "Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "壹蘋新聞網",
+      "publishedAt": "2026-08-01T06:51:00.000Z",
+      "fact": "壹蘋新聞網 報導：Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google摺疊新機提前現身 Pixel 11 Pro Fold主打8吋螢幕、Gemini AI &nbsp;&nbsp; 壹蘋新聞網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://news.nextapple.com/aitech/20260801/43E21BEDC731929A36B6E71CDC6182DD"
+    },
+    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "【測試又出事】再有AI模型意外入侵三公司",
@@ -94,10 +94,10 @@
       "translatedTitle": "【測試又出事】再有AI模型意外入侵三公司",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "sbs.com.au",
+      "source": "SBS",
       "publishedAt": "2026-07-31T02:55:33.000Z",
-      "fact": "sbs.com.au 報導：【測試又出事】再有AI模型意外入侵三公司",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【測試又出事】再有AI模型意外入侵三公司 &nbsp;&nbsp; sbs.com.au。",
+      "fact": "SBS 報導：【測試又出事】再有AI模型意外入侵三公司",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【測試又出事】再有AI模型意外入侵三公司 &nbsp;&nbsp; SBS。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -170,45 +170,24 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "納斯達克100指數創2025年5月以來最佳單日表現",
-      "title": "納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢",
-      "originalTitle": "納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢",
-      "translatedTitle": "納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢",
+      "subject": "晶片股正在暴跌——但分析師表示，人工智能晶片需求到202",
+      "title": "晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」",
+      "originalTitle": "晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」",
+      "translatedTitle": "晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "鉅亨號",
-      "publishedAt": "2026-07-30T23:45:37.000Z",
-      "fact": "鉅亨號 報導：納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；納斯達克100指數創2025年5月以來最佳單日表現：10只股票推動漲勢 &nbsp;&nbsp; 鉅亨號。",
+      "publishedAt": "2026-07-31T05:30:38.000Z",
+      "fact": "鉅亨號 報導：晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；晶片股正在暴跌——但分析師表示，人工智能晶片需求到2028年仍將超過供應：「你就是沒有足夠的……」 &nbsp;&nbsp; 鉅亨號。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://hao.cnyes.com/post/261642"
+      "url": "https://hao.cnyes.com/post/261657"
     },
     {
       "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "U.S. AI 晶片股 rose collectivel",
-      "title": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Intel up nearly 5% and AMD gaining over 3%.",
-      "originalTitle": "U.S. AI chip stocks rose collectively in pre-market trading, with Intel up nearly 5% and AMD gaining over 3%.",
-      "translatedTitle": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Intel up nearly 5% and AMD gaining over 3%.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-07-31T09:07:09.000Z",
-      "fact": "富途牛牛 報導：U.S. AI 晶片股 rose collectively in pre-市場 trading, with Intel up nearly 5% and AMD gaining over 3%.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. AI chip stocks rose collectively in pre-market trading, with Intel up nearly 5% and AMD gaining over 3%. &nbsp;&nbs。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/76921992/us-ai-chip-stocks-rose-collectively-in-pre-market-trading"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Asian 股票 surge",
       "title": "Asian 股票 surge, led by KOSPI on AI optimism, Wall Street gains",
@@ -227,6 +206,26 @@
         "stocks"
       ],
       "url": "https://www.tmgm.com/cht/analysis/market-news/article/asian-stocks-surge-led-by-kospi-on-ai-optimism-wall-street-gains-202607310508"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》 TAIEX jumps nearly 8 percent in largest-ever points gain",
+      "originalTitle": "《TAIPEI TIMES》 TAIEX jumps nearly 8 percent in largest-ever points gain",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 TAIEX jumps nearly 8 percent in largest-ever points gain",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "自由時報",
+      "publishedAt": "2026-07-31T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 TAIEX jumps nearly 8 percent in largest-ever points gain",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；《TAIPEI TIMES》 TAIEX jumps nearly 8 percent in largest-ever points gain &nbsp;&nbsp; 自由時報。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5524804"
     }
   ]
 }
