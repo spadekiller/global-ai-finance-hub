@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T22:52:40.822Z",
+  "generatedAt": "2026-08-05T01:23:35.601Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -11,10 +11,10 @@
       "translatedTitle": "AI 財經快訊：Meta, Google, and Samsung release new AI glasses",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "Formosa News",
+      "source": "english.ftvnews.com.tw",
       "publishedAt": "2026-08-04T11:56:31.000Z",
-      "fact": "Formosa News 報導：AI 財經快訊：Meta, Google, and Samsung release new AI glasses",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta, Google, and Samsung release new AI glasses &nbsp;&nbsp; Formosa News。",
+      "fact": "english.ftvnews.com.tw 報導：AI 財經快訊：Meta, Google, and Samsung release new AI glasses",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta, Google, and Samsung release new AI glasses &nbsp;&nbsp; english.ftvnews.com.tw。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -168,41 +168,41 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "超大規模雲服務商資本支出超過$1.2兆",
-      "title": "超大規模雲服務商資本支出超過$1.2兆：美銀稱這九隻股票正在從中獲利| 美股",
-      "originalTitle": "超大規模雲服務商資本支出超過$1.2兆：美銀稱這九隻股票正在從中獲利| 美股",
-      "translatedTitle": "超大規模雲服務商資本支出超過$1.2兆：美銀稱這九隻股票正在從中獲利| 美股",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "鉅亨號",
-      "publishedAt": "2026-08-04T09:56:39.000Z",
-      "fact": "鉅亨號 報導：超大規模雲服務商資本支出超過$1.2兆：美銀稱這九隻股票正在從中獲利| 美股",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；超大規模雲服務商資本支出超過$1.2兆：美銀稱這九隻股票正在從中獲利| 美股 &nbsp;&nbsp; 鉅亨號。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://hao.cnyes.com/post/262114"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
       "subject": "晟碟財報前瞻",
       "title": "晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元",
       "originalTitle": "晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元",
       "translatedTitle": "晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "publishedAt": "2026-08-04T09:44:52.000Z",
-      "fact": "TradingKey 報導：晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元 &nbsp;&nbsp; TradingKey。",
+      "fact": "tradingkey.com 報導：晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元 &nbsp;&nbsp; tradingkey.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262073198-sandisk-earnings-preview-ai-storage-supercycle-3050-top-target-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "What's Going On With CoreWea",
+      "title": "What's Going On With CoreWeave 股票 Monday",
+      "originalTitle": "What's Going On With CoreWeave Stock Monday",
+      "translatedTitle": "What's Going On With CoreWeave 股票 Monday",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "tw.tradingview.com",
+      "publishedAt": "2026-08-03T18:33:37.000Z",
+      "fact": "tw.tradingview.com 報導：What's Going On With CoreWeave 股票 Monday",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；What's Going On With CoreWeave Stock Monday &nbsp;&nbsp; tw.tradingview.com。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:81fea1e95094b:0-what-s-going-on-with-coreweave-stock-monday/"
     },
     {
       "id": "美股與全球市場焦點-3",
@@ -228,26 +228,6 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "半導體 ETFs SMH",
-      "title": "半導體 ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says",
-      "originalTitle": "Semiconductor ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says",
-      "translatedTitle": "半導體 ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "TradingView",
-      "publishedAt": "2026-08-03T12:57:21.000Z",
-      "fact": "TradingView 報導：半導體 ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Semiconductor ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "semiconductor"
-      ],
-      "url": "https://tw.tradingview.com/news/stocktwits:d3eed27b8094b:0-semiconductor-etfs-smh-soxx-soxl-top-weekly-fund-flows-for-first-time-analyst-says/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
       "subject": "Why Tech 股票 Are Likely to Ta",
       "title": "Why Tech 股票 Are Likely to Take a Back Seat for the Rest of 2026, According to JPMorgan Strategists",
       "originalTitle": "Why Tech Stocks Are Likely to Take a Back Seat for the Rest of 2026, According to JPMorgan Strategists",
@@ -264,6 +244,26 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/74000246/why-tech-stocks-are-likely-to-take-a-back-seat"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "半導體 ETFs SMH",
+      "title": "半導體 ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says",
+      "originalTitle": "Semiconductor ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says",
+      "translatedTitle": "半導體 ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "tw.tradingview.com",
+      "publishedAt": "2026-08-03T12:57:21.000Z",
+      "fact": "tw.tradingview.com 報導：半導體 ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Semiconductor ETFs SMH, SOXX, SOXL Top Weekly Fund Flows For First Time, Analyst Says &nbsp;&nbsp; tw.tradingview.com。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "semiconductor"
+      ],
+      "url": "https://tw.tradingview.com/news/stocktwits:d3eed27b8094b:0-semiconductor-etfs-smh-soxx-soxl-top-weekly-fund-flows-for-first-time-analyst-says/"
     }
   ]
 }
