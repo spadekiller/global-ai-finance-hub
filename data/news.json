@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T22:49:08.691Z",
+  "generatedAt": "2026-08-06T01:21:04.822Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -67,35 +67,16 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "iPhone 18 Pro Max 傳將首搭蘋果 2 奈",
-      "title": "iPhone 18 Pro Max 傳將首搭蘋果 2 奈米晶片 效能可望提升",
-      "originalTitle": "iPhone 18 Pro Max 傳將首搭蘋果 2 奈米晶片 效能可望提升",
-      "translatedTitle": "iPhone 18 Pro Max 傳將首搭蘋果 2 奈米晶片 效能可望提升",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Yellow.com",
-      "publishedAt": "2026-08-05T16:22:12.000Z",
-      "fact": "Yellow.com 報導：iPhone 18 Pro Max 傳將首搭蘋果 2 奈米晶片 效能可望提升",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；iPhone 18 Pro Max 傳將首搭蘋果 2 奈米晶片 效能可望提升 &nbsp;&nbsp; Yellow.com。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://yellow.com/zh-TW/news/iphone-18-pro-max-2nm-chip"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
       "subject": "連黃仁勳都叫年輕人當水電工！程世嘉",
       "title": "連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？",
       "originalTitle": "連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？",
       "translatedTitle": "連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "bnext.com.tw",
+      "source": "數位時代",
       "publishedAt": "2026-08-05T02:03:00.000Z",
-      "fact": "bnext.com.tw 報導：連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？ &nbsp;&nbsp; bnext.com.tw。",
+      "fact": "數位時代 報導：連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？ &nbsp;&nbsp; 數位時代。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿"
@@ -103,27 +84,27 @@
       "url": "https://www.bnext.com.tw/article/91733/intelligence-inflation-ai-3-0"
     },
     {
-      "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "The AI 熱潮 Is Transforming th",
-      "title": "The AI 熱潮 Is Transforming the American 經濟 Beyond Recognition — WSJ",
-      "originalTitle": "The AI Boom Is Transforming the American Economy Beyond Recognition -- WSJ",
-      "translatedTitle": "The AI 熱潮 Is Transforming the American 經濟 Beyond Recognition — WSJ",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-04T01:06:55.000Z",
-      "fact": "富途牛牛 報導：The AI 熱潮 Is Transforming the American 經濟 Beyond Recognition — WSJ",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The AI Boom Is Transforming the American Economy Beyond Recognition -- WSJ &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
+      "title": "白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
+      "originalTitle": "白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
+      "translatedTitle": "白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "unwire",
+      "publishedAt": "2026-08-05T07:35:22.000Z",
+      "fact": "unwire 報導：白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行 &nbsp;&nbsp; unwire。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "全球財經",
+        "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/77050724/the-ai-boom-is-transforming-the-american-economy-beyond-recognition"
+      "url": "https://unwire.hk/2026/08/05/whitehouse-no-test-china-openweight-ai/ai/"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-1",
       "section": "全球財經脈動",
       "subject": "AIS Business Joins Hands wit",
       "title": "AIS Business Joins Hands with Huawei 雲端 in MOU to Advance Global 雲端 Capabilities and Intelligent 5G Solutions, Positioning Thailand as an AI-Era Manufacturing Hub",
@@ -144,7 +125,7 @@
       "url": "https://www.quamnet.com/post/p4A1XHwEj0qvsUk7sIvXx"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "CoreWeave enters Asia's AI c",
       "title": "CoreWeave enters Asia's AI computing power 'battlefield'! Plans to invest billions of dollars in building three 資料中心 in Indonesia.",
@@ -190,6 +171,29 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "Google",
+      "title": "Never Mind AI Spending, This Number Is Boosting 微軟, Google, and Amazon 股票 — Barron’s.com",
+      "originalTitle": "Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks -- Barrons.com",
+      "translatedTitle": "Never Mind AI Spending, This Number Is Boosting 微軟, Google, and Amazon 股票 — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-05T17:54:27.000Z",
+      "fact": "富途牛牛 報導：Never Mind AI Spending, This Number Is Boosting 微軟, Google, and Amazon 股票 — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Google",
+        "Microsoft",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/77188419/never-mind-ai-spending-this-number-is-boosting-microsoft-google"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "BingX Unveils 2 Million USDT",
       "title": "BingX Unveils 2 Million USDT Multi-Asset Trading Campaign Around Today's Most-Watched 市場 Trends",
       "originalTitle": "BingX Unveils 2 Million USDT Multi-Asset Trading Campaign Around Today's Most-Watched Market Trends",
@@ -208,25 +212,6 @@
       "url": "https://www.quamnet.com/post/Dnrb_2-3qN78WOChUpzS8"
     },
     {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "SpaceX上市後首份財報營收增92%大超預期，為何股價",
-      "title": "SpaceX上市後首份財報營收增92%大超預期，為何股價仍下跌7%？",
-      "originalTitle": "SpaceX上市後首份財報營收增92%大超預期，為何股價仍下跌7%？",
-      "translatedTitle": "SpaceX上市後首份財報營收增92%大超預期，為何股價仍下跌7%？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-08-05T03:09:38.000Z",
-      "fact": "TradingKey 報導：SpaceX上市後首份財報營收增92%大超預期，為何股價仍下跌7%？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SpaceX上市後首份財報營收增92%大超預期，為何股價仍下跌7%？ &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262075011-spacex-revenue-surges-92-first-post-ipo-earnings-beat-why-stock-slide-7-tradingkey"
-    },
-    {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "【TMGM Financial Recap】 Why I",
@@ -236,14 +221,14 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TMGM trading",
-      "publishedAt": "2026-08-05T07:06:54.000Z",
+      "publishedAt": "2026-08-05T05:28:28.000Z",
       "fact": "TMGM trading 報導：【TMGM Financial Recap】 Why Is the U.S. 股票 市場 Actually Healthier Now?",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【TMGM Financial Recap】 Why Is the U.S. Stock Market Actually Healthier Now? &nbsp;&nbsp; TMGM trading。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://www.tmgm.com/zh-hant/analysis/market-insight/why-us-stocks-are-healthier"
+      "url": "https://www.tmgm.com/cht/analysis/market-insight/why-us-stocks-are-healthier"
     },
     {
       "id": "美股與全球市場焦點-5",
