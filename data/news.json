@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T02:01:19.398Z",
+  "generatedAt": "2026-08-07T22:25:04.323Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,16 +26,59 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google SecOps台灣落地，強化企業資安防禦- 新聞",
+      "originalTitle": "Google SecOps台灣落地，強化企業資安防禦- 新聞",
+      "translatedTitle": "Google SecOps台灣落地，強化企業資安防禦- 新聞",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "MoneyDJ",
+      "publishedAt": "2026-08-07T04:18:00.000Z",
+      "fact": "MoneyDJ 報導：Google SecOps台灣落地，強化企業資安防禦- 新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google SecOps台灣落地，強化企業資安防禦- 新聞 &nbsp;&nbsp; MoneyDJ。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.moneydj.com/kmdj/news/newsviewer.aspx?a"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "Meta、OpenAI、Anthropic 接連爆 AI Agent 越界，專家：真正失控的不是模型，是人類治理",
+      "originalTitle": "Meta、OpenAI、Anthropic 接連爆 AI Agent 越界，專家：真正失控的不是模型，是人類治理",
+      "translatedTitle": "Meta、OpenAI、Anthropic 接連爆 AI Agent 越界，專家：真正失控的不是模型，是人類治理",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TechOrange 科技報橘",
+      "publishedAt": "2026-08-06T08:32:36.000Z",
+      "fact": "TechOrange 科技報橘 報導：Meta、OpenAI、Anthropic 接連爆 AI Agent 越界，專家：真正失控的不是模型，是人類治理",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta、OpenAI、Anthropic 接連爆 AI Agent 越界，專家：真正失控的不是模型，是人類治理 &nbsp;&nbsp; TechOrange 科技報橘。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Anthropic",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://techorange.com/2026/08/06/ai-models-have-been-going-rogue-in-tests/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
       "originalTitle": "Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
       "translatedTitle": "Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "ithome.com.tw",
+      "source": "iThome",
       "publishedAt": "2026-08-06T08:45:52.000Z",
-      "fact": "ithome.com.tw 報導：Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex &nbsp;&nbsp; ithome.com.tw。",
+      "fact": "iThome 報導：Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex &nbsp;&nbsp; iThome。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -44,65 +87,25 @@
       "url": "https://www.ithome.com.tw/news/177934"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
-      "originalTitle": "Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
-      "translatedTitle": "Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "Grenade 手榴彈",
-      "publishedAt": "2026-08-06T09:15:32.000Z",
-      "fact": "Grenade 手榴彈 報導：Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看 &nbsp;&nbsp; Grenade 手榴彈。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://grenade.tw/blog/meta-muse-spark-1-2-code/"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "AI代理接連失控 「AI教父」示警",
-      "title": "AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現",
-      "originalTitle": "AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現",
-      "translatedTitle": "AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "太報 TaiSounds",
-      "publishedAt": "2026-08-06T12:20:42.000Z",
-      "fact": "太報 TaiSounds 報導：AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現 &nbsp;&nbsp; 太報 TaiSounds。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.taisounds.com/news/content/84/281811"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem",
-      "originalTitle": "《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "自由時報",
-      "publishedAt": "2026-08-06T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem &nbsp;&nbsp; 自由時報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "subject": "OpenAI",
+      "title": "OpenAI 首款硬體亮相：Jony Ive 打造 300 美元「甜甜圈」智能音箱",
+      "originalTitle": "OpenAI 首款硬體亮相：Jony Ive 打造 300 美元「甜甜圈」智能音箱",
+      "translatedTitle": "OpenAI 首款硬體亮相：Jony Ive 打造 300 美元「甜甜圈」智能音箱",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "Yellow.com",
+      "publishedAt": "2026-08-07T17:06:46.000Z",
+      "fact": "Yellow.com 報導：OpenAI 首款硬體亮相：Jony Ive 打造 300 美元「甜甜圈」智能音箱",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 首款硬體亮相：Jony Ive 打造 300 美元「甜甜圈」智能音箱 &nbsp;&nbsp; Yellow.com。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
+        "OpenAI",
         "AI"
       ],
-      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5531318"
+      "url": "https://yellow.com/zh-tw/news/openai-%E9%A6%96%E6%AC%BE%E7%A1%AC%E9%AB%94%E4%BA%AE%E7%9B%B8%EF%BC%9Ajony-ive-%E6%89%93%E9%80%A0-300-%E7%BE%8E%E5%85%83%E3%80%8C%E7%94%9C%E7%94%9C%E5%9C%88%E3%80%8D%E6%99%BA%E8%83%BD%E9%9F%B3%E7%AE%B1"
     },
     {
       "id": "全球財經脈動-1",
@@ -124,71 +127,67 @@
       "url": "https://www.moomoo.com/hant/news/post/74253023/data-center-thermal-management-market-worth-32-38-billion-by"
     },
     {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "OpenAI",
+      "title": "AI 財經快訊：Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $378 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens",
+      "originalTitle": "Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $378 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens",
+      "translatedTitle": "AI 財經快訊：Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $378 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "Quamnet",
+      "publishedAt": "2026-08-06T13:00:01.000Z",
+      "fact": "Quamnet 報導：AI 財經快訊：Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $378 Million, Includes OpenAI, Beast Industries, More Than 16,000 ETH and Nearly 302 Million WLD Tokens",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Eightco Holdings (NASDAQ: ORBS) Reports Total Holdings of Approximately $378 Million, Includes OpenAI, Beast Industries,。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://www.quamnet.com/post/J4xvwBmI66tBV8S4XFvqZ"
+    },
+    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "European 股票 Indexes Surge to",
-      "title": "European 股票 Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong 財報",
-      "originalTitle": "European Stock Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong Earnings",
-      "translatedTitle": "European 股票 Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong 財報",
+      "subject": "Palantir Technologies Inc. (",
+      "title": "Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄",
+      "originalTitle": "Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄",
+      "translatedTitle": "Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-05T15:22:06.000Z",
-      "fact": "Moomoo 報導：European 股票 Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Stock Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong Earnings &nbsp;&nbsp; Moomoo。",
+      "source": "Yahoo 財經",
+      "publishedAt": "2026-08-07T13:39:28.000Z",
+      "fact": "Yahoo 財經 報導：Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI",
-        "earnings"
+        "市場焦點"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/74155451/european-stock-indexes-surge-to-records-as-hormuz-hopes-meet"
+      "url": "https://hk.finance.yahoo.com/quote/PLTR/"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "Google",
-      "title": "Never Mind AI Spending, This Number Is Boosting 微軟, Google, and Amazon 股票 — Barron’s.com",
-      "originalTitle": "Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks -- Barrons.com",
-      "translatedTitle": "Never Mind AI Spending, This Number Is Boosting 微軟, Google, and Amazon 股票 — Barron’s.com",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Bitcoin miners’ AI pivot loses Wall Street’s wow factor",
+      "originalTitle": "Bitcoin miners’ AI pivot loses Wall Street’s wow factor",
+      "translatedTitle": "AI 財經快訊：Bitcoin miners’ AI pivot loses Wall Street’s wow factor",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-05T17:54:27.000Z",
-      "fact": "富途牛牛 報導：Never Mind AI Spending, This Number Is Boosting 微軟, Google, and Amazon 股票 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "source": "tw.tradingview.com",
+      "publishedAt": "2026-08-06T16:42:33.000Z",
+      "fact": "tw.tradingview.com 報導：AI 財經快訊：Bitcoin miners’ AI pivot loses Wall Street’s wow factor",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Bitcoin miners’ AI pivot loses Wall Street’s wow factor &nbsp;&nbsp; tw.tradingview.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Google",
-        "Microsoft",
-        "AI",
-        "stocks"
+        "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/77188419/never-mind-ai-spending-this-number-is-boosting-microsoft-google"
+      "url": "https://tw.tradingview.com/news/cointelegraph:507f94a7c094b:0-bitcoin-miners-ai-pivot-loses-wall-street-s-wow-factor/"
     },
     {
       "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "SpaceX Loses Thrust After Fi",
-      "title": "SpaceX Loses Thrust After First 財報 Call. What Went Wrong?",
-      "originalTitle": "SpaceX Loses Thrust After First Earnings Call. What Went Wrong?",
-      "translatedTitle": "SpaceX Loses Thrust After First 財報 Call. What Went Wrong?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-08-05T10:17:30.000Z",
-      "fact": "TradingView 報導：SpaceX Loses Thrust After First 財報 Call. What Went Wrong?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SpaceX Loses Thrust After First Earnings Call. What Went Wrong? &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "earnings"
-      ],
-      "url": "https://tw.tradingview.com/chart/SPCX/jyX9aygm-SpaceX-Loses-Thrust-After-First-Earnings-Call-What-Went-Wrong/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "SpaceX獨家採用輝達晶片帶動股價上漲3.4%，AMD",
       "title": "SpaceX獨家採用輝達晶片帶動股價上漲3.4%，AMD應聲重挫7.04%",
@@ -207,24 +206,43 @@
       "url": "https://abmedia.io/nvidia-stock-is-the-big-winner-from-spacex-earnings"
     },
     {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "威騰電子財報淨利暴增12倍，但股價仍舊下跌12%",
+      "title": "威騰電子財報淨利暴增12倍，但股價仍舊下跌12%",
+      "originalTitle": "威騰電子財報淨利暴增12倍，但股價仍舊下跌12%",
+      "translatedTitle": "威騰電子財報淨利暴增12倍，但股價仍舊下跌12%",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-06T07:32:01.000Z",
+      "fact": "TradingKey 報導：威騰電子財報淨利暴增12倍，但股價仍舊下跌12%",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；威騰電子財報淨利暴增12倍，但股價仍舊下跌12% &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262081827-western-digital-stock-drop-12-even-earnings-reveal-12-fold-profit-tradingkey"
+    },
+    {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "BE 半導體 Industries N.V. (BESI",
-      "title": "BE 半導體 Industries N.V. (BESI.AS) 股價、新聞、報價和記錄",
-      "originalTitle": "BE Semiconductor Industries N.V. (BESI.AS) 股價、新聞、報價和記錄",
-      "translatedTitle": "BE 半導體 Industries N.V. (BESI.AS) 股價、新聞、報價和記錄",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Yahoo 財經",
-      "publishedAt": "2026-08-06T04:22:21.000Z",
-      "fact": "Yahoo 財經 報導：BE 半導體 Industries N.V. (BESI.AS) 股價、新聞、報價和記錄",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；BE Semiconductor Industries N.V. (BESI.AS) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
+      "subject": "蘋果，站在 AI 繁榮的另一面",
+      "title": "蘋果，站在 AI 繁榮的另一面：完美財報，為何換來近 10% 暴跌？",
+      "originalTitle": "蘋果，站在 AI 繁榮的另一面：完美財報，為何換來近 10% 暴跌？",
+      "translatedTitle": "蘋果，站在 AI 繁榮的另一面：完美財報，為何換來近 10% 暴跌？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "odaily.news",
+      "publishedAt": "2026-08-06T04:15:23.000Z",
+      "fact": "odaily.news 報導：蘋果，站在 AI 繁榮的另一面：完美財報，為何換來近 10% 暴跌？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；蘋果，站在 AI 繁榮的另一面：完美財報，為何換來近 10% 暴跌？ &nbsp;&nbsp; odaily.news。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "semiconductor"
+        "AI"
       ],
-      "url": "https://hk.finance.yahoo.com/quote/BESI.AS/"
+      "url": "https://www.odaily.news/zh-TW/post/5212342"
     }
   ]
 }
