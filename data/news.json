@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T01:27:39.817Z",
+  "generatedAt": "2026-08-07T02:01:19.398Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -32,10 +32,10 @@
       "translatedTitle": "Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "iThome",
+      "source": "ithome.com.tw",
       "publishedAt": "2026-08-06T08:45:52.000Z",
-      "fact": "iThome 報導：Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex &nbsp;&nbsp; iThome。",
+      "fact": "ithome.com.tw 報導：Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex &nbsp;&nbsp; ithome.com.tw。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -52,10 +52,10 @@
       "translatedTitle": "Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "grenade.tw",
+      "source": "Grenade 手榴彈",
       "publishedAt": "2026-08-06T09:15:32.000Z",
-      "fact": "grenade.tw 報導：Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看 &nbsp;&nbsp; grenade.tw。",
+      "fact": "Grenade 手榴彈 報導：Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看 &nbsp;&nbsp; Grenade 手榴彈。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -113,10 +113,10 @@
       "translatedTitle": "數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "全球財經",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "publishedAt": "2026-08-06T14:15:00.000Z",
-      "fact": "moomoo.com 報導：數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告 &nbsp;&nbsp; moomoo.com。",
+      "fact": "Moomoo 報導：數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告 &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經"
@@ -132,10 +132,10 @@
       "translatedTitle": "European 股票 Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong 財報",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "publishedAt": "2026-08-05T15:22:06.000Z",
-      "fact": "moomoo.com 報導：European 股票 Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Stock Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong Earnings &nbsp;&nbsp; moomoo.com。",
+      "fact": "Moomoo 報導：European 股票 Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Stock Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong Earnings &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
