@@ -1,172 +1,148 @@
 {
-  "generatedAt": "2026-08-06T01:21:04.822Z",
+  "generatedAt": "2026-08-07T01:27:39.817Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "AI 財經快訊：Meta, Google, and Samsung release new AI glasses",
-      "originalTitle": "Meta, Google, and Samsung release new AI glasses",
-      "translatedTitle": "AI 財經快訊：Meta, Google, and Samsung release new AI glasses",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "Meta",
+      "title": "Meta的AI模型也突破密閉環境上網入侵其他公司",
+      "originalTitle": "Meta的AI模型也突破密閉環境上網入侵其他公司",
+      "translatedTitle": "Meta的AI模型也突破密閉環境上網入侵其他公司",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "Formosa News",
-      "publishedAt": "2026-08-04T11:56:31.000Z",
-      "fact": "Formosa News 報導：AI 財經快訊：Meta, Google, and Samsung release new AI glasses",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta, Google, and Samsung release new AI glasses &nbsp;&nbsp; Formosa News。",
+      "source": "BBC",
+      "publishedAt": "2026-08-06T06:51:27.000Z",
+      "fact": "BBC 報導：Meta的AI模型也突破密閉環境上網入侵其他公司",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta的AI模型也突破密閉環境上網入侵其他公司 &nbsp;&nbsp; BBC。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
         "Meta",
         "AI"
       ],
-      "url": "https://english.ftvnews.com.tw/news/2026804W06EA"
+      "url": "https://www.bbc.com/zhongwen/articles/ce34wgv4krqo/trad"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "DeepSeek V4",
-      "title": "DeepSeek V4-Flash發表後 定義全球AI「斬殺線」與效能成本新局",
-      "originalTitle": "DeepSeek V4-Flash發表後 定義全球AI「斬殺線」與效能成本新局",
-      "translatedTitle": "DeepSeek V4-Flash發表後 定義全球AI「斬殺線」與效能成本新局",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Meta",
+      "title": "Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
+      "originalTitle": "Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
+      "translatedTitle": "Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "news.cnyes.com",
-      "publishedAt": "2026-08-05T07:50:03.000Z",
-      "fact": "news.cnyes.com 報導：DeepSeek V4-Flash發表後 定義全球AI「斬殺線」與效能成本新局",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；DeepSeek V4-Flash發表後 定義全球AI「斬殺線」與效能成本新局 &nbsp;&nbsp; news.cnyes.com。",
+      "source": "iThome",
+      "publishedAt": "2026-08-06T08:45:52.000Z",
+      "fact": "iThome 報導：Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推出Muse Code程式代理人，以低價挑戰Claude Code與Codex &nbsp;&nbsp; iThome。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "AI"
+        "Meta"
       ],
-      "url": "https://news.cnyes.com/news/id/6560243"
+      "url": "https://www.ithome.com.tw/news/177934"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "白宮建立AI模型安全審查新機制，美國正式啟動Fronti",
-      "title": "白宮建立AI模型安全審查新機制，美國正式啟動Frontier AI治理新階段",
-      "originalTitle": "白宮建立AI模型安全審查新機制，美國正式啟動Frontier AI治理新階段",
-      "translatedTitle": "白宮建立AI模型安全審查新機制，美國正式啟動Frontier AI治理新階段",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Meta",
+      "title": "Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
+      "originalTitle": "Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
+      "translatedTitle": "Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "科技產業資訊室",
-      "publishedAt": "2026-08-04T06:16:53.000Z",
-      "fact": "科技產業資訊室 報導：白宮建立AI模型安全審查新機制，美國正式啟動Frontier AI治理新階段",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；白宮建立AI模型安全審查新機制，美國正式啟動Frontier AI治理新階段 &nbsp;&nbsp; 科技產業資訊室。",
+      "source": "grenade.tw",
+      "publishedAt": "2026-08-06T09:15:32.000Z",
+      "fact": "grenade.tw 報導：Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推出 Muse Spark 1.2 與 Muse Code：Coding、AI Agent 功能、效能與價格一次看 &nbsp;&nbsp; grenade.tw。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Meta",
         "AI"
       ],
-      "url": "https://iknow.stpi.niar.org.tw/Post/Read.aspx?PostID"
+      "url": "https://grenade.tw/blog/meta-muse-spark-1-2-code/"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "連黃仁勳都叫年輕人當水電工！程世嘉",
-      "title": "連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？",
-      "originalTitle": "連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？",
-      "translatedTitle": "連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？",
+      "subject": "AI代理接連失控 「AI教父」示警",
+      "title": "AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現",
+      "originalTitle": "AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現",
+      "translatedTitle": "AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "數位時代",
-      "publishedAt": "2026-08-05T02:03:00.000Z",
-      "fact": "數位時代 報導：連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；連黃仁勳都叫年輕人當水電工！程世嘉：智慧通膨重新定義「有價值的人」到底什麼樣子？ &nbsp;&nbsp; 數位時代。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.bnext.com.tw/article/91733/intelligence-inflation-ai-3-0"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
-      "title": "白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
-      "originalTitle": "白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
-      "translatedTitle": "白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "unwire",
-      "publishedAt": "2026-08-05T07:35:22.000Z",
-      "fact": "unwire 報導：白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；白宮拒測中國開放 AI 模型 業界質疑安全框架選擇性執行 &nbsp;&nbsp; unwire。",
+      "source": "太報 TaiSounds",
+      "publishedAt": "2026-08-06T12:20:42.000Z",
+      "fact": "太報 TaiSounds 報導：AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI代理接連失控 「AI教父」示警：可能有更多惡棍AI出現 &nbsp;&nbsp; 太報 TaiSounds。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://unwire.hk/2026/08/05/whitehouse-no-test-china-openweight-ai/ai/"
+      "url": "https://www.taisounds.com/news/content/84/281811"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem",
+      "originalTitle": "《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "自由時報",
+      "publishedAt": "2026-08-06T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《TAIPEI TIMES》 Taichung government apologizes for AI-generated poster with PRC emblem &nbsp;&nbsp; 自由時報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5531318"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "AIS Business Joins Hands wit",
-      "title": "AIS Business Joins Hands with Huawei 雲端 in MOU to Advance Global 雲端 Capabilities and Intelligent 5G Solutions, Positioning Thailand as an AI-Era Manufacturing Hub",
-      "originalTitle": "AIS Business Joins Hands with Huawei Cloud in MOU to Advance Global Cloud Capabilities and Intelligent 5G Solutions, Positioning Thailand as an AI-Era Manufacturing Hub",
-      "translatedTitle": "AIS Business Joins Hands with Huawei 雲端 in MOU to Advance Global 雲端 Capabilities and Intelligent 5G Solutions, Positioning Thailand as an AI-Era Manufacturing Hub",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "Quamnet",
-      "publishedAt": "2026-08-04T09:00:01.000Z",
-      "fact": "Quamnet 報導：AIS Business Joins Hands with Huawei 雲端 in MOU to Advance Global 雲端 Capabilities and Intelligent 5G Solutions, Positioning Thailand as an AI-Era Manufacturing Hub",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AIS Business Joins Hands with Huawei Cloud in MOU to Advance Global Cloud Capabilities and Intelligent 5G Solutions, Pos。",
+      "subject": "數據中心熱管理市場到2032年將達到$323.8億——M",
+      "title": "數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告",
+      "originalTitle": "數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告",
+      "translatedTitle": "數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "moomoo.com",
+      "publishedAt": "2026-08-06T14:15:00.000Z",
+      "fact": "moomoo.com 報導：數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心熱管理市場到2032年將達到$323.8億——MarketsandMarkets獨家報告 &nbsp;&nbsp; moomoo.com。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經",
-        "AI",
-        "cloud"
+        "全球財經"
       ],
-      "url": "https://www.quamnet.com/post/p4A1XHwEj0qvsUk7sIvXx"
-    },
-    {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "CoreWeave enters Asia's AI c",
-      "title": "CoreWeave enters Asia's AI computing power 'battlefield'! Plans to invest billions of dollars in building three 資料中心 in Indonesia.",
-      "originalTitle": "CoreWeave enters Asia's AI computing power 'battlefield'! Plans to invest billions of dollars in building three data centers in Indonesia.",
-      "translatedTitle": "CoreWeave enters Asia's AI computing power 'battlefield'! Plans to invest billions of dollars in building three 資料中心 in Indonesia.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-04T12:41:00.000Z",
-      "fact": "富途牛牛 報導：CoreWeave enters Asia's AI computing power 'battlefield'! Plans to invest billions of dollars in building three 資料中心 in Indonesia.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；CoreWeave enters Asia's AI computing power 'battlefield'! Plans to invest billions of dollars in building three data cen。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "data center"
-      ],
-      "url": "https://news.futunn.com/en/post/77097326/coreweave-enters-asia-s-ai-computing-power-battlefield-plans-to"
+      "url": "https://www.moomoo.com/hant/news/post/74253023/data-center-thermal-management-market-worth-32-38-billion-by"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Google",
-      "title": "Never Mind AI Spending, This Number Is Boosting 微軟, Google, and Amazon 股票 — Barron’s.com",
-      "originalTitle": "Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks -- Barrons.com",
-      "translatedTitle": "Never Mind AI Spending, This Number Is Boosting 微軟, Google, and Amazon 股票 — Barron’s.com",
+      "subject": "European 股票 Indexes Surge to",
+      "title": "European 股票 Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong 財報",
+      "originalTitle": "European Stock Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong Earnings",
+      "translatedTitle": "European 股票 Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong 財報",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-05T17:56:41.000Z",
-      "fact": "Moomoo 報導：Never Mind AI Spending, This Number Is Boosting 微軟, Google, and Amazon 股票 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Never Mind AI Spending, This Number Is Boosting Microsoft, Google, and Amazon Stocks -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "source": "moomoo.com",
+      "publishedAt": "2026-08-05T15:22:06.000Z",
+      "fact": "moomoo.com 報導：European 股票 Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Stock Indexes Surge to Records as Hormuz Hopes Meet AI Avoidance, Strong Earnings &nbsp;&nbsp; moomoo.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Google",
-        "Microsoft",
         "AI",
-        "stocks"
+        "earnings"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/74167606/never-mind-ai-spending-this-number-is-boosting-microsoft-google"
+      "url": "https://www.moomoo.com/hant/news/post/74155451/european-stock-indexes-surge-to-records-as-hormuz-hopes-meet"
     },
     {
       "id": "美股與全球市場焦點-2",
@@ -194,61 +170,61 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "BingX Unveils 2 Million USDT",
-      "title": "BingX Unveils 2 Million USDT Multi-Asset Trading Campaign Around Today's Most-Watched 市場 Trends",
-      "originalTitle": "BingX Unveils 2 Million USDT Multi-Asset Trading Campaign Around Today's Most-Watched Market Trends",
-      "translatedTitle": "BingX Unveils 2 Million USDT Multi-Asset Trading Campaign Around Today's Most-Watched 市場 Trends",
+      "subject": "SpaceX Loses Thrust After Fi",
+      "title": "SpaceX Loses Thrust After First 財報 Call. What Went Wrong?",
+      "originalTitle": "SpaceX Loses Thrust After First Earnings Call. What Went Wrong?",
+      "translatedTitle": "SpaceX Loses Thrust After First 財報 Call. What Went Wrong?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Quamnet",
-      "publishedAt": "2026-08-05T15:00:00.000Z",
-      "fact": "Quamnet 報導：BingX Unveils 2 Million USDT Multi-Asset Trading Campaign Around Today's Most-Watched 市場 Trends",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；BingX Unveils 2 Million USDT Multi-Asset Trading Campaign Around Today's Most-Watched Market Trends &nbsp;&nbsp; Quamnet。",
+      "source": "TradingView",
+      "publishedAt": "2026-08-05T10:17:30.000Z",
+      "fact": "TradingView 報導：SpaceX Loses Thrust After First 財報 Call. What Went Wrong?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SpaceX Loses Thrust After First Earnings Call. What Went Wrong? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "earnings"
       ],
-      "url": "https://www.quamnet.com/post/Dnrb_2-3qN78WOChUpzS8"
+      "url": "https://tw.tradingview.com/chart/SPCX/jyX9aygm-SpaceX-Loses-Thrust-After-First-Earnings-Call-What-Went-Wrong/"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "【TMGM Financial Recap】 Why I",
-      "title": "【TMGM Financial Recap】 Why Is the U.S. 股票 市場 Actually Healthier Now?",
-      "originalTitle": "【TMGM Financial Recap】 Why Is the U.S. Stock Market Actually Healthier Now?",
-      "translatedTitle": "【TMGM Financial Recap】 Why Is the U.S. 股票 市場 Actually Healthier Now?",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "SpaceX獨家採用輝達晶片帶動股價上漲3.4%，AMD",
+      "title": "SpaceX獨家採用輝達晶片帶動股價上漲3.4%，AMD應聲重挫7.04%",
+      "originalTitle": "SpaceX獨家採用輝達晶片帶動股價上漲3.4%，AMD應聲重挫7.04%",
+      "translatedTitle": "SpaceX獨家採用輝達晶片帶動股價上漲3.4%，AMD應聲重挫7.04%",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TMGM trading",
-      "publishedAt": "2026-08-05T05:28:28.000Z",
-      "fact": "TMGM trading 報導：【TMGM Financial Recap】 Why Is the U.S. 股票 市場 Actually Healthier Now?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【TMGM Financial Recap】 Why Is the U.S. Stock Market Actually Healthier Now? &nbsp;&nbsp; TMGM trading。",
+      "source": "鏈新聞 ABMedia",
+      "publishedAt": "2026-08-06T05:33:02.000Z",
+      "fact": "鏈新聞 ABMedia 報導：SpaceX獨家採用輝達晶片帶動股價上漲3.4%，AMD應聲重挫7.04%",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SpaceX獨家採用輝達晶片帶動股價上漲3.4%，AMD應聲重挫7.04% &nbsp;&nbsp; 鏈新聞 ABMedia。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://www.tmgm.com/cht/analysis/market-insight/why-us-stocks-are-healthier"
+      "url": "https://abmedia.io/nvidia-stock-is-the-big-winner-from-spacex-earnings"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "晟碟財報前瞻",
-      "title": "晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元",
-      "originalTitle": "晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元",
-      "translatedTitle": "晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-08-04T09:44:52.000Z",
-      "fact": "TradingKey 報導：晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；晟碟財報前瞻：華爾街押注AI儲存持續爆發，最高目標價3050美元 &nbsp;&nbsp; TradingKey。",
+      "subject": "BE 半導體 Industries N.V. (BESI",
+      "title": "BE 半導體 Industries N.V. (BESI.AS) 股價、新聞、報價和記錄",
+      "originalTitle": "BE Semiconductor Industries N.V. (BESI.AS) 股價、新聞、報價和記錄",
+      "translatedTitle": "BE 半導體 Industries N.V. (BESI.AS) 股價、新聞、報價和記錄",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "Yahoo 財經",
+      "publishedAt": "2026-08-06T04:22:21.000Z",
+      "fact": "Yahoo 財經 報導：BE 半導體 Industries N.V. (BESI.AS) 股價、新聞、報價和記錄",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；BE Semiconductor Industries N.V. (BESI.AS) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "semiconductor"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262073198-sandisk-earnings-preview-ai-storage-supercycle-3050-top-target-tradingkey"
+      "url": "https://hk.finance.yahoo.com/quote/BESI.AS/"
     }
   ]
 }
