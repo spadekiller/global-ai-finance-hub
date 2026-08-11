@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T22:26:42.056Z",
+  "generatedAt": "2026-08-11T00:49:24.206Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -31,10 +31,10 @@
       "translatedTitle": "市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "iknow.stpi.narl.org.tw",
+      "source": "科技產業資訊室",
       "publishedAt": "2026-08-10T05:52:24.000Z",
-      "fact": "iknow.stpi.narl.org.tw 報導：市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？ &nbsp;&nbsp; iknow.stpi.narl.org.tw。",
+      "fact": "科技產業資訊室 報導：市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？ &nbsp;&nbsp; 科技產業資訊室。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
@@ -46,6 +46,26 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
+      "subject": "DeepMind 前研究員 AI 新創估值達 51 億美",
+      "title": "DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
+      "originalTitle": "DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
+      "translatedTitle": "DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-08-11T00:30:49.000Z",
+      "fact": "TechNews 科技新報 報導：DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://finance.technews.tw/2026/08/11/these-ai-barons-are-ready-to-give-away-their-fortunes/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "DeepMind遭指前沿AI梯隊！拆解Google人才出走潮：優先賣算力賺快錢，是好主意還是無奈之舉？ | 數位時代",
       "originalTitle": "DeepMind遭指前沿AI梯隊！拆解Google人才出走潮：優先賣算力賺快錢，是好主意還是無奈之舉？ | 數位時代",
@@ -53,7 +73,7 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "LINE TODAY",
-      "publishedAt": "2026-08-10T10:08:50.000Z",
+      "publishedAt": "2026-08-10T10:16:55.000Z",
       "fact": "LINE TODAY 報導：DeepMind遭指前沿AI梯隊！拆解Google人才出走潮：優先賣算力賺快錢，是好主意還是無奈之舉？ | 數位時代",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；DeepMind遭指前沿AI梯隊！拆解Google人才出走潮：優先賣算力賺快錢，是好主意還是無奈之舉？ | 數位時代 &nbsp;&nbsp; LINE TODAY。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
@@ -65,7 +85,7 @@
       "url": "https://today.line.me/tw/v3/article/VxRgMWV"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "人工智慧自己找到生命出路？美國推動《AI終止開關法案》關",
       "title": "人工智慧自己找到生命出路？美國推動《AI終止開關法案》關得住AI嗎",
@@ -83,27 +103,6 @@
         "AI"
       ],
       "url": "https://global.udn.com/global_vision/story/8663/9682436"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "AI軍備競賽殺進開源戰場！Meta高調挑戰中國模型、衝擊雲端巨頭商業版圖",
-      "originalTitle": "AI軍備競賽殺進開源戰場！Meta高調挑戰中國模型、衝擊雲端巨頭商業版圖",
-      "translatedTitle": "AI軍備競賽殺進開源戰場！Meta高調挑戰中國模型、衝擊雲端巨頭商業版圖",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-08-10T14:00:29.000Z",
-      "fact": "CMoney投資網誌 報導：AI軍備競賽殺進開源戰場！Meta高調挑戰中國模型、衝擊雲端巨頭商業版圖",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI軍備競賽殺進開源戰場！Meta高調挑戰中國模型、衝擊雲端巨頭商業版圖 &nbsp;&nbsp; CMoney投資網誌。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-d81cc3ed-94c3-11f1-b0c1-aebcd70af14a"
     },
     {
       "id": "全球財經脈動-1",
@@ -154,7 +153,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "Yahoo 財經",
-      "publishedAt": "2026-08-10T04:34:26.000Z",
+      "publishedAt": "2026-08-10T05:44:08.000Z",
       "fact": "Yahoo 財經 報導：Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
