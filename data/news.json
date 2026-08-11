@@ -1,9 +1,50 @@
 {
-  "generatedAt": "2026-08-11T00:49:24.206Z",
+  "generatedAt": "2026-08-11T22:31:48.698Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
+      "title": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
+      "originalTitle": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
+      "translatedTitle": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "BBC",
+      "publishedAt": "2026-08-11T08:47:26.000Z",
+      "fact": "BBC 報導：AI將減少工作時間？科技業員工稱每週工時高達90小時",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI將減少工作時間？科技業員工稱每週工時高達90小時 &nbsp;&nbsp; BBC。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "AI 財經快訊：Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
+      "originalTitle": "Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
+      "translatedTitle": "AI 財經快訊：Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-11T16:06:08.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/77501360/why-open-weight-ai-models-matter-and-meta-benefits-from"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "What is AI model distillatio",
       "title": "What is AI model distillation and why is it becoming a US-China flashpoint? AI模型蒸餾是什麼？為何成為美中科技角力新戰場？",
@@ -23,7 +64,28 @@
       "url": "https://www.taipeitimes.com/News/lang/archives/2026/08/11/2003862261"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務",
+      "originalTitle": "Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務",
+      "translatedTitle": "Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "放言Fount Media",
+      "publishedAt": "2026-08-11T07:23:06.000Z",
+      "fact": "放言Fount Media 報導：Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務 &nbsp;&nbsp; 放言Fount Media。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://www.fountmedia.io/article/412305"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？",
@@ -42,67 +104,6 @@
         "AI"
       ],
       "url": "https://iknow.stpi.narl.org.tw/Post/Read.aspx?PostID"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "DeepMind 前研究員 AI 新創估值達 51 億美",
-      "title": "DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
-      "originalTitle": "DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
-      "translatedTitle": "DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-08-11T00:30:49.000Z",
-      "fact": "TechNews 科技新報 報導：DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；DeepMind 前研究員 AI 新創估值達 51 億美元，承諾未來收益將全數捐做慈善 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://finance.technews.tw/2026/08/11/these-ai-barons-are-ready-to-give-away-their-fortunes/"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "DeepMind遭指前沿AI梯隊！拆解Google人才出走潮：優先賣算力賺快錢，是好主意還是無奈之舉？ | 數位時代",
-      "originalTitle": "DeepMind遭指前沿AI梯隊！拆解Google人才出走潮：優先賣算力賺快錢，是好主意還是無奈之舉？ | 數位時代",
-      "translatedTitle": "DeepMind遭指前沿AI梯隊！拆解Google人才出走潮：優先賣算力賺快錢，是好主意還是無奈之舉？ | 數位時代",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "LINE TODAY",
-      "publishedAt": "2026-08-10T10:16:55.000Z",
-      "fact": "LINE TODAY 報導：DeepMind遭指前沿AI梯隊！拆解Google人才出走潮：優先賣算力賺快錢，是好主意還是無奈之舉？ | 數位時代",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；DeepMind遭指前沿AI梯隊！拆解Google人才出走潮：優先賣算力賺快錢，是好主意還是無奈之舉？ | 數位時代 &nbsp;&nbsp; LINE TODAY。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://today.line.me/tw/v3/article/VxRgMWV"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "人工智慧自己找到生命出路？美國推動《AI終止開關法案》關",
-      "title": "人工智慧自己找到生命出路？美國推動《AI終止開關法案》關得住AI嗎",
-      "originalTitle": "人工智慧自己找到生命出路？美國推動《AI終止開關法案》關得住AI嗎",
-      "translatedTitle": "人工智慧自己找到生命出路？美國推動《AI終止開關法案》關得住AI嗎",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "轉角國際udn Global",
-      "publishedAt": "2026-08-10T09:37:18.000Z",
-      "fact": "轉角國際udn Global 報導：人工智慧自己找到生命出路？美國推動《AI終止開關法案》關得住AI嗎",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；人工智慧自己找到生命出路？美國推動《AI終止開關法案》關得住AI嗎 &nbsp;&nbsp; 轉角國際udn Global。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://global.udn.com/global_vision/story/8663/9682436"
     },
     {
       "id": "全球財經脈動-1",
@@ -124,7 +125,107 @@
       "url": "https://news.futunn.com/hk/post/77420393/data-centre-cooling-market-worth-37-62-billion-by-2033"
     },
     {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "輝達打造了AI大腦，現在台積電想爲它賦予雙眼",
+      "title": "輝達打造了AI大腦，現在台積電想爲它賦予雙眼",
+      "originalTitle": "輝達打造了AI大腦，現在台積電想爲它賦予雙眼",
+      "translatedTitle": "輝達打造了AI大腦，現在台積電想爲它賦予雙眼",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "鉅亨號",
+      "publishedAt": "2026-08-10T20:15:03.000Z",
+      "fact": "鉅亨號 報導：輝達打造了AI大腦，現在台積電想爲它賦予雙眼",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；輝達打造了AI大腦，現在台積電想爲它賦予雙眼 &nbsp;&nbsp; 鉅亨號。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://hao.cnyes.com/post/262820"
+    },
+    {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "GOLDERA EXPLORATION LTD業績日期，",
+      "title": "GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
+      "originalTitle": "GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
+      "translatedTitle": "GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-08-11T15:13:58.000Z",
+      "fact": "Moomoo 報導：GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.moomoo.com/hant/stock/GERAF-US/earnings"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新",
+      "title": "AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新藍海一次看",
+      "originalTitle": "AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新藍海一次看",
+      "translatedTitle": "AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新藍海一次看",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-08-11T10:00:32.000Z",
+      "fact": "TechNews 科技新報 報導：AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新藍海一次看",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新藍海一次看 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://finance.technews.tw/2026/08/11/a-fortune-guide-to-buying-stocks-in-the-data-center-economy/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "CRWV 股票 Ahead of Q2 財報",
+      "title": "CRWV 股票 Ahead of Q2 財報: Buy, Sell, or Wait for the Results?",
+      "originalTitle": "CRWV Stock Ahead of Q2 Earnings: Buy, Sell, or Wait for the Results?",
+      "translatedTitle": "CRWV 股票 Ahead of Q2 財報: Buy, Sell, or Wait for the Results?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-08-10T13:37:00.000Z",
+      "fact": "TradingView 報導：CRWV 股票 Ahead of Q2 財報: Buy, Sell, or Wait for the Results?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；CRWV Stock Ahead of Q2 Earnings: Buy, Sell, or Wait for the Results? &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings"
+      ],
+      "url": "https://tw.tradingview.com/news/zacks:ff10841e9094b:0-crwv-stock-ahead-of-q2-earnings-buy-sell-or-wait-for-the-results/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
+      "title": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
+      "originalTitle": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
+      "translatedTitle": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-11T03:09:51.000Z",
+      "fact": "TradingKey 報導：微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262094479-microsoft-msft-earnings-azure-copilot-ai-valuation-2026-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Inflation Data Will Be the R",
       "title": "Inflation Data Will Be the Real Test for This AI 股票 Rally — Barron’s.com",
@@ -142,83 +243,6 @@
         "AI"
       ],
       "url": "https://news.futunn.com/hk/post/77420008/inflation-data-will-be-the-real-test-for-this-ai"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Palantir Technologies Inc. (",
-      "title": "Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄",
-      "originalTitle": "Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄",
-      "translatedTitle": "Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Yahoo 財經",
-      "publishedAt": "2026-08-10T05:44:08.000Z",
-      "fact": "Yahoo 財經 報導：Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Palantir Technologies Inc. (PLTR) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://hk.finance.yahoo.com/quote/PLTR/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "AKT.B.TO業績日期，業績報告和業績電話會議",
-      "title": "AKT.B.TO業績日期，業績報告和業績電話會議",
-      "originalTitle": "AKT.B.TO業績日期，業績報告和業績電話會議",
-      "translatedTitle": "AKT.B.TO業績日期，業績報告和業績電話會議",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-09T22:44:04.000Z",
-      "fact": "Moomoo 報導：AKT.B.TO業績日期，業績報告和業績電話會議",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AKT.B.TO業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.moomoo.com/hant/stock/AKT.B.TO-US/earnings"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "AI對沖基金崩潰後，晶片股下跌29%，但市場視為買入機會",
-      "title": "AI對沖基金崩潰後，晶片股下跌29%，但市場視為買入機會",
-      "originalTitle": "AI對沖基金崩潰後，晶片股下跌29%，但市場視為買入機會",
-      "translatedTitle": "AI對沖基金崩潰後，晶片股下跌29%，但市場視為買入機會",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "KuCoin",
-      "publishedAt": "2026-08-10T08:03:01.000Z",
-      "fact": "KuCoin 報導：AI對沖基金崩潰後，晶片股下跌29%，但市場視為買入機會",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI對沖基金崩潰後，晶片股下跌29%，但市場視為買入機會 &nbsp;&nbsp; KuCoin。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.kucoin.com/zh-hant/news/flash/chip-stocks-drop-29-after-ai-hedge-fund-collapse-but-market-sees-buying-opportunity"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "【美股盤前】蘋果評等遭下調，波克夏財報受關注，商業航太股",
-      "title": "【美股盤前】蘋果評等遭下調，波克夏財報受關注，商業航太股盤前上漲，RKLB與ASTS迎財報催化",
-      "originalTitle": "【美股盤前】蘋果評等遭下調，波克夏財報受關注，商業航太股盤前上漲，RKLB與ASTS迎財報催化",
-      "translatedTitle": "【美股盤前】蘋果評等遭下調，波克夏財報受關注，商業航太股盤前上漲，RKLB與ASTS迎財報催化",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-08-10T12:05:29.000Z",
-      "fact": "TradingKey 報導：【美股盤前】蘋果評等遭下調，波克夏財報受關注，商業航太股盤前上漲，RKLB與ASTS迎財報催化",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【美股盤前】蘋果評等遭下調，波克夏財報受關注，商業航太股盤前上漲，RKLB與ASTS迎財報催化 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262092534-us-stock-pre-market-aapl-berkshire-hathaway-earnings-report-rklb-aasts-earnings-reports-tradingkey"
     }
   ]
 }
