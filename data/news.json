@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-08-11T22:31:48.698Z",
+  "generatedAt": "2026-08-12T00:56:04.572Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "2026 年 AI 智慧眼鏡生態卡位戰",
+      "title": "2026 年 AI 智慧眼鏡生態卡位戰：全球路線分化與台灣廠商供應鏈機會擴大",
+      "originalTitle": "2026 年 AI 智慧眼鏡生態卡位戰：全球路線分化與台灣廠商供應鏈機會擴大",
+      "translatedTitle": "2026 年 AI 智慧眼鏡生態卡位戰：全球路線分化與台灣廠商供應鏈機會擴大",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-08-11T23:01:45.000Z",
+      "fact": "TechNews 科技新報 報導：2026 年 AI 智慧眼鏡生態卡位戰：全球路線分化與台灣廠商供應鏈機會擴大",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；2026 年 AI 智慧眼鏡生態卡位戰：全球路線分化與台灣廠商供應鏈機會擴大 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/08/12/2026-ai-smart-glasses-ecosystem-positioning-battle/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
       "title": "AI將減少工作時間？科技業員工稱每週工時高達90小時",
@@ -12,7 +32,7 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "BBC",
-      "publishedAt": "2026-08-11T08:47:26.000Z",
+      "publishedAt": "2026-08-11T08:47:22.000Z",
       "fact": "BBC 報導：AI將減少工作時間？科技業員工稱每週工時高達90小時",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI將減少工作時間？科技業員工稱每週工時高達90小時 &nbsp;&nbsp; BBC。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
@@ -20,31 +40,31 @@
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "AI 財經快訊：Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
-      "originalTitle": "Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
-      "translatedTitle": "AI 財經快訊：Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-11T16:06:08.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/hk/post/77501360/why-open-weight-ai-models-matter-and-meta-benefits-from"
+      "url": "https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad.amp"
     },
     {
       "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI 以 Astra 攻克長年難題 人類數學家角色面臨重塑",
+      "originalTitle": "OpenAI 以 Astra 攻克長年難題 人類數學家角色面臨重塑",
+      "translatedTitle": "OpenAI 以 Astra 攻克長年難題 人類數學家角色面臨重塑",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "unwire PRO",
+      "publishedAt": "2026-08-11T23:49:43.000Z",
+      "fact": "unwire PRO 報導：OpenAI 以 Astra 攻克長年難題 人類數學家角色面臨重塑",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 以 Astra 攻克長年難題 人類數學家角色面臨重塑 &nbsp;&nbsp; unwire PRO。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://unwire.pro/2026/08/12/openai-astra-math-ai/news/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "What is AI model distillatio",
       "title": "What is AI model distillation and why is it becoming a US-China flashpoint? AI模型蒸餾是什麼？為何成為美中科技角力新戰場？",
@@ -64,46 +84,25 @@
       "url": "https://www.taipeitimes.com/News/lang/archives/2026/08/11/2003862261"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Meta",
-      "title": "Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務",
-      "originalTitle": "Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務",
-      "translatedTitle": "Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務",
+      "title": "AI 財經快訊：Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
+      "originalTitle": "Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
+      "translatedTitle": "AI 財經快訊：Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "放言Fount Media",
-      "publishedAt": "2026-08-11T07:23:06.000Z",
-      "fact": "放言Fount Media 報導：Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推出開放權重AI模型Muse Glimmer 單張GPU也能執行代理任務 &nbsp;&nbsp; 放言Fount Media。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "category": "前沿模型",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-08-11T16:06:08.000Z",
+      "fact": "news.futunn.com 報導：AI 財經快訊：Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why Open-Weight AI Models Matter and Meta Benefits From Them -- WSJ &nbsp;&nbsp; news.futunn.com。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "Meta",
         "AI"
       ],
-      "url": "https://www.fountmedia.io/article/412305"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？",
-      "originalTitle": "市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？",
-      "translatedTitle": "市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "科技產業資訊室",
-      "publishedAt": "2026-08-10T05:52:24.000Z",
-      "fact": "科技產業資訊室 報導：市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；市場報導： OpenAI預計將推出甜甜圈外型之AI智慧音箱，能撼動智慧型手機市場嗎？ &nbsp;&nbsp; 科技產業資訊室。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://iknow.stpi.narl.org.tw/Post/Read.aspx?PostID"
+      "url": "https://news.futunn.com/hk/post/77501360/why-open-weight-ai-models-matter-and-meta-benefits-from"
     },
     {
       "id": "全球財經脈動-1",
@@ -114,10 +113,10 @@
       "translatedTitle": "數據中心冷卻市場到2033年將達到$376.2億——MarketsandMarkets獨家報告",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "全球財經",
-      "source": "富途牛牛",
+      "source": "news.futunn.com",
       "publishedAt": "2026-08-10T10:59:00.000Z",
-      "fact": "富途牛牛 報導：數據中心冷卻市場到2033年將達到$376.2億——MarketsandMarkets獨家報告",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心冷卻市場到2033年將達到$376.2億——MarketsandMarkets獨家報告 &nbsp;&nbsp; 富途牛牛。",
+      "fact": "news.futunn.com 報導：數據中心冷卻市場到2033年將達到$376.2億——MarketsandMarkets獨家報告",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心冷卻市場到2033年將達到$376.2億——MarketsandMarkets獨家報告 &nbsp;&nbsp; news.futunn.com。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經"
@@ -147,25 +146,6 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "GOLDERA EXPLORATION LTD業績日期，",
-      "title": "GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
-      "originalTitle": "GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
-      "translatedTitle": "GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-11T15:13:58.000Z",
-      "fact": "Moomoo 報導：GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.moomoo.com/hant/stock/GERAF-US/earnings"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
       "subject": "AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新",
       "title": "AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新藍海一次看",
       "originalTitle": "AI 資料中心建設狂潮！從晶片設備到電力散熱，下檔投資新藍海一次看",
@@ -184,7 +164,46 @@
       "url": "https://finance.technews.tw/2026/08/11/a-fortune-guide-to-buying-stocks-in-the-data-center-economy/"
     },
     {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "CoreWeave 股價勁揚 11%，第二季營收翻倍受惠",
+      "title": "CoreWeave 股價勁揚 11%，第二季營收翻倍受惠 AI 熱潮",
+      "originalTitle": "CoreWeave 股價勁揚 11%，第二季營收翻倍受惠 AI 熱潮",
+      "translatedTitle": "CoreWeave 股價勁揚 11%，第二季營收翻倍受惠 AI 熱潮",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "Yellow.com",
+      "publishedAt": "2026-08-11T21:39:40.000Z",
+      "fact": "Yellow.com 報導：CoreWeave 股價勁揚 11%，第二季營收翻倍受惠 AI 熱潮",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；CoreWeave 股價勁揚 11%，第二季營收翻倍受惠 AI 熱潮 &nbsp;&nbsp; Yellow.com。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://yellow.com/zh-tw/news/coreweave-%E8%82%A1%E5%83%B9%E5%8B%81%E6%8F%9A-11%EF%BC%8C%E7%AC%AC%E4%BA%8C%E5%AD%A3%E7%87%9F%E6%94%B6%E7%BF%BB%E5%80%8D%E5%8F%97%E6%83%A0-ai-%E7%86%B1%E6%BD%AE"
+    },
+    {
       "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "GOLDERA EXPLORATION LTD業績日期，",
+      "title": "GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
+      "originalTitle": "GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
+      "translatedTitle": "GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-08-11T15:13:58.000Z",
+      "fact": "Moomoo 報導：GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GOLDERA EXPLORATION LTD業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.moomoo.com/hant/stock/GERAF-US/earnings"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "CRWV 股票 Ahead of Q2 財報",
       "title": "CRWV 股票 Ahead of Q2 財報: Buy, Sell, or Wait for the Results?",
@@ -205,7 +224,7 @@
       "url": "https://tw.tradingview.com/news/zacks:ff10841e9094b:0-crwv-stock-ahead-of-q2-earnings-buy-sell-or-wait-for-the-results/"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
       "title": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
@@ -223,26 +242,6 @@
         "AI"
       ],
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262094479-microsoft-msft-earnings-azure-copilot-ai-valuation-2026-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Inflation Data Will Be the R",
-      "title": "Inflation Data Will Be the Real Test for This AI 股票 Rally — Barron’s.com",
-      "originalTitle": "Inflation Data Will Be the Real Test for This AI Stock Rally -- Barrons.com",
-      "translatedTitle": "Inflation Data Will Be the Real Test for This AI 股票 Rally — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-10T10:58:00.000Z",
-      "fact": "富途牛牛 報導：Inflation Data Will Be the Real Test for This AI 股票 Rally — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Inflation Data Will Be the Real Test for This AI Stock Rally -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/hk/post/77420008/inflation-data-will-be-the-real-test-for-this-ai"
     }
   ]
 }
