@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T22:31:13.505Z",
+  "generatedAt": "2026-08-14T00:57:19.902Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -32,10 +32,10 @@
       "translatedTitle": "Google Pixel 11搭載Gemini AI 智慧預訂、購物功能一次到位",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "Yahoo股市",
+      "source": "tw.stock.yahoo.com",
       "publishedAt": "2026-08-13T01:58:06.000Z",
-      "fact": "Yahoo股市 報導：Google Pixel 11搭載Gemini AI 智慧預訂、購物功能一次到位",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Pixel 11搭載Gemini AI 智慧預訂、購物功能一次到位 &nbsp;&nbsp; Yahoo股市。",
+      "fact": "tw.stock.yahoo.com 報導：Google Pixel 11搭載Gemini AI 智慧預訂、購物功能一次到位",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Pixel 11搭載Gemini AI 智慧預訂、購物功能一次到位 &nbsp;&nbsp; tw.stock.yahoo.com。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -47,21 +47,23 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "記憶體成本壓力大！谷歌Pixel 11新機漲100美元 ",
-      "title": "記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」",
-      "originalTitle": "記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」",
-      "translatedTitle": "記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "Anthropic",
+      "title": "Anthropic為生成內容嵌標記 秒測是否AI手筆",
+      "originalTitle": "Anthropic為生成內容嵌標記 秒測是否AI手筆",
+      "translatedTitle": "Anthropic為生成內容嵌標記 秒測是否AI手筆",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "news.cnyes.com",
-      "publishedAt": "2026-08-13T04:30:07.000Z",
-      "fact": "news.cnyes.com 報導：記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」 &nbsp;&nbsp; news.cnyes.com。",
+      "source": "rti.org.tw",
+      "publishedAt": "2026-08-13T04:44:38.000Z",
+      "fact": "rti.org.tw 報導：Anthropic為生成內容嵌標記 秒測是否AI手筆",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic為生成內容嵌標記 秒測是否AI手筆 &nbsp;&nbsp; rti.org.tw。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "Anthropic",
+        "AI"
       ],
-      "url": "https://news.cnyes.com/news/id/6574920"
+      "url": "https://www.rti.org.tw/news?uid"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -86,22 +88,21 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "AI代理新案例",
-      "title": "AI代理新案例：入侵健身中心系統替「主人」預約課堂",
-      "originalTitle": "AI代理新案例：入侵健身中心系統替「主人」預約課堂",
-      "translatedTitle": "AI代理新案例：入侵健身中心系統替「主人」預約課堂",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "bbc.com",
-      "publishedAt": "2026-08-13T01:42:35.000Z",
-      "fact": "bbc.com 報導：AI代理新案例：入侵健身中心系統替「主人」預約課堂",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI代理新案例：入侵健身中心系統替「主人」預約課堂 &nbsp;&nbsp; bbc.com。",
+      "subject": "記憶體成本壓力大！谷歌Pixel 11新機漲100美元 ",
+      "title": "記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」",
+      "originalTitle": "記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」",
+      "translatedTitle": "記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "news.cnyes.com",
+      "publishedAt": "2026-08-13T04:30:07.000Z",
+      "fact": "news.cnyes.com 報導：記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；記憶體成本壓力大！谷歌Pixel 11新機漲100美元 容量256GB起步 主打「Gemini Intelligence」 &nbsp;&nbsp; news.cnyes.com。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://www.bbc.com/zhongwen/articles/cddjp613mvdo/trad"
+      "url": "https://news.cnyes.com/news/id/6574920"
     },
     {
       "id": "全球財經脈動-1",
@@ -123,26 +124,6 @@
         "data center"
       ],
       "url": "https://www.moomoo.com/hant/news/post/74645490/ai-s-biggest-energy-impact-might-be-in-the-oil"
-    },
-    {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Major Announcement from Shanghai! Focus on AI Computing Power and These Key Sub-sectors",
-      "originalTitle": "Major Announcement from Shanghai! Focus on AI Computing Power and These Key Sub-sectors",
-      "translatedTitle": "AI 財經快訊：Major Announcement from Shanghai! Focus on AI Computing Power and These Key Sub-sectors",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-11T23:07:00.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Major Announcement from Shanghai! Focus on AI Computing Power and These Key Sub-sectors",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Major Announcement from Shanghai! Focus on AI Computing Power and These Key Sub-sectors &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/77512604/major-announcement-from-shanghai-focus-on-ai-computing-power-and"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -168,6 +149,25 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "GREEN TEA GROUP LTD業績日期，業績報告",
+      "title": "GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議",
+      "originalTitle": "GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議",
+      "translatedTitle": "GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-08-12T06:52:40.000Z",
+      "fact": "Moomoo 報導：GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.moomoo.com/hant/stock/GRTGF-US/earnings"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "[美股投資指南] AI 算力財報季",
       "title": "[美股投資指南] AI 算力財報季：AMD、英特爾與 SMCI 同步發布——誰將主宰 AI 算力？",
       "originalTitle": "[美股投資指南] AI 算力財報季：AMD、英特爾與 SMCI 同步發布——誰將主宰 AI 算力？",
@@ -184,25 +184,6 @@
         "AI"
       ],
       "url": "https://www.mexc.com/zh-TW/learn/article/-u-s-stocks-investment-guide-ai-computing-power-earnings-season-amd-intel-and-smci-report-together-who-will-dominate/1"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "GREEN TEA GROUP LTD業績日期，業績報告",
-      "title": "GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議",
-      "originalTitle": "GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議",
-      "translatedTitle": "GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-12T06:52:40.000Z",
-      "fact": "Moomoo 報導：GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GREEN TEA GROUP LTD業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.moomoo.com/hant/stock/GRTGF-US/earnings"
     },
     {
       "id": "美股與全球市場焦點-4",
