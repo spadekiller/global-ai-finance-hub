@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T22:10:47.604Z",
+  "generatedAt": "2026-08-16T00:34:07.646Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,6 +26,26 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術",
+      "title": "傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援",
+      "originalTitle": "傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援",
+      "translatedTitle": "傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "Yellow.com",
+      "publishedAt": "2026-08-15T19:07:52.000Z",
+      "fact": "Yellow.com 報導：傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援 &nbsp;&nbsp; Yellow.com。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://yellow.com/zh-tw/news/%E5%82%B3%E8%98%8B%E6%9E%9C%E8%87%AA%E7%A0%94%E4%B8%AD%E5%9C%8B%E7%89%88-ai-%E5%A4%A7%E6%A8%A1%E5%9E%8B-%E7%8D%B2%E5%8C%97%E4%BA%AC%E6%94%BE%E8%A1%8C%E3%80%81%E9%98%BF%E9%87%8C%E4%BD%8E%E8%AA%BF%E6%8A%80%E8%A1%93%E5%A5%A7%E6%8F%B4"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "紐時賞析／打不贏AI 穿搭總贏吧| 放學微素養| 文教",
       "title": "紐時賞析／打不贏AI 穿搭總贏吧| 放學微素養| 文教",
       "originalTitle": "紐時賞析／打不贏AI 穿搭總贏吧| 放學微素養| 文教",
@@ -42,27 +62,6 @@
         "AI"
       ],
       "url": "https://udn.com/news/story/6904/9692583"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Apple",
-      "title": "蘋果獲阿里巴巴低調助攻 自研中國版AI模型 為「Apple Intelligence」登陸內地鋪路",
-      "originalTitle": "蘋果獲阿里巴巴低調助攻 自研中國版AI模型 為「Apple Intelligence」登陸內地鋪路",
-      "translatedTitle": "蘋果獲阿里巴巴低調助攻 自研中國版AI模型 為「Apple Intelligence」登陸內地鋪路",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Yellow.com",
-      "publishedAt": "2026-08-15T19:07:42.000Z",
-      "fact": "Yellow.com 報導：蘋果獲阿里巴巴低調助攻 自研中國版AI模型 為「Apple Intelligence」登陸內地鋪路",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果獲阿里巴巴低調助攻 自研中國版AI模型 為「Apple Intelligence」登陸內地鋪路 &nbsp;&nbsp; Yellow.com。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Apple",
-        "AI"
-      ],
-      "url": "https://yellow.com/zh-hk/news/%E8%98%8B%E6%9E%9C%E7%8D%B2%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4%E4%BD%8E%E8%AA%BF%E5%8A%A9%E6%94%BB-%E8%87%AA%E7%A0%94%E4%B8%AD%E5%9C%8B%E7%89%88ai%E6%A8%A1%E5%9E%8B-%E7%82%BA%E3%80%8Capple-intelligence%E3%80%8D%E7%99%BB%E9%99%B8%E5%85%A7%E5%9C%B0%E9%8B%AA%E8%B7%AF"
     },
     {
       "id": "ai-與科技前沿-4",
