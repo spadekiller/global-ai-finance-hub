@@ -1,131 +1,152 @@
 {
-  "generatedAt": "2026-08-16T00:34:07.646Z",
+  "generatedAt": "2026-08-16T22:11:04.991Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic驚爆「Model 2」新模型！性能超越Mythos 5、AI風險評估卻陷「飽和」危機",
-      "originalTitle": "Anthropic驚爆「Model 2」新模型！性能超越Mythos 5、AI風險評估卻陷「飽和」危機",
-      "translatedTitle": "Anthropic驚爆「Model 2」新模型！性能超越Mythos 5、AI風險評估卻陷「飽和」危機",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "OpenAI",
+      "title": "【科技早餐】OpenAI 年化營收估破400 億美元、Anthropic 單季營收達去年14 倍，美國擬要求AI 夥伴選邊",
+      "originalTitle": "【科技早餐】OpenAI 年化營收估破400 億美元、Anthropic 單季營收達去年14 倍，美國擬要求AI 夥伴選邊",
+      "translatedTitle": "【科技早餐】OpenAI 年化營收估破400 億美元、Anthropic 單季營收達去年14 倍，美國擬要求AI 夥伴選邊",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "news.cnyes.com",
-      "publishedAt": "2026-08-15T11:10:03.000Z",
-      "fact": "news.cnyes.com 報導：Anthropic驚爆「Model 2」新模型！性能超越Mythos 5、AI風險評估卻陷「飽和」危機",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic驚爆「Model 2」新模型！性能超越Mythos 5、AI風險評估卻陷「飽和」危機 &nbsp;&nbsp; news.cnyes.com。",
+      "source": "TechOrange 科技報橘",
+      "publishedAt": "2026-08-16T21:30:00.000Z",
+      "fact": "TechOrange 科技報橘 報導：【科技早餐】OpenAI 年化營收估破400 億美元、Anthropic 單季營收達去年14 倍，美國擬要求AI 夥伴選邊",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【科技早餐】OpenAI 年化營收估破400 億美元、Anthropic 單季營收達去年14 倍，美國擬要求AI 夥伴選邊 &nbsp;&nbsp; TechOrange 科技報橘。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
+        "OpenAI",
         "Anthropic",
         "AI"
       ],
-      "url": "https://news.cnyes.com/news/id/6577950"
+      "url": "https://techorange.com/2026/08/17/openai-anthropic-revenue-us-china-ai-alliance/"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術",
-      "title": "傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援",
-      "originalTitle": "傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援",
-      "translatedTitle": "傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Yellow.com",
-      "publishedAt": "2026-08-15T19:07:52.000Z",
-      "fact": "Yellow.com 報導：傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；傳蘋果自研中國版 AI 大模型 獲北京放行、阿里低調技術奧援 &nbsp;&nbsp; Yellow.com。",
+      "subject": "Anthropic",
+      "title": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "originalTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "translatedTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-16T19:06:02.000Z",
+      "fact": "TradingKey 報導：Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "AI"
+        "Anthropic"
       ],
-      "url": "https://yellow.com/zh-tw/news/%E5%82%B3%E8%98%8B%E6%9E%9C%E8%87%AA%E7%A0%94%E4%B8%AD%E5%9C%8B%E7%89%88-ai-%E5%A4%A7%E6%A8%A1%E5%9E%8B-%E7%8D%B2%E5%8C%97%E4%BA%AC%E6%94%BE%E8%A1%8C%E3%80%81%E9%98%BF%E9%87%8C%E4%BD%8E%E8%AA%BF%E6%8A%80%E8%A1%93%E5%A5%A7%E6%8F%B4"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/261951082-anthropic-ipo-claude-ai-tradingkey"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "紐時賞析／打不贏AI 穿搭總贏吧| 放學微素養| 文教",
-      "title": "紐時賞析／打不贏AI 穿搭總贏吧| 放學微素養| 文教",
-      "originalTitle": "紐時賞析／打不贏AI 穿搭總贏吧| 放學微素養| 文教",
-      "translatedTitle": "紐時賞析／打不贏AI 穿搭總贏吧| 放學微素養| 文教",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "AI glasses for foodies",
+      "title": "AI glasses for foodies: 股價 your latest restaurant finds",
+      "originalTitle": "AI glasses for foodies: Share your latest restaurant finds",
+      "translatedTitle": "AI glasses for foodies: 股價 your latest restaurant finds",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "UDN",
-      "publishedAt": "2026-08-14T16:00:00.000Z",
-      "fact": "UDN 報導：紐時賞析／打不贏AI 穿搭總贏吧| 放學微素養| 文教",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；紐時賞析／打不贏AI 穿搭總贏吧| 放學微素養| 文教 &nbsp;&nbsp; UDN。",
+      "source": "meta.com",
+      "publishedAt": "2026-08-15T20:26:07.000Z",
+      "fact": "meta.com 報導：AI glasses for foodies: 股價 your latest restaurant finds",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI glasses for foodies: Share your latest restaurant finds &nbsp;&nbsp; meta.com。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://udn.com/news/story/6904/9692583"
+      "url": "https://www.meta.com/tw/ai-glasses/learn/ai-glasses-restaurants-foodies/"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
+      "subject": "中英對照讀新聞》US officials threate",
+      "title": "中英對照讀新聞》US officials threaten to sanction Chinese AI startups after Moonshot release 中國AI新創公司月之暗面釋出AI模型後，美國官員威脅要制裁",
+      "originalTitle": "中英對照讀新聞》US officials threaten to sanction Chinese AI startups after Moonshot release 中國AI新創公司月之暗面釋出AI模型後，美國官員威脅要制裁",
+      "translatedTitle": "中英對照讀新聞》US officials threaten to sanction Chinese AI startups after Moonshot release 中國AI新創公司月之暗面釋出AI模型後，美國官員威脅要制裁",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "自由時報",
+      "publishedAt": "2026-08-16T21:30:00.000Z",
+      "fact": "自由時報 報導：中英對照讀新聞》US officials threaten to sanction Chinese AI startups after Moonshot release 中國AI新創公司月之暗面釋出AI模型後，美國官員威脅要制裁",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；中英對照讀新聞》US officials threaten to sanction Chinese AI startups after Moonshot release 中國AI新創公司月之暗面釋出AI模型後，美國官員威脅要制裁 &nbsp。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://features.ltn.com.tw/english/article/paper/1766917"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
       "subject": "Apple",
-      "title": "Apple 傳為中國市場自訓 AI 模型！阿里巴巴協助訓練，與千問分工仍未明",
-      "originalTitle": "Apple 傳為中國市場自訓 AI 模型！阿里巴巴協助訓練，與千問分工仍未明",
-      "translatedTitle": "Apple 傳為中國市場自訓 AI 模型！阿里巴巴協助訓練，與千問分工仍未明",
+      "title": "Apple 蘋果傳出砸數億美元買新聞內容！Siri AI 將直接取得即時新聞，避免再出現假新聞",
+      "originalTitle": "Apple 蘋果傳出砸數億美元買新聞內容！Siri AI 將直接取得即時新聞，避免再出現假新聞",
+      "translatedTitle": "Apple 蘋果傳出砸數億美元買新聞內容！Siri AI 將直接取得即時新聞，避免再出現假新聞",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "inside.com.tw",
-      "publishedAt": "2026-08-14T10:09:07.000Z",
-      "fact": "inside.com.tw 報導：Apple 傳為中國市場自訓 AI 模型！阿里巴巴協助訓練，與千問分工仍未明",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple 傳為中國市場自訓 AI 模型！阿里巴巴協助訓練，與千問分工仍未明 &nbsp;&nbsp; inside.com.tw。",
+      "source": "三嘻行動哇 Yipee!",
+      "publishedAt": "2026-08-16T11:13:25.000Z",
+      "fact": "三嘻行動哇 Yipee! 報導：Apple 蘋果傳出砸數億美元買新聞內容！Siri AI 將直接取得即時新聞，避免再出現假新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple 蘋果傳出砸數億美元買新聞內容！Siri AI 將直接取得即時新聞，避免再出現假新聞 &nbsp;&nbsp; 三嘻行動哇 Yipee!。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Apple",
         "AI"
       ],
-      "url": "https://www.inside.com.tw/article/42087-apple-trains-its-own-ai-model-china-market-with-alibabas-support-sources-say-reuters"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "中國式審查正滲入美國AI模型 相關公司改善意願低",
-      "title": "中國式審查正滲入美國AI模型 相關公司改善意願低",
-      "originalTitle": "中國式審查正滲入美國AI模型 相關公司改善意願低",
-      "translatedTitle": "中國式審查正滲入美國AI模型 相關公司改善意願低",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "rti.org.tw",
-      "publishedAt": "2026-08-14T03:18:58.000Z",
-      "fact": "rti.org.tw 報導：中國式審查正滲入美國AI模型 相關公司改善意願低",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；中國式審查正滲入美國AI模型 相關公司改善意願低 &nbsp;&nbsp; rti.org.tw。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.rti.org.tw/news?uid"
+      "url": "https://3c.yipee.cc/349375/apple-%E8%98%8B%E6%9E%9C%E5%82%B3%E5%87%BA%E7%A0%B8%E6%95%B8%E5%84%84%E7%BE%8E%E5%85%83%E8%B2%B7%E6%96%B0%E8%81%9E%E5%85%A7%E5%AE%B9%EF%BC%81siri-ai-%E5%B0%87%E7%9B%B4%E6%8E%A5%E5%8F%96%E5%BE%97/"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：UBS Group: The U.S. industrial recovery is expanding from AI to broader sectors, revealing the list of \"winners\"",
-      "originalTitle": "UBS Group: The U.S. industrial recovery is expanding from AI to broader sectors, revealing the list of \"winners\"",
-      "translatedTitle": "AI 財經快訊：UBS Group: The U.S. industrial recovery is expanding from AI to broader sectors, revealing the list of \"winners\"",
+      "subject": "AI \"Chip Inflation\" Sweeps T",
+      "title": "AI \"Chip Inflation\" Sweeps Through the UK 經濟",
+      "originalTitle": "AI \"Chip Inflation\" Sweeps Through the UK Economy",
+      "translatedTitle": "AI \"Chip Inflation\" Sweeps Through the UK 經濟",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
+      "category": "AI 晶片",
       "source": "富途牛牛",
-      "publishedAt": "2026-08-14T05:01:35.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：UBS Group: The U.S. industrial recovery is expanding from AI to broader sectors, revealing the list of \"winners\"",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；UBS Group: The U.S. industrial recovery is expanding from AI to broader sectors, revealing the list of \"winners\" &nbsp;&。",
+      "publishedAt": "2026-08-16T07:30:43.000Z",
+      "fact": "富途牛牛 報導：AI \"Chip Inflation\" Sweeps Through the UK 經濟",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI \"Chip Inflation\" Sweeps Through the UK Economy &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://news.futunn.com/en/post/77666800/ubs-group-the-us-industrial-recovery-is-expanding-from-ai"
+      "url": "https://news.futunn.com/en/post/77732081/ai-chip-inflation-sweeps-through-the-uk-economy"
     },
     {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "博通股價預測",
+      "title": "博通股價預測：AI客製化晶片需求強勁，財報前能否突破500美元？",
+      "originalTitle": "博通股價預測：AI客製化晶片需求強勁，財報前能否突破500美元？",
+      "translatedTitle": "博通股價預測：AI客製化晶片需求強勁，財報前能否突破500美元？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-16T12:06:08.000Z",
+      "fact": "TradingKey 報導：博通股價預測：AI客製化晶片需求強勁，財報前能否突破500美元？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；博通股價預測：AI客製化晶片需求強勁，財報前能否突破500美元？ &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262110012-broadcom-stock-price-forecast-ai-custom-chips-earnings-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "[美股投資指南] AI 算力財報季",
       "title": "[美股投資指南] AI 算力財報季：AMD、英特爾與 SMCI 同步發布——誰將主宰 AI 算力？",
@@ -145,85 +166,63 @@
       "url": "https://www.mexc.com/zh-TW/learn/article/-u-s-stocks-investment-guide-ai-computing-power-earnings-season-amd-intel-and-smci-report-together-who-will-dominate/1"
     },
     {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Corgi Lithography & 半導體 Phot",
-      "title": "Corgi Lithography & 半導體 Photonics ETF(EUV)股價、新聞、報價和圖表",
-      "originalTitle": "Corgi Lithography & Semiconductor Photonics ETF(EUV)股價、新聞、報價和圖表",
-      "translatedTitle": "Corgi Lithography & 半導體 Photonics ETF(EUV)股價、新聞、報價和圖表",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-14T05:32:19.000Z",
-      "fact": "Moomoo 報導：Corgi Lithography & 半導體 Photonics ETF(EUV)股價、新聞、報價和圖表",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Corgi Lithography & Semiconductor Photonics ETF(EUV)股價、新聞、報價和圖表 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "semiconductor"
-      ],
-      "url": "https://www.moomoo.com/hant/stock/EUV-US?chain_id"
-    },
-    {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "VanEck 半導體 ETF (SMH)",
-      "title": "VanEck 半導體 ETF (SMH)",
-      "originalTitle": "VanEck Semiconductor ETF (SMH)",
-      "translatedTitle": "VanEck 半導體 ETF (SMH)",
+      "subject": "輝達 (NVDA) Business Data & St",
+      "title": "輝達 (NVDA) Business Data & Statistics",
+      "originalTitle": "NVIDIA (NVDA) Business Data & Statistics",
+      "translatedTitle": "輝達 (NVDA) Business Data & Statistics",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 晶片",
       "source": "Moomoo",
-      "publishedAt": "2026-08-14T16:57:21.000Z",
-      "fact": "Moomoo 報導：VanEck 半導體 ETF (SMH)",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；VanEck Semiconductor ETF (SMH) &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-08-15T08:20:18.000Z",
+      "fact": "Moomoo 報導：輝達 (NVDA) Business Data & Statistics",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVIDIA (NVDA) Business Data & Statistics &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "semiconductor"
+        "Nvidia"
       ],
-      "url": "https://www.moomoo.com/etfs/SMH-US/news?chain_id"
+      "url": "https://www.moomoo.com/stock/NVDA-US/business-statistics?chain_id"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "JPMorgan Raises 微軟 (MSFT.US)",
-      "title": "JPMorgan Raises 微軟 (MSFT.US) Price Target to $625, Citing Accelerated Growth Driven by AI Infrastructure and Copilot",
-      "originalTitle": "JPMorgan Raises Microsoft (MSFT.US) Price Target to $625, Citing Accelerated Growth Driven by AI Infrastructure and Copilot",
-      "translatedTitle": "JPMorgan Raises 微軟 (MSFT.US) Price Target to $625, Citing Accelerated Growth Driven by AI Infrastructure and Copilot",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "一週前瞻",
+      "title": "一週前瞻：聯準會會議紀要來襲，沃爾瑪，Target與家得寶財報檢驗美國消費韌性",
+      "originalTitle": "一週前瞻：聯準會會議紀要來襲，沃爾瑪，Target與家得寶財報檢驗美國消費韌性",
+      "translatedTitle": "一週前瞻：聯準會會議紀要來襲，沃爾瑪，Target與家得寶財報檢驗美國消費韌性",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-14T20:12:28.000Z",
-      "fact": "富途牛牛 報導：JPMorgan Raises 微軟 (MSFT.US) Price Target to $625, Citing Accelerated Growth Driven by AI Infrastructure and Copilot",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；JPMorgan Raises Microsoft (MSFT.US) Price Target to $625, Citing Accelerated Growth Driven by AI Infrastructure and Copi。",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-16T12:05:07.000Z",
+      "fact": "TradingKey 報導：一週前瞻：聯準會會議紀要來襲，沃爾瑪，Target與家得寶財報檢驗美國消費韌性",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；一週前瞻：聯準會會議紀要來襲，沃爾瑪，Target與家得寶財報檢驗美國消費韌性 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "Microsoft",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://news.futunn.com/en/post/77690194/jpmorgan-raises-microsoft-msftus-price-target-to-625-citing-accelerated"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262110011-weekly-preview-fed-walmart-target-home-depot-earnings-us-consumer-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Microsectors ",
-      "title": "Microsectors -3x Short 半導體 ETNS (SMHD) 新聞動態",
-      "originalTitle": "Microsectors -3x Short Semiconductor ETNS (SMHD) 新聞動態",
-      "translatedTitle": "Microsectors -3x Short 半導體 ETNS (SMHD) 新聞動態",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Up & Down Wall Street: Why the Bulls Can Win the AI War Against the Bears -- Barron's",
+      "originalTitle": "Up & Down Wall Street: Why the Bulls Can Win the AI War Against the Bears -- Barron's",
+      "translatedTitle": "AI 財經快訊：Up & Down Wall Street: Why the Bulls Can Win the AI War Against the Bears -- Barron's",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-14T03:35:48.000Z",
-      "fact": "Moomoo 報導：Microsectors -3x Short 半導體 ETNS (SMHD) 新聞動態",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsectors -3x Short Semiconductor ETNS (SMHD) 新聞動態 &nbsp;&nbsp; Moomoo。",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-15T01:30:00.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Up & Down Wall Street: Why the Bulls Can Win the AI War Against the Bears -- Barron's",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Up & Down Wall Street: Why the Bulls Can Win the AI War Against the Bears -- Barron's &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "semiconductor"
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/etfs/SMHD-US/news"
+      "url": "https://news.futunn.com/hk/post/77720934/up-down-wall-street-why-the-bulls-can-win-the"
     }
   ]
 }
