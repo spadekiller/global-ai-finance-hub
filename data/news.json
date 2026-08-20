@@ -1,110 +1,105 @@
 {
-  "generatedAt": "2026-08-20T00:32:58.188Z",
+  "generatedAt": "2026-08-20T22:16:25.328Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "開箱實測Google Pixel 11！想玩Gemini Intelligence不用直上Pro",
-      "originalTitle": "開箱實測Google Pixel 11！想玩Gemini Intelligence不用直上Pro",
-      "translatedTitle": "開箱實測Google Pixel 11！想玩Gemini Intelligence不用直上Pro",
+      "subject": "Gemini 手機反而砍 RAM？Pixel 11 Pr",
+      "title": "Gemini 手機反而砍 RAM？Pixel 11 Pro 從 16GB 降到 12GB，Tensor G6 撐得住嗎？",
+      "originalTitle": "Gemini 手機反而砍 RAM？Pixel 11 Pro 從 16GB 降到 12GB，Tensor G6 撐得住嗎？",
+      "translatedTitle": "Gemini 手機反而砍 RAM？Pixel 11 Pro 從 16GB 降到 12GB，Tensor G6 撐得住嗎？",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "自由電子報3C科技",
-      "publishedAt": "2026-08-19T16:10:00.000Z",
-      "fact": "自由電子報3C科技 報導：開箱實測Google Pixel 11！想玩Gemini Intelligence不用直上Pro",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；開箱實測Google Pixel 11！想玩Gemini Intelligence不用直上Pro &nbsp;&nbsp; 自由電子報3C科技。",
+      "source": "電獺少女",
+      "publishedAt": "2026-08-20T07:16:52.000Z",
+      "fact": "電獺少女 報導：Gemini 手機反而砍 RAM？Pixel 11 Pro 從 16GB 降到 12GB，Tensor G6 撐得住嗎？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 手機反而砍 RAM？Pixel 11 Pro 從 16GB 降到 12GB，Tensor G6 撐得住嗎？ &nbsp;&nbsp; 電獺少女。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "Google"
+        "AI 與科技前沿"
       ],
-      "url": "https://3c.ltn.com.tw/amp/news/67261"
+      "url": "https://agirls.aotter.net/post/65117"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "【美股巨頭】輝達、Intel都在用它，Cadence卻被",
-      "title": "【美股巨頭】輝達、Intel都在用它，Cadence卻被AI行情遺忘？",
-      "originalTitle": "【美股巨頭】輝達、Intel都在用它，Cadence卻被AI行情遺忘？",
-      "translatedTitle": "【美股巨頭】輝達、Intel都在用它，Cadence卻被AI行情遺忘？",
+      "subject": "TradingView上由ACCESS Newswire",
+      "title": "TradingView上由ACCESS Newswire發佈的新聞，2026-08-19",
+      "originalTitle": "TradingView上由ACCESS Newswire發佈的新聞，2026-08-19",
+      "translatedTitle": "TradingView上由ACCESS Newswire發佈的新聞，2026-08-19",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "TradingView",
+      "publishedAt": "2026-08-19T16:00:00.000Z",
+      "fact": "TradingView 報導：TradingView上由ACCESS Newswire發佈的新聞，2026-08-19",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；TradingView上由ACCESS Newswire發佈的新聞，2026-08-19 &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://tw.tradingview.com/news/reuters.com,2026-08-19:newsml_ACS04KpZa:0/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "AFA 高峰會 9/2 登場！6",
+      "title": "AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
+      "originalTitle": "AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
+      "translatedTitle": "AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-08-19T22:31:57.000Z",
-      "fact": "CMoney投資網誌 報導：【美股巨頭】輝達、Intel都在用它，Cadence卻被AI行情遺忘？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【美股巨頭】輝達、Intel都在用它，Cadence卻被AI行情遺忘？ &nbsp;&nbsp; CMoney投資網誌。",
+      "source": "LINE TODAY",
+      "publishedAt": "2026-08-20T10:23:33.000Z",
+      "fact": "LINE TODAY 報導：AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力 &nbsp;&nbsp; LINE TODAY。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-c9913fff-9c1d-11f1-bcb6-10af181a699f"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "AI 資料中心 反彈聲浪 Threatens to In",
-      "title": "AI 資料中心 反彈聲浪 Threatens to Inflate Costs and Delay Big Tech's Expansion Plans",
-      "originalTitle": "AI Data Center Backlash Threatens to Inflate Costs and Delay Big Tech's Expansion Plans",
-      "translatedTitle": "AI 資料中心 反彈聲浪 Threatens to Inflate Costs and Delay Big Tech's Expansion Plans",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "finance.biggo.com",
-      "publishedAt": "2026-08-19T18:26:31.000Z",
-      "fact": "finance.biggo.com 報導：AI 資料中心 反彈聲浪 Threatens to Inflate Costs and Delay Big Tech's Expansion Plans",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI Data Center Backlash Threatens to Inflate Costs and Delay Big Tech's Expansion Plans &nbsp;&nbsp; finance.biggo.com。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI",
-        "data center"
-      ],
-      "url": "https://finance.biggo.com/news/b6453788-a289-4ebd-8c9d-6825f4d15e7e"
+      "url": "https://today.line.me/tw/v3/article/aGRmwzn?view"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Kraken的母公司獲得了Anthropic受限版Mythos AI的使用權 以下是該公司將如何利用它",
-      "originalTitle": "Kraken的母公司獲得了Anthropic受限版Mythos AI的使用權 以下是該公司將如何利用它",
-      "translatedTitle": "Kraken的母公司獲得了Anthropic受限版Mythos AI的使用權 以下是該公司將如何利用它",
+      "subject": "前輝達實驗室領導者創立 Veeda AI 投入「世界模型",
+      "title": "前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞",
+      "originalTitle": "前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞",
+      "translatedTitle": "前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "PChome Online新聞",
+      "publishedAt": "2026-08-20T10:26:28.000Z",
+      "fact": "PChome Online新聞 報導：前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞 &nbsp;&nbsp; PChome Online新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://news.pchome.com.tw/science/sunmedia/20260820/index-78722158899543329005.html"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲",
+      "originalTitle": "AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲",
+      "translatedTitle": "AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "news.cnyes.com",
-      "publishedAt": "2026-08-19T04:00:39.000Z",
-      "fact": "news.cnyes.com 報導：Kraken的母公司獲得了Anthropic受限版Mythos AI的使用權 以下是該公司將如何利用它",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Kraken的母公司獲得了Anthropic受限版Mythos AI的使用權 以下是該公司將如何利用它 &nbsp;&nbsp; news.cnyes.com。",
+      "source": "蕃新聞",
+      "publishedAt": "2026-08-20T09:35:45.000Z",
+      "fact": "蕃新聞 報導：AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲 &nbsp;&nbsp; 蕃新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Anthropic",
         "AI"
       ],
-      "url": "https://news.cnyes.com/news/id/6581206"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Aily Labs 將其決策智能技術引入Google 雲端",
-      "originalTitle": "Aily Labs 將其決策智能技術引入Google Cloud",
-      "translatedTitle": "Aily Labs 將其決策智能技術引入Google 雲端",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-19T06:00:00.000Z",
-      "fact": "富途牛牛 報導：Aily Labs 將其決策智能技術引入Google 雲端",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Aily Labs 將其決策智能技術引入Google Cloud &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI",
-        "cloud"
-      ],
-      "url": "https://news.futunn.com/hk/post/77887704/aily-labs-brings-its-decision-intelligence-to-google-cloud"
+      "url": "https://n.yam.com/Article/20260818104540"
     },
     {
       "id": "全球財經脈動-1",
@@ -129,106 +124,104 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Swissquote的NASDAQ",
-      "title": "Swissquote的NASDAQ:NVDA的輝達: Is It Too Late to Invest in the 股票?",
-      "originalTitle": "Swissquote的NASDAQ:NVDA的Nvidia: Is It Too Late to Invest in the Stock?",
-      "translatedTitle": "Swissquote的NASDAQ:NVDA的輝達: Is It Too Late to Invest in the 股票?",
+      "subject": "走高 Valuations Than Tech? How",
+      "title": "走高 Valuations Than Tech? How AI Is Juicing Industrial 股票. — Barron’s.com",
+      "originalTitle": "Higher Valuations Than Tech? How AI Is Juicing Industrial Stocks. -- Barrons.com",
+      "translatedTitle": "走高 Valuations Than Tech? How AI Is Juicing Industrial 股票. — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-08-18T04:45:53.000Z",
-      "fact": "TradingView 報導：Swissquote的NASDAQ:NVDA的輝達: Is It Too Late to Invest in the 股票?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Swissquote的NASDAQ:NVDA的Nvidia: Is It Too Late to Invest in the Stock? &nbsp;&nbsp; TradingView。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-20T16:42:00.000Z",
+      "fact": "富途牛牛 報導：走高 Valuations Than Tech? How AI Is Juicing Industrial 股票. — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Higher Valuations Than Tech? How AI Is Juicing Industrial Stocks. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia"
+        "AI",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/chart/NVDA/NWIMX6UR-Nvidia-Is-It-Too-Late-to-Invest-in-the-Stock/"
+      "url": "https://news.futunn.com/hk/post/77997120/higher-valuations-than-tech-how-ai-is-juicing-industrial-stocks"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "AI 晶片股 Were Riding High. Her",
-      "title": "AI 晶片股 Were Riding High. Here's Why Micron and Others Are Now Pulling Back.",
-      "originalTitle": "AI Chip Stocks Were Riding High. Here's Why Micron and Others Are Now Pulling Back.",
-      "translatedTitle": "AI 晶片股 Were Riding High. Here's Why Micron and Others Are Now Pulling Back.",
+      "subject": "Oracle vs. 微軟",
+      "title": "Oracle vs. 微軟: Which Enterprise AI 股票 Is the Better Buy?",
+      "originalTitle": "Oracle vs. Microsoft: Which Enterprise AI Stock Is the Better Buy?",
+      "translatedTitle": "Oracle vs. 微軟: Which Enterprise AI 股票 Is the Better Buy?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-18T16:58:21.000Z",
-      "fact": "Moomoo 報導：AI 晶片股 Were Riding High. Here's Why Micron and Others Are Now Pulling Back.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Chip Stocks Were Riding High. Here's Why Micron and Others Are Now Pulling Back. &nbsp;&nbsp; Moomoo。",
+      "source": "TradingView",
+      "publishedAt": "2026-08-19T14:54:00.000Z",
+      "fact": "TradingView 報導：Oracle vs. 微軟: Which Enterprise AI 股票 Is the Better Buy?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Oracle vs. Microsoft: Which Enterprise AI Stock Is the Better Buy? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "stocks"
+        "Microsoft",
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/74876867/ai-chip-stocks-were-riding-high-here-s-why-micron"
+      "url": "https://tw.tradingview.com/news/zacks:3d886503e094b:0-oracle-vs-microsoft-which-enterprise-ai-stock-is-the-better-buy/"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "AI 晶片股 Were Riding High. Her",
-      "title": "AI 晶片股 Were Riding High. Here's Why Micron and Others Are Now Pulling Back.",
-      "originalTitle": "AI Chip Stocks Were Riding High. Here's Why Micron and Others Are Now Pulling Back.",
-      "translatedTitle": "AI 晶片股 Were Riding High. Here's Why Micron and Others Are Now Pulling Back.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-18T16:59:29.000Z",
-      "fact": "富途牛牛 報導：AI 晶片股 Were Riding High. Here's Why Micron and Others Are Now Pulling Back.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Chip Stocks Were Riding High. Here's Why Micron and Others Are Now Pulling Back. &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/hk/post/77858784/ai-chip-stocks-were-riding-high-here-s-why-micron"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "ALAB vs. AVGO",
-      "title": "ALAB vs. AVGO: Which AI Infrastructure 股票 Is the Better Buy Now?",
-      "originalTitle": "ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now?",
-      "translatedTitle": "ALAB vs. AVGO: Which AI Infrastructure 股票 Is the Better Buy Now?",
+      "subject": "AMD 股票 has surged 126%",
+      "title": "AMD 股票 has surged 126%: why are strong AI numbers no longer enough?",
+      "originalTitle": "AMD stock has surged 126%: why are strong AI numbers no longer enough?",
+      "translatedTitle": "AMD 股票 has surged 126%: why are strong AI numbers no longer enough?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-08-18T17:30:00.000Z",
-      "fact": "TradingView 報導：ALAB vs. AVGO: Which AI Infrastructure 股票 Is the Better Buy Now?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；ALAB vs. AVGO: Which AI Infrastructure Stock Is the Better Buy Now? &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-08-19T10:21:10.000Z",
+      "fact": "TradingView 報導：AMD 股票 has surged 126%: why are strong AI numbers no longer enough?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AMD stock has surged 126%: why are strong AI numbers no longer enough? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/zacks:a24be0303094b:0-alab-vs-avgo-which-ai-infrastructure-stock-is-the-better-buy-now/"
+      "url": "https://tw.tradingview.com/news/invezz:b23cd23c1094b:0-amd-stock-has-surged-126-why-are-strong-ai-numbers-no-longer-enough/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "蘋果股價預測",
+      "title": "蘋果股價預測：連升兩日重返315美元，與費半再度背離，反彈能否延續？",
+      "originalTitle": "蘋果股價預測：連升兩日重返315美元，與費半再度背離，反彈能否延續？",
+      "translatedTitle": "蘋果股價預測：連升兩日重返315美元，與費半再度背離，反彈能否延續？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-19T14:53:17.000Z",
+      "fact": "TradingKey 報導：蘋果股價預測：連升兩日重返315美元，與費半再度背離，反彈能否延續？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；蘋果股價預測：連升兩日重返315美元，與費半再度背離，反彈能否延續？ &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262118455-apple-aapl-vs-semiconductor-divergence-315-price-recovery-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Hong Kong 股票 市場 Midday Revie",
-      "title": "Hong Kong 股票 市場 Midday Review | All three major indices declined, with the Hang Seng Tech Index falling 1.99%; AI application, internet, and 半導體 股票 retreated, with Zhipu plunging nearly 17%, MiniMax dropping over 12%, and Kuaishou",
-      "originalTitle": "Hong Kong Stock Market Midday Review | All three major indices declined, with the Hang Seng Tech Index falling 1.99%; AI application, internet, and semiconductor stocks retreated, with Zhipu plunging nearly 17%, MiniMax dropping over 12%, and Kuaishou",
-      "translatedTitle": "Hong Kong 股票 市場 Midday Review | All three major indices declined, with the Hang Seng Tech Index falling 1.99%; AI application, internet, and 半導體 股票 retreated, with Zhipu plunging nearly 17%, MiniMax dropping over 12%, and Kuaishou",
+      "subject": "Alibaba 財報 Will Test Whether",
+      "title": "Alibaba 財報 Will Test Whether the 股票 Is Among China's AI Winners — Barron’s.com",
+      "originalTitle": "Alibaba Earnings Will Test Whether the Stock Is Among China's AI Winners -- Barrons.com",
+      "translatedTitle": "Alibaba 財報 Will Test Whether the 股票 Is Among China's AI Winners — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-08-18T04:12:38.000Z",
-      "fact": "富途牛牛 報導：Hong Kong 股票 市場 Midday Review | All three major indices declined, with the Hang Seng Tech Index falling 1.99%; AI application, internet, and 半導體 股票 retreated, with Zhipu plunging nearly 17%, MiniMax dropping over 12%, and Kuaishou",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Hong Kong Stock Market Midday Review | All three major indices declined, with the Hang Seng Tech Index falling 1.99%; AI。",
+      "publishedAt": "2026-08-19T21:15:04.000Z",
+      "fact": "富途牛牛 報導：Alibaba 財報 Will Test Whether the 股票 Is Among China's AI Winners — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Alibaba Earnings Will Test Whether the Stock Is Among China's AI Winners -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "semiconductor",
-        "stocks"
+        "earnings"
       ],
-      "url": "https://news.futunn.com/en/post/77816685/hong-kong-stock-market-midday-review-all-three-major-indices"
+      "url": "https://news.futunn.com/hk/post/77932222/alibaba-earnings-will-test-whether-the-stock-is-among-china"
     }
   ]
 }
