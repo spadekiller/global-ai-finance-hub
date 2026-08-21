@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-08-20T22:16:25.328Z",
+  "generatedAt": "2026-08-21T00:35:34.509Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "谷歌Gemma AI模型下載破10億 開發者社群蓬勃但股",
+      "title": "谷歌Gemma AI模型下載破10億 開發者社群蓬勃但股價滑落",
+      "originalTitle": "谷歌Gemma AI模型下載破10億 開發者社群蓬勃但股價滑落",
+      "translatedTitle": "谷歌Gemma AI模型下載破10億 開發者社群蓬勃但股價滑落",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-08-21T00:23:00.000Z",
+      "fact": "蕃新聞 報導：谷歌Gemma AI模型下載破10億 開發者社群蓬勃但股價滑落",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；谷歌Gemma AI模型下載破10億 開發者社群蓬勃但股價滑落 &nbsp;&nbsp; 蕃新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://n.yam.com/Article/20260821746352"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta reported to consume trillions of tokens weekly, quietly becoming a major AI client of 微軟",
+      "originalTitle": "Meta reported to consume trillions of tokens weekly, quietly becoming a major AI client of Microsoft",
+      "translatedTitle": "Meta reported to consume trillions of tokens weekly, quietly becoming a major AI client of 微軟",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-20T16:47:19.000Z",
+      "fact": "富途牛牛 報導：Meta reported to consume trillions of tokens weekly, quietly becoming a major AI client of 微軟",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta reported to consume trillions of tokens weekly, quietly becoming a major AI client of Microsoft &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "Microsoft",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/77987416/meta-reported-to-consume-trillions-of-tokens-weekly-quietly-becoming"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Gemini 手機反而砍 RAM？Pixel 11 Pr",
       "title": "Gemini 手機反而砍 RAM？Pixel 11 Pro 從 16GB 降到 12GB，Tensor G6 撐得住嗎？",
@@ -22,7 +64,7 @@
       "url": "https://agirls.aotter.net/post/65117"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "TradingView上由ACCESS Newswire",
       "title": "TradingView上由ACCESS Newswire發佈的新聞，2026-08-19",
@@ -41,27 +83,7 @@
       "url": "https://tw.tradingview.com/news/reuters.com,2026-08-19:newsml_ACS04KpZa:0/"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "AFA 高峰會 9/2 登場！6",
-      "title": "AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
-      "originalTitle": "AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
-      "translatedTitle": "AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "LINE TODAY",
-      "publishedAt": "2026-08-20T10:23:33.000Z",
-      "fact": "LINE TODAY 報導：AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AFA 高峰會 9/2 登場！6,700 億美元產值的臺灣電子半導體供應鏈，FinTech、AI、穩定幣新動能助攻產業競爭力 &nbsp;&nbsp; LINE TODAY。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://today.line.me/tw/v3/article/aGRmwzn?view"
-    },
-    {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "前輝達實驗室領導者創立 Veeda AI 投入「世界模型",
       "title": "前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞",
@@ -69,37 +91,16 @@
       "translatedTitle": "前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "PChome Online新聞",
+      "source": "PChome Online 新聞",
       "publishedAt": "2026-08-20T10:26:28.000Z",
-      "fact": "PChome Online新聞 報導：前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞 &nbsp;&nbsp; PChome Online新聞。",
+      "fact": "PChome Online 新聞 報導：前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；前輝達實驗室領導者創立 Veeda AI 投入「世界模型」 引領物理 AI 發展 - 科技新聞 - PChome Online 新聞 &nbsp;&nbsp; PChome Online 新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
       "url": "https://news.pchome.com.tw/science/sunmedia/20260820/index-78722158899543329005.html"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲",
-      "originalTitle": "AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲",
-      "translatedTitle": "AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "蕃新聞",
-      "publishedAt": "2026-08-20T09:35:45.000Z",
-      "fact": "蕃新聞 報導：AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI巨頭Anthropic強勢獲利 帶動晶片商邁威爾、數據中心Hive Digital飆漲 &nbsp;&nbsp; 蕃新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://n.yam.com/Article/20260818104540"
     },
     {
       "id": "全球財經脈動-1",
@@ -119,7 +120,7 @@
         "全球財經",
         "AI"
       ],
-      "url": "https://macaubusiness.com/intrinsic-sea-advances-technology-localisation-to-strengthen-aseans-innovation-ecosystem-12/"
+      "url": "https://macaubusiness.com/intrinsic-sea-advances-technology-localisation-to-strengthen-aseans-innovation-ecosystem-3/"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -205,23 +206,23 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Alibaba 財報 Will Test Whether",
-      "title": "Alibaba 財報 Will Test Whether the 股票 Is Among China's AI Winners — Barron’s.com",
-      "originalTitle": "Alibaba Earnings Will Test Whether the Stock Is Among China's AI Winners -- Barrons.com",
-      "translatedTitle": "Alibaba 財報 Will Test Whether the 股票 Is Among China's AI Winners — Barron’s.com",
+      "subject": "Bank of America raises targe",
+      "title": "Bank of America raises target prices for 10 software 股票 across the board: AI-related concerns fade, paving the way for sector valuation reassessment",
+      "originalTitle": "Bank of America raises target prices for 10 software stocks across the board: AI-related concerns fade, paving the way for sector valuation reassessment",
+      "translatedTitle": "Bank of America raises target prices for 10 software 股票 across the board: AI-related concerns fade, paving the way for sector valuation reassessment",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-08-19T21:15:04.000Z",
-      "fact": "富途牛牛 報導：Alibaba 財報 Will Test Whether the 股票 Is Among China's AI Winners — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Alibaba Earnings Will Test Whether the Stock Is Among China's AI Winners -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-08-20T08:18:42.000Z",
+      "fact": "富途牛牛 報導：Bank of America raises target prices for 10 software 股票 across the board: AI-related concerns fade, paving the way for sector valuation reassessment",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Bank of America raises target prices for 10 software stocks across the board: AI-related concerns fade, paving the way f。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "earnings"
+        "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/77932222/alibaba-earnings-will-test-whether-the-stock-is-among-china"
+      "url": "https://news.futunn.com/en/post/77959561/bank-of-america-raises-target-prices-for-10-software-stocks"
     }
   ]
 }
