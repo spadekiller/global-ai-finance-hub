@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T22:13:38.873Z",
+  "generatedAt": "2026-08-22T00:32:57.488Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,22 +26,24 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合",
-      "title": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
-      "originalTitle": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
-      "translatedTitle": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Meta",
+      "title": "Meta Quietly Becomes One of 微軟's Biggest AI Customers",
+      "originalTitle": "Meta Quietly Becomes One of Microsoft's Biggest AI Customers",
+      "translatedTitle": "Meta Quietly Becomes One of 微軟's Biggest AI Customers",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "UDN",
-      "publishedAt": "2026-08-21T16:00:00.000Z",
-      "fact": "UDN 報導：紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉 &nbsp;&nbsp; UDN。",
+      "source": "TradingView",
+      "publishedAt": "2026-08-20T14:17:42.000Z",
+      "fact": "TradingView 報導：Meta Quietly Becomes One of 微軟's Biggest AI Customers",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Quietly Becomes One of Microsoft's Biggest AI Customers &nbsp;&nbsp; TradingView。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Meta",
+        "Microsoft",
         "AI"
       ],
-      "url": "https://udn.com/vote2026/story/6904/9706877"
+      "url": "https://tw.tradingview.com/news/gurufocus:e875dcb27094b:0-meta-quietly-becomes-one-of-microsoft-s-biggest-ai-customers/"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -67,6 +69,26 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
+      "subject": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合",
+      "title": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
+      "originalTitle": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
+      "translatedTitle": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "UDN",
+      "publishedAt": "2026-08-21T16:00:00.000Z",
+      "fact": "UDN 報導：紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉 &nbsp;&nbsp; UDN。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://udn.com/vote2026/story/6904/9706877"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
       "subject": "Why the AI Cycle Means Broad",
       "title": "Why the AI Cycle Means Broadcom 股票 Has 25% Upside After the Recent Selloff — Barron’s.com",
       "originalTitle": "Why the AI Cycle Means Broadcom Stock Has 25% Upside After the Recent Selloff -- Barrons.com",
@@ -83,26 +105,6 @@
         "AI"
       ],
       "url": "https://news.futunn.com/hk/post/78055322/why-the-ai-cycle-means-broadcom-stock-has-25-upside"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：RayNeo Expands Consumer AR Lineup: Unveiling RayNeo iO Smart Glasses and Cinematic RayNeo GT Series",
-      "originalTitle": "RayNeo Expands Consumer AR Lineup: Unveiling RayNeo iO Smart Glasses and Cinematic RayNeo GT Series",
-      "translatedTitle": "AI 財經快訊：RayNeo Expands Consumer AR Lineup: Unveiling RayNeo iO Smart Glasses and Cinematic RayNeo GT Series",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "Quamnet",
-      "publishedAt": "2026-08-21T08:00:02.000Z",
-      "fact": "Quamnet 報導：AI 財經快訊：RayNeo Expands Consumer AR Lineup: Unveiling RayNeo iO Smart Glasses and Cinematic RayNeo GT Series",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；RayNeo Expands Consumer AR Lineup: Unveiling RayNeo iO Smart Glasses and Cinematic RayNeo GT Series &nbsp;&nbsp; Quamnet。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.quamnet.com/post/XxiP_-hm81nC7oaY6RLig"
     },
     {
       "id": "全球財經脈動-1",
