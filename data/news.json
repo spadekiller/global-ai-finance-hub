@@ -1,70 +1,67 @@
 {
-  "generatedAt": "2026-08-22T00:32:57.488Z",
+  "generatedAt": "2026-08-22T22:11:48.985Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "AI反而增加工時？OpenAI前員工：每週至少需上班70小時",
-      "originalTitle": "AI反而增加工時？OpenAI前員工：每週至少需上班70小時",
-      "translatedTitle": "AI反而增加工時？OpenAI前員工：每週至少需上班70小時",
+      "title": "AI普及化，反而加重工作負擔？OpenAI前員工曝「每週工時至少達70小時」",
+      "originalTitle": "AI普及化，反而加重工作負擔？OpenAI前員工曝「每週工時至少達70小時」",
+      "translatedTitle": "AI普及化，反而加重工作負擔？OpenAI前員工曝「每週工時至少達70小時」",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
       "source": "天下雜誌",
       "publishedAt": "2026-08-21T10:00:00.000Z",
-      "fact": "天下雜誌 報導：AI反而增加工時？OpenAI前員工：每週至少需上班70小時",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI反而增加工時？OpenAI前員工：每週至少需上班70小時 &nbsp;&nbsp; 天下雜誌。",
+      "fact": "天下雜誌 報導：AI普及化，反而加重工作負擔？OpenAI前員工曝「每週工時至少達70小時」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI普及化，反而加重工作負擔？OpenAI前員工曝「每週工時至少達70小時」 &nbsp;&nbsp; 天下雜誌。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://www.cw.com.tw/index.php/article/5142441"
+      "url": "https://www.cw.com.tw/article/5142441"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta Quietly Becomes One of 微軟's Biggest AI Customers",
-      "originalTitle": "Meta Quietly Becomes One of Microsoft's Biggest AI Customers",
-      "translatedTitle": "Meta Quietly Becomes One of 微軟's Biggest AI Customers",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "實測｜Pixel 11 Pro XL五大亮點 AI連行程",
+      "title": "實測｜Pixel 11 Pro XL五大亮點 AI連行程都幫你排",
+      "originalTitle": "實測｜Pixel 11 Pro XL五大亮點 AI連行程都幫你排",
+      "translatedTitle": "實測｜Pixel 11 Pro XL五大亮點 AI連行程都幫你排",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "TradingView",
-      "publishedAt": "2026-08-20T14:17:42.000Z",
-      "fact": "TradingView 報導：Meta Quietly Becomes One of 微軟's Biggest AI Customers",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Quietly Becomes One of Microsoft's Biggest AI Customers &nbsp;&nbsp; TradingView。",
+      "source": "壹蘋新聞網",
+      "publishedAt": "2026-08-22T09:00:03.000Z",
+      "fact": "壹蘋新聞網 報導：實測｜Pixel 11 Pro XL五大亮點 AI連行程都幫你排",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；實測｜Pixel 11 Pro XL五大亮點 AI連行程都幫你排 &nbsp;&nbsp; 壹蘋新聞網。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Meta",
-        "Microsoft",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:e875dcb27094b:0-meta-quietly-becomes-one-of-microsoft-s-biggest-ai-customers/"
+      "url": "https://news.nextapple.com/aitech/20260822/7C0AE47BEA0F5F0DE442C883F236DEA0"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "華碩AI電競筆電市佔51.1%稱冠 特定機種加碼送Google AI Pro",
-      "originalTitle": "華碩AI電競筆電市佔51.1%稱冠 特定機種加碼送Google AI Pro",
-      "translatedTitle": "華碩AI電競筆電市佔51.1%稱冠 特定機種加碼送Google AI Pro",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Meta",
+      "title": "Meta Rises as Investors Look Beyond $200 Billion Trial 風險",
+      "originalTitle": "Meta Rises as Investors Look Beyond $200 Billion Trial Risk",
+      "translatedTitle": "Meta Rises as Investors Look Beyond $200 Billion Trial 風險",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "蕃新聞",
-      "publishedAt": "2026-08-21T19:47:04.000Z",
-      "fact": "蕃新聞 報導：華碩AI電競筆電市佔51.1%稱冠 特定機種加碼送Google AI Pro",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；華碩AI電競筆電市佔51.1%稱冠 特定機種加碼送Google AI Pro &nbsp;&nbsp; 蕃新聞。",
+      "source": "TradingView",
+      "publishedAt": "2026-08-21T20:00:03.000Z",
+      "fact": "TradingView 報導：Meta Rises as Investors Look Beyond $200 Billion Trial 風險",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Rises as Investors Look Beyond $200 Billion Trial Risk &nbsp;&nbsp; TradingView。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "AI"
+        "Meta"
       ],
-      "url": "https://n.yam.com/Article/20260819879394"
+      "url": "https://tw.tradingview.com/news/gurufocus:2b74b2f1c094b:0-meta-rises-as-investors-look-beyond-200-billion-trial-risk/"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -89,22 +86,22 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Why the AI Cycle Means Broad",
-      "title": "Why the AI Cycle Means Broadcom 股票 Has 25% Upside After the Recent Selloff — Barron’s.com",
-      "originalTitle": "Why the AI Cycle Means Broadcom Stock Has 25% Upside After the Recent Selloff -- Barrons.com",
-      "translatedTitle": "Why the AI Cycle Means Broadcom 股票 Has 25% Upside After the Recent Selloff — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-21T12:28:00.000Z",
-      "fact": "富途牛牛 報導：Why the AI Cycle Means Broadcom 股票 Has 25% Upside After the Recent Selloff — Barron’s.com",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why the AI Cycle Means Broadcom Stock Has 25% Upside After the Recent Selloff -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "subject": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊",
+      "title": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡",
+      "originalTitle": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡",
+      "translatedTitle": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "Mashdigi",
+      "publishedAt": "2026-08-22T03:00:57.000Z",
+      "fact": "Mashdigi 報導：傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡 &nbsp;&nbsp; Mashdigi。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/78055322/why-the-ai-cycle-means-broadcom-stock-has-25-upside"
+      "url": "https://mashdigi.com/apple-is-reportedly-laying-off-200-people-the-company-is-reportedly-downsizing-its-vision-pro-gaming-and-multimedia-team-as-well-as-the-old-siri-team-to-focus-on-developing-ai-smart-glasses/"
     },
     {
       "id": "全球財經脈動-1",
@@ -129,47 +126,25 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "AI Transformation in Mining ",
-      "title": "AI Transformation in Mining Firms: 15-Fold 投資 Yields RMB 300 Million in Revenue, CoinShares Rebrands to Double Down",
-      "originalTitle": "AI Transformation in Mining Firms: 15-Fold Investment Yields RMB 300 Million in Revenue, CoinShares Rebrands to Double Down",
-      "translatedTitle": "AI Transformation in Mining Firms: 15-Fold 投資 Yields RMB 300 Million in Revenue, CoinShares Rebrands to Double Down",
+      "subject": "Overnight U.S. 股票 | U.S. Tre",
+      "title": "Overnight U.S. 股票 | U.S. Treasury Yields Continue to Rise, Major Indices Fall for the Week, Bitcoin Up Approximately 23%",
+      "originalTitle": "Overnight U.S. Stocks | U.S. Treasury Yields Continue to Rise, Major Indices Fall for the Week, Bitcoin Up Approximately 23%",
+      "translatedTitle": "Overnight U.S. 股票 | U.S. Treasury Yields Continue to Rise, Major Indices Fall for the Week, Bitcoin Up Approximately 23%",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-08-21T02:12:05.000Z",
-      "fact": "富途牛牛 報導：AI Transformation in Mining Firms: 15-Fold 投資 Yields RMB 300 Million in Revenue, CoinShares Rebrands to Double Down",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI Transformation in Mining Firms: 15-Fold Investment Yields RMB 300 Million in Revenue, CoinShares Rebrands to Double D。",
+      "publishedAt": "2026-08-22T00:08:16.000Z",
+      "fact": "富途牛牛 報導：Overnight U.S. 股票 | U.S. Treasury Yields Continue to Rise, Major Indices Fall for the Week, Bitcoin Up Approximately 23%",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Overnight U.S. Stocks | U.S. Treasury Yields Continue to Rise, Major Indices Fall for the Week, Bitcoin Up Approximately。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI"
+        "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/78008528/ai-transformation-in-mining-firms-15-fold-investment-yields-rmb"
+      "url": "https://news.futunn.com/en/post/78072220/overnight-us-stocks-us-treasury-yields-continue-to-rise-major"
     },
     {
       "id": "美股與全球市場焦點-1",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達 財報 Could Rescue a Stallin",
-      "title": "輝達 財報 Could Rescue a Stalling 股票 市場 — If the AI Chip Maker Breaks This Trend",
-      "originalTitle": "Nvidia Earnings Could Rescue a Stalling Stock Market - If the AI Chip Maker Breaks This Trend",
-      "translatedTitle": "輝達 財報 Could Rescue a Stalling 股票 市場 — If the AI Chip Maker Breaks This Trend",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-21T13:12:53.000Z",
-      "fact": "Moomoo 報導：輝達 財報 Could Rescue a Stalling 股票 市場 — If the AI Chip Maker Breaks This Trend",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Earnings Could Rescue a Stalling Stock Market - If the AI Chip Maker Breaks This Trend &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/75073891/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "輝達 財報 Could Rescue a Stalled",
       "title": "輝達 財報 Could Rescue a Stalled-out 股票 市場 — If the AI Chip Maker Breaks This Trend",
@@ -178,7 +153,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-08-21T13:33:00.000Z",
+      "publishedAt": "2026-08-22T02:48:49.000Z",
       "fact": "富途牛牛 報導：輝達 財報 Could Rescue a Stalled-out 股票 市場 — If the AI Chip Maker Breaks This Trend",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Earnings Could Rescue a Stalled-out Stock Market - If the AI Chip Maker Breaks This Trend &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
@@ -188,27 +163,46 @@
         "AI",
         "earnings"
       ],
-      "url": "https://news.futunn.com/hk/post/78058625/nvidia-earnings-could-rescue-a-stalled-out-stock-market-if"
+      "url": "https://news.futunn.com/en/post/78058625/nvidia-earnings-could-rescue-a-stalled-out-stock-market-if"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "BMO啟動覆蓋多檔半導體股，輝達獲列為「首選」",
+      "title": "BMO啟動覆蓋多檔半導體股，輝達獲列為「首選」",
+      "originalTitle": "BMO啟動覆蓋多檔半導體股，輝達獲列為「首選」",
+      "translatedTitle": "BMO啟動覆蓋多檔半導體股，輝達獲列為「首選」",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "Seeking Alpha",
+      "publishedAt": "2026-08-21T14:18:40.000Z",
+      "fact": "Seeking Alpha 報導：BMO啟動覆蓋多檔半導體股，輝達獲列為「首選」",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；BMO啟動覆蓋多檔半導體股，輝達獲列為「首選」 &nbsp;&nbsp; Seeking Alpha。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://seekingalpha.com/news/4635884-nvidia-receives-top-pick-as-bmo-initiates-coverage-on-array-of-semiconductor-stocks?source"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Cathie Wood Puts $41 Million",
-      "title": "Cathie Wood Puts $41 Million Behind Major Tech 股票",
-      "originalTitle": "Cathie Wood Puts $41 Million Behind Major Tech Stocks",
-      "translatedTitle": "Cathie Wood Puts $41 Million Behind Major Tech 股票",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Micron Technology (MU)",
+      "originalTitle": "Micron Technology (MU)",
+      "translatedTitle": "AI 財經快訊：Micron Technology (MU)",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-08-20T17:03:56.000Z",
-      "fact": "TradingView 報導：Cathie Wood Puts $41 Million Behind Major Tech 股票",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Cathie Wood Puts $41 Million Behind Major Tech Stocks &nbsp;&nbsp; TradingView。",
+      "source": "Moomoo",
+      "publishedAt": "2026-08-21T09:15:34.000Z",
+      "fact": "Moomoo 報導：AI 財經快訊：Micron Technology (MU)",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Micron Technology (MU) &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "stocks"
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:4fd1051c6094b:0-cathie-wood-puts-41-million-behind-major-tech-stocks/"
+      "url": "https://www.moomoo.com/stock/MU-US/earnings?chain_id"
     },
     {
       "id": "美股與全球市場焦點-4",
@@ -220,7 +214,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-08-21T10:54:00.000Z",
+      "publishedAt": "2026-08-21T11:03:58.000Z",
       "fact": "富途牛牛 報導：輝達 財報 Could Rescue a Stalling 股票 市場 — If the AI Chip Maker Breaks This Trend",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Earnings Could Rescue a Stalling Stock Market - If the AI Chip Maker Breaks This Trend &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
@@ -235,23 +229,23 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "NVDA 股票 Flattens As Retail T",
-      "title": "NVDA 股票 Flattens As Retail Turns ‘Extremely Bearish’, But Wall Street Flags $20B CPU Opportunity Ahead of 財報",
-      "originalTitle": "NVDA Stock Flattens As Retail Turns ‘Extremely Bearish’, But Wall Street Flags $20B CPU Opportunity Ahead of Earnings",
-      "translatedTitle": "NVDA 股票 Flattens As Retail Turns ‘Extremely Bearish’, But Wall Street Flags $20B CPU Opportunity Ahead of 財報",
+      "subject": "UBS Group raises its year",
+      "title": "UBS Group raises its year-end target for the 標普 500 Index to 8,100 points, citing further improvement in corporate 財報 outlook.",
+      "originalTitle": "UBS Group raises its year-end target for the S&P 500 Index to 8,100 points, citing further improvement in corporate earnings outlook.",
+      "translatedTitle": "UBS Group raises its year-end target for the 標普 500 Index to 8,100 points, citing further improvement in corporate 財報 outlook.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-08-20T15:26:22.000Z",
-      "fact": "TradingView 報導：NVDA 股票 Flattens As Retail Turns ‘Extremely Bearish’, But Wall Street Flags $20B CPU Opportunity Ahead of 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVDA Stock Flattens As Retail Turns ‘Extremely Bearish’, But Wall Street Flags $20B CPU Opportunity Ahead of Earnings &n。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-21T15:51:24.000Z",
+      "fact": "富途牛牛 報導：UBS Group raises its year-end target for the 標普 500 Index to 8,100 points, citing further improvement in corporate 財報 outlook.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；UBS Group raises its year-end target for the S&P 500 Index to 8,100 points, citing further improvement in corporate earn。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "earnings"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:8df9aa31d094b:0-nvda-stock-flattens-as-retail-turns-extremely-bearish-but-wall-street-flags-20b-cpu-opportunity-ahead-of-earnings/"
+      "url": "https://news.futunn.com/en/post/78063753/ubs-group-raises-its-year-end-target-for-the-s"
     }
   ]
 }
