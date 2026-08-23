@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-08-22T22:11:48.985Z",
+  "generatedAt": "2026-08-23T00:35:31.388Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊",
+      "title": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊 轉向開發AI智慧眼鏡",
+      "originalTitle": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊 轉向開發AI智慧眼鏡",
+      "translatedTitle": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊 轉向開發AI智慧眼鏡",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "udn科技玩家",
+      "publishedAt": "2026-08-22T23:26:15.000Z",
+      "fact": "udn科技玩家 報導：傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊 轉向開發AI智慧眼鏡",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊 轉向開發AI智慧眼鏡 &nbsp;&nbsp; udn科技玩家。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://tech.udn.com/tech/story/123153/9708319?form"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "AI普及化，反而加重工作負擔？OpenAI前員工曝「每週工時至少達70小時」",
@@ -24,7 +44,7 @@
       "url": "https://www.cw.com.tw/article/5142441"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "實測｜Pixel 11 Pro XL五大亮點 AI連行程",
       "title": "實測｜Pixel 11 Pro XL五大亮點 AI連行程都幫你排",
@@ -44,7 +64,27 @@
       "url": "https://news.nextapple.com/aitech/20260822/7C0AE47BEA0F5F0DE442C883F236DEA0"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Sora 關門它卻爆紅，AI 影片新創 Higgsfie",
+      "title": "Sora 關門它卻爆紅，AI 影片新創 Higgsfield 如何逆勢衝出 54 億美元身價",
+      "originalTitle": "Sora 關門它卻爆紅，AI 影片新創 Higgsfield 如何逆勢衝出 54 億美元身價",
+      "translatedTitle": "Sora 關門它卻爆紅，AI 影片新創 Higgsfield 如何逆勢衝出 54 億美元身價",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-08-22T03:03:52.000Z",
+      "fact": "TechNews 科技新報 報導：Sora 關門它卻爆紅，AI 影片新創 Higgsfield 如何逆勢衝出 54 億美元身價",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Sora 關門它卻爆紅，AI 影片新創 Higgsfield 如何逆勢衝出 54 億美元身價 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/08/22/higgsfield-valued-at-5-4bn-as-goldman-and-intel-back-ai-video-start-up/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta Rises as Investors Look Beyond $200 Billion Trial 風險",
@@ -64,67 +104,7 @@
       "url": "https://tw.tradingview.com/news/gurufocus:2b74b2f1c094b:0-meta-rises-as-investors-look-beyond-200-billion-trial-risk/"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合",
-      "title": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
-      "originalTitle": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
-      "translatedTitle": "紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "UDN",
-      "publishedAt": "2026-08-21T16:00:00.000Z",
-      "fact": "UDN 報導：紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；紐時賞析／受夠AI垃圾內容？科技巨頭也是| 2026九合一選舉 &nbsp;&nbsp; UDN。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://udn.com/vote2026/story/6904/9706877"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊",
-      "title": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡",
-      "originalTitle": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡",
-      "translatedTitle": "傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Mashdigi",
-      "publishedAt": "2026-08-22T03:00:57.000Z",
-      "fact": "Mashdigi 報導：傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；傳蘋果裁員200人！縮編Vision Pro遊戲影音與舊版Siri團隊，轉向開發AI智慧眼鏡 &nbsp;&nbsp; Mashdigi。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://mashdigi.com/apple-is-reportedly-laying-off-200-people-the-company-is-reportedly-downsizing-its-vision-pro-gaming-and-multimedia-team-as-well-as-the-old-siri-team-to-focus-on-developing-ai-smart-glasses/"
-    },
-    {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "游庭皓的財經皓角. . 2026/8/21(五)巨頭搶錢",
-      "title": "游庭皓的財經皓角. . 2026/8/21(五)巨頭搶錢 誰來接美債?AI是革命or下一場債務危機?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance 我的粉絲",
-      "originalTitle": "游庭皓的財經皓角. . 2026/8/21(五)巨頭搶錢 誰來接美債?AI是革命or下一場債務危機?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance 我的粉絲",
-      "translatedTitle": "游庭皓的財經皓角. . 2026/8/21(五)巨頭搶錢 誰來接美債?AI是革命or下一場債務危機?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance 我的粉絲",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
-      "source": "facebook.com",
-      "publishedAt": "2026-08-21T00:31:32.000Z",
-      "fact": "facebook.com 報導：游庭皓的財經皓角. . 2026/8/21(五)巨頭搶錢 誰來接美債?AI是革命or下一場債務危機?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.finance 我的粉絲",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；游庭皓的財經皓角. . 2026/8/21(五)巨頭搶錢 誰來接美債?AI是革命or下一場債務危機?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https:/。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://www.facebook.com/yutinghaosfinance/videos/2026821%E4%BA%94%E5%B7%A8%E9%A0%AD%E6%90%B6%E9%8C%A2-%E8%AA%B0%E4%BE%86%E6%8E%A5%E7%BE%8E%E5%82%B5ai%E6%98%AF%E9%9D%A9%E5%91%BDor%E4%B8%8B%E4%B8%80%E5%A0%B4%E5%82%B5%E5%8B%99%E5%8D%B1%E6%A9%9F%E6%97%A9%E6%99%A8%E8%B2%A1%E7%B6%93%E9%80%9F%E8%A7%A3%E8%AE%80/2622029448232534/"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "Overnight U.S. 股票 | U.S. Tre",
       "title": "Overnight U.S. 股票 | U.S. Treasury Yields Continue to Rise, Major Indices Fall for the Week, Bitcoin Up Approximately 23%",
@@ -168,6 +148,25 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "輝達Q2財報前瞻",
+      "title": "輝達Q2財報前瞻：連續四季財報後下跌，毛利率與Rubin成破局關鍵",
+      "originalTitle": "輝達Q2財報前瞻：連續四季財報後下跌，毛利率與Rubin成破局關鍵",
+      "translatedTitle": "輝達Q2財報前瞻：連續四季財報後下跌，毛利率與Rubin成破局關鍵",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-23T00:06:12.000Z",
+      "fact": "TradingKey 報導：輝達Q2財報前瞻：連續四季財報後下跌，毛利率與Rubin成破局關鍵",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達Q2財報前瞻：連續四季財報後下跌，毛利率與Rubin成破局關鍵 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262125951-nvidia-stock-q2-earnings-guidance-gross-margin-rubin-blackwell-china-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "BMO啟動覆蓋多檔半導體股，輝達獲列為「首選」",
       "title": "BMO啟動覆蓋多檔半導體股，輝達獲列為「首選」",
       "originalTitle": "BMO啟動覆蓋多檔半導體股，輝達獲列為「首選」",
@@ -185,7 +184,7 @@
       "url": "https://seekingalpha.com/news/4635884-nvidia-receives-top-pick-as-bmo-initiates-coverage-on-array-of-semiconductor-stocks?source"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Micron Technology (MU)",
@@ -205,7 +204,7 @@
       "url": "https://www.moomoo.com/stock/MU-US/earnings?chain_id"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "輝達 財報 Could Rescue a Stallin",
       "title": "輝達 財報 Could Rescue a Stalling 股票 市場 — If the AI Chip Maker Breaks This Trend",
@@ -225,27 +224,6 @@
         "earnings"
       ],
       "url": "https://news.futunn.com/hk/post/78049813/nvidia-earnings-could-rescue-a-stalling-stock-market-if-the"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "UBS Group raises its year",
-      "title": "UBS Group raises its year-end target for the 標普 500 Index to 8,100 points, citing further improvement in corporate 財報 outlook.",
-      "originalTitle": "UBS Group raises its year-end target for the S&P 500 Index to 8,100 points, citing further improvement in corporate earnings outlook.",
-      "translatedTitle": "UBS Group raises its year-end target for the 標普 500 Index to 8,100 points, citing further improvement in corporate 財報 outlook.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-21T15:51:24.000Z",
-      "fact": "富途牛牛 報導：UBS Group raises its year-end target for the 標普 500 Index to 8,100 points, citing further improvement in corporate 財報 outlook.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；UBS Group raises its year-end target for the S&P 500 Index to 8,100 points, citing further improvement in corporate earn。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://news.futunn.com/en/post/78063753/ubs-group-raises-its-year-end-target-for-the-s"
     }
   ]
 }
