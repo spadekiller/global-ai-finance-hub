@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T22:15:38.670Z",
+  "generatedAt": "2026-08-25T00:34:01.329Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -27,6 +27,27 @@
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
+      "title": "OpenAI 反手力挺加嚴 SB 53 推動加州導入新一波 AI 監管規則",
+      "originalTitle": "OpenAI 反手力挺加嚴 SB 53 推動加州導入新一波 AI 監管規則",
+      "translatedTitle": "OpenAI 反手力挺加嚴 SB 53 推動加州導入新一波 AI 監管規則",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "Yellow.com",
+      "publishedAt": "2026-08-24T06:48:43.000Z",
+      "fact": "Yellow.com 報導：OpenAI 反手力挺加嚴 SB 53 推動加州導入新一波 AI 監管規則",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 反手力挺加嚴 SB 53 推動加州導入新一波 AI 監管規則 &nbsp;&nbsp; Yellow.com。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://yellow.com/zh-tw/news/openai-%E5%8F%8D%E6%89%8B%E5%8A%9B%E6%8C%BA%E5%8A%A0%E5%9A%B4-sb-53-%E6%8E%A8%E5%8B%95%E5%8A%A0%E5%B7%9E%E5%B0%8E%E5%85%A5%E6%96%B0%E4%B8%80%E6%B3%A2-ai-%E7%9B%A3%E7%AE%A1%E8%A6%8F%E5%89%87"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
       "title": "OpenAI要監控訓練AI，法案補什麼",
       "originalTitle": "OpenAI要監控訓練AI，法案補什麼",
       "translatedTitle": "OpenAI要監控訓練AI，法案補什麼",
@@ -45,7 +66,7 @@
       "url": "https://n.yam.com/Article/20260824135615"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "美民主黨參議員",
       "title": "美民主黨參議員：過度限制AI發展 中共將受益",
@@ -65,7 +86,7 @@
       "url": "https://www.epochtimes.com/b5/26/8/24/n14835352.htm/amp"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "開箱實測Google Pixel Watch 5！AI更聰明了、還能生成專屬錶面",
@@ -86,27 +107,6 @@
       "url": "https://3c.ltn.com.tw/amp/news/67283"
     },
     {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "態度大轉彎！OpenAI呼籲加州政府強化SB 53人工智慧安全法案，擴大前沿模型監管範圍",
-      "originalTitle": "態度大轉彎！OpenAI呼籲加州政府強化SB 53人工智慧安全法案，擴大前沿模型監管範圍",
-      "translatedTitle": "態度大轉彎！OpenAI呼籲加州政府強化SB 53人工智慧安全法案，擴大前沿模型監管範圍",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "Mashdigi",
-      "publishedAt": "2026-08-23T16:00:50.000Z",
-      "fact": "Mashdigi 報導：態度大轉彎！OpenAI呼籲加州政府強化SB 53人工智慧安全法案，擴大前沿模型監管範圍",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；態度大轉彎！OpenAI呼籲加州政府強化SB 53人工智慧安全法案，擴大前沿模型監管範圍 &nbsp;&nbsp; Mashdigi。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://mashdigi.com/a-dramatic-shift-in-attitude-openai-is-urging-the-california-government-to-strengthen-sb-53-the-artificial-intelligence-safety-act-and-expand-the-scope-of-regulation-for-cutting-edge-models/"
-    },
-    {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
@@ -124,7 +124,7 @@
         "全球財經",
         "AI"
       ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5550960"
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5550960"
     },
     {
       "id": "全球財經脈動-2",
@@ -210,6 +210,25 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
+      "subject": "輝達 8 月 26 日財報",
+      "title": "輝達 8 月 26 日財報：NVDA 股價展望與預測",
+      "originalTitle": "輝達 8 月 26 日財報：NVDA 股價展望與預測",
+      "translatedTitle": "輝達 8 月 26 日財報：NVDA 股價展望與預測",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "Bitget",
+      "publishedAt": "2026-08-24T16:41:59.000Z",
+      "fact": "Bitget 報導：輝達 8 月 26 日財報：NVDA 股價展望與預測",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達 8 月 26 日財報：NVDA 股價展望與預測 &nbsp;&nbsp; Bitget。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.bitget.com/zh-TC/amp/academy/nvidia-earnings-august-26-nvda-stock-price-prediction-news"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
       "subject": "盤前先跌5%再漲超5%，拼多多這份財報該怎麼看？",
       "title": "盤前先跌5%再漲超5%，拼多多這份財報該怎麼看？",
       "originalTitle": "盤前先跌5%再漲超5%，拼多多這份財報該怎麼看？",
@@ -225,25 +244,6 @@
         "市場焦點"
       ],
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262127797-pdd-q2-earnings-premarket-revenue-miss-profit-beat-stock-analysis-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "在記憶體價格暴利敘事下如何評估晶片股風險？",
-      "title": "在記憶體價格暴利敘事下如何評估晶片股風險？",
-      "originalTitle": "在記憶體價格暴利敘事下如何評估晶片股風險？",
-      "translatedTitle": "在記憶體價格暴利敘事下如何評估晶片股風險？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "CMoney",
-      "publishedAt": "2026-08-23T09:48:06.000Z",
-      "fact": "CMoney 報導：在記憶體價格暴利敘事下如何評估晶片股風險？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；在記憶體價格暴利敘事下如何評估晶片股風險？ &nbsp;&nbsp; CMoney。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.cmoney.tw/forum/readmo/d29b7ce1-f7f4-4b9c-b163-3054cec17576"
     }
   ]
 }
