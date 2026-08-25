@@ -1,30 +1,50 @@
 {
-  "generatedAt": "2026-08-25T00:34:01.329Z",
+  "generatedAt": "2026-08-25T22:16:24.333Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復",
-      "originalTitle": "Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復",
-      "translatedTitle": "Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-08-24T07:34:25.000Z",
-      "fact": "TechNews 科技新報 報導：Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復 &nbsp;&nbsp; TechNews 科技新報。",
+      "subject": "Meta",
+      "title": "Meta 智慧眼鏡超強專利揭曉：AI 幫你認人、分析關係還會自動剪片，但你的隱私守得住嗎？",
+      "originalTitle": "Meta 智慧眼鏡超強專利揭曉：AI 幫你認人、分析關係還會自動剪片，但你的隱私守得住嗎？",
+      "translatedTitle": "Meta 智慧眼鏡超強專利揭曉：AI 幫你認人、分析關係還會自動剪片，但你的隱私守得住嗎？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "T客邦",
+      "publishedAt": "2026-08-25T08:30:00.000Z",
+      "fact": "T客邦 報導：Meta 智慧眼鏡超強專利揭曉：AI 幫你認人、分析關係還會自動剪片，但你的隱私守得住嗎？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 智慧眼鏡超強專利揭曉：AI 幫你認人、分析關係還會自動剪片，但你的隱私守得住嗎？ &nbsp;&nbsp; T客邦。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
+        "Meta",
         "AI"
       ],
-      "url": "https://technews.tw/2026/08/24/claude-outage-hits-multiple-models-again/"
+      "url": "https://www.techbang.com/posts/132462-meta-smart-glasses-patent-facial-recognition-ai-highlights"
     },
     {
       "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用",
+      "title": "大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用",
+      "originalTitle": "大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用",
+      "translatedTitle": "大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-08-25T15:36:00.000Z",
+      "fact": "蕃新聞 報導：大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用 &nbsp;&nbsp; 蕃新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://n.yam.com/Article/20260825557626"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI 反手力挺加嚴 SB 53 推動加州導入新一波 AI 監管規則",
@@ -45,7 +65,28 @@
       "url": "https://yellow.com/zh-tw/news/openai-%E5%8F%8D%E6%89%8B%E5%8A%9B%E6%8C%BA%E5%8A%A0%E5%9A%B4-sb-53-%E6%8E%A8%E5%8B%95%E5%8A%A0%E5%B7%9E%E5%B0%8E%E5%85%A5%E6%96%B0%E4%B8%80%E6%B3%A2-ai-%E7%9B%A3%E7%AE%A1%E8%A6%8F%E5%89%87"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復",
+      "originalTitle": "Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復",
+      "translatedTitle": "Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-08-24T07:34:25.000Z",
+      "fact": "TechNews 科技新報 報導：Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Claude.ai、Claude Code 等故障，Anthropic 確認模型問題著手修復 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/08/24/claude-outage-hits-multiple-models-again/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI要監控訓練AI，法案補什麼",
@@ -64,47 +105,6 @@
         "AI"
       ],
       "url": "https://n.yam.com/Article/20260824135615"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "美民主黨參議員",
-      "title": "美民主黨參議員：過度限制AI發展 中共將受益",
-      "originalTitle": "美民主黨參議員：過度限制AI發展 中共將受益",
-      "translatedTitle": "美民主黨參議員：過度限制AI發展 中共將受益",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "大纪元",
-      "publishedAt": "2026-08-24T04:46:00.000Z",
-      "fact": "大纪元 報導：美民主黨參議員：過度限制AI發展 中共將受益",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美民主黨參議員：過度限制AI發展 中共將受益 &nbsp;&nbsp; 大纪元。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.epochtimes.com/b5/26/8/24/n14835352.htm/amp"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "開箱實測Google Pixel Watch 5！AI更聰明了、還能生成專屬錶面",
-      "originalTitle": "開箱實測Google Pixel Watch 5！AI更聰明了、還能生成專屬錶面",
-      "translatedTitle": "開箱實測Google Pixel Watch 5！AI更聰明了、還能生成專屬錶面",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "自由電子報3C科技",
-      "publishedAt": "2026-08-23T10:00:00.000Z",
-      "fact": "自由電子報3C科技 報導：開箱實測Google Pixel Watch 5！AI更聰明了、還能生成專屬錶面",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；開箱實測Google Pixel Watch 5！AI更聰明了、還能生成專屬錶面 &nbsp;&nbsp; 自由電子報3C科技。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://3c.ltn.com.tw/amp/news/67283"
     },
     {
       "id": "全球財經脈動-1",
@@ -147,103 +147,124 @@
       "url": "https://www.quamnet.com/post/2GIoTFs4cUVHWkCqGb3Kk"
     },
     {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "Southeast Asia 資料中心 投資 to Re",
+      "title": "Southeast Asia 資料中心 投資 to Reach USD 35.08 Billion by 2031 | Malaysia, Indonesia, Thailand & Singapore — Arizton",
+      "originalTitle": "Southeast Asia Data Center Investment to Reach USD 35.08 Billion by 2031 | Malaysia, Indonesia, Thailand & Singapore - Arizton",
+      "translatedTitle": "Southeast Asia 資料中心 投資 to Reach USD 35.08 Billion by 2031 | Malaysia, Indonesia, Thailand & Singapore — Arizton",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-25T06:40:00.000Z",
+      "fact": "富途牛牛 報導：Southeast Asia 資料中心 投資 to Reach USD 35.08 Billion by 2031 | Malaysia, Indonesia, Thailand & Singapore — Arizton",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Southeast Asia Data Center Investment to Reach USD 35.08 Billion by 2031 | Malaysia, Indonesia, Thailand & Singapore - A。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "data center"
+      ],
+      "url": "https://news.futunn.com/en/post/78187702/southeast-asia-data-center-investment-to-reach-usd-35-08"
+    },
+    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "BABA",
-      "title": "BABA, NVDA, MRVL, WMT, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These 股票 Last Week",
-      "originalTitle": "BABA, NVDA, MRVL, WMT, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
-      "translatedTitle": "BABA, NVDA, MRVL, WMT, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These 股票 Last Week",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
+      "title": "輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
+      "originalTitle": "輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
+      "translatedTitle": "輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-08-24T05:57:10.000Z",
-      "fact": "TradingView 報導：BABA, NVDA, MRVL, WMT, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These 股票 Last Week",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；BABA, NVDA, MRVL, WMT, SPCX: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week &nbsp;&nbsp; Trading。",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-08-25T08:42:39.000Z",
+      "fact": "TechNews 科技新報 報導：輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達財報倒數股價連七跌，市場關注 2028 年需求能見度 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
+        "市場焦點"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:975d73611094b:0-baba-nvda-mrvl-wmt-spcx-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/"
+      "url": "https://finance.technews.tw/2026/08/25/nvidia-earnings-countdown-stock-falls-seven-days-market-focus-2028-demand-visibility/"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "攸關美股命脈，輝達 8/26 財報估季收 920 億美元",
-      "title": "攸關美股命脈，輝達 8/26 財報估季收 920 億美元創新高",
-      "originalTitle": "攸關美股命脈，輝達 8/26 財報估季收 920 億美元創新高",
-      "translatedTitle": "攸關美股命脈，輝達 8/26 財報估季收 920 億美元創新高",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "NVTS 股票 Jumps Premarket",
+      "title": "NVTS 股票 Jumps Premarket: Navitas To Buy Power Equipment Firm Claros In $233M Deal",
+      "originalTitle": "NVTS Stock Jumps Premarket: Navitas To Buy Power Equipment Firm Claros In $233M Deal",
+      "translatedTitle": "NVTS 股票 Jumps Premarket: Navitas To Buy Power Equipment Firm Claros In $233M Deal",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-08-24T04:33:31.000Z",
-      "fact": "TechNews 科技新報 報導：攸關美股命脈，輝達 8/26 財報估季收 920 億美元創新高",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；攸關美股命脈，輝達 8/26 財報估季收 920 億美元創新高 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "TradingView",
+      "publishedAt": "2026-08-25T09:00:32.000Z",
+      "fact": "TradingView 報導：NVTS 股票 Jumps Premarket: Navitas To Buy Power Equipment Firm Claros In $233M Deal",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVTS Stock Jumps Premarket: Navitas To Buy Power Equipment Firm Claros In $233M Deal &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://finance.technews.tw/2026/08/24/nvidia-august-26-earnings-us-stock-market-crucial-record-92b-revenue/"
+      "url": "https://tw.tradingview.com/news/stocktwits:cf3e6101f094b:0-nvts-stock-jumps-premarket-navitas-to-buy-power-equipment-firm-claros-in-233m-deal/"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "輝達 Is the Beating Heart of t",
-      "title": "輝達 Is the Beating Heart of the AI 熱潮 and the 股票 市場 — Which Sets up a Big Test",
-      "originalTitle": "Nvidia Is the Beating Heart of the AI Boom and the Stock Market - Which Sets up a Big Test",
-      "translatedTitle": "輝達 Is the Beating Heart of the AI 熱潮 and the 股票 市場 — Which Sets up a Big Test",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-23T13:05:07.000Z",
-      "fact": "富途牛牛 報導：輝達 Is the Beating Heart of the AI 熱潮 and the 股票 市場 — Which Sets up a Big Test",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Is the Beating Heart of the AI Boom and the Stock Market - Which Sets up a Big Test &nbsp;&nbsp; 富途牛牛。",
+      "subject": "Nvidia",
+      "title": "道瓊期貨上漲，科技股在即將公布的 Nvidia 財報前反彈",
+      "originalTitle": "道瓊期貨上漲，科技股在即將公布的 Nvidia 財報前反彈",
+      "translatedTitle": "道瓊期貨上漲，科技股在即將公布的 Nvidia 財報前反彈",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 晶片",
+      "source": "tmgm.com",
+      "publishedAt": "2026-08-25T11:53:21.000Z",
+      "fact": "tmgm.com 報導：道瓊期貨上漲，科技股在即將公布的 Nvidia 財報前反彈",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；道瓊期貨上漲，科技股在即將公布的 Nvidia 財報前反彈 &nbsp;&nbsp; tmgm.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
-        "AI"
+        "Nvidia"
       ],
-      "url": "https://news.futunn.com/hk/post/78092617/nvidia-is-the-beating-heart-of-the-ai-boom-and"
+      "url": "https://www.tmgm.com/zh-hant/analysis/market-news/article/dow-jones-futures-advance-as-tech-stocks-rebound-ahead-of-looming-nvidia-earnings-202608250856"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "輝達 8 月 26 日財報",
-      "title": "輝達 8 月 26 日財報：NVDA 股價展望與預測",
-      "originalTitle": "輝達 8 月 26 日財報：NVDA 股價展望與預測",
-      "translatedTitle": "輝達 8 月 26 日財報：NVDA 股價展望與預測",
+      "subject": "輝達Q2財報前瞻",
+      "title": "輝達Q2財報前瞻：920億美元營收預期難阻股價七連跌，華爾街仍看漲至350美元",
+      "originalTitle": "輝達Q2財報前瞻：920億美元營收預期難阻股價七連跌，華爾街仍看漲至350美元",
+      "translatedTitle": "輝達Q2財報前瞻：920億美元營收預期難阻股價七連跌，華爾街仍看漲至350美元",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "Bitget",
-      "publishedAt": "2026-08-24T16:41:59.000Z",
-      "fact": "Bitget 報導：輝達 8 月 26 日財報：NVDA 股價展望與預測",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達 8 月 26 日財報：NVDA 股價展望與預測 &nbsp;&nbsp; Bitget。",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-25T07:14:55.000Z",
+      "fact": "TradingKey 報導：輝達Q2財報前瞻：920億美元營收預期難阻股價七連跌，華爾街仍看漲至350美元",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達Q2財報前瞻：920億美元營收預期難阻股價七連跌，華爾街仍看漲至350美元 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://www.bitget.com/zh-TC/amp/academy/nvidia-earnings-august-26-nvda-stock-price-prediction-news"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262129739-nvidia-q2-earnings-preview-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "盤前先跌5%再漲超5%，拼多多這份財報該怎麼看？",
-      "title": "盤前先跌5%再漲超5%，拼多多這份財報該怎麼看？",
-      "originalTitle": "盤前先跌5%再漲超5%，拼多多這份財報該怎麼看？",
-      "translatedTitle": "盤前先跌5%再漲超5%，拼多多這份財報該怎麼看？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Hong Kong",
+      "title": "Hong Kong-listed PCB 股票 are being driven by the dual forces of surging AI computing 需求 and pricing power, with Kingboard Laminates Holdings and Kingboard Group rising post-財報.",
+      "originalTitle": "Hong Kong-listed PCB stocks are being driven by the dual forces of surging AI computing demand and pricing power, with Kingboard Laminates Holdings and Kingboard Group rising post-earnings.",
+      "translatedTitle": "Hong Kong-listed PCB 股票 are being driven by the dual forces of surging AI computing 需求 and pricing power, with Kingboard Laminates Holdings and Kingboard Group rising post-財報.",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-08-24T13:11:57.000Z",
-      "fact": "TradingKey 報導：盤前先跌5%再漲超5%，拼多多這份財報該怎麼看？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；盤前先跌5%再漲超5%，拼多多這份財報該怎麼看？ &nbsp;&nbsp; TradingKey。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-25T06:25:00.000Z",
+      "fact": "富途牛牛 報導：Hong Kong-listed PCB 股票 are being driven by the dual forces of surging AI computing 需求 and pricing power, with Kingboard Laminates Holdings and Kingboard Group rising post-財報.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Hong Kong-listed PCB stocks are being driven by the dual forces of surging AI computing demand and pricing power, with K。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "AI",
+        "earnings",
+        "stocks"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262127797-pdd-q2-earnings-premarket-revenue-miss-profit-beat-stock-analysis-tradingkey"
+      "url": "https://news.futunn.com/en/post/78185923/hong-kong-listed-pcb-stocks-are-being-driven-by-the"
     }
   ]
 }
