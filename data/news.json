@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-08-27T02:24:58.798Z",
+  "generatedAt": "2026-08-27T05:28:59.780Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？",
-      "originalTitle": "Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？",
-      "translatedTitle": "Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？",
+      "subject": "Google",
+      "title": "獨家》Google曝63％用戶會「開口聊」！Gemini Live升級 語音就能交辦工作",
+      "originalTitle": "獨家》Google曝63％用戶會「開口聊」！Gemini Live升級 語音就能交辦工作",
+      "translatedTitle": "獨家》Google曝63％用戶會「開口聊」！Gemini Live升級 語音就能交辦工作",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "CIO Taiwan",
-      "publishedAt": "2026-08-26T03:55:47.000Z",
-      "fact": "CIO Taiwan 報導：Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？ &nbsp;&nbsp; CIO Taiwan。",
+      "source": "自由財經",
+      "publishedAt": "2026-08-27T03:47:56.000Z",
+      "fact": "自由財經 報導：獨家》Google曝63％用戶會「開口聊」！Gemini Live升級 語音就能交辦工作",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；獨家》Google曝63％用戶會「開口聊」！Gemini Live升級 語音就能交辦工作 &nbsp;&nbsp; 自由財經。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
-        "AI"
+        "Google"
       ],
-      "url": "https://www.cio.com.tw/118838/"
+      "url": "https://ec.ltn.com.tw/article/breakingnews/5553973"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -47,6 +46,27 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？",
+      "originalTitle": "Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？",
+      "translatedTitle": "Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "CIO Taiwan",
+      "publishedAt": "2026-08-26T03:55:47.000Z",
+      "fact": "CIO Taiwan 報導：Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 自曝 8 成程式碼由 AI 寫成 當 AI 也會判斷時，人類的價值剩什麼？ &nbsp;&nbsp; CIO Taiwan。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://www.cio.com.tw/118838/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：G-P Delivers Compliant Global Workforce Intelligence to Enterprise AI Tools",
       "originalTitle": "G-P Delivers Compliant Global Workforce Intelligence to Enterprise AI Tools",
@@ -65,7 +85,7 @@
       "url": "https://www.quamnet.com/post/nPf13K2iv9pOYsHKXt5H_"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "印度AI新勢力豪買9000套輝達Rubin 首批算力已被",
       "title": "印度AI新勢力豪買9000套輝達Rubin 首批算力已被美企包下",
@@ -83,26 +103,6 @@
         "AI"
       ],
       "url": "https://news.cnyes.com/news/id/6587668"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用",
-      "title": "大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用 - 科技新聞 - PChome Online 新聞",
-      "originalTitle": "大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用 - 科技新聞 - PChome Online 新聞",
-      "translatedTitle": "大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用 - 科技新聞 - PChome Online 新聞",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-08-25T15:36:14.000Z",
-      "fact": "PChome Online 新聞 報導：大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用 - 科技新聞 - PChome Online 新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；大型語言模型現「視覺幻覺」 學者憂 AI 可靠性挑戰應用 - 科技新聞 - PChome Online 新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.pchome.com.tw/science/sunmedia/20260825/index-78767217445694329005.html"
     },
     {
       "id": "全球財經脈動-1",
@@ -167,6 +167,51 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
+      "subject": "Dow gains 155 points at open",
+      "title": "Dow gains 155 points at open as AI 股票 surge ahead of 輝達 財報",
+      "originalTitle": "Dow gains 155 points at open as AI stocks surge ahead of Nvidia earnings",
+      "translatedTitle": "Dow gains 155 points at open as AI 股票 surge ahead of 輝達 財報",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-08-25T13:50:29.000Z",
+      "fact": "TradingView 報導：Dow gains 155 points at open as AI 股票 surge ahead of 輝達 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Dow gains 155 points at open as AI stocks surge ahead of Nvidia earnings &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/invezz:2698f5225094b:0-dow-gains-155-points-at-open-as-ai-stocks-surge-ahead-of-nvidia-earnings/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "What 輝達's 財報 Signal About th",
+      "title": "What 輝達's 財報 Signal About the AI 投資 Cycle",
+      "originalTitle": "What Nvidia's Earnings Signal About the AI Investment Cycle",
+      "translatedTitle": "What 輝達's 財報 Signal About the AI 投資 Cycle",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-08-27T01:40:47.000Z",
+      "fact": "Moomoo 報導：What 輝達's 財報 Signal About the AI 投資 Cycle",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；What Nvidia's Earnings Signal About the AI Investment Cycle &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "earnings"
+      ],
+      "url": "https://www.moomoo.com/news/video/75337087/what-nvidia-s-earnings-signal-about-the-ai-investment-cycle"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "輝達Q2營收年增106%！資料中心業務收入創歷史新高，惟",
       "title": "輝達Q2營收年增106%！資料中心業務收入創歷史新高，惟盤後股價小幅下跌1%",
       "originalTitle": "輝達Q2營收年增106%！資料中心業務收入創歷史新高，惟盤後股價小幅下跌1%",
@@ -184,86 +229,45 @@
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262133930-nvidia-nvda-earnings-report-q2-2027-data-center-blackwell-ultra-ai-tradingkey"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Marvell Technology (MRVL) Re",
-      "title": "Marvell Technology (MRVL) Reports 財報 Tomorrow: What To Expect",
-      "originalTitle": "Marvell Technology (MRVL) Reports Earnings Tomorrow: What To Expect",
-      "translatedTitle": "Marvell Technology (MRVL) Reports 財報 Tomorrow: What To Expect",
+      "subject": "European 晶片股 Mixed Ahead of ",
+      "title": "European 晶片股 Mixed Ahead of 輝達 財報 — 市場 Talk",
+      "originalTitle": "European Chip Stocks Mixed Ahead of Nvidia Earnings -- Market Talk",
+      "translatedTitle": "European 晶片股 Mixed Ahead of 輝達 財報 — 市場 Talk",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-08-26T03:02:22.000Z",
-      "fact": "TradingView 報導：Marvell Technology (MRVL) Reports 財報 Tomorrow: What To Expect",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Marvell Technology (MRVL) Reports Earnings Tomorrow: What To Expect &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "earnings"
-      ],
-      "url": "https://tw.tradingview.com/news/stockstory:a7c5da056094b:0-marvell-technology-mrvl-reports-earnings-tomorrow-what-to-expect/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達's 財報 to Test AI Trade — 市",
-      "title": "輝達's 財報 to Test AI Trade — 市場 Talk",
-      "originalTitle": "Nvidia's Earnings to Test AI Trade -- Market Talk",
-      "translatedTitle": "輝達's 財報 to Test AI Trade — 市場 Talk",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-25T16:20:54.000Z",
-      "fact": "Moomoo 報導：輝達's 財報 to Test AI Trade — 市場 Talk",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia's Earnings to Test AI Trade -- Market Talk &nbsp;&nbsp; Moomoo。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-26T09:21:38.000Z",
+      "fact": "富途牛牛 報導：European 晶片股 Mixed Ahead of 輝達 財報 — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Chip Stocks Mixed Ahead of Nvidia Earnings -- Market Talk &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "Nvidia",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/75209479/nvidia-s-earnings-to-test-ai-trade-market-talk"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "European Indexes Mostly Gain",
-      "title": "European Indexes Mostly Gain, Tech 股票 Fall — 市場 Talk",
-      "originalTitle": "European Indexes Mostly Gain, Tech Stocks Fall -- Market Talk",
-      "translatedTitle": "European Indexes Mostly Gain, Tech 股票 Fall — 市場 Talk",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-26T12:20:49.000Z",
-      "fact": "富途牛牛 報導：European Indexes Mostly Gain, Tech 股票 Fall — 市場 Talk",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Indexes Mostly Gain, Tech Stocks Fall -- Market Talk &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
+        "earnings",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/78265761/european-indexes-mostly-gain-tech-stocks-fall-market-talk"
+      "url": "https://news.futunn.com/hk/post/78272547/european-chip-stocks-mixed-ahead-of-nvidia-earnings-market-talk"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
-      "title": "輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
-      "originalTitle": "輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
-      "translatedTitle": "輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
+      "subject": "TradingKey 每日市場簡報",
+      "title": "TradingKey 每日市場簡報：輝達財報超預期，PCE通膨偏強壓制市場情緒，市場聚焦Jackson Hole會議",
+      "originalTitle": "TradingKey 每日市場簡報：輝達財報超預期，PCE通膨偏強壓制市場情緒，市場聚焦Jackson Hole會議",
+      "translatedTitle": "TradingKey 每日市場簡報：輝達財報超預期，PCE通膨偏強壓制市場情緒，市場聚焦Jackson Hole會議",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-08-25T08:42:39.000Z",
-      "fact": "TechNews 科技新報 報導：輝達財報倒數股價連七跌，市場關注 2028 年需求能見度",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達財報倒數股價連七跌，市場關注 2028 年需求能見度 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-27T00:56:59.000Z",
+      "fact": "TradingKey 報導：TradingKey 每日市場簡報：輝達財報超預期，PCE通膨偏強壓制市場情緒，市場聚焦Jackson Hole會議",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；TradingKey 每日市場簡報：輝達財報超預期，PCE通膨偏強壓制市場情緒，市場聚焦Jackson Hole會議 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://finance.technews.tw/2026/08/25/nvidia-earnings-countdown-stock-falls-seven-days-market-focus-2028-demand-visibility/"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262134182-nvda-earnings-exceeds-expectations-strong-pce-inflation-jackson-hole-tradingkey"
     }
   ]
 }
