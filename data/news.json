@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-08-29T03:25:25.828Z",
+  "generatedAt": "2026-08-29T04:35:34.296Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "不是新機就有！Google最強Gemini AI首批只認這7款手機",
+      "originalTitle": "不是新機就有！Google最強Gemini AI首批只認這7款手機",
+      "translatedTitle": "不是新機就有！Google最強Gemini AI首批只認這7款手機",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "自由電子報3C科技",
+      "publishedAt": "2026-08-29T04:00:00.000Z",
+      "fact": "自由電子報3C科技 報導：不是新機就有！Google最強Gemini AI首批只認這7款手機",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；不是新機就有！Google最強Gemini AI首批只認這7款手機 &nbsp;&nbsp; 自由電子報3C科技。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://3c.ltn.com.tw/news/67386"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "買過的書都能變 AI 顧問！Google Gemini Notebook 首波支援逾 10 萬本書",
@@ -24,7 +45,7 @@
       "url": "https://www.inside.com.tw/article/42237-google-gemini-notebook-expert-intelligence-books"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "電子書變個人智庫！Gemini Notebook新功能上",
       "title": "電子書變個人智庫！Gemini Notebook新功能上線，10萬本電子書可直接匯入AI筆記本問答",
@@ -42,27 +63,6 @@
         "AI"
       ],
       "url": "https://www.bnext.com.tw/article/92042/gemini-notebook-expert-intelligence-ebooks"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic推出模型硬體標準，讓AI代理直接操作實驗室與製造設備",
-      "originalTitle": "Anthropic推出模型硬體標準，讓AI代理直接操作實驗室與製造設備",
-      "translatedTitle": "Anthropic推出模型硬體標準，讓AI代理直接操作實驗室與製造設備",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "iThome",
-      "publishedAt": "2026-08-28T04:21:33.000Z",
-      "fact": "iThome 報導：Anthropic推出模型硬體標準，讓AI代理直接操作實驗室與製造設備",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic推出模型硬體標準，讓AI代理直接操作實驗室與製造設備 &nbsp;&nbsp; iThome。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://www.ithome.com.tw/news/178508"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -176,28 +176,6 @@
       "translatedTitle": "Software and 晶片股 Surge in AI-Fueled 財報 Blowout — WSJ",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-27T16:10:07.000Z",
-      "fact": "Moomoo 報導：Software and 晶片股 Surge in AI-Fueled 財報 Blowout — WSJ",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Software and Chip Stocks Surge in AI-Fueled Earnings Blowout -- WSJ &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/75400180/software-and-chip-stocks-surge-in-ai-fueled-earnings-blowout"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Software and 晶片股 Surge in AI",
-      "title": "Software and 晶片股 Surge in AI-Fueled 財報 Blowout — WSJ",
-      "originalTitle": "Software and Chip Stocks Surge in AI-Fueled Earnings Blowout -- WSJ",
-      "translatedTitle": "Software and 晶片股 Surge in AI-Fueled 財報 Blowout — WSJ",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
       "source": "富途牛牛",
       "publishedAt": "2026-08-27T16:09:42.000Z",
       "fact": "富途牛牛 報導：Software and 晶片股 Surge in AI-Fueled 財報 Blowout — WSJ",
@@ -212,7 +190,7 @@
       "url": "https://news.futunn.com/hk/post/78389774/software-and-chip-stocks-surge-in-ai-fueled-earnings-blowout"
     },
     {
-      "id": "美股與全球市場焦點-5",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Amazon",
       "title": "輝達 Leads the AI 熱潮 as 微軟, Amazon and 蘋果 股票 Fall Behind",
@@ -233,6 +211,27 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/gurufocus:5dcddc595094b:0-nvidia-leads-the-ai-boom-as-microsoft-amazon-and-apple-stocks-fall-behind/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "SpaceX 股票 Gets a Lift From 輝",
+      "title": "SpaceX 股票 Gets a Lift From 輝達 財報 — Barron’s.com",
+      "originalTitle": "SpaceX Stock Gets a Lift From Nvidia Earnings -- Barrons.com",
+      "translatedTitle": "SpaceX 股票 Gets a Lift From 輝達 財報 — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-08-27T11:38:55.000Z",
+      "fact": "Moomoo 報導：SpaceX 股票 Gets a Lift From 輝達 財報 — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SpaceX Stock Gets a Lift From Nvidia Earnings -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "earnings"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/75381155/spacex-stock-gets-a-lift-from-nvidia-earnings-barronscom"
     }
   ]
 }
