@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-08-29T04:35:34.296Z",
+  "generatedAt": "2026-08-29T23:42:30.689Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Gemini Live 代理能力大升級",
+      "title": "Gemini Live 代理能力大升級：語音交辦 Spark 多步驟任務、Daily Brief 與免持 Gmail 管理",
+      "originalTitle": "Gemini Live 代理能力大升級：語音交辦 Spark 多步驟任務、Daily Brief 與免持 Gmail 管理",
+      "translatedTitle": "Gemini Live 代理能力大升級：語音交辦 Spark 多步驟任務、Daily Brief 與免持 Gmail 管理",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "電腦王阿達",
+      "publishedAt": "2026-08-29T15:58:26.000Z",
+      "fact": "電腦王阿達 報導：Gemini Live 代理能力大升級：語音交辦 Spark 多步驟任務、Daily Brief 與免持 Gmail 管理",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini Live 代理能力大升級：語音交辦 Spark 多步驟任務、Daily Brief 與免持 Gmail 管理 &nbsp;&nbsp; 電腦王阿達。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.kocpc.com.tw/archives/667007"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "不是新機就有！Google最強Gemini AI首批只認這7款手機",
@@ -21,10 +41,31 @@
         "Google",
         "AI"
       ],
-      "url": "https://3c.ltn.com.tw/news/67386"
+      "url": "https://3c.ltn.com.tw/amp/news/67386"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "新機未必能用！Google揭Gemini AI硬門檻 首批僅7款手機入列",
+      "originalTitle": "新機未必能用！Google揭Gemini AI硬門檻 首批僅7款手機入列",
+      "translatedTitle": "新機未必能用！Google揭Gemini AI硬門檻 首批僅7款手機入列",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "TVBS新聞網",
+      "publishedAt": "2026-08-29T05:50:00.000Z",
+      "fact": "TVBS新聞網 報導：新機未必能用！Google揭Gemini AI硬門檻 首批僅7款手機入列",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；新機未必能用！Google揭Gemini AI硬門檻 首批僅7款手機入列 &nbsp;&nbsp; TVBS新聞網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://news.tvbs.com.tw/tech/4014495"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "買過的書都能變 AI 顧問！Google Gemini Notebook 首波支援逾 10 萬本書",
@@ -45,66 +86,24 @@
       "url": "https://www.inside.com.tw/article/42237-google-gemini-notebook-expert-intelligence-books"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "電子書變個人智庫！Gemini Notebook新功能上",
-      "title": "電子書變個人智庫！Gemini Notebook新功能上線，10萬本電子書可直接匯入AI筆記本問答",
-      "originalTitle": "電子書變個人智庫！Gemini Notebook新功能上線，10萬本電子書可直接匯入AI筆記本問答",
-      "translatedTitle": "電子書變個人智庫！Gemini Notebook新功能上線，10萬本電子書可直接匯入AI筆記本問答",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "數位時代",
-      "publishedAt": "2026-08-28T09:15:00.000Z",
-      "fact": "數位時代 報導：電子書變個人智庫！Gemini Notebook新功能上線，10萬本電子書可直接匯入AI筆記本問答",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；電子書變個人智庫！Gemini Notebook新功能上線，10萬本電子書可直接匯入AI筆記本問答 &nbsp;&nbsp; 數位時代。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.bnext.com.tw/article/92042/gemini-notebook-expert-intelligence-ebooks"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "輝達 Reportedly Bets $12.9B On Hugging Face As CEO Jensen Huang 股價 ‘Regret’ Over AI Investments In OpenAI, Anthropic",
-      "originalTitle": "Nvidia Reportedly Bets $12.9B On Hugging Face As CEO Jensen Huang Shares ‘Regret’ Over AI Investments In OpenAI, Anthropic",
-      "translatedTitle": "輝達 Reportedly Bets $12.9B On Hugging Face As CEO Jensen Huang 股價 ‘Regret’ Over AI Investments In OpenAI, Anthropic",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-08-27T12:55:02.000Z",
-      "fact": "TradingView 報導：輝達 Reportedly Bets $12.9B On Hugging Face As CEO Jensen Huang 股價 ‘Regret’ Over AI Investments In OpenAI, Anthropic",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Nvidia Reportedly Bets $12.9B On Hugging Face As CEO Jensen Huang Shares ‘Regret’ Over AI Investments In OpenAI, Anthrop。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Anthropic",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/stocktwits:542e27f8d094b:0-nvidia-reportedly-bets-12-9b-on-hugging-face-as-ceo-jensen-huang-shares-regret-over-ai-investments-in-openai-anthropic/"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Gemini Notebook 加入專家智慧，首波 10",
-      "title": "Gemini Notebook 加入專家智慧，首波 10 萬本電子書做資料來源",
-      "originalTitle": "Gemini Notebook 加入專家智慧，首波 10 萬本電子書做資料來源",
-      "translatedTitle": "Gemini Notebook 加入專家智慧，首波 10 萬本電子書做資料來源",
+      "subject": "進軍無螢幕AI眼鏡！傳蘋果將於WWDC 2027發表首款",
+      "title": "進軍無螢幕AI眼鏡！傳蘋果將於WWDC 2027發表首款智慧眼鏡，導入視覺智慧與Siri實境互動",
+      "originalTitle": "進軍無螢幕AI眼鏡！傳蘋果將於WWDC 2027發表首款智慧眼鏡，導入視覺智慧與Siri實境互動",
+      "translatedTitle": "進軍無螢幕AI眼鏡！傳蘋果將於WWDC 2027發表首款智慧眼鏡，導入視覺智慧與Siri實境互動",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-08-28T08:23:19.000Z",
-      "fact": "TechNews 科技新報 報導：Gemini Notebook 加入專家智慧，首波 10 萬本電子書做資料來源",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini Notebook 加入專家智慧，首波 10 萬本電子書做資料來源 &nbsp;&nbsp; TechNews 科技新報。",
+      "category": "AI 與科技前沿",
+      "source": "Mashdigi",
+      "publishedAt": "2026-08-29T16:01:30.000Z",
+      "fact": "Mashdigi 報導：進軍無螢幕AI眼鏡！傳蘋果將於WWDC 2027發表首款智慧眼鏡，導入視覺智慧與Siri實境互動",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；進軍無螢幕AI眼鏡！傳蘋果將於WWDC 2027發表首款智慧眼鏡，導入視覺智慧與Siri實境互動 &nbsp;&nbsp; Mashdigi。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "AI"
       ],
-      "url": "https://technews.tw/2026/08/28/google-introduces-expert-intelligence/"
+      "url": "https://mashdigi.com/apple-is-reportedly-moving-into-screenless-ai-glasses-its-rumored-that-apple-will-unveil-its-first-smart-glasses-at-wwdc-2027-incorporating-visual-intelligence-and-siris-real-time-interaction/"
     },
     {
       "id": "全球財經脈動-1",
@@ -128,110 +127,102 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "輝達 posts strong performance ",
-      "title": "輝達 posts strong performance in second quarter 財報 report",
-      "originalTitle": "Nvidia posts strong performance in second quarter earnings report",
-      "translatedTitle": "輝達 posts strong performance in second quarter 財報 report",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "博通Q3財報前瞻",
+      "title": "博通Q3財報前瞻：AI營收增速成關鍵，華爾街最高目標價630美元",
+      "originalTitle": "博通Q3財報前瞻：AI營收增速成關鍵，華爾街最高目標價630美元",
+      "translatedTitle": "博通Q3財報前瞻：AI營收增速成關鍵，華爾街最高目標價630美元",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "Formosa News",
-      "publishedAt": "2026-08-27T07:00:00.000Z",
-      "fact": "Formosa News 報導：輝達 posts strong performance in second quarter 財報 report",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia posts strong performance in second quarter earnings report &nbsp;&nbsp; Formosa News。",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-29T21:06:10.000Z",
+      "fact": "TradingKey 報導：博通Q3財報前瞻：AI營收增速成關鍵，華爾街最高目標價630美元",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；博通Q3財報前瞻：AI營收增速成關鍵，華爾街最高目標價630美元 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
-        "earnings"
+        "AI"
       ],
-      "url": "https://english.ftvnews.com.tw/news/2026827W01EA"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262139992-broadcom-q3-earnings-preview-ai-revenue-growth-key-wall-street-price-target-jay-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "AMD and INTC Are 2 AI 半導體 Be",
-      "title": "AMD and INTC Are 2 AI 半導體 Behemoths Ahead of NVDA in 2026",
-      "originalTitle": "AMD and INTC Are 2 AI Semiconductor Behemoths Ahead of NVDA in 2026",
-      "translatedTitle": "AMD and INTC Are 2 AI 半導體 Behemoths Ahead of NVDA in 2026",
+      "subject": "AI 股票 Are Crowded. Where to ",
+      "title": "AI 股票 Are Crowded. Where to Shop Instead. — Barron’s",
+      "originalTitle": "AI Stocks Are Crowded. Where to Shop Instead. -- Barron's",
+      "translatedTitle": "AI 股票 Are Crowded. Where to Shop Instead. — Barron’s",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "TradingView",
-      "publishedAt": "2026-08-27T11:32:00.000Z",
-      "fact": "TradingView 報導：AMD and INTC Are 2 AI 半導體 Behemoths Ahead of NVDA in 2026",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AMD and INTC Are 2 AI Semiconductor Behemoths Ahead of NVDA in 2026 &nbsp;&nbsp; TradingView。",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-08-29T01:30:00.000Z",
+      "fact": "Moomoo 報導：AI 股票 Are Crowded. Where to Shop Instead. — Barron’s",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stocks Are Crowded. Where to Shop Instead. -- Barron's &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "semiconductor"
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/zacks:ef4419a3f094b:0-amd-and-intc-are-2-ai-semiconductor-behemoths-ahead-of-nvda-in-2026/"
+      "url": "https://www.moomoo.com/hant/news/post/75498323/ai-stocks-are-crowded-where-to-shop-instead-barron-s"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Software and 晶片股 Surge in AI",
-      "title": "Software and 晶片股 Surge in AI-Fueled 財報 Blowout — WSJ",
-      "originalTitle": "Software and Chip Stocks Surge in AI-Fueled Earnings Blowout -- WSJ",
-      "translatedTitle": "Software and 晶片股 Surge in AI-Fueled 財報 Blowout — WSJ",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環",
+      "title": "輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環融資風險成焦點",
+      "originalTitle": "輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環融資風險成焦點",
+      "translatedTitle": "輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環融資風險成焦點",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-27T16:09:42.000Z",
-      "fact": "富途牛牛 報導：Software and 晶片股 Surge in AI-Fueled 財報 Blowout — WSJ",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Software and Chip Stocks Surge in AI-Fueled Earnings Blowout -- WSJ &nbsp;&nbsp; 富途牛牛。",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-08-29T08:05:41.000Z",
+      "fact": "TechNews 科技新報 報導：輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環融資風險成焦點",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環融資風險成焦點 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI",
-        "earnings",
-        "stocks"
+        "市場焦點"
       ],
-      "url": "https://news.futunn.com/hk/post/78389774/software-and-chip-stocks-surge-in-ai-fueled-earnings-blowout"
+      "url": "https://finance.technews.tw/2026/08/29/nvidia-earnings-stock-rebound-jensen-huang-revolving-financing-concern/"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Amazon",
-      "title": "輝達 Leads the AI 熱潮 as 微軟, Amazon and 蘋果 股票 Fall Behind",
-      "originalTitle": "Nvidia Leads the AI Boom as Microsoft, Amazon and Apple Stocks Fall Behind",
-      "translatedTitle": "輝達 Leads the AI 熱潮 as 微軟, Amazon and 蘋果 股票 Fall Behind",
+      "subject": "Micron 股票 has surged 220%",
+      "title": "Micron 股票 has surged 220%: here’s the 風險 bulls may be underestimating",
+      "originalTitle": "Micron stock has surged 220%: here’s the risk bulls may be underestimating",
+      "translatedTitle": "Micron 股票 has surged 220%: here’s the 風險 bulls may be underestimating",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-08-27T17:00:46.000Z",
-      "fact": "TradingView 報導：輝達 Leads the AI 熱潮 as 微軟, Amazon and 蘋果 股票 Fall Behind",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Leads the AI Boom as Microsoft, Amazon and Apple Stocks Fall Behind &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-08-28T08:35:48.000Z",
+      "fact": "TradingView 報導：Micron 股票 has surged 220%: here’s the 風險 bulls may be underestimating",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Micron stock has surged 220%: here’s the risk bulls may be underestimating &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "Apple",
-        "Microsoft",
-        "Nvidia",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:5dcddc595094b:0-nvidia-leads-the-ai-boom-as-microsoft-amazon-and-apple-stocks-fall-behind/"
+      "url": "https://tw.tradingview.com/news/invezz:65d97628f094b:0-micron-stock-has-surged-220-here-s-the-risk-bulls-may-be-underestimating/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "SpaceX 股票 Gets a Lift From 輝",
-      "title": "SpaceX 股票 Gets a Lift From 輝達 財報 — Barron’s.com",
-      "originalTitle": "SpaceX Stock Gets a Lift From Nvidia Earnings -- Barrons.com",
-      "translatedTitle": "SpaceX 股票 Gets a Lift From 輝達 財報 — Barron’s.com",
+      "subject": "輝達 股票 Is Too Cheap. 蘋果 Once ",
+      "title": "輝達 股票 Is Too Cheap. 蘋果 Once Had the Same Issue. — Barron’s",
+      "originalTitle": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Issue. -- Barron's",
+      "translatedTitle": "輝達 股票 Is Too Cheap. 蘋果 Once Had the Same Issue. — Barron’s",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-08-27T11:38:55.000Z",
-      "fact": "Moomoo 報導：SpaceX 股票 Gets a Lift From 輝達 財報 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SpaceX Stock Gets a Lift From Nvidia Earnings -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-29T02:11:37.000Z",
+      "fact": "富途牛牛 報導：輝達 股票 Is Too Cheap. 蘋果 Once Had the Same Issue. — Barron’s",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Stock Is Too Cheap. Apple Once Had the Same Issue. -- Barron's &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
-        "earnings"
+        "Apple",
+        "Nvidia"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/75381155/spacex-stock-gets-a-lift-from-nvidia-earnings-barronscom"
+      "url": "https://news.futunn.com/hk/post/78488014/nvidia-stock-is-too-cheap-apple-once-had-the-same"
     }
   ]
 }
