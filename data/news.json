@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T23:42:30.689Z",
+  "generatedAt": "2026-08-30T02:06:47.780Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -168,6 +168,26 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
+      "subject": "Salesforce (CRM) 股票 Soars on",
+      "title": "Salesforce (CRM) 股票 Soars on Q2 財報: Is It Too Late to Buy?",
+      "originalTitle": "Salesforce (CRM) Stock Soars on Q2 Earnings: Is It Too Late to Buy?",
+      "translatedTitle": "Salesforce (CRM) 股票 Soars on Q2 財報: Is It Too Late to Buy?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-08-28T19:23:00.000Z",
+      "fact": "TradingView 報導：Salesforce (CRM) 股票 Soars on Q2 財報: Is It Too Late to Buy?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Salesforce (CRM) Stock Soars on Q2 Earnings: Is It Too Late to Buy? &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "earnings"
+      ],
+      "url": "https://tw.tradingview.com/news/zacks:5aea21d1c094b:0-salesforce-crm-stock-soars-on-q2-earnings-is-it-too-late-to-buy/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
       "subject": "輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環",
       "title": "輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環融資風險成焦點",
       "originalTitle": "輝達財報出爐股價跌轉升！但擔保金額超越單季營收，輝達循環融資風險成焦點",
@@ -185,7 +205,7 @@
       "url": "https://finance.technews.tw/2026/08/29/nvidia-earnings-stock-rebound-jensen-huang-revolving-financing-concern/"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Micron 股票 has surged 220%",
       "title": "Micron 股票 has surged 220%: here’s the 風險 bulls may be underestimating",
@@ -202,27 +222,6 @@
         "市場焦點"
       ],
       "url": "https://tw.tradingview.com/news/invezz:65d97628f094b:0-micron-stock-has-surged-220-here-s-the-risk-bulls-may-be-underestimating/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達 股票 Is Too Cheap. 蘋果 Once ",
-      "title": "輝達 股票 Is Too Cheap. 蘋果 Once Had the Same Issue. — Barron’s",
-      "originalTitle": "Nvidia Stock Is Too Cheap. Apple Once Had the Same Issue. -- Barron's",
-      "translatedTitle": "輝達 股票 Is Too Cheap. 蘋果 Once Had the Same Issue. — Barron’s",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-08-29T02:11:37.000Z",
-      "fact": "富途牛牛 報導：輝達 股票 Is Too Cheap. 蘋果 Once Had the Same Issue. — Barron’s",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Stock Is Too Cheap. Apple Once Had the Same Issue. -- Barron's &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Apple",
-        "Nvidia"
-      ],
-      "url": "https://news.futunn.com/hk/post/78488014/nvidia-stock-is-too-cheap-apple-once-had-the-same"
     }
   ]
 }
