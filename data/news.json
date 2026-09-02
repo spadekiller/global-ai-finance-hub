@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T23:40:49.068Z",
+  "generatedAt": "2026-09-02T01:44:48.723Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -48,61 +48,63 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "巴克萊報告",
-      "title": "巴克萊報告：AI 公司每賺 100 美元，雲端巨頭抽走近四成收入",
-      "originalTitle": "巴克萊報告：AI 公司每賺 100 美元，雲端巨頭抽走近四成收入",
-      "translatedTitle": "巴克萊報告：AI 公司每賺 100 美元，雲端巨頭抽走近四成收入",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "finance.technews.tw",
-      "publishedAt": "2026-08-31T23:34:12.000Z",
-      "fact": "finance.technews.tw 報導：巴克萊報告：AI 公司每賺 100 美元，雲端巨頭抽走近四成收入",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；巴克萊報告：AI 公司每賺 100 美元，雲端巨頭抽走近四成收入 &nbsp;&nbsp; finance.technews.tw。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://finance.technews.tw/2026/09/01/for-every-100-earned-by-model-companies-cloud-providers-take-nearly-40/"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "蘋果新任執行長上任初期面臨考驗",
-      "title": "蘋果新任執行長上任初期面臨考驗",
-      "originalTitle": "蘋果新任執行長上任初期面臨考驗",
-      "translatedTitle": "蘋果新任執行長上任初期面臨考驗",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Business Insider Taiwan",
-      "publishedAt": "2026-09-01T11:14:15.000Z",
-      "fact": "Business Insider Taiwan 報導：蘋果新任執行長上任初期面臨考驗",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果新任執行長上任初期面臨考驗 &nbsp;&nbsp; Business Insider Taiwan。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.businessinsider.tw/article/6538"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：According to The Wall Street Journal, sources",
       "originalTitle": "According to The Wall Street Journal, sources",
       "translatedTitle": "AI 財經快訊：According to The Wall Street Journal, sources",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "news.futunn.com",
+      "source": "富途牛牛",
       "publishedAt": "2026-09-01T21:17:09.000Z",
-      "fact": "news.futunn.com 報導：AI 財經快訊：According to The Wall Street Journal, sources",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；According to The Wall Street Journal, sources &nbsp;&nbsp; news.futunn.com。",
+      "fact": "富途牛牛 報導：AI 財經快訊：According to The Wall Street Journal, sources",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；According to The Wall Street Journal, sources &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
       "url": "https://news.futunn.com/en/flash/20704400/according-to-the-wall-street-journal-google-will-release-the"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Gemini Notebook 可以匯入電子書了！自動生",
+      "title": "Gemini Notebook 可以匯入電子書了！自動生成圖表與摘要，打造個人 AI 知識庫",
+      "originalTitle": "Gemini Notebook 可以匯入電子書了！自動生成圖表與摘要，打造個人 AI 知識庫",
+      "translatedTitle": "Gemini Notebook 可以匯入電子書了！自動生成圖表與摘要，打造個人 AI 知識庫",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "經理人",
+      "publishedAt": "2026-08-31T06:23:00.000Z",
+      "fact": "經理人 報導：Gemini Notebook 可以匯入電子書了！自動生成圖表與摘要，打造個人 AI 知識庫",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini Notebook 可以匯入電子書了！自動生成圖表與摘要，打造個人 AI 知識庫 &nbsp;&nbsp; 經理人。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.managertoday.com.tw/articles/view/72833"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "想買 AI 手機看這篇！Google 首揭官方認證「完整名單」",
+      "originalTitle": "想買 AI 手機看這篇！Google 首揭官方認證「完整名單」",
+      "translatedTitle": "想買 AI 手機看這篇！Google 首揭官方認證「完整名單」",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "ETtoday新聞雲",
+      "publishedAt": "2026-08-31T03:23:00.000Z",
+      "fact": "ETtoday新聞雲 報導：想買 AI 手機看這篇！Google 首揭官方認證「完整名單」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；想買 AI 手機看這篇！Google 首揭官方認證「完整名單」 &nbsp;&nbsp; ETtoday新聞雲。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://www.ettoday.net/news/20260831/3228541.htm"
     },
     {
       "id": "全球財經脈動-1",
@@ -154,10 +156,10 @@
       "translatedTitle": "AI Software 股票 Are at a Turning Point. These 2 Are Showing the Way. — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "news.futunn.com",
+      "source": "富途牛牛",
       "publishedAt": "2026-09-01T06:51:04.000Z",
-      "fact": "news.futunn.com 報導：AI Software 股票 Are at a Turning Point. These 2 Are Showing the Way. — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Software Stocks Are at a Turning Point. These 2 Are Showing the Way. -- Barrons.com &nbsp;&nbsp; news.futunn.com。",
+      "fact": "富途牛牛 報導：AI Software 股票 Are at a Turning Point. These 2 Are Showing the Way. — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Software Stocks Are at a Turning Point. These 2 Are Showing the Way. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
@@ -169,21 +171,22 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "全球市值最大的公司(2026年8月)",
-      "title": "全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化",
-      "originalTitle": "全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化",
-      "translatedTitle": "全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化",
+      "subject": "戴爾財報前瞻",
+      "title": "戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元",
+      "originalTitle": "戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元",
+      "translatedTitle": "戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "tradingkey.com",
-      "publishedAt": "2026-09-01T16:14:46.000Z",
-      "fact": "tradingkey.com 報導：全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化 &nbsp;&nbsp; tradingkey.com。",
+      "source": "TradingKey",
+      "publishedAt": "2026-08-31T11:32:35.000Z",
+      "fact": "TradingKey 報導：戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262144677-largest-company-us-stock-august-2026-ai-nvidia-spacex-semiconductor-micron-skhy-tradingkey"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262141523-dell-earnings-preview-ai-server-backlog-guidance-wall-street-price-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-4",
@@ -209,22 +212,23 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "戴爾財報前瞻",
-      "title": "戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元",
-      "originalTitle": "戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元",
-      "translatedTitle": "戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Why Dell's 股票 Stands to Gain",
+      "title": "Why Dell's 股票 Stands to Gain From Developments at 輝達 and SpaceX",
+      "originalTitle": "Why Dell's Stock Stands to Gain From Developments at Nvidia and SpaceX",
+      "translatedTitle": "Why Dell's 股票 Stands to Gain From Developments at 輝達 and SpaceX",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "tradingkey.com",
-      "publishedAt": "2026-08-31T11:32:35.000Z",
-      "fact": "tradingkey.com 報導：戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；戴爾財報前瞻：AI伺服器訂單與Backlog能否延續成長？華爾街最高看至700美元 &nbsp;&nbsp; tradingkey.com。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-08-31T19:29:00.000Z",
+      "fact": "富途牛牛 報導：Why Dell's 股票 Stands to Gain From Developments at 輝達 and SpaceX",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Dell's Stock Stands to Gain From Developments at Nvidia and SpaceX &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
+        "Nvidia",
         "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262141523-dell-earnings-preview-ai-server-backlog-guidance-wall-street-price-tradingkey"
+      "url": "https://news.futunn.com/hk/post/78582195/why-dell-s-stock-stands-to-gain-from-developments-at"
     }
   ]
 }
