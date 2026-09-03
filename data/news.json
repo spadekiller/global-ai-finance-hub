@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-09-02T23:40:58.352Z",
+  "generatedAt": "2026-09-03T01:50:31.844Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理",
+      "originalTitle": "Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理",
+      "translatedTitle": "Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "硬是要學",
+      "publishedAt": "2026-09-03T00:49:19.000Z",
+      "fact": "硬是要學 報導：Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理 &nbsp;&nbsp; 硬是要學。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.soft4fun.net/tech/news/gemini-3-8-flash-google-announcement.htm"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "德鼎創新合夥人王岳華",
       "title": "德鼎創新合夥人王岳華：穩定幣最大的價值是重新定義全球資金的流動方式",
@@ -20,26 +40,6 @@
         "AI 與科技前沿"
       ],
       "url": "https://news.cnyes.com/news/id/6595305"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "美軍 AI 平台一次納入 ChatGPT、Grok、Ge",
-      "title": "美軍 AI 平台一次納入 ChatGPT、Grok、Gemini：170 萬人已用，多模型成採購策略",
-      "originalTitle": "美軍 AI 平台一次納入 ChatGPT、Grok、Gemini：170 萬人已用，多模型成採購策略",
-      "translatedTitle": "美軍 AI 平台一次納入 ChatGPT、Grok、Gemini：170 萬人已用，多模型成採購策略",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "硬是要學",
-      "publishedAt": "2026-09-02T04:50:18.000Z",
-      "fact": "硬是要學 報導：美軍 AI 平台一次納入 ChatGPT、Grok、Gemini：170 萬人已用，多模型成採購策略",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美軍 AI 平台一次納入 ChatGPT、Grok、Gemini：170 萬人已用，多模型成採購策略 &nbsp;&nbsp; 硬是要學。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.soft4fun.net/tech/news/us-military-genai-mil-chatgpt-grok-gemini-strategy.htm"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -65,6 +65,25 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
+      "subject": "Gemini Notebook電子書怎麼用？台灣4步驟匯",
+      "title": "Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放",
+      "originalTitle": "Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放",
+      "translatedTitle": "Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "數位時代",
+      "publishedAt": "2026-09-02T02:54:00.000Z",
+      "fact": "數位時代 報導：Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放 &nbsp;&nbsp; 數位時代。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.bnext.com.tw/article/92090/gemini-notebook-expert-intelligence"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "Anthropic Claude Fable 5.1跑分66分登頂破紀錄、實證破解罕見系統崩潰減價七成半下、單次任務成本反而微升？",
       "originalTitle": "Anthropic Claude Fable 5.1跑分66分登頂破紀錄、實證破解罕見系統崩潰減價七成半下、單次任務成本反而微升？",
@@ -81,26 +100,6 @@
         "Anthropic"
       ],
       "url": "https://inews.hket.com/article/4187074/Anthropic%20Claude%20Fable%205.1%E8%B7%91%E5%88%8666%E5%88%86%E7%99%BB%E9%A0%82%E7%A0%B4%E7%B4%80%E9%8C%84%E3%80%81%E5%AF%A6%E8%AD%89%E7%A0%B4%E8%A7%A3%E7%BD%95%E8%A6%8B%E7%B3%BB%E7%B5%B1%E5%B4%A9%E6%BD%B0%E3%80%80%E6%B8%9B%E5%83%B9%E4%B8%83%E6%88%90%E5%8D%8A%E4%B8%8B%E3%80%81%E5%96%AE%E6%AC%A1%E4%BB%BB%E5%8B%99%E6%88%90%E6%9C%AC%E5%8F%8D%E8%80%8C%E5%BE%AE%E5%8D%87%EF%BC%9F?mtc"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？",
-      "originalTitle": "Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？",
-      "translatedTitle": "Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "數位時代",
-      "publishedAt": "2026-09-02T03:50:00.000Z",
-      "fact": "數位時代 報導：Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic推出最強模型Fable 5.1！評測跑分史上最高、降價 75%，單一任務成本為何反而貴2成？ &nbsp;&nbsp; 數位時代。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic"
-      ],
-      "url": "https://www.bnext.com.tw/article/92093/anthropic-claude-fable-5-1-mythos-5-1"
     },
     {
       "id": "全球財經脈動-1",
@@ -151,10 +150,10 @@
       "translatedTitle": "GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "tradingkey.com",
+      "source": "TradingKey",
       "publishedAt": "2026-09-02T13:49:17.000Z",
-      "fact": "tradingkey.com 報導：GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價 &nbsp;&nbsp; tradingkey.com。",
+      "fact": "TradingKey 報導：GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
@@ -170,10 +169,10 @@
       "translatedTitle": "Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "tradingkey.com",
+      "source": "TradingKey",
       "publishedAt": "2026-09-02T08:55:44.000Z",
-      "fact": "tradingkey.com 報導：Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價 &nbsp;&nbsp; tradingkey.com。",
+      "fact": "TradingKey 報導：Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
@@ -210,10 +209,10 @@
       "translatedTitle": "戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "tradingkey.com",
+      "source": "TradingKey",
       "publishedAt": "2026-09-02T03:39:41.000Z",
-      "fact": "tradingkey.com 報導：戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元 &nbsp;&nbsp; tradingkey.com。",
+      "fact": "TradingKey 報導：戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
