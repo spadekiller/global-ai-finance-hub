@@ -1,224 +1,270 @@
 {
-  "generatedAt": "2026-09-03T01:50:31.844Z",
+  "generatedAt": "2026-09-03T23:41:36.524Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理",
-      "originalTitle": "Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理",
-      "translatedTitle": "Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "OpenAI",
+      "title": "OpenAI為新AI模型慶功：「歡迎來到AGI時代」",
+      "originalTitle": "OpenAI為新AI模型慶功：「歡迎來到AGI時代」",
+      "translatedTitle": "OpenAI為新AI模型慶功：「歡迎來到AGI時代」",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "硬是要學",
-      "publishedAt": "2026-09-03T00:49:19.000Z",
-      "fact": "硬是要學 報導：Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 3.8 Flash 登場：Google 三週內第三度升級 Flash，主打低價與長步驟推理 &nbsp;&nbsp; 硬是要學。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "source": "Business Insider Taiwan",
+      "publishedAt": "2026-09-03T20:47:55.000Z",
+      "fact": "Business Insider Taiwan 報導：OpenAI為新AI模型慶功：「歡迎來到AGI時代」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI為新AI模型慶功：「歡迎來到AGI時代」 &nbsp;&nbsp; Business Insider Taiwan。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "OpenAI",
+        "AI"
       ],
-      "url": "https://www.soft4fun.net/tech/news/gemini-3-8-flash-google-announcement.htm"
+      "url": "https://www.businessinsider.tw/article/6666"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "德鼎創新合夥人王岳華",
-      "title": "德鼎創新合夥人王岳華：穩定幣最大的價值是重新定義全球資金的流動方式",
-      "originalTitle": "德鼎創新合夥人王岳華：穩定幣最大的價值是重新定義全球資金的流動方式",
-      "translatedTitle": "德鼎創新合夥人王岳華：穩定幣最大的價值是重新定義全球資金的流動方式",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "news.cnyes.com",
-      "publishedAt": "2026-09-02T08:00:16.000Z",
-      "fact": "news.cnyes.com 報導：德鼎創新合夥人王岳華：穩定幣最大的價值是重新定義全球資金的流動方式",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；德鼎創新合夥人王岳華：穩定幣最大的價值是重新定義全球資金的流動方式 &nbsp;&nbsp; news.cnyes.com。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://news.cnyes.com/news/id/6595305"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
       "subject": "Meta",
-      "title": "Meta 重拳打擊偷拍，數千副 AI 智慧眼鏡因「破壞指示燈」遭強制禁用相機",
-      "originalTitle": "Meta 重拳打擊偷拍，數千副 AI 智慧眼鏡因「破壞指示燈」遭強制禁用相機",
-      "translatedTitle": "Meta 重拳打擊偷拍，數千副 AI 智慧眼鏡因「破壞指示燈」遭強制禁用相機",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "title": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
+      "originalTitle": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
+      "translatedTitle": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-09-02T06:41:53.000Z",
-      "fact": "TechNews 科技新報 報導：Meta 重拳打擊偷拍，數千副 AI 智慧眼鏡因「破壞指示燈」遭強制禁用相機",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 重拳打擊偷拍，數千副 AI 智慧眼鏡因「破壞指示燈」遭強制禁用相機 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "techorange.com",
+      "publishedAt": "2026-09-03T03:23:00.000Z",
+      "fact": "techorange.com 報導：Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？ &nbsp;&nbsp; techorange.com。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Meta",
         "AI"
       ],
-      "url": "https://technews.tw/2026/09/02/meta-crackdown-covert-filming-ai-smart-glasses/"
+      "url": "https://techorange.com/2026/09/03/meta-muse-spark-1-3-ai-agent/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "【美股巨頭】蘋果悄悄蓋的不是機房，是AI版圖的邊界線",
+      "title": "【美股巨頭】蘋果悄悄蓋的不是機房，是AI版圖的邊界線",
+      "originalTitle": "【美股巨頭】蘋果悄悄蓋的不是機房，是AI版圖的邊界線",
+      "translatedTitle": "【美股巨頭】蘋果悄悄蓋的不是機房，是AI版圖的邊界線",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-09-03T22:02:06.000Z",
+      "fact": "CMoney投資網誌 報導：【美股巨頭】蘋果悄悄蓋的不是機房，是AI版圖的邊界線",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【美股巨頭】蘋果悄悄蓋的不是機房，是AI版圖的邊界線 &nbsp;&nbsp; CMoney投資網誌。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-1a1bb008-a7e3-11f1-b627-21b783e46171"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Gemini Notebook電子書怎麼用？台灣4步驟匯",
-      "title": "Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放",
-      "originalTitle": "Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放",
-      "translatedTitle": "Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放",
+      "subject": "與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼",
+      "title": "與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼鏡",
+      "originalTitle": "與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼鏡",
+      "translatedTitle": "與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼鏡",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "數位時代",
-      "publishedAt": "2026-09-02T02:54:00.000Z",
-      "fact": "數位時代 報導：Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini Notebook電子書怎麼用？台灣4步驟匯入教學，精選筆記本免費開放 &nbsp;&nbsp; 數位時代。",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-09-03T23:13:04.000Z",
+      "fact": "TechNews 科技新報 報導：與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼鏡",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼鏡 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿"
       ],
-      "url": "https://www.bnext.com.tw/article/92090/gemini-notebook-expert-intelligence"
+      "url": "https://technews.tw/2026/09/04/sam-altman-publicly-says-he-dislikes-smart-glasses/"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic Claude Fable 5.1跑分66分登頂破紀錄、實證破解罕見系統崩潰減價七成半下、單次任務成本反而微升？",
-      "originalTitle": "Anthropic Claude Fable 5.1跑分66分登頂破紀錄、實證破解罕見系統崩潰減價七成半下、單次任務成本反而微升？",
-      "translatedTitle": "Anthropic Claude Fable 5.1跑分66分登頂破紀錄、實證破解罕見系統崩潰減價七成半下、單次任務成本反而微升？",
+      "subject": "Meta",
+      "title": "Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型",
+      "originalTitle": "Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型",
+      "translatedTitle": "Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "香港經濟日報HKET",
-      "publishedAt": "2026-09-02T07:04:28.000Z",
-      "fact": "香港經濟日報HKET 報導：Anthropic Claude Fable 5.1跑分66分登頂破紀錄、實證破解罕見系統崩潰減價七成半下、單次任務成本反而微升？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic Claude Fable 5.1跑分66分登頂破紀錄、實證破解罕見系統崩潰減價七成半下、單次任務成本反而微升？ &nbsp;&nbsp; 香港經濟日報HKET。",
+      "category": "AI 與科技前沿",
+      "source": "NewMobileLife",
+      "publishedAt": "2026-09-03T12:04:32.000Z",
+      "fact": "NewMobileLife 報導：Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型 &nbsp;&nbsp; NewMobileLife。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic"
+        "Meta"
       ],
-      "url": "https://inews.hket.com/article/4187074/Anthropic%20Claude%20Fable%205.1%E8%B7%91%E5%88%8666%E5%88%86%E7%99%BB%E9%A0%82%E7%A0%B4%E7%B4%80%E9%8C%84%E3%80%81%E5%AF%A6%E8%AD%89%E7%A0%B4%E8%A7%A3%E7%BD%95%E8%A6%8B%E7%B3%BB%E7%B5%B1%E5%B4%A9%E6%BD%B0%E3%80%80%E6%B8%9B%E5%83%B9%E4%B8%83%E6%88%90%E5%8D%8A%E4%B8%8B%E3%80%81%E5%96%AE%E6%AC%A1%E4%BB%BB%E5%8B%99%E6%88%90%E6%9C%AC%E5%8F%8D%E8%80%8C%E5%BE%AE%E5%8D%87%EF%BC%9F?mtc"
+      "url": "https://www.newmobilelife.com/2026/09/03/meta-muse-spark-1-3-release/"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "到2032年，數據中心空氣處理機組市場規模將達到$67億",
-      "title": "到2032年，數據中心空氣處理機組市場規模將達到$67億——MarketsandMarkets獨家報告",
-      "originalTitle": "到2032年，數據中心空氣處理機組市場規模將達到$67億——MarketsandMarkets獨家報告",
-      "translatedTitle": "到2032年，數據中心空氣處理機組市場規模將達到$67億——MarketsandMarkets獨家報告",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
+      "subject": "Berkshire Hathaway CEO",
+      "title": "Berkshire Hathaway CEO: Buffett Involved in Alphabet 投資; AI 資料中心 Present Major Opportunity for 能源 Business",
+      "originalTitle": "Berkshire Hathaway CEO: Buffett Involved in Alphabet Investment; AI Data Centers Present Major Opportunity for Energy Business",
+      "translatedTitle": "Berkshire Hathaway CEO: Buffett Involved in Alphabet 投資; AI 資料中心 Present Major Opportunity for 能源 Business",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
       "source": "富途牛牛",
-      "publishedAt": "2026-09-01T10:40:00.000Z",
-      "fact": "富途牛牛 報導：到2032年，數據中心空氣處理機組市場規模將達到$67億——MarketsandMarkets獨家報告",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；到2032年，數據中心空氣處理機組市場規模將達到$67億——MarketsandMarkets獨家報告 &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-09-02T14:16:05.000Z",
+      "fact": "富途牛牛 報導：Berkshire Hathaway CEO: Buffett Involved in Alphabet 投資; AI 資料中心 Present Major Opportunity for 能源 Business",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Berkshire Hathaway CEO: Buffett Involved in Alphabet Investment; AI Data Centers Present Major Opportunity for Energy Bu。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經"
+        "全球財經",
+        "AI",
+        "data center"
       ],
-      "url": "https://news.futunn.com/hk/post/78629660/data-center-air-handling-units-market-worth-6-70-billion"
+      "url": "https://news.futunn.com/en/post/78706697/berkshire-hathaway-ceo-buffett-involved-in-alphabet-investment-ai-data"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Amid the surge in token infe",
+      "title": "Amid the surge in token inference 需求, the GPU hegemon strives to control the \"AI model gateway\"! 輝達 (NVDA.US) aims to acquire Hugging Face for $14 billion this week.",
+      "originalTitle": "Amid the surge in token inference demand, the GPU hegemon strives to control the \"AI model gateway\"! NVIDIA (NVDA.US) aims to acquire Hugging Face for $14 billion this week.",
+      "translatedTitle": "Amid the surge in token inference 需求, the GPU hegemon strives to control the \"AI model gateway\"! 輝達 (NVDA.US) aims to acquire Hugging Face for $14 billion this week.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-02T04:06:00.000Z",
+      "fact": "富途牛牛 報導：Amid the surge in token inference 需求, the GPU hegemon strives to control the \"AI model gateway\"! 輝達 (NVDA.US) aims to acquire Hugging Face for $14 billion this week.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Amid the surge in token inference demand, the GPU hegemon strives to control the \"AI model gateway\"! NVIDIA (NVDA.US) ai。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/78668545/amid-the-surge-in-token-inference-demand-the-gpu-hegemon"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Top 20 by Trading Volume | Dell Surges 15% as It Significantly Raises Full-Year Revenue Outlook",
+      "originalTitle": "Top 20 by Trading Volume | Dell Surges 15% as It Significantly Raises Full-Year Revenue Outlook",
+      "translatedTitle": "AI 財經快訊：Top 20 by Trading Volume | Dell Surges 15% as It Significantly Raises Full-Year Revenue Outlook",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-02T21:12:07.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Top 20 by Trading Volume | Dell Surges 15% as It Significantly Raises Full-Year Revenue Outlook",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Top 20 by Trading Volume | Dell Surges 15% as It Significantly Raises Full-Year Revenue Outlook &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/78718489/top-20-by-trading-volume-dell-surges-15-as-it"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Snowflake 股票's 46% AI Rally ",
-      "title": "Snowflake 股票's 46% AI Rally Faces an 財報 Test — Barron’s.com",
-      "originalTitle": "Snowflake Stock's 46% AI Rally Faces an Earnings Test -- Barrons.com",
-      "translatedTitle": "Snowflake 股票's 46% AI Rally Faces an 財報 Test — Barron’s.com",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Bet on These 3 AI ETFs to Beat the September Curse",
+      "originalTitle": "Bet on These 3 AI ETFs to Beat the September Curse",
+      "translatedTitle": "AI 財經快訊：Bet on These 3 AI ETFs to Beat the September Curse",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-02T07:31:28.000Z",
-      "fact": "富途牛牛 報導：Snowflake 股票's 46% AI Rally Faces an 財報 Test — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake Stock's 46% AI Rally Faces an Earnings Test -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://news.futunn.com/hk/post/78677803/snowflake-stock-s-46-ai-rally-faces-an-earnings-test"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街",
-      "title": "GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價",
-      "originalTitle": "GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價",
-      "translatedTitle": "GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-02T13:49:17.000Z",
-      "fact": "TradingKey 報導：GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GitLab一度飆升24%！Q2業績全面碾壓預期，華爾街火速上調目標價 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262146553-gitlab-surge-24-q2-earnings-beat-hike-target-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Snowflake財報前瞻",
-      "title": "Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價",
-      "originalTitle": "Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價",
-      "translatedTitle": "Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-02T08:55:44.000Z",
-      "fact": "TradingKey 報導：Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake財報前瞻：年內股價漲近50%，華爾街最高給出500美元目標價 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262145989-snowflake-earnings-preview-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "AI Software 股票 Are at a Turn",
-      "title": "AI Software 股票 Are at a Turning Point. These 2 Are Showing the Way. — Barron’s.com",
-      "originalTitle": "AI Software Stocks Are at a Turning Point. These 2 Are Showing the Way. -- Barrons.com",
-      "translatedTitle": "AI Software 股票 Are at a Turning Point. These 2 Are Showing the Way. — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-01T06:51:04.000Z",
-      "fact": "富途牛牛 報導：AI Software 股票 Are at a Turning Point. These 2 Are Showing the Way. — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Software Stocks Are at a Turning Point. These 2 Are Showing the Way. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/hk/post/78608019/ai-software-stocks-are-at-a-turning-point-these-2"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "戴爾股價預測",
-      "title": "戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元",
-      "originalTitle": "戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元",
-      "translatedTitle": "戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-02T03:39:41.000Z",
-      "fact": "TradingKey 報導：戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；戴爾股價預測：財報大幅超預期，AI伺服器訂單爆發，DELL股價有望漲至600美元 &nbsp;&nbsp; TradingKey。",
+      "source": "TradingView",
+      "publishedAt": "2026-09-02T13:26:00.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Bet on These 3 AI ETFs to Beat the September Curse",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Bet on These 3 AI ETFs to Beat the September Curse &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262145430-dell-stock-price-forecast-earnings-beat-ai-price-target-600-tradingkey"
+      "url": "https://tw.tradingview.com/news/zacks:f64d849f8094b:0-bet-on-these-3-ai-etfs-to-beat-the-september-curse/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "Amazon",
+      "title": "微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
+      "originalTitle": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market -- Barrons.com",
+      "translatedTitle": "微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-03T16:06:30.000Z",
+      "fact": "Moomoo 報導：微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Microsoft",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/75778420/microsoft-amazon-and-8-more-stocks-set-to-win-in"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "Snowflake股價為何盤前暴漲超24%？Q2業績超預",
+      "title": "Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引",
+      "originalTitle": "Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引",
+      "translatedTitle": "Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-09-03T12:53:04.000Z",
+      "fact": "TradingKey 報導：Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262148983-why-snowflake-stock-surged-premarket-q2-earnings-beat-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "How One Strategist Warned on",
+      "title": "How One Strategist Warned on 半導體 股票 Within a Day of Their Top",
+      "originalTitle": "How One Strategist Warned on Semiconductor Stocks Within a Day of Their Top",
+      "translatedTitle": "How One Strategist Warned on 半導體 股票 Within a Day of Their Top",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-02T13:10:31.000Z",
+      "fact": "富途牛牛 報導：How One Strategist Warned on 半導體 股票 Within a Day of Their Top",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；How One Strategist Warned on Semiconductor Stocks Within a Day of Their Top &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "semiconductor",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/78701773/how-one-strategist-warned-on-semiconductor-stocks-within-a-day"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "Snowflake股價預測",
+      "title": "Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
+      "originalTitle": "Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
+      "translatedTitle": "Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-09-03T08:22:22.000Z",
+      "fact": "TradingKey 報導：Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？ &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262148434-snowflake-stock-forecast-earnings-beat-sparks-snow-tradingkey"
     }
   ]
 }
