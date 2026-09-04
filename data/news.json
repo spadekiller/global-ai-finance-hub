@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-09-03T23:41:36.524Z",
+  "generatedAt": "2026-09-04T01:45:04.716Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
+      "originalTitle": "GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
+      "translatedTitle": "GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "鉅亨網",
+      "publishedAt": "2026-09-03T23:33:37.000Z",
+      "fact": "鉅亨網 報導：GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始 &nbsp;&nbsp; 鉅亨網。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://m.cnyes.com/news/id/6597012"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI為新AI模型慶功：「歡迎來到AGI時代」",
@@ -24,7 +45,7 @@
       "url": "https://www.businessinsider.tw/article/6666"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
@@ -32,10 +53,10 @@
       "translatedTitle": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "techorange.com",
+      "source": "TechOrange 科技報橘",
       "publishedAt": "2026-09-03T03:23:00.000Z",
-      "fact": "techorange.com 報導：Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？ &nbsp;&nbsp; techorange.com。",
+      "fact": "TechOrange 科技報橘 報導：Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？ &nbsp;&nbsp; TechOrange 科技報橘。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -45,7 +66,7 @@
       "url": "https://techorange.com/2026/09/03/meta-muse-spark-1-3-ai-agent/"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "【美股巨頭】蘋果悄悄蓋的不是機房，是AI版圖的邊界線",
       "title": "【美股巨頭】蘋果悄悄蓋的不是機房，是AI版圖的邊界線",
@@ -65,7 +86,7 @@
       "url": "https://cmnews.com.tw/article/cmoneyairesearcher-1a1bb008-a7e3-11f1-b627-21b783e46171"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼",
       "title": "與戴鏡頭者對話「非常不舒服」，奧特曼公開表示不喜歡智慧眼鏡",
@@ -82,26 +103,6 @@
         "AI 與科技前沿"
       ],
       "url": "https://technews.tw/2026/09/04/sam-altman-publicly-says-he-dislikes-smart-glasses/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型",
-      "originalTitle": "Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型",
-      "translatedTitle": "Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "NewMobileLife",
-      "publishedAt": "2026-09-03T12:04:32.000Z",
-      "fact": "NewMobileLife 報導：Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 發佈 Muse Spark 1.3 價格低效能僅略遜頂級模型 &nbsp;&nbsp; NewMobileLife。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta"
-      ],
-      "url": "https://www.newmobilelife.com/2026/09/03/meta-muse-spark-1-3-release/"
     },
     {
       "id": "全球財經脈動-1",
@@ -127,6 +128,26 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
+      "subject": "Fed",
+      "title": "AI 財經快訊：Is a September rate hike still uncertain? Fed’s third-in-command: Action depends on incoming data",
+      "originalTitle": "Is a September rate hike still uncertain? Fed’s third-in-command: Action depends on incoming data",
+      "translatedTitle": "AI 財經快訊：Is a September rate hike still uncertain? Fed’s third-in-command: Action depends on incoming data",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-02T15:25:32.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Is a September rate hike still uncertain? Fed’s third-in-command: Action depends on incoming data",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Is a September rate hike still uncertain? Fed’s third-in-command: Action depends on incoming data &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/78709241/is-a-september-rate-hike-still-uncertain-fed-s-third"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
       "subject": "Amid the surge in token infe",
       "title": "Amid the surge in token inference 需求, the GPU hegemon strives to control the \"AI model gateway\"! 輝達 (NVDA.US) aims to acquire Hugging Face for $14 billion this week.",
       "originalTitle": "Amid the surge in token inference demand, the GPU hegemon strives to control the \"AI model gateway\"! NVIDIA (NVDA.US) aims to acquire Hugging Face for $14 billion this week.",
@@ -146,7 +167,7 @@
       "url": "https://news.futunn.com/en/post/78668545/amid-the-surge-in-token-inference-demand-the-gpu-hegemon"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Top 20 by Trading Volume | Dell Surges 15% as It Significantly Raises Full-Year Revenue Outlook",
@@ -174,10 +195,10 @@
       "translatedTitle": "AI 財經快訊：Bet on These 3 AI ETFs to Beat the September Curse",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
+      "source": "tw.tradingview.com",
       "publishedAt": "2026-09-02T13:26:00.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：Bet on These 3 AI ETFs to Beat the September Curse",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Bet on These 3 AI ETFs to Beat the September Curse &nbsp;&nbsp; TradingView。",
+      "fact": "tw.tradingview.com 報導：AI 財經快訊：Bet on These 3 AI ETFs to Beat the September Curse",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Bet on These 3 AI ETFs to Beat the September Curse &nbsp;&nbsp; tw.tradingview.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
@@ -188,38 +209,16 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "Amazon",
-      "title": "微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
-      "originalTitle": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market -- Barrons.com",
-      "translatedTitle": "微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-03T16:06:30.000Z",
-      "fact": "Moomoo 報導：微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market -- Barrons.com &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Microsoft",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/75778420/microsoft-amazon-and-8-more-stocks-set-to-win-in"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
       "subject": "Snowflake股價為何盤前暴漲超24%？Q2業績超預",
       "title": "Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引",
       "originalTitle": "Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引",
       "translatedTitle": "Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingKey",
+      "source": "tradingkey.com",
       "publishedAt": "2026-09-03T12:53:04.000Z",
-      "fact": "TradingKey 報導：Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引 &nbsp;&nbsp; TradingKey。",
+      "fact": "tradingkey.com 報導：Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake股價為何盤前暴漲超24%？Q2業績超預期並上調全年指引 &nbsp;&nbsp; tradingkey.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
@@ -227,7 +226,47 @@
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262148983-why-snowflake-stock-surged-premarket-q2-earnings-beat-tradingkey"
     },
     {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "Snowflake 股票's 46% AI Rally ",
+      "title": "Snowflake 股票's 46% AI Rally Faces an 財報 Test — Barron’s.com",
+      "originalTitle": "Snowflake Stock's 46% AI Rally Faces an Earnings Test -- Barrons.com",
+      "translatedTitle": "Snowflake 股票's 46% AI Rally Faces an 財報 Test — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-02T07:31:28.000Z",
+      "fact": "富途牛牛 報導：Snowflake 股票's 46% AI Rally Faces an 財報 Test — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake Stock's 46% AI Rally Faces an Earnings Test -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings"
+      ],
+      "url": "https://news.futunn.com/hk/post/78677803/snowflake-stock-s-46-ai-rally-faces-an-earnings-test"
+    },
+    {
       "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Snowflake股價預測",
+      "title": "Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
+      "originalTitle": "Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
+      "translatedTitle": "Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "tradingkey.com",
+      "publishedAt": "2026-09-03T08:22:22.000Z",
+      "fact": "tradingkey.com 報導：Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？ &nbsp;&nbsp; tradingkey.com。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262148434-snowflake-stock-forecast-earnings-beat-sparks-snow-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "How One Strategist Warned on",
       "title": "How One Strategist Warned on 半導體 股票 Within a Day of Their Top",
@@ -246,25 +285,6 @@
         "stocks"
       ],
       "url": "https://news.futunn.com/hk/post/78701773/how-one-strategist-warned-on-semiconductor-stocks-within-a-day"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Snowflake股價預測",
-      "title": "Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
-      "originalTitle": "Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
-      "translatedTitle": "Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-03T08:22:22.000Z",
-      "fact": "TradingKey 報導：Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Snowflake股價預測：財報全面優於預期點燃股價大漲逾23%，SNOW能否突破400美元？ &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262148434-snowflake-stock-forecast-earnings-beat-sparks-snow-tradingkey"
     }
   ]
 }
