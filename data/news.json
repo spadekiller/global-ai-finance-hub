@@ -1,9 +1,31 @@
 {
-  "generatedAt": "2026-09-05T01:45:38.269Z",
+  "generatedAt": "2026-09-05T23:27:28.723Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "想投資OpenAI、Anthropic？先從AI 概念股和金主股東下手｜美股產業｜豐雲學堂2026 年 09 月",
+      "originalTitle": "想投資OpenAI、Anthropic？先從AI 概念股和金主股東下手｜美股產業｜豐雲學堂2026 年 09 月",
+      "translatedTitle": "想投資OpenAI、Anthropic？先從AI 概念股和金主股東下手｜美股產業｜豐雲學堂2026 年 09 月",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "sinotrade.com.tw",
+      "publishedAt": "2026-09-04T13:10:59.000Z",
+      "fact": "sinotrade.com.tw 報導：想投資OpenAI、Anthropic？先從AI 概念股和金主股東下手｜美股產業｜豐雲學堂2026 年 09 月",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；想投資OpenAI、Anthropic？先從AI 概念股和金主股東下手｜美股產業｜豐雲學堂2026 年 09 月 &nbsp;&nbsp; sinotrade.com.tw。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://www.sinotrade.com.tw/richclub/USindustry/%E6%83%B3%E6%8A%95%E8%B3%87-OpenAI-Anthropic-%E5%85%88%E5%BE%9E-AI-%E6%A6%82%E5%BF%B5%E8%82%A1%E5%92%8C%E9%87%91%E4%B8%BB%E8%82%A1%E6%9D%B1%E4%B8%8B%E6%89%8B-%E7%BE%8E%E8%82%A1%E7%94%A2%E6%A5%AD-6a9a671016b93235bddea533"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Google 加快 AI 模型更新頻率 新輕量級 Gemini Flash 性能未勝 Meta 新品",
@@ -25,87 +47,70 @@
       "url": "https://sunmedia.tw/news/technology/1788477135-Google%20%E5%8A%A0%E5%BF%AB%20AI%20%E6%A8%A1%E5%9E%8B%E6%9B%B4%E6%96%B0%E9%A0%BB%E7%8E%87%E3%80%80%E6%96%B0%E8%BC%95%E9%87%8F%E7%B4%9A%20Gemini%20Flash%20%E6%80%A7%E8%83%BD%E6%9C%AA%E5%8B%9D%20Meta%20%E6%96%B0%E5%93%81"
     },
     {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本",
-      "originalTitle": "買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本",
-      "translatedTitle": "買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "未來商務",
-      "publishedAt": "2026-09-05T00:00:00.000Z",
-      "fact": "未來商務 報導：買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本 &nbsp;&nbsp; 未來商務。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://fc.bnext.com.tw/articles/view/4898"
-    },
-    {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "AI 大廠月之暗面傳申請香港 IPO Kimi K3 實",
-      "title": "AI 大廠月之暗面傳申請香港 IPO Kimi K3 實力與低價成亮點",
-      "originalTitle": "AI 大廠月之暗面傳申請香港 IPO Kimi K3 實力與低價成亮點",
-      "translatedTitle": "AI 大廠月之暗面傳申請香港 IPO Kimi K3 實力與低價成亮點",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "樂聯網",
-      "publishedAt": "2026-09-04T07:27:31.000Z",
-      "fact": "樂聯網 報導：AI 大廠月之暗面傳申請香港 IPO Kimi K3 實力與低價成亮點",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 大廠月之暗面傳申請香港 IPO Kimi K3 實力與低價成亮點 &nbsp;&nbsp; 樂聯網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "subject": "OpenAI",
+      "title": "輝達 Is Acting Like an Underdog. OpenAI and Anthropic Should Be Worried.",
+      "originalTitle": "Nvidia Is Acting Like an Underdog. OpenAI and Anthropic Should Be Worried.",
+      "translatedTitle": "輝達 Is Acting Like an Underdog. OpenAI and Anthropic Should Be Worried.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-04T18:21:00.000Z",
+      "fact": "Moomoo 報導：輝達 Is Acting Like an Underdog. OpenAI and Anthropic Should Be Worried.",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Nvidia Is Acting Like an Underdog. OpenAI and Anthropic Should Be Worried. &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
+        "OpenAI",
+        "Anthropic",
+        "Nvidia",
         "AI"
       ],
-      "url": "https://leho.com.tw/archives/374986"
+      "url": "https://www.moomoo.com/hant/news/post/75846022/nvidia-is-acting-like-an-underdog-openai-and-anthropic-should"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界",
-      "originalTitle": "最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界",
-      "translatedTitle": "最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "title": "Seattle Times, Newsday sue OpenAI, 微軟, alleging copyright infringement",
+      "originalTitle": "Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement",
+      "translatedTitle": "Seattle Times, Newsday sue OpenAI, 微軟, alleging copyright infringement",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "Mashdigi",
-      "publishedAt": "2026-09-04T05:07:01.000Z",
-      "fact": "Mashdigi 報導：最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界 &nbsp;&nbsp; Mashdigi。",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-05T03:05:43.000Z",
+      "fact": "Yahoo 報導：Seattle Times, Newsday sue OpenAI, 微軟, alleging copyright infringement",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Seattle Times, Newsday sue OpenAI, Microsoft, alleging copyright infringement &nbsp;&nbsp; Yahoo。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Microsoft",
+        "AI"
+      ],
+      "url": "https://hk.news.yahoo.com/us/articles/seattle-times-newsday-sue-openai-030010121.html"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
+      "originalTitle": "GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
+      "translatedTitle": "GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "鉅亨網",
+      "publishedAt": "2026-09-03T23:33:37.000Z",
+      "fact": "鉅亨網 報導：GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始 &nbsp;&nbsp; 鉅亨網。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://mashdigi.com/the-most-powerful-and-aligned-artificial-intelligence-openai-publishes-gpt-6-astra-redefining-the-boundaries-between-computer-operation-and-agent-based-ai/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
-      "originalTitle": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
-      "translatedTitle": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "TechOrange 科技報橘",
-      "publishedAt": "2026-09-03T03:23:00.000Z",
-      "fact": "TechOrange 科技報橘 報導：Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？ &nbsp;&nbsp; TechOrange 科技報橘。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://techorange.com/2026/09/03/meta-muse-spark-1-3-ai-agent/"
+      "url": "https://m.cnyes.com/news/id/6597012"
     },
     {
       "id": "全球財經脈動-1",
@@ -130,87 +135,64 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Broadcom’s AI revenue surged",
-      "title": "Broadcom’s AI revenue surged 221%, so why did the 股票 tumble 5%?",
-      "originalTitle": "Broadcom’s AI revenue surged 221%, so why did the stock tumble 5%?",
-      "translatedTitle": "Broadcom’s AI revenue surged 221%, so why did the 股票 tumble 5%?",
+      "subject": "Micron",
+      "title": "Micron, SanDisk Lead Memory 晶片股 Rally on Strong AI 需求",
+      "originalTitle": "Micron, SanDisk Lead Memory Chip Stocks Rally on Strong AI Demand",
+      "translatedTitle": "Micron, SanDisk Lead Memory 晶片股 Rally on Strong AI 需求",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-09-03T07:21:58.000Z",
-      "fact": "TradingView 報導：Broadcom’s AI revenue surged 221%, so why did the 股票 tumble 5%?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Broadcom’s AI revenue surged 221%, so why did the stock tumble 5%? &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-09-04T17:44:47.000Z",
+      "fact": "TradingView 報導：Micron, SanDisk Lead Memory 晶片股 Rally on Strong AI 需求",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Micron, SanDisk Lead Memory Chip Stocks Rally on Strong AI Demand &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/invezz:5353cd28e094b:0-broadcom-s-ai-revenue-surged-221-so-why-did-the-stock-tumble-5/"
+      "url": "https://tw.tradingview.com/news/gurufocus:a1afe174a094b:0-micron-sandisk-lead-memory-chip-stocks-rally-on-strong-ai-demand/"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "輝達 Takes Back Control of the",
-      "title": "輝達 Takes Back Control of the AI Trade as Big Tech Nears Record Highs",
-      "originalTitle": "Nvidia Takes Back Control of the AI Trade as Big Tech Nears Record Highs",
-      "translatedTitle": "輝達 Takes Back Control of the AI Trade as Big Tech Nears Record Highs",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-04T01:02:50.000Z",
-      "fact": "Moomoo 報導：輝達 Takes Back Control of the AI Trade as Big Tech Nears Record Highs",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Takes Back Control of the AI Trade as Big Tech Nears Record Highs &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/75788026/nvidia-takes-back-control-of-the-ai-trade-as-big"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "半導體股逆勢上漲，美光升超4%！川普要求聯準會大幅降息",
-      "title": "半導體股逆勢上漲，美光升超4%！川普要求聯準會大幅降息",
-      "originalTitle": "半導體股逆勢上漲，美光升超4%！川普要求聯準會大幅降息",
-      "translatedTitle": "半導體股逆勢上漲，美光升超4%！川普要求聯準會大幅降息",
+      "subject": "全球市值最大的公司(2026年8月)",
+      "title": "全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化",
+      "originalTitle": "全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化",
+      "translatedTitle": "全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "TradingKey",
-      "publishedAt": "2026-09-04T14:38:10.000Z",
-      "fact": "TradingKey 報導：半導體股逆勢上漲，美光升超4%！川普要求聯準會大幅降息",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；半導體股逆勢上漲，美光升超4%！川普要求聯準會大幅降息 &nbsp;&nbsp; TradingKey。",
+      "publishedAt": "2026-09-05T09:00:00.000Z",
+      "fact": "TradingKey 報導：全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；全球市值最大的公司(2026年8月)：輝達市值蟬聯第一，SpaceX反彈32%，半導體板塊表現分化 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262151687-nonfarm-payrolls-fed-rate-hike-odds-semiconductor-rally-trump-ai-chips-memory-stocks-tradingkey"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262144677-largest-company-us-stock-august-2026-ai-nvidia-spacex-semiconductor-micron-skhy-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "NVDA 股票 On Track To Hit Over",
+      "title": "NVDA 股票 On Track To Hit Over 2-Month High – Analyst Calls $12.9B Hugging Face Deal ‘Strategically Valuable’",
+      "originalTitle": "NVDA Stock On Track To Hit Over 2-Month High – Analyst Calls $12.9B Hugging Face Deal ‘Strategically Valuable’",
+      "translatedTitle": "NVDA 股票 On Track To Hit Over 2-Month High – Analyst Calls $12.9B Hugging Face Deal ‘Strategically Valuable’",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-09-04T16:53:29.000Z",
+      "fact": "TradingView 報導：NVDA 股票 On Track To Hit Over 2-Month High – Analyst Calls $12.9B Hugging Face Deal ‘Strategically Valuable’",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVDA Stock On Track To Hit Over 2-Month High – Analyst Calls $12.9B Hugging Face Deal ‘Strategically Valuable’ &nbsp;&nb。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://tw.tradingview.com/news/stocktwits:e69df5e6b094b:0-nvda-stock-on-track-to-hit-over-2-month-high-analyst-calls-12-9b-hugging-face-deal-strategically-valuable/"
     },
     {
       "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Amazon",
-      "title": "微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
-      "originalTitle": "Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market -- Barrons.com",
-      "translatedTitle": "微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "news.futunn.com",
-      "publishedAt": "2026-09-03T15:59:36.000Z",
-      "fact": "news.futunn.com 報導：微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market -- Barrons.com &nbsp;&nbsp; news.futunn.com。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Microsoft",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/hk/post/78774374/microsoft-amazon-and-8-more-stocks-set-to-win-in"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Central Reinsurance (2851) Investor Conference - September 4, 2026",
@@ -228,6 +210,25 @@
         "AI"
       ],
       "url": "https://finance.biggo.com/quote/2851.TW/earnings-call/TW_2851.TW_2026-09-04"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "European Indexes Edge 走高 in ",
+      "title": "European Indexes Edge 走高 in Early Trade — 市場 Talk",
+      "originalTitle": "European Indexes Edge Higher in Early Trade -- Market Talk",
+      "translatedTitle": "European Indexes Edge 走高 in Early Trade — 市場 Talk",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-04T08:39:47.000Z",
+      "fact": "富途牛牛 報導：European Indexes Edge 走高 in Early Trade — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Indexes Edge Higher in Early Trade -- Market Talk &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://news.futunn.com/en/post/78808982/european-indexes-edge-higher-in-early-trade-market-talk"
     }
   ]
 }
