@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T23:34:04.665Z",
+  "generatedAt": "2026-09-05T01:45:38.269Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -27,6 +27,27 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本",
+      "originalTitle": "買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本",
+      "translatedTitle": "買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "未來商務",
+      "publishedAt": "2026-09-05T00:00:00.000Z",
+      "fact": "未來商務 報導：買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；買過的書直接問 AI！Google 電子書搬進 Gemini Notebook，首波上線逾 10 萬本 &nbsp;&nbsp; 未來商務。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://fc.bnext.com.tw/articles/view/4898"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "AI 大廠月之暗面傳申請香港 IPO Kimi K3 實",
       "title": "AI 大廠月之暗面傳申請香港 IPO Kimi K3 實力與低價成亮點",
       "originalTitle": "AI 大廠月之暗面傳申請香港 IPO Kimi K3 實力與低價成亮點",
@@ -45,7 +66,7 @@
       "url": "https://leho.com.tw/archives/374986"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界",
@@ -53,10 +74,10 @@
       "translatedTitle": "最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "mashdigi.com",
+      "source": "Mashdigi",
       "publishedAt": "2026-09-04T05:07:01.000Z",
-      "fact": "mashdigi.com 報導：最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界 &nbsp;&nbsp; mashdigi.com。",
+      "fact": "Mashdigi 報導：最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；最強大且對齊的人工智慧？OpenAI發表GPT-6 Astra，重新定義電腦操作與代理式AI邊界 &nbsp;&nbsp; Mashdigi。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
@@ -66,7 +87,7 @@
       "url": "https://mashdigi.com/the-most-powerful-and-aligned-artificial-intelligence-openai-publishes-gpt-6-astra-redefining-the-boundaries-between-computer-operation-and-agent-based-ai/"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
@@ -74,10 +95,10 @@
       "translatedTitle": "Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "techorange.com",
+      "source": "TechOrange 科技報橘",
       "publishedAt": "2026-09-03T03:23:00.000Z",
-      "fact": "techorange.com 報導：Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？ &nbsp;&nbsp; techorange.com。",
+      "fact": "TechOrange 科技報橘 報導：Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推 Muse Spark 1.3，AI Agent 要長時間替人工作得先解決哪些問題？ &nbsp;&nbsp; TechOrange 科技報橘。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -85,27 +106,6 @@
         "AI"
       ],
       "url": "https://techorange.com/2026/09/03/meta-muse-spark-1-3-ai-agent/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "自封「全球最聰明」AI OpenAI推GPT-6 Astra",
-      "originalTitle": "自封「全球最聰明」AI OpenAI推GPT-6 Astra",
-      "translatedTitle": "自封「全球最聰明」AI OpenAI推GPT-6 Astra",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "Taiwan News",
-      "publishedAt": "2026-09-04T02:28:00.000Z",
-      "fact": "Taiwan News 報導：自封「全球最聰明」AI OpenAI推GPT-6 Astra",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；自封「全球最聰明」AI OpenAI推GPT-6 Astra &nbsp;&nbsp; Taiwan News。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://www.taiwannews.com.tw/zh/news/6433880"
     },
     {
       "id": "全球財經脈動-1",
@@ -196,10 +196,10 @@
       "translatedTitle": "微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
+      "source": "news.futunn.com",
       "publishedAt": "2026-09-03T15:59:36.000Z",
-      "fact": "富途牛牛 報導：微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "fact": "news.futunn.com 報導：微軟, Amazon and 8 More 股票 Set to Win in a $26 Trillion AI 市場 — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft, Amazon and 8 More Stocks Set to Win in a $26 Trillion AI Market -- Barrons.com &nbsp;&nbsp; news.futunn.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
@@ -212,21 +212,22 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Why Broadcom (AVGO) 股票 Is No",
-      "title": "Why Broadcom (AVGO) 股票 Is Nosediving",
-      "originalTitle": "Why Broadcom (AVGO) Stock Is Nosediving",
-      "translatedTitle": "Why Broadcom (AVGO) 股票 Is Nosediving",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Central Reinsurance (2851) Investor Conference - September 4, 2026",
+      "originalTitle": "Central Reinsurance (2851) Investor Conference - September 4, 2026",
+      "translatedTitle": "AI 財經快訊：Central Reinsurance (2851) Investor Conference - September 4, 2026",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-09-03T16:05:39.000Z",
-      "fact": "TradingView 報導：Why Broadcom (AVGO) 股票 Is Nosediving",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Broadcom (AVGO) Stock Is Nosediving &nbsp;&nbsp; TradingView。",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-09-04T10:54:52.000Z",
+      "fact": "finance.biggo.com 報導：AI 財經快訊：Central Reinsurance (2851) Investor Conference - September 4, 2026",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Central Reinsurance (2851) Investor Conference - September 4, 2026 &nbsp;&nbsp; finance.biggo.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/stockstory:1439463ba094b:0-why-broadcom-avgo-stock-is-nosediving/"
+      "url": "https://finance.biggo.com/quote/2851.TW/earnings-call/TW_2851.TW_2026-09-04"
     }
   ]
 }
