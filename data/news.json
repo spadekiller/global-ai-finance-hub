@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T23:27:28.723Z",
+  "generatedAt": "2026-09-06T01:39:45.679Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -94,23 +94,22 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
-      "originalTitle": "GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
-      "translatedTitle": "GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
+      "subject": "Google",
+      "title": "Google Pixel 11 Pro Fold / 11 Pro XL 水貨開箱！親生仔玩Gemini 更爽、兩機在港能否支援5G 網絡？",
+      "originalTitle": "Google Pixel 11 Pro Fold / 11 Pro XL 水貨開箱！親生仔玩Gemini 更爽、兩機在港能否支援5G 網絡？",
+      "translatedTitle": "Google Pixel 11 Pro Fold / 11 Pro XL 水貨開箱！親生仔玩Gemini 更爽、兩機在港能否支援5G 網絡？",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "鉅亨網",
-      "publishedAt": "2026-09-03T23:33:37.000Z",
-      "fact": "鉅亨網 報導：GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6 Astra 發布：OpenAI 稱世界最聰明，AGI 時代或從這裡開始 &nbsp;&nbsp; 鉅亨網。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "source": "Now 新聞",
+      "publishedAt": "2026-09-05T08:00:00.000Z",
+      "fact": "Now 新聞 報導：Google Pixel 11 Pro Fold / 11 Pro XL 水貨開箱！親生仔玩Gemini 更爽、兩機在港能否支援5G 網絡？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Pixel 11 Pro Fold / 11 Pro XL 水貨開箱！親生仔玩Gemini 更爽、兩機在港能否支援5G 網絡？ &nbsp;&nbsp; Now 新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "OpenAI",
-        "AI"
+        "Google"
       ],
-      "url": "https://m.cnyes.com/news/id/6597012"
+      "url": "https://news.now.com/mobile/technology/player?newsId"
     },
     {
       "id": "全球財經脈動-1",
