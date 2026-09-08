@@ -1,51 +1,72 @@
 {
-  "generatedAt": "2026-09-07T23:51:38.537Z",
+  "generatedAt": "2026-09-08T01:48:35.025Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI最強模型問世 黃仁勳唱旺AGI",
-      "originalTitle": "OpenAI最強模型問世 黃仁勳唱旺AGI",
-      "translatedTitle": "OpenAI最強模型問世 黃仁勳唱旺AGI",
+      "subject": "Google",
+      "title": "黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google",
+      "originalTitle": "黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google",
+      "translatedTitle": "黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "UDN",
-      "publishedAt": "2026-09-07T18:56:57.000Z",
-      "fact": "UDN 報導：OpenAI最強模型問世 黃仁勳唱旺AGI",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI最強模型問世 黃仁勳唱旺AGI &nbsp;&nbsp; UDN。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "category": "AI 與科技前沿",
+      "source": "Yahoo新聞",
+      "publishedAt": "2026-09-08T00:26:52.000Z",
+      "fact": "Yahoo新聞 報導：黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google &nbsp;&nbsp; Yahoo新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "OpenAI",
-        "AI"
+        "Google",
+        "Meta"
       ],
-      "url": "http://udn.com/news/story/7240/9740330?from"
+      "url": "https://tw.news.yahoo.com/%E9%BB%83%E4%BB%81%E5%8B%B3%E4%B9%9F%E7%9C%8B%E5%A5%BD-%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E5%8F%83%E6%88%B0-%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B-%E4%B8%8B%E6%9C%88%E7%99%BC%E5%B8%83%E5%B0%8D%E6%B1%BAmeta-google-001300048.html"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google",
+      "originalTitle": "黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google",
+      "translatedTitle": "黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "knews.com.tw",
+      "publishedAt": "2026-09-08T00:13:00.000Z",
+      "fact": "knews.com.tw 報導：黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；黃仁勳也看好！字節跳動參戰「世界模型」 下月發布對決Meta、Google &nbsp;&nbsp; knews.com.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "Meta"
+      ],
+      "url": "https://www.knews.com.tw/news/B30D720781C67E6DB18D9582F9C8DC4D"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "祝賀 OpenAI 推出 GPT-6 Astra 模型，黃仁勳：AGI 已經到來",
-      "originalTitle": "祝賀 OpenAI 推出 GPT-6 Astra 模型，黃仁勳：AGI 已經到來",
-      "translatedTitle": "祝賀 OpenAI 推出 GPT-6 Astra 模型，黃仁勳：AGI 已經到來",
-      "translationNote": "系統翻譯，請以原文為準",
+      "title": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線",
+      "originalTitle": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線",
+      "translatedTitle": "OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-09-07T02:36:56.000Z",
-      "fact": "TechNews 科技新報 報導：祝賀 OpenAI 推出 GPT-6 Astra 模型，黃仁勳：AGI 已經到來",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；祝賀 OpenAI 推出 GPT-6 Astra 模型，黃仁勳：AGI 已經到來 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "經濟日報",
+      "publishedAt": "2026-09-07T09:00:00.000Z",
+      "fact": "經濟日報 報導：OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 最強模型問世 黃仁勳唱旺 AGI 輝達40萬顆 GPU 將上線 &nbsp;&nbsp; 經濟日報。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://technews.tw/2026/09/07/jensen-huang-says-agi-has-arrived/"
+      "url": "https://money.udn.com/money/story/5612/9740330"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "黃仁勳喊「AGI已到來」！大讚OpenAI Astra 曝40萬顆GPU蓄勢上線",
@@ -64,27 +85,6 @@
         "AI"
       ],
       "url": "https://www.peoplenews.tw/articles/economic-news/53976"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI最強模型Astra登場！黃仁勳讚「AGI已經到來」 預告再投入40萬顆GPU",
-      "originalTitle": "OpenAI最強模型Astra登場！黃仁勳讚「AGI已經到來」 預告再投入40萬顆GPU",
-      "translatedTitle": "OpenAI最強模型Astra登場！黃仁勳讚「AGI已經到來」 預告再投入40萬顆GPU",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "Yahoo股市",
-      "publishedAt": "2026-09-07T04:40:46.000Z",
-      "fact": "Yahoo股市 報導：OpenAI最強模型Astra登場！黃仁勳讚「AGI已經到來」 預告再投入40萬顆GPU",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI最強模型Astra登場！黃仁勳讚「AGI已經到來」 預告再投入40萬顆GPU &nbsp;&nbsp; Yahoo股市。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://tw.stock.yahoo.com/news/openai%E6%9C%80%E5%BC%B7%E6%A8%A1%E5%9E%8Bastra%E7%99%BB%E5%A0%B4-%E9%BB%83%E4%BB%81%E5%8B%B3%E8%AE%9A-agi%E5%B7%B2%E7%B6%93%E5%88%B0%E4%BE%86-%E9%A0%90%E5%91%8A%E5%86%8D%E6%8A%95%E5%85%A540%E8%90%AC%E9%A1%86gpu-043000782.html"
     },
     {
       "id": "ai-與科技前沿-5",
