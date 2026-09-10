@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T23:40:23.818Z",
+  "generatedAt": "2026-09-10T01:50:47.592Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,16 +26,37 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國",
+      "originalTitle": "Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國",
+      "translatedTitle": "Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "inside.com.tw",
+      "publishedAt": "2026-09-09T09:25:33.000Z",
+      "fact": "inside.com.tw 報導：Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國 &nbsp;&nbsp; inside.com.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://www.inside.com.tw/article/42342-meta-muse-personal-ai-agent-launch-2026"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "憂AI失控消滅人類Anthropic頂尖研究員離職| 科技",
       "originalTitle": "憂AI失控消滅人類Anthropic頂尖研究員離職| 科技",
       "translatedTitle": "憂AI失控消滅人類Anthropic頂尖研究員離職| 科技",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "cna.com.tw",
+      "source": "中央社 CNA",
       "publishedAt": "2026-09-09T10:46:00.000Z",
-      "fact": "cna.com.tw 報導：憂AI失控消滅人類Anthropic頂尖研究員離職| 科技",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；憂AI失控消滅人類Anthropic頂尖研究員離職| 科技 &nbsp;&nbsp; cna.com.tw。",
+      "fact": "中央社 CNA 報導：憂AI失控消滅人類Anthropic頂尖研究員離職| 科技",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；憂AI失控消滅人類Anthropic頂尖研究員離職| 科技 &nbsp;&nbsp; 中央社 CNA。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -45,7 +66,7 @@
       "url": "https://www.cna.com.tw/news/ait/202609090292.aspx"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "研究員因AI安全疑慮辭職，警告人類面臨生存危機！",
       "title": "研究員因AI安全疑慮辭職，警告人類面臨生存危機！",
@@ -65,7 +86,7 @@
       "url": "https://www.cmoney.tw/forum/article/184482259"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "憂AI失控消滅人類 Anthropic頂尖研究員離職",
@@ -84,26 +105,6 @@
         "AI"
       ],
       "url": "https://www.setn.com/ampnews/1904469"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "最先進的 AI 公司，為什麼開始回頭買舊書？｜當「免費資",
-      "title": "最先進的 AI 公司，為什麼開始回頭買舊書？｜當「免費資料」不再理所當然，知識開始被重新估價",
-      "originalTitle": "最先進的 AI 公司，為什麼開始回頭買舊書？｜當「免費資料」不再理所當然，知識開始被重新估價",
-      "translatedTitle": "最先進的 AI 公司，為什麼開始回頭買舊書？｜當「免費資料」不再理所當然，知識開始被重新估價",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Storm.mg",
-      "publishedAt": "2026-09-08T11:10:01.000Z",
-      "fact": "Storm.mg 報導：最先進的 AI 公司，為什麼開始回頭買舊書？｜當「免費資料」不再理所當然，知識開始被重新估價",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；最先進的 AI 公司，為什麼開始回頭買舊書？｜當「免費資料」不再理所當然，知識開始被重新估價 &nbsp;&nbsp; Storm.mg。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://onepercent.storm.mg/article/5550835"
     },
     {
       "id": "全球財經脈動-1",
@@ -168,27 +169,6 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Hong Kong 股票 Close | Three M",
-      "title": "Hong Kong 股票 Close | Three Major Indices Weaken Collectively as AI Supply Chain Cools",
-      "originalTitle": "Hong Kong Stocks Close | Three Major Indices Weaken Collectively as AI Supply Chain Cools",
-      "translatedTitle": "Hong Kong 股票 Close | Three Major Indices Weaken Collectively as AI Supply Chain Cools",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-09T16:07:58.000Z",
-      "fact": "富途牛牛 報導：Hong Kong 股票 Close | Three Major Indices Weaken Collectively as AI Supply Chain Cools",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Hong Kong Stocks Close | Three Major Indices Weaken Collectively as AI Supply Chain Cools &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/78942057/hong-kong-stocks-close-three-major-indices-weaken-collectively-as"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
       "subject": "These Software 股票 Are in a P",
       "title": "These Software 股票 Are in a Prime Spot to Benefit From a Rapidly Shifting AI Landscape",
       "originalTitle": "These Software Stocks Are in a Prime Spot to Benefit From a Rapidly Shifting AI Landscape",
@@ -206,6 +186,26 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/75960898/these-software-stocks-are-in-a-prime-spot-to-benefit"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Advanced AI",
+      "title": "Advanced AI-Powered Crypto 投資 Research Platform",
+      "originalTitle": "Advanced AI-Powered Crypto Investment Research Platform",
+      "translatedTitle": "Advanced AI-Powered Crypto 投資 Research Platform",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "SoSoValue",
+      "publishedAt": "2026-09-09T08:40:26.000Z",
+      "fact": "SoSoValue 報導：Advanced AI-Powered Crypto 投資 Research Platform",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Advanced AI-Powered Crypto Investment Research Platform &nbsp;&nbsp; SoSoValue。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://sosovalue.com/ru/stocks/qcom"
     },
     {
       "id": "美股與全球市場焦點-5",
