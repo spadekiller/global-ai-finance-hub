@@ -1,113 +1,147 @@
 {
-  "generatedAt": "2026-09-10T01:50:47.592Z",
+  "generatedAt": "2026-09-10T23:33:31.758Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta推出用於處理個人任務的AI助手",
-      "originalTitle": "Meta推出用於處理個人任務的AI助手",
-      "translatedTitle": "Meta推出用於處理個人任務的AI助手",
+      "subject": "GPT",
+      "title": "GPT-6 Astra：新一代智慧",
+      "originalTitle": "GPT-6 Astra：新一代智慧",
+      "translatedTitle": "GPT-6 Astra：新一代智慧",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-09T15:15:06.000Z",
-      "fact": "Moomoo 報導：Meta推出用於處理個人任務的AI助手",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推出用於處理個人任務的AI助手 &nbsp;&nbsp; Moomoo。",
+      "source": "OpenAI",
+      "publishedAt": "2026-09-10T21:29:59.000Z",
+      "fact": "OpenAI 報導：GPT-6 Astra：新一代智慧",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6 Astra：新一代智慧 &nbsp;&nbsp; OpenAI。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://www.moomoo.com/hant/news/video/76019289/meta-unveils-ai-assistant-for-personal-tasks"
+      "url": "https://openai.com/zh-Hant/index/gpt-6-astra/"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國",
-      "originalTitle": "Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國",
-      "translatedTitle": "Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國",
+      "subject": "蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
+      "title": "蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
+      "originalTitle": "蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
+      "translatedTitle": "蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "inside.com.tw",
-      "publishedAt": "2026-09-09T09:25:33.000Z",
-      "fact": "inside.com.tw 報導：Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 發表個人 AI 助理 Muse，能訂票、規劃行程、自動填表，首發僅限美國 &nbsp;&nbsp; inside.com.tw。",
+      "source": "UDN",
+      "publishedAt": "2026-09-10T16:49:11.000Z",
+      "fact": "UDN 報導：蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補 &nbsp;&nbsp; UDN。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://udn.com/news/story/7240/9747492"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場",
+      "originalTitle": "【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場",
+      "translatedTitle": "【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-09-10T16:04:02.000Z",
+      "fact": "CMoney投資網誌 報導：【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場 &nbsp;&nbsp; CMoney投資網誌。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Meta",
         "AI"
       ],
-      "url": "https://www.inside.com.tw/article/42342-meta-muse-personal-ai-agent-launch-2026"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "憂AI失控消滅人類Anthropic頂尖研究員離職| 科技",
-      "originalTitle": "憂AI失控消滅人類Anthropic頂尖研究員離職| 科技",
-      "translatedTitle": "憂AI失控消滅人類Anthropic頂尖研究員離職| 科技",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "中央社 CNA",
-      "publishedAt": "2026-09-09T10:46:00.000Z",
-      "fact": "中央社 CNA 報導：憂AI失控消滅人類Anthropic頂尖研究員離職| 科技",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；憂AI失控消滅人類Anthropic頂尖研究員離職| 科技 &nbsp;&nbsp; 中央社 CNA。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://www.cna.com.tw/news/ait/202609090292.aspx"
+      "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-3d8d74fe-ad31-11f1-b1ff-4218718c784f"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "研究員因AI安全疑慮辭職，警告人類面臨生存危機！",
-      "title": "研究員因AI安全疑慮辭職，警告人類面臨生存危機！",
-      "originalTitle": "研究員因AI安全疑慮辭職，警告人類面臨生存危機！",
-      "translatedTitle": "研究員因AI安全疑慮辭職，警告人類面臨生存危機！",
+      "subject": "Zuckerberg 押注 Muse",
+      "title": "Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要",
+      "originalTitle": "Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要",
+      "translatedTitle": "Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "CMoney",
-      "publishedAt": "2026-09-09T08:05:25.000Z",
-      "fact": "CMoney 報導：研究員因AI安全疑慮辭職，警告人類面臨生存危機！",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；研究員因AI安全疑慮辭職，警告人類面臨生存危機！ &nbsp;&nbsp; CMoney。",
+      "source": "HackMD",
+      "publishedAt": "2026-09-10T08:01:30.000Z",
+      "fact": "HackMD 報導：Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要 &nbsp;&nbsp; HackMD。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://www.cmoney.tw/forum/article/184482259"
+      "url": "https://hackmd.io/@JbhlYkBtRJukuvsXMtL6lg/rJ6eRZJFze"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "憂AI失控消滅人類 Anthropic頂尖研究員離職",
-      "originalTitle": "憂AI失控消滅人類　Anthropic頂尖研究員離職",
-      "translatedTitle": "憂AI失控消滅人類 Anthropic頂尖研究員離職",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "三立新聞",
-      "publishedAt": "2026-09-09T15:00:00.000Z",
-      "fact": "三立新聞 報導：憂AI失控消滅人類 Anthropic頂尖研究員離職",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；憂AI失控消滅人類 Anthropic頂尖研究員離職 &nbsp;&nbsp; 三立新聞。",
+      "subject": "Google",
+      "title": "蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？",
+      "originalTitle": "蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？",
+      "translatedTitle": "蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-09-10T02:54:00.000Z",
+      "fact": "蕃新聞 報導：蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？ &nbsp;&nbsp; 蕃新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
+        "Google",
+        "Meta",
         "AI"
       ],
-      "url": "https://www.setn.com/ampnews/1904469"
+      "url": "https://n.yam.com/Article/20260910147263"
     },
     {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "Risen 能源 Expands into Green ",
+      "title": "Risen 能源 Expands into Green Computing and Power Integration",
+      "originalTitle": "Risen Energy Expands into Green Computing and Power Integration",
+      "translatedTitle": "Risen 能源 Expands into Green Computing and Power Integration",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Quamnet",
+      "publishedAt": "2026-09-10T03:00:01.000Z",
+      "fact": "Quamnet 報導：Risen 能源 Expands into Green Computing and Power Integration",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Risen Energy Expands into Green Computing and Power Integration &nbsp;&nbsp; Quamnet。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://www.quamnet.com/post/JdVtsV8BulmfQ7JjrVie3"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "數據中心儲能系統市場到2032年將達到$104.8億——",
+      "title": "數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
+      "originalTitle": "數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
+      "translatedTitle": "數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-09T10:59:00.000Z",
+      "fact": "Moomoo 報導：數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/76009514/data-center-energy-storage-systems-market-worth-10-48-billion"
+    },
+    {
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "資料中心 'Tax",
       "title": "資料中心 'Tax-Free Bonus' Changes! Over a Dozen U.S. States Revisit Tax Incentives as AI Computing Expansion Hits Roadblocks",
@@ -130,101 +164,103 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Advanced AI",
-      "title": "Advanced AI-Powered Crypto 投資 Research Platform",
-      "originalTitle": "Advanced AI-Powered Crypto Investment Research Platform",
-      "translatedTitle": "Advanced AI-Powered Crypto 投資 Research Platform",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "SoSoValue",
-      "publishedAt": "2026-09-09T07:20:39.000Z",
-      "fact": "SoSoValue 報導：Advanced AI-Powered Crypto 投資 Research Platform",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Advanced AI-Powered Crypto Investment Research Platform &nbsp;&nbsp; SoSoValue。",
+      "subject": "Nvidia",
+      "title": "AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌",
+      "originalTitle": "AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌",
+      "translatedTitle": "AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 晶片",
+      "source": "forecastock.tw",
+      "publishedAt": "2026-09-10T08:00:32.000Z",
+      "fact": "forecastock.tw 報導：AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌 &nbsp;&nbsp; forecastock.tw。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
+        "Nvidia",
         "AI"
       ],
-      "url": "https://sosovalue.com/es/stocks/qcom"
+      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-b23a5775-aced-11f1-8c8b-cd85db50f41b"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "凱西股價為何大跌12%？業績超預期，燃油利潤成隱憂",
-      "title": "凱西股價為何大跌12%？業績超預期，燃油利潤成隱憂",
-      "originalTitle": "凱西股價為何大跌12%？業績超預期，燃油利潤成隱憂",
-      "translatedTitle": "凱西股價為何大跌12%？業績超預期，燃油利潤成隱憂",
+      "subject": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌",
+      "title": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
+      "originalTitle": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
+      "translatedTitle": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "TradingKey",
-      "publishedAt": "2026-09-09T13:27:07.000Z",
-      "fact": "TradingKey 報導：凱西股價為何大跌12%？業績超預期，燃油利潤成隱憂",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；凱西股價為何大跌12%？業績超預期，燃油利潤成隱憂 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262158486-why-casey-stock-plunged-12-earnings-beat-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "These Software 股票 Are in a P",
-      "title": "These Software 股票 Are in a Prime Spot to Benefit From a Rapidly Shifting AI Landscape",
-      "originalTitle": "These Software Stocks Are in a Prime Spot to Benefit From a Rapidly Shifting AI Landscape",
-      "translatedTitle": "These Software 股票 Are in a Prime Spot to Benefit From a Rapidly Shifting AI Landscape",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-08T16:37:03.000Z",
-      "fact": "Moomoo 報導：These Software 股票 Are in a Prime Spot to Benefit From a Rapidly Shifting AI Landscape",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；These Software Stocks Are in a Prime Spot to Benefit From a Rapidly Shifting AI Landscape &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/75960898/these-software-stocks-are-in-a-prime-spot-to-benefit"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Advanced AI",
-      "title": "Advanced AI-Powered Crypto 投資 Research Platform",
-      "originalTitle": "Advanced AI-Powered Crypto Investment Research Platform",
-      "translatedTitle": "Advanced AI-Powered Crypto 投資 Research Platform",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "SoSoValue",
-      "publishedAt": "2026-09-09T08:40:26.000Z",
-      "fact": "SoSoValue 報導：Advanced AI-Powered Crypto 投資 Research Platform",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Advanced AI-Powered Crypto Investment Research Platform &nbsp;&nbsp; SoSoValue。",
+      "publishedAt": "2026-09-10T13:27:56.000Z",
+      "fact": "TradingKey 報導：甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？ &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://sosovalue.com/ru/stocks/qcom"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262161117-oracle-drops-premarket-ahead-of-earnings-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "Cantor Has Strong Message fo",
+      "title": "Cantor Has Strong Message for 輝達 股票 Investors",
+      "originalTitle": "Cantor Has Strong Message for Nvidia Stock Investors",
+      "translatedTitle": "Cantor Has Strong Message for 輝達 股票 Investors",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-09-09T12:52:08.000Z",
+      "fact": "TradingView 報導：Cantor Has Strong Message for 輝達 股票 Investors",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Cantor Has Strong Message for Nvidia Stock Investors &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:5f3ffa18a094b:0-cantor-has-strong-message-for-nvidia-stock-investors/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Where are U.S. 股票 headed at ",
+      "title": "Where are U.S. 股票 headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term 風險 are rising!",
+      "originalTitle": "Where are U.S. stocks headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term risks are rising!",
+      "translatedTitle": "Where are U.S. 股票 headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term 風險 are rising!",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-10T06:29:00.000Z",
+      "fact": "富途牛牛 報導：Where are U.S. 股票 headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term 風險 are rising!",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Where are U.S. stocks headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term risks are rising!。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/79048955/where-are-us-stocks-headed-at-year-end-wall-street"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "甲骨文財報前瞻",
-      "title": "甲骨文財報前瞻：RPO與現金流成焦點，華爾街最高看至400美元",
-      "originalTitle": "甲骨文財報前瞻：RPO與現金流成焦點，華爾街最高看至400美元",
-      "translatedTitle": "甲骨文財報前瞻：RPO與現金流成焦點，華爾街最高看至400美元",
+      "subject": "美股盤前報告",
+      "title": "美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
+      "originalTitle": "美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
+      "translatedTitle": "美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-09T09:09:54.000Z",
-      "fact": "TradingKey 報導：甲骨文財報前瞻：RPO與現金流成焦點，華爾街最高看至400美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；甲骨文財報前瞻：RPO與現金流成焦點，華爾街最高看至400美元 &nbsp;&nbsp; TradingKey。",
+      "source": "blocktempo.com",
+      "publishedAt": "2026-09-09T08:32:57.000Z",
+      "fact": "blocktempo.com 報導：美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？ &nbsp;&nbsp; blocktempo.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262157968-oracle-earnings-preview-rpo-cash-flow-tradingkey"
+      "url": "https://www.blocktempo.com/coreweave-rally-nebius-contract-ai-compute-avav-earnings-base-effect/"
     }
   ]
 }
