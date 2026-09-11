@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T01:49:36.690Z",
+  "generatedAt": "2026-09-11T23:41:17.624Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -12,7 +12,7 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "OpenAI",
-      "publishedAt": "2026-09-11T00:32:17.000Z",
+      "publishedAt": "2026-09-11T18:42:33.000Z",
       "fact": "OpenAI 報導：GPT-6 Astra：新一代智慧",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6 Astra：新一代智慧 &nbsp;&nbsp; OpenAI。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
@@ -24,167 +24,207 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
-      "title": "蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
-      "originalTitle": "蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
-      "translatedTitle": "蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "UDN",
-      "publishedAt": "2026-09-10T16:49:11.000Z",
-      "fact": "UDN 報導：蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果軟體大進擊 協力廠沾光…鴻海、廣達有望進補 &nbsp;&nbsp; UDN。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://udn.com/news/story/7240/9747492"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場",
-      "originalTitle": "【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場",
-      "translatedTitle": "【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-09-10T16:04:02.000Z",
-      "fact": "CMoney投資網誌 報導：【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【即時新聞】Meta(META)獲外資調升目標價上看820美元！蘋果(AAPL)摺疊機亮相引爆AI新戰場 &nbsp;&nbsp; CMoney投資網誌。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-3d8d74fe-ad31-11f1-b1ff-4218718c784f"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Why Are Meta (META) 股價 Soaring Today",
-      "originalTitle": "Why Are Meta (META) Shares Soaring Today",
-      "translatedTitle": "Why Are Meta (META) 股價 Soaring Today",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "tw.tradingview.com",
-      "publishedAt": "2026-09-09T19:35:40.000Z",
-      "fact": "tw.tradingview.com 報導：Why Are Meta (META) 股價 Soaring Today",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why Are Meta (META) Shares Soaring Today &nbsp;&nbsp; tw.tradingview.com。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta"
-      ],
-      "url": "https://tw.tradingview.com/news/stockstory:81c5fd12c094b:0-why-are-meta-meta-shares-soaring-today/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
       "subject": "Anthropic",
-      "title": "憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」",
-      "originalTitle": "憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」",
-      "translatedTitle": "憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」",
+      "title": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+      "originalTitle": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+      "translatedTitle": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "世界新聞網",
-      "publishedAt": "2026-09-10T06:29:00.000Z",
-      "fact": "世界新聞網 報導：憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」 &nbsp;&nbsp; 世界新聞網。",
+      "source": "TechOrange 科技報橘",
+      "publishedAt": "2026-09-11T04:33:34.000Z",
+      "fact": "TechOrange 科技報橘 報導：AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化 &nbsp;&nbsp; TechOrange 科技報橘。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Anthropic",
         "AI"
       ],
-      "url": "https://www.worldjournal.com/wj/amp/story/121172/9746231"
+      "url": "https://techorange.com/2026/09/11/anthropic-threat-intelligence-report-september-2026/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "報告",
+      "title": "報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
+      "originalTitle": "報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
+      "translatedTitle": "報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "informationsecurity.com.tw",
+      "publishedAt": "2026-09-11T04:42:11.000Z",
+      "fact": "informationsecurity.com.tw 報導：報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場 &nbsp;&nbsp; informationsecurity.com.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測",
+      "originalTitle": "每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測",
+      "translatedTitle": "每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-09-11T04:56:05.000Z",
+      "fact": "TechNews 科技新報 報導：每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/09/11/google-dreambeans-ai-app-free-public-beta-nationwide-hyper-personalized-stories-daily/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器",
+      "originalTitle": "AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器",
+      "translatedTitle": "AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "inside.com.tw",
+      "publishedAt": "2026-09-11T03:22:22.000Z",
+      "fact": "inside.com.tw 報導：AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器 &nbsp;&nbsp; inside.com.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://www.inside.com.tw/article/42371-anthropic-threat-intelligence-report-biological-weapons-taiwan"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "數據中心儲能系統市場到2032年將達到$104.8億——",
-      "title": "數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
-      "originalTitle": "數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
-      "translatedTitle": "數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Risen 能源 Expands into Green ",
+      "title": "Risen 能源 Expands into Green Computing and Power Integration",
+      "originalTitle": "Risen Energy Expands into Green Computing and Power Integration",
+      "translatedTitle": "Risen 能源 Expands into Green Computing and Power Integration",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-09T10:59:00.000Z",
-      "fact": "Moomoo 報導：數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告 &nbsp;&nbsp; Moomoo。",
+      "source": "Quamnet",
+      "publishedAt": "2026-09-10T03:00:01.000Z",
+      "fact": "Quamnet 報導：Risen 能源 Expands into Green Computing and Power Integration",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Risen Energy Expands into Green Computing and Power Integration &nbsp;&nbsp; Quamnet。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/76009514/data-center-energy-storage-systems-market-worth-10-48-billion"
+      "url": "https://www.quamnet.com/post/JdVtsV8BulmfQ7JjrVie3"
     },
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "資料中心 'Tax",
-      "title": "資料中心 'Tax-Free Bonus' Changes! Over a Dozen U.S. States Revisit Tax Incentives as AI Computing Expansion Hits Roadblocks",
-      "originalTitle": "Data Center 'Tax-Free Bonus' Changes! Over a Dozen U.S. States Revisit Tax Incentives as AI Computing Expansion Hits Roadblocks",
-      "translatedTitle": "資料中心 'Tax-Free Bonus' Changes! Over a Dozen U.S. States Revisit Tax Incentives as AI Computing Expansion Hits Roadblocks",
+      "subject": "Just one month after reporti",
+      "title": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
+      "originalTitle": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the market by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
+      "translatedTitle": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
+      "category": "全球財經",
       "source": "富途牛牛",
-      "publishedAt": "2026-09-09T13:45:20.000Z",
-      "fact": "富途牛牛 報導：資料中心 'Tax-Free Bonus' Changes! Over a Dozen U.S. States Revisit Tax Incentives as AI Computing Expansion Hits Roadblocks",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Data Center 'Tax-Free Bonus' Changes! Over a Dozen U.S. States Revisit Tax Incentives as AI Computing Expansion Hits Roa。",
+      "publishedAt": "2026-09-11T15:43:38.000Z",
+      "fact": "富途牛牛 報導：Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the market b。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI",
-        "data center"
+        "AI"
       ],
-      "url": "https://news.futunn.com/en/post/79024875/data-center-tax-free-bonus-changes-over-a-dozen-us"
+      "url": "https://news.futunn.com/en/post/79164751/just-one-month-after-reporting-massive-losses-hedge-fund-situational"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
+      "originalTitle": "State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
+      "translatedTitle": "AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Macau Business",
+      "publishedAt": "2026-09-11T11:36:49.000Z",
+      "fact": "Macau Business 報導：AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of th。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://macaubusiness.com/state-grid-suzhou-power-supply-company-computing-power-electricity-coordination-empowers-high-quality-development-of-the-computing-industry/"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Nvidia",
-      "title": "AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌",
-      "originalTitle": "AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌",
-      "translatedTitle": "AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Piper Sandler initiates cove",
+      "title": "Piper Sandler initiates coverage on the AI chip sector: 輝達 (NVDA.US) and Broadcom (AVGO.US) are “top picks,” with the computing power 市場 size projected to reach $2.2 trillion by 2030.",
+      "originalTitle": "Piper Sandler initiates coverage on the AI chip sector: NVIDIA (NVDA.US) and Broadcom (AVGO.US) are “top picks,” with the computing power market size projected to reach $2.2 trillion by 2030.",
+      "translatedTitle": "Piper Sandler initiates coverage on the AI chip sector: 輝達 (NVDA.US) and Broadcom (AVGO.US) are “top picks,” with the computing power 市場 size projected to reach $2.2 trillion by 2030.",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 晶片",
-      "source": "forecastock.tw",
-      "publishedAt": "2026-09-10T08:00:32.000Z",
-      "fact": "forecastock.tw 報導：AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI晶片權力遊戲：從TSMC爆量營收到Nvidia反壟斷風暴，全球算力版圖大洗牌 &nbsp;&nbsp; forecastock.tw。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-11T08:40:05.000Z",
+      "fact": "富途牛牛 報導：Piper Sandler initiates coverage on the AI chip sector: 輝達 (NVDA.US) and Broadcom (AVGO.US) are “top picks,” with the computing power 市場 size projected to reach $2.2 trillion by 2030.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Piper Sandler initiates coverage on the AI chip sector: NVIDIA (NVDA.US) and Broadcom (AVGO.US) are “top picks,” with th。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "Nvidia",
         "AI"
       ],
-      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-b23a5775-aced-11f1-8c8b-cd85db50f41b"
+      "url": "https://news.futunn.com/en/post/79137441/piper-sandler-initiates-coverage-on-the-ai-chip-sector-nvidia"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "Cantor Has Strong Message fo",
-      "title": "Cantor Has Strong Message for 輝達 股票 Investors",
-      "originalTitle": "Cantor Has Strong Message for Nvidia Stock Investors",
-      "translatedTitle": "Cantor Has Strong Message for 輝達 股票 Investors",
+      "subject": "Why Dell and HPE Were the 標普",
+      "title": "Why Dell and HPE Were the 標普 500's Top-performing 股票 Today",
+      "originalTitle": "Why Dell and HPE Were the S&P 500's Top-performing Stocks Today",
+      "translatedTitle": "Why Dell and HPE Were the 標普 500's Top-performing 股票 Today",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "tw.tradingview.com",
-      "publishedAt": "2026-09-09T12:52:08.000Z",
-      "fact": "tw.tradingview.com 報導：Cantor Has Strong Message for 輝達 股票 Investors",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Cantor Has Strong Message for Nvidia Stock Investors &nbsp;&nbsp; tw.tradingview.com。",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-11T20:30:00.000Z",
+      "fact": "Moomoo 報導：Why Dell and HPE Were the 標普 500's Top-performing 股票 Today",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Dell and HPE Were the S&P 500's Top-performing Stocks Today &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia"
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:5f3ffa18a094b:0-cantor-has-strong-message-for-nvidia-stock-investors/"
+      "url": "https://www.moomoo.com/hant/news/post/76163155/why-dell-and-hpe-were-the-s-p-500-s"
     },
     {
       "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "甲骨文（ORCL）財報解讀",
+      "title": "甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
+      "originalTitle": "甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
+      "translatedTitle": "甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TOP1markets",
+      "publishedAt": "2026-09-11T07:29:18.000Z",
+      "fact": "TOP1markets 報導：甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看 &nbsp;&nbsp; TOP1markets。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.top1markets.com/tw/insights/stocks/oracle-earnings-cloud-infrastructure-revenue-outlook-analysis-is-orcl-a-good-buy-f28"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌",
       "title": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
@@ -204,44 +244,24 @@
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262161117-oracle-drops-premarket-ahead-of-earnings-tradingkey"
     },
     {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Where are U.S. 股票 headed at ",
-      "title": "Where are U.S. 股票 headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term 風險 are rising!",
-      "originalTitle": "Where are U.S. stocks headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term risks are rising!",
-      "translatedTitle": "Where are U.S. 股票 headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term 風險 are rising!",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-10T06:29:00.000Z",
-      "fact": "富途牛牛 報導：Where are U.S. 股票 headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term 風險 are rising!",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Where are U.S. stocks headed at year-end? Wall Street: Poised to breach the 8,000 mark, but short-term risks are rising!。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/79048955/where-are-us-stocks-headed-at-year-end-wall-street"
-    },
-    {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "美股盤前報告",
-      "title": "美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
-      "originalTitle": "美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
-      "translatedTitle": "美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
+      "subject": "Adobe Q3財報前瞻",
+      "title": "Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元",
+      "originalTitle": "Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元",
+      "translatedTitle": "Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "動區動趨",
-      "publishedAt": "2026-09-09T08:32:57.000Z",
-      "fact": "動區動趨 報導：美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？ &nbsp;&nbsp; 動區動趨。",
+      "source": "TradingKey",
+      "publishedAt": "2026-09-10T08:18:33.000Z",
+      "fact": "TradingKey 報導：Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.blocktempo.com/coreweave-rally-nebius-contract-ai-compute-avav-earnings-base-effect/"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262160469-adobe-q3-earnings-preview-ai-arr-paid-conversion-focus-tradingkey"
     }
   ]
 }
