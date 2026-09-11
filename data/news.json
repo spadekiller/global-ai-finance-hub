@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-10T23:33:31.758Z",
+  "generatedAt": "2026-09-11T01:49:36.690Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -12,7 +12,7 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "OpenAI",
-      "publishedAt": "2026-09-10T21:29:59.000Z",
+      "publishedAt": "2026-09-11T00:32:17.000Z",
       "fact": "OpenAI 報導：GPT-6 Astra：新一代智慧",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6 Astra：新一代智慧 &nbsp;&nbsp; OpenAI。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
@@ -64,65 +64,46 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Zuckerberg 押注 Muse",
-      "title": "Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要",
-      "originalTitle": "Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要",
-      "translatedTitle": "Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "HackMD",
-      "publishedAt": "2026-09-10T08:01:30.000Z",
-      "fact": "HackMD 報導：Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Zuckerberg 押注 Muse：把超智慧交到每個人手上，比開源更重要 &nbsp;&nbsp; HackMD。",
+      "subject": "Meta",
+      "title": "Why Are Meta (META) 股價 Soaring Today",
+      "originalTitle": "Why Are Meta (META) Shares Soaring Today",
+      "translatedTitle": "Why Are Meta (META) 股價 Soaring Today",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "tw.tradingview.com",
+      "publishedAt": "2026-09-09T19:35:40.000Z",
+      "fact": "tw.tradingview.com 報導：Why Are Meta (META) 股價 Soaring Today",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why Are Meta (META) Shares Soaring Today &nbsp;&nbsp; tw.tradingview.com。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "Meta"
       ],
-      "url": "https://hackmd.io/@JbhlYkBtRJukuvsXMtL6lg/rJ6eRZJFze"
+      "url": "https://tw.tradingview.com/news/stockstory:81c5fd12c094b:0-why-are-meta-meta-shares-soaring-today/"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？",
-      "originalTitle": "蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？",
-      "translatedTitle": "蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "蕃新聞",
-      "publishedAt": "2026-09-10T02:54:00.000Z",
-      "fact": "蕃新聞 報導：蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果押注iPhone個人AI中樞，與Google、Meta如何競爭？ &nbsp;&nbsp; 蕃新聞。",
+      "subject": "Anthropic",
+      "title": "憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」",
+      "originalTitle": "憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」",
+      "translatedTitle": "憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "世界新聞網",
+      "publishedAt": "2026-09-10T06:29:00.000Z",
+      "fact": "世界新聞網 報導：憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；憂AI失控 Anthropic研究員離職「10年內毀滅人類機率逾1成」 &nbsp;&nbsp; 世界新聞網。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "Meta",
+        "Anthropic",
         "AI"
       ],
-      "url": "https://n.yam.com/Article/20260910147263"
+      "url": "https://www.worldjournal.com/wj/amp/story/121172/9746231"
     },
     {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "Risen 能源 Expands into Green ",
-      "title": "Risen 能源 Expands into Green Computing and Power Integration",
-      "originalTitle": "Risen Energy Expands into Green Computing and Power Integration",
-      "translatedTitle": "Risen 能源 Expands into Green Computing and Power Integration",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Quamnet",
-      "publishedAt": "2026-09-10T03:00:01.000Z",
-      "fact": "Quamnet 報導：Risen 能源 Expands into Green Computing and Power Integration",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Risen Energy Expands into Green Computing and Power Integration &nbsp;&nbsp; Quamnet。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.quamnet.com/post/JdVtsV8BulmfQ7JjrVie3"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "數據中心儲能系統市場到2032年將達到$104.8億——",
       "title": "數據中心儲能系統市場到2032年將達到$104.8億——MarketsandMarkets獨家報告",
@@ -141,7 +122,7 @@
       "url": "https://www.moomoo.com/hant/news/post/76009514/data-center-energy-storage-systems-market-worth-10-48-billion"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "資料中心 'Tax",
       "title": "資料中心 'Tax-Free Bonus' Changes! Over a Dozen U.S. States Revisit Tax Incentives as AI Computing Expansion Hits Roadblocks",
@@ -185,6 +166,26 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "Cantor Has Strong Message fo",
+      "title": "Cantor Has Strong Message for 輝達 股票 Investors",
+      "originalTitle": "Cantor Has Strong Message for Nvidia Stock Investors",
+      "translatedTitle": "Cantor Has Strong Message for 輝達 股票 Investors",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "tw.tradingview.com",
+      "publishedAt": "2026-09-09T12:52:08.000Z",
+      "fact": "tw.tradingview.com 報導：Cantor Has Strong Message for 輝達 股票 Investors",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Cantor Has Strong Message for Nvidia Stock Investors &nbsp;&nbsp; tw.tradingview.com。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:5f3ffa18a094b:0-cantor-has-strong-message-for-nvidia-stock-investors/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌",
       "title": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
       "originalTitle": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
@@ -201,26 +202,6 @@
         "AI"
       ],
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262161117-oracle-drops-premarket-ahead-of-earnings-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Cantor Has Strong Message fo",
-      "title": "Cantor Has Strong Message for 輝達 股票 Investors",
-      "originalTitle": "Cantor Has Strong Message for Nvidia Stock Investors",
-      "translatedTitle": "Cantor Has Strong Message for 輝達 股票 Investors",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-09-09T12:52:08.000Z",
-      "fact": "TradingView 報導：Cantor Has Strong Message for 輝達 股票 Investors",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Cantor Has Strong Message for Nvidia Stock Investors &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:5f3ffa18a094b:0-cantor-has-strong-message-for-nvidia-stock-investors/"
     },
     {
       "id": "美股與全球市場焦點-4",
@@ -251,10 +232,10 @@
       "translatedTitle": "美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "blocktempo.com",
+      "source": "動區動趨",
       "publishedAt": "2026-09-09T08:32:57.000Z",
-      "fact": "blocktempo.com 報導：美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？ &nbsp;&nbsp; blocktempo.com。",
+      "fact": "動區動趨 報導：美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美股盤前報告：AI 租算力領漲，CoreWeave 漲 11.72%，AVAV 增速為何從 133% 掉到 10%？ &nbsp;&nbsp; 動區動趨。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
