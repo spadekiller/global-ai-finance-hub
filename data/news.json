@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T01:55:18.882Z",
+  "generatedAt": "2026-09-12T23:34:20.183Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -12,7 +12,7 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "OpenAI",
-      "publishedAt": "2026-09-12T00:44:59.000Z",
+      "publishedAt": "2026-09-12T18:58:39.000Z",
       "fact": "OpenAI 報導：GPT-6 Astra：新一代智慧",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6 Astra：新一代智慧 &nbsp;&nbsp; OpenAI。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
@@ -24,22 +24,22 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚",
-      "title": "因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」",
-      "originalTitle": "因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」",
-      "translatedTitle": "因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」",
+      "subject": "Meta",
+      "title": "Meta獲摩根大通上修評等，蘋果漲價後出貨與毛利能否同步穩定？-美股財經週報 - 阿筠",
+      "originalTitle": "Meta獲摩根大通上修評等，蘋果漲價後出貨與毛利能否同步穩定？-美股財經週報 - 阿筠",
+      "translatedTitle": "Meta獲摩根大通上修評等，蘋果漲價後出貨與毛利能否同步穩定？-美股財經週報 - 阿筠",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-09-12T01:32:13.000Z",
-      "fact": "TechNews 科技新報 報導：因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-09-12T05:03:04.000Z",
+      "fact": "CMoney投資網誌 報導：Meta獲摩根大通上修評等，蘋果漲價後出貨與毛利能否同步穩定？-美股財經週報 - 阿筠",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta獲摩根大通上修評等，蘋果漲價後出貨與毛利能否同步穩定？-美股財經週報 - 阿筠 &nbsp;&nbsp; CMoney投資網誌。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "AI"
+        "Meta"
       ],
-      "url": "https://technews.tw/2026/09/12/ai-has-made-answers-cheap-education-must-make-thinking-valuable-again/"
+      "url": "https://cmnews.com.tw/article/zhuangpeijun-3c6fcb8b-ae67-11f1-bc75-849ace13afe2"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -50,10 +50,10 @@
       "translatedTitle": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "techorange.com",
+      "source": "TechOrange 科技報橘",
       "publishedAt": "2026-09-11T04:33:34.000Z",
-      "fact": "techorange.com 報導：AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化 &nbsp;&nbsp; techorange.com。",
+      "fact": "TechOrange 科技報橘 報導：AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化 &nbsp;&nbsp; TechOrange 科技報橘。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -64,6 +64,26 @@
     },
     {
       "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "Anthropic 揭 7 大 Claude 濫用類別 由網絡攻擊到導彈研發",
+      "originalTitle": "Anthropic 揭 7 大 Claude 濫用類別 由網絡攻擊到導彈研發",
+      "translatedTitle": "Anthropic 揭 7 大 Claude 濫用類別 由網絡攻擊到導彈研發",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "unwire",
+      "publishedAt": "2026-09-12T14:00:31.000Z",
+      "fact": "unwire 報導：Anthropic 揭 7 大 Claude 濫用類別 由網絡攻擊到導彈研發",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 揭 7 大 Claude 濫用類別 由網絡攻擊到導彈研發 &nbsp;&nbsp; unwire。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic"
+      ],
+      "url": "https://unwire.hk/2026/09/12/anthropic-claude-threat-intelligence-report-2026/ai/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "報告",
       "title": "報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
@@ -83,47 +103,7 @@
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid"
     },
     {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器",
-      "originalTitle": "AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器",
-      "translatedTitle": "AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "inside.com.tw",
-      "publishedAt": "2026-09-11T03:22:22.000Z",
-      "fact": "inside.com.tw 報導：AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 武器化！Anthropic 威脅情報報告揭 Claude 濫用，多個中國帳號研究攻台灣防空、生物武器 &nbsp;&nbsp; inside.com.tw。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://www.inside.com.tw/article/42371-anthropic-threat-intelligence-report-biological-weapons-taiwan"
-    },
-    {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "Risen 能源 Expands into Green ",
-      "title": "Risen 能源 Expands into Green Computing and Power Integration",
-      "originalTitle": "Risen Energy Expands into Green Computing and Power Integration",
-      "translatedTitle": "Risen 能源 Expands into Green Computing and Power Integration",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Quamnet",
-      "publishedAt": "2026-09-10T03:00:01.000Z",
-      "fact": "Quamnet 報導：Risen 能源 Expands into Green Computing and Power Integration",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Risen Energy Expands into Green Computing and Power Integration &nbsp;&nbsp; Quamnet。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.quamnet.com/post/JdVtsV8BulmfQ7JjrVie3"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "Just one month after reporti",
       "title": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
@@ -143,7 +123,7 @@
       "url": "https://news.futunn.com/en/post/79164751/just-one-month-after-reporting-massive-losses-hedge-fund-situational"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
@@ -151,9 +131,9 @@
       "translatedTitle": "AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Macau Business",
+      "source": "macaubusiness.com",
       "publishedAt": "2026-09-11T11:36:49.000Z",
-      "fact": "Macau Business 報導：AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
+      "fact": "macaubusiness.com 報導：AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
       "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of th。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
@@ -186,6 +166,26 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "AI硬體狂潮點燃「企業基建股」",
+      "title": "AI硬體狂潮點燃「企業基建股」：DELL、HPE、HPQ輪番飆高，誰才是真正贏家？",
+      "originalTitle": "AI硬體狂潮點燃「企業基建股」：DELL、HPE、HPQ輪番飆高，誰才是真正贏家？",
+      "translatedTitle": "AI硬體狂潮點燃「企業基建股」：DELL、HPE、HPQ輪番飆高，誰才是真正贏家？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "forecastock.tw",
+      "publishedAt": "2026-09-12T00:00:38.000Z",
+      "fact": "forecastock.tw 報導：AI硬體狂潮點燃「企業基建股」：DELL、HPE、HPQ輪番飆高，誰才是真正贏家？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI硬體狂潮點燃「企業基建股」：DELL、HPE、HPQ輪番飆高，誰才是真正贏家？ &nbsp;&nbsp; forecastock.tw。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-fc97f62b-ae3c-11f1-b9cc-8579b5502180"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "Why Dell and HPE Were the 標普",
       "title": "Why Dell and HPE Were the 標普 500's Top-performing 股票 Today",
       "originalTitle": "Why Dell and HPE Were the S&P 500's Top-performing Stocks Today",
@@ -204,7 +204,7 @@
       "url": "https://www.moomoo.com/hant/news/post/76163155/why-dell-and-hpe-were-the-s-p-500-s"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "甲骨文（ORCL）財報解讀",
       "title": "甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
@@ -212,10 +212,10 @@
       "translatedTitle": "甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "top1markets.com",
+      "source": "TOP1markets",
       "publishedAt": "2026-09-11T07:29:18.000Z",
-      "fact": "top1markets.com 報導：甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看 &nbsp;&nbsp; top1markets.com。",
+      "fact": "TOP1markets 報導：甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看 &nbsp;&nbsp; TOP1markets。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
@@ -223,43 +223,24 @@
       "url": "https://www.top1markets.com/tw/insights/stocks/oracle-earnings-cloud-infrastructure-revenue-outlook-analysis-is-orcl-a-good-buy-f28"
     },
     {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "美股放大鏡 Forecastock ",
-      "title": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南",
-      "originalTitle": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南",
-      "translatedTitle": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "forecastock.tw",
-      "publishedAt": "2026-09-10T08:00:32.000Z",
-      "fact": "forecastock.tw 報導：美股放大鏡 Forecastock - 掌握美股動態，精準投資指南",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美股放大鏡 Forecastock - 掌握美股動態，精準投資指南 &nbsp;&nbsp; forecastock.tw。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-b23a5775-aced-11f1-8c8b-cd85db50f41b"
-    },
-    {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌",
-      "title": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
-      "originalTitle": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
-      "translatedTitle": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions capital expenditure plan.",
+      "originalTitle": "Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions capital expenditure plan.",
+      "translatedTitle": "AI 財經快訊：Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions capital expenditure plan.",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-10T13:27:56.000Z",
-      "fact": "TradingKey 報導：甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？ &nbsp;&nbsp; TradingKey。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-12T05:21:58.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions capital expenditure plan.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262161117-oracle-drops-premarket-ahead-of-earnings-tradingkey"
+      "url": "https://news.futunn.com/en/post/79174967/dell-surges-12-in-a-single-day-to-hit-a"
     }
   ]
 }
