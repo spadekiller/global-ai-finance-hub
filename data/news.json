@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T23:41:17.624Z",
+  "generatedAt": "2026-09-12T01:55:18.882Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -12,7 +12,7 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "OpenAI",
-      "publishedAt": "2026-09-11T18:42:33.000Z",
+      "publishedAt": "2026-09-12T00:44:59.000Z",
       "fact": "OpenAI 報導：GPT-6 Astra：新一代智慧",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6 Astra：新一代智慧 &nbsp;&nbsp; OpenAI。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
@@ -24,16 +24,36 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚",
+      "title": "因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」",
+      "originalTitle": "因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」",
+      "translatedTitle": "因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-09-12T01:32:13.000Z",
+      "fact": "TechNews 科技新報 報導：因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；因應 AI 讓取得答案變太廉價，教育界須把學習價值重新聚焦「自發性思考」 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/09/12/ai-has-made-answers-cheap-education-must-make-thinking-valuable-again/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
       "originalTitle": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
       "translatedTitle": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "TechOrange 科技報橘",
+      "source": "techorange.com",
       "publishedAt": "2026-09-11T04:33:34.000Z",
-      "fact": "TechOrange 科技報橘 報導：AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化 &nbsp;&nbsp; TechOrange 科技報橘。",
+      "fact": "techorange.com 報導：AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化 &nbsp;&nbsp; techorange.com。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
@@ -43,7 +63,7 @@
       "url": "https://techorange.com/2026/09/11/anthropic-threat-intelligence-report-september-2026/"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "報告",
       "title": "報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
@@ -61,27 +81,6 @@
         "AI"
       ],
       "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測",
-      "originalTitle": "每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測",
-      "translatedTitle": "每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-09-11T04:56:05.000Z",
-      "fact": "TechNews 科技新報 報導：每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；每日生成超個性化故事，Google Dreambeans AI App 全美免費開放公測 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://technews.tw/2026/09/11/google-dreambeans-ai-app-free-public-beta-nationwide-hyper-personalized-stories-daily/"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -213,10 +212,10 @@
       "translatedTitle": "甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TOP1markets",
+      "source": "top1markets.com",
       "publishedAt": "2026-09-11T07:29:18.000Z",
-      "fact": "TOP1markets 報導：甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看 &nbsp;&nbsp; TOP1markets。",
+      "fact": "top1markets.com 報導：甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；甲骨文（ORCL）財報解讀：盈利超預期！財測、雲端營收及後續股價走勢一次看 &nbsp;&nbsp; top1markets.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
@@ -225,6 +224,25 @@
     },
     {
       "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "美股放大鏡 Forecastock ",
+      "title": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南",
+      "originalTitle": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南",
+      "translatedTitle": "美股放大鏡 Forecastock - 掌握美股動態，精準投資指南",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "forecastock.tw",
+      "publishedAt": "2026-09-10T08:00:32.000Z",
+      "fact": "forecastock.tw 報導：美股放大鏡 Forecastock - 掌握美股動態，精準投資指南",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美股放大鏡 Forecastock - 掌握美股動態，精準投資指南 &nbsp;&nbsp; forecastock.tw。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-b23a5775-aced-11f1-8c8b-cd85db50f41b"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌",
       "title": "甲骨文盤前下跌2%，財報公布在即，AI雲端成長能否扭轉跌勢？",
@@ -242,26 +260,6 @@
         "AI"
       ],
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262161117-oracle-drops-premarket-ahead-of-earnings-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Adobe Q3財報前瞻",
-      "title": "Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元",
-      "originalTitle": "Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元",
-      "translatedTitle": "Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-10T08:18:33.000Z",
-      "fact": "TradingKey 報導：Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Adobe Q3財報前瞻：AI ARR與付費轉換成焦點，華爾街最高看至380美元 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262160469-adobe-q3-earnings-preview-ai-arr-paid-conversion-focus-tradingkey"
     }
   ]
 }
