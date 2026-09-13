@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-12T23:34:20.183Z",
+  "generatedAt": "2026-09-13T01:47:34.993Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -24,6 +24,28 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "呼籲踩煞車卻醞釀兩兆美元超級IPO？解析Anthropic執行長的AI降速戰略與NVIDIA投資佈局| AI浪潮",
+      "originalTitle": "呼籲踩煞車卻醞釀兩兆美元超級IPO？解析Anthropic執行長的AI降速戰略與NVIDIA投資佈局| AI浪潮",
+      "translatedTitle": "呼籲踩煞車卻醞釀兩兆美元超級IPO？解析Anthropic執行長的AI降速戰略與NVIDIA投資佈局| AI浪潮",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 晶片",
+      "source": "udn科技玩家",
+      "publishedAt": "2026-09-12T23:34:44.000Z",
+      "fact": "udn科技玩家 報導：呼籲踩煞車卻醞釀兩兆美元超級IPO？解析Anthropic執行長的AI降速戰略與NVIDIA投資佈局| AI浪潮",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；呼籲踩煞車卻醞釀兩兆美元超級IPO？解析Anthropic執行長的AI降速戰略與NVIDIA投資佈局| AI浪潮 &nbsp;&nbsp; udn科技玩家。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://tech.udn.com/tech/story/123454/9751077"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta獲摩根大通上修評等，蘋果漲價後出貨與毛利能否同步穩定？-美股財經週報 - 阿筠",
       "originalTitle": "Meta獲摩根大通上修評等，蘋果漲價後出貨與毛利能否同步穩定？-美股財經週報 - 阿筠",
@@ -40,27 +62,6 @@
         "Meta"
       ],
       "url": "https://cmnews.com.tw/article/zhuangpeijun-3c6fcb8b-ae67-11f1-bc75-849ace13afe2"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
-      "originalTitle": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
-      "translatedTitle": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "TechOrange 科技報橘",
-      "publishedAt": "2026-09-11T04:33:34.000Z",
-      "fact": "TechOrange 科技報橘 報導：AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化 &nbsp;&nbsp; TechOrange 科技報橘。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://techorange.com/2026/09/11/anthropic-threat-intelligence-report-september-2026/"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -85,45 +86,26 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "報告",
-      "title": "報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
-      "originalTitle": "報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
-      "translatedTitle": "報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
+      "subject": "Anthropic",
+      "title": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+      "originalTitle": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+      "translatedTitle": "AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "informationsecurity.com.tw",
-      "publishedAt": "2026-09-11T04:42:11.000Z",
-      "fact": "informationsecurity.com.tw 報導：報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；報告：AI 已深度融入攻擊生命週期，代理式應用成新戰場 &nbsp;&nbsp; informationsecurity.com.tw。",
+      "category": "前沿模型",
+      "source": "TechOrange 科技報橘",
+      "publishedAt": "2026-09-11T04:33:34.000Z",
+      "fact": "TechOrange 科技報橘 報導：AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 網攻自動化到哪一步？Anthropic 報告揭漏洞研究、偵察與資料竊取如何 Agent 化 &nbsp;&nbsp; TechOrange 科技報橘。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Anthropic",
         "AI"
       ],
-      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid"
+      "url": "https://techorange.com/2026/09/11/anthropic-threat-intelligence-report-september-2026/"
     },
     {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "Just one month after reporti",
-      "title": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
-      "originalTitle": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the market by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
-      "translatedTitle": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-11T15:43:38.000Z",
-      "fact": "富途牛牛 報導：Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the market b。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/79164751/just-one-month-after-reporting-massive-losses-hedge-fund-situational"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
@@ -131,9 +113,9 @@
       "translatedTitle": "AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "macaubusiness.com",
+      "source": "Macau Business",
       "publishedAt": "2026-09-11T11:36:49.000Z",
-      "fact": "macaubusiness.com 報導：AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
+      "fact": "Macau Business 報導：AI 財經快訊：State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of the Computing Industry",
       "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；State Grid Suzhou Power Supply Company: Computing‑Power‑Electricity Coordination Empowers High‑Quality Development of th。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
@@ -141,6 +123,26 @@
         "AI"
       ],
       "url": "https://macaubusiness.com/state-grid-suzhou-power-supply-company-computing-power-electricity-coordination-empowers-high-quality-development-of-the-computing-industry/"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Just one month after reporti",
+      "title": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
+      "originalTitle": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the market by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
+      "translatedTitle": "Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-09-11T15:43:38.000Z",
+      "fact": "news.futunn.com 報導：Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the 市場 by purchasing significant call options, betting on AI-related supply chain companies such as SanDisk (SNDK.US).",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Just one month after reporting massive losses, hedge fund Situational Awareness has aggressively re-entered the market b。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/79164751/just-one-month-after-reporting-massive-losses-hedge-fund-situational"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -151,9 +153,9 @@
       "translatedTitle": "Piper Sandler initiates coverage on the AI chip sector: 輝達 (NVDA.US) and Broadcom (AVGO.US) are “top picks,” with the computing power 市場 size projected to reach $2.2 trillion by 2030.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 晶片",
-      "source": "富途牛牛",
+      "source": "news.futunn.com",
       "publishedAt": "2026-09-11T08:40:05.000Z",
-      "fact": "富途牛牛 報導：Piper Sandler initiates coverage on the AI chip sector: 輝達 (NVDA.US) and Broadcom (AVGO.US) are “top picks,” with the computing power 市場 size projected to reach $2.2 trillion by 2030.",
+      "fact": "news.futunn.com 報導：Piper Sandler initiates coverage on the AI chip sector: 輝達 (NVDA.US) and Broadcom (AVGO.US) are “top picks,” with the computing power 市場 size projected to reach $2.2 trillion by 2030.",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Piper Sandler initiates coverage on the AI chip sector: NVIDIA (NVDA.US) and Broadcom (AVGO.US) are “top picks,” with th。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
@@ -225,22 +227,22 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions capital expenditure plan.",
-      "originalTitle": "Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions capital expenditure plan.",
-      "translatedTitle": "AI 財經快訊：Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions capital expenditure plan.",
+      "subject": "Afternoon Session [Notable M",
+      "title": "Afternoon Session [Notable Movers & Actively Traded 股票]",
+      "originalTitle": "Afternoon Session [Notable Movers & Actively Traded Stocks]",
+      "translatedTitle": "Afternoon Session [Notable Movers & Actively Traded 股票]",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-12T05:21:58.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions capital expenditure plan.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Dell surges 12% in a single day to hit a record high! Named by Oracle as a \"core supplier\" for its hundreds-of-billions。",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-09-11T14:46:31.000Z",
+      "fact": "news.futunn.com 報導：Afternoon Session [Notable Movers & Actively Traded 股票]",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Afternoon Session [Notable Movers & Actively Traded Stocks] &nbsp;&nbsp; news.futunn.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/79174967/dell-surges-12-in-a-single-day-to-hit-a"
+      "url": "https://news.futunn.com/en/post/79133650/afternoon-session-notable-movers-actively-traded-stocks"
     }
   ]
 }
