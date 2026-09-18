@@ -1,132 +1,209 @@
 {
-  "generatedAt": "2026-09-18T01:55:45.545Z",
+  "generatedAt": "2026-09-18T23:45:00.132Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "AI Agent 越界不再等查完才說，OpenAI 再公開 6 起新案例、首推失準事件揭露框架",
-      "originalTitle": "AI Agent 越界不再等查完才說，OpenAI 再公開 6 起新案例、首推失準事件揭露框架",
-      "translatedTitle": "AI Agent 越界不再等查完才說，OpenAI 再公開 6 起新案例、首推失準事件揭露框架",
+      "subject": "AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的",
+      "title": "AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈",
+      "originalTitle": "AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈",
+      "translatedTitle": "AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "techorange.com",
-      "publishedAt": "2026-09-17T15:46:03.000Z",
-      "fact": "techorange.com 報導：AI Agent 越界不再等查完才說，OpenAI 再公開 6 起新案例、首推失準事件揭露框架",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI Agent 越界不再等查完才說，OpenAI 再公開 6 起新案例、首推失準事件揭露框架 &nbsp;&nbsp; techorange.com。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "category": "AI 與科技前沿",
+      "source": "思想坦克｜Voicettank",
+      "publishedAt": "2026-09-18T08:21:32.000Z",
+      "fact": "思想坦克｜Voicettank 報導：AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈 &nbsp;&nbsp; 思想坦克｜Voicettank。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "OpenAI",
         "AI"
       ],
-      "url": "https://techorange.com/2026/09/17/openai-framework-for-reporting-model-misalignment/"
+      "url": "https://voicettank.org/20260918-1/"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI 公布模型偏離通報框架：六起案例包括隱瞞錯誤、擅用 API 金鑰與越權傳檔",
-      "originalTitle": "OpenAI 公布模型偏離通報框架：六起案例包括隱瞞錯誤、擅用 API 金鑰與越權傳檔",
-      "translatedTitle": "OpenAI 公布模型偏離通報框架：六起案例包括隱瞞錯誤、擅用 API 金鑰與越權傳檔",
+      "subject": "教宗的AI顧問",
+      "title": "教宗的AI顧問：這項技術對孩子可能比古柯鹼更糟",
+      "originalTitle": "教宗的AI顧問：這項技術對孩子可能比古柯鹼更糟",
+      "translatedTitle": "教宗的AI顧問：這項技術對孩子可能比古柯鹼更糟",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "硬是要學",
-      "publishedAt": "2026-09-17T14:56:39.000Z",
-      "fact": "硬是要學 報導：OpenAI 公布模型偏離通報框架：六起案例包括隱瞞錯誤、擅用 API 金鑰與越權傳檔",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 公布模型偏離通報框架：六起案例包括隱瞞錯誤、擅用 API 金鑰與越權傳檔 &nbsp;&nbsp; 硬是要學。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "category": "AI 與科技前沿",
+      "source": "Business Insider Taiwan",
+      "publishedAt": "2026-09-18T15:56:18.000Z",
+      "fact": "Business Insider Taiwan 報導：教宗的AI顧問：這項技術對孩子可能比古柯鹼更糟",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；教宗的AI顧問：這項技術對孩子可能比古柯鹼更糟 &nbsp;&nbsp; Business Insider Taiwan。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "OpenAI",
         "AI"
       ],
-      "url": "https://www.soft4fun.net/tech/news/openai-model-misalignment-reporting-framework.htm"
+      "url": "https://www.businessinsider.tw/article/7296"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "FBI指阿里抄襲Anthropic後 美政府網站被發現用中國AI搜尋工具",
-      "originalTitle": "FBI指阿里抄襲Anthropic後 美政府網站被發現用中國AI搜尋工具",
-      "translatedTitle": "FBI指阿里抄襲Anthropic後 美政府網站被發現用中國AI搜尋工具",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "香港01",
-      "publishedAt": "2026-09-17T20:36:54.000Z",
-      "fact": "香港01 報導：FBI指阿里抄襲Anthropic後 美政府網站被發現用中國AI搜尋工具",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；FBI指阿里抄襲Anthropic後 美政府網站被發現用中國AI搜尋工具 &nbsp;&nbsp; 香港01。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://www.hk01.com/article/60391170"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "GoogleBook AI 筆電揭露 OLED 螢幕 紐約 9/21 開啟預購",
-      "originalTitle": "GoogleBook AI 筆電揭露 OLED 螢幕 紐約 9/21 開啟預購",
-      "translatedTitle": "GoogleBook AI 筆電揭露 OLED 螢幕 紐約 9/21 開啟預購",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "蕃新聞",
-      "publishedAt": "2026-09-18T01:28:00.000Z",
-      "fact": "蕃新聞 報導：GoogleBook AI 筆電揭露 OLED 螢幕 紐約 9/21 開啟預購",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GoogleBook AI 筆電揭露 OLED 螢幕 紐約 9/21 開啟預購 &nbsp;&nbsp; 蕃新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://n.yam.com/Article/20260918468666"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "OpenAI 的奥特曼：世界「理應感到恐懼」，但「應該信任」AI 公司",
-      "originalTitle": "OpenAI 的奥特曼：世界「理應感到恐懼」，但「應該信任」AI 公司",
-      "translatedTitle": "OpenAI 的奥特曼：世界「理應感到恐懼」，但「應該信任」AI 公司",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "title": "AI 財經快訊：Exclusive-OpenAI's Sam Altman to brief UN Security Council next week during",
+      "originalTitle": "Exclusive-OpenAI's Sam Altman to brief UN Security Council next week during",
+      "translatedTitle": "AI 財經快訊：Exclusive-OpenAI's Sam Altman to brief UN Security Council next week during",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "BBC",
-      "publishedAt": "2026-09-16T07:21:18.000Z",
-      "fact": "BBC 報導：OpenAI 的奥特曼：世界「理應感到恐懼」，但「應該信任」AI 公司",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 的奥特曼：世界「理應感到恐懼」，但「應該信任」AI 公司 &nbsp;&nbsp; BBC。",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-18T20:27:38.000Z",
+      "fact": "Yahoo 報導：AI 財經快訊：Exclusive-OpenAI's Sam Altman to brief UN Security Council next week during",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Exclusive-OpenAI's Sam Altman to brief UN Security Council next week during &nbsp;&nbsp; Yahoo。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://www.bbc.com/zhongwen/articles/cmn452ww8920o/trad"
+      "url": "https://hk.news.yahoo.com/world/articles/exclusive-openais-sam-altman-brief-202738016.html"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "市場傳聞：Anthropic、OpenAI尋求規模更小的人工智能數據中心交易",
+      "originalTitle": "市場傳聞：Anthropic、OpenAI尋求規模更小的人工智能數據中心交易",
+      "translatedTitle": "市場傳聞：Anthropic、OpenAI尋求規模更小的人工智能數據中心交易",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-18T11:15:19.000Z",
+      "fact": "Moomoo 報導：市場傳聞：Anthropic、OpenAI尋求規模更小的人工智能數據中心交易",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；市場傳聞：Anthropic、OpenAI尋求規模更小的人工智能數據中心交易 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/76459617/market-chatter-anthropic-openai-seek-smaller-ai-data-center-deals"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "文檔AI市場規模到2031年將達到$353.4億——Ma",
+      "title": "文檔AI市場規模到2031年將達到$353.4億——MarketsandMarkets報告",
+      "originalTitle": "文檔AI市場規模到2031年將達到$353.4億——MarketsandMarkets報告",
+      "translatedTitle": "文檔AI市場規模到2031年將達到$353.4億——MarketsandMarkets報告",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-18T14:15:00.000Z",
+      "fact": "富途牛牛 報導：文檔AI市場規模到2031年將達到$353.4億——MarketsandMarkets報告",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；文檔AI市場規模到2031年將達到$353.4億——MarketsandMarkets報告 &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/79486399/document-ai-market-worth-35-34-billion-by-2031-report"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "Top 20 in trading volume | I",
-      "title": "Top 20 in trading volume | Intel rises more than 4%, planning to partner with SK Hynix to build a factory; SpaceX surges over 5%, with the Starship's 14th test flight on September 22; 蘋果 returns to the enterprise server 市場; Zuckerberg opposes the \"AI slo",
-      "originalTitle": "Top 20 in trading volume | Intel rises more than 4%, planning to partner with SK Hynix to build a factory; SpaceX surges over 5%, with the Starship's 14th test flight on September 22; Apple returns to the enterprise server market; Zuckerberg opposes the \"AI slo",
-      "translatedTitle": "Top 20 in trading volume | Intel rises more than 4%, planning to partner with SK Hynix to build a factory; SpaceX surges over 5%, with the Starship's 14th test flight on September 22; 蘋果 returns to the enterprise server 市場; Zuckerberg opposes the \"AI slo",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
+      "originalTitle": "《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-16T21:22:00.000Z",
-      "fact": "富途牛牛 報導：Top 20 in trading volume | Intel rises more than 4%, planning to partner with SK Hynix to build a factory; SpaceX surges over 5%, with the Starship's 14th test flight on September 22; 蘋果 returns to the enterprise server 市場; Zuckerberg opposes the \"AI slo",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Top 20 in trading volume | Intel rises more than 4%, planning to partner with SK Hynix to build a factory; SpaceX surges。",
+      "source": "自由時報",
+      "publishedAt": "2026-09-18T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 Ministry freezes electricity rates until December meet &nbsp;&nbsp; 自由時報。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "Apple",
         "AI"
       ],
-      "url": "https://news.futunn.com/en/post/79376855/top-20-in-trading-volume-intel-rises-more-than-4"
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5578815"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Top 20 by Trading Volume | S",
+      "title": "Top 20 by Trading Volume | SanDisk surges 11%, Micron rises 4%; Musk personally oversees SpaceX's 資料中心 site",
+      "originalTitle": "Top 20 by Trading Volume | SanDisk surges 11%, Micron rises 4%; Musk personally oversees SpaceX's data center site",
+      "translatedTitle": "Top 20 by Trading Volume | SanDisk surges 11%, Micron rises 4%; Musk personally oversees SpaceX's 資料中心 site",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-18T21:32:24.000Z",
+      "fact": "富途牛牛 報導：Top 20 by Trading Volume | SanDisk surges 11%, Micron rises 4%; Musk personally oversees SpaceX's 資料中心 site",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Top 20 by Trading Volume | SanDisk surges 11%, Micron rises 4%; Musk personally oversees SpaceX's data center site &nbsp。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "data center"
+      ],
+      "url": "https://news.futunn.com/en/post/79495357/top-20-by-trading-volume-sandisk-surges-11-micron-rises"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "Making the Most of Every Ray",
+      "title": "Making the Most of Every Ray, 推動 the Unpowered: 2026 Global Low-Carbon Industry Forum Explores Pathways to Bridge the Electricity Gap",
+      "originalTitle": "Making the Most of Every Ray, Powering the Unpowered: 2026 Global Low-Carbon Industry Forum Explores Pathways to Bridge the Electricity Gap",
+      "translatedTitle": "Making the Most of Every Ray, 推動 the Unpowered: 2026 Global Low-Carbon Industry Forum Explores Pathways to Bridge the Electricity Gap",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Quamnet",
+      "publishedAt": "2026-09-17T11:00:02.000Z",
+      "fact": "Quamnet 報導：Making the Most of Every Ray, 推動 the Unpowered: 2026 Global Low-Carbon Industry Forum Explores Pathways to Bridge the Electricity Gap",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Making the Most of Every Ray, Powering the Unpowered: 2026 Global Low-Carbon Industry Forum Explores Pathways to Bridge。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://www.quamnet.com/post/lQpohGYvUV9y5d8dy36y1"
+    },
+    {
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "AI 需求 ignites the green 能源 s",
+      "title": "AI 需求 ignites the green 能源 sector! These five 股票 have surged quietly this year, with gains exceeding 223% at their peak.",
+      "originalTitle": "AI demand ignites the green energy sector! These five stocks have surged quietly this year, with gains exceeding 223% at their peak.",
+      "translatedTitle": "AI 需求 ignites the green 能源 sector! These five 股票 have surged quietly this year, with gains exceeding 223% at their peak.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-18T08:59:18.000Z",
+      "fact": "富途牛牛 報導：AI 需求 ignites the green 能源 sector! These five 股票 have surged quietly this year, with gains exceeding 223% at their peak.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI demand ignites the green energy sector! These five stocks have surged quietly this year, with gains exceeding 223% at。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/79465706/ai-demand-ignites-the-green-energy-sector-these-five-stocks"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Goldman Sachs: The five major tech giants may issue bonds totaling up to $420 billion by 2027.",
+      "originalTitle": "Goldman Sachs: The five major tech giants may issue bonds totaling up to $420 billion by 2027.",
+      "translatedTitle": "AI 財經快訊：Goldman Sachs: The five major tech giants may issue bonds totaling up to $420 billion by 2027.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-18T12:26:00.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Goldman Sachs: The five major tech giants may issue bonds totaling up to $420 billion by 2027.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Goldman Sachs: The five major tech giants may issue bonds totaling up to $420 billion by 2027. &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/79481795/goldman-sachs-the-five-major-tech-giants-may-issue-bonds"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -138,7 +215,7 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "TradingKey",
-      "publishedAt": "2026-09-17T15:29:59.000Z",
+      "publishedAt": "2026-09-18T14:47:16.000Z",
       "fact": "TradingKey 報導：微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
@@ -146,86 +223,92 @@
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/research/single-stock/msft/262094479-microsoft-msft-earnings-azure-copilot-ai-valuation-2026-tradingkey"
+      "url": "https://www.tradingkey.com/zh-hant/research/stocks/msft/262094479-microsoft-msft-earnings-azure-copilot-ai-valuation-2026-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "記憶體吃緊、GPU 報價有撐 美銀唱旺多檔晶片股",
-      "title": "記憶體吃緊、GPU 報價有撐 美銀唱旺多檔晶片股",
-      "originalTitle": "記憶體吃緊、GPU 報價有撐 美銀唱旺多檔晶片股",
-      "translatedTitle": "記憶體吃緊、GPU 報價有撐 美銀唱旺多檔晶片股",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-09-16T04:57:10.000Z",
-      "fact": "TechNews 科技新報 報導：記憶體吃緊、GPU 報價有撐 美銀唱旺多檔晶片股",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；記憶體吃緊、GPU 報價有撐 美銀唱旺多檔晶片股 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://finance.technews.tw/2026/09/16/these-4-stocks-could-benefit-most-from-a-3-2-trillion-semiconductor-opportunity/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "人工智能數據中心的反彈已經開始",
-      "title": "人工智能數據中心的反彈已經開始：我會關注這兩隻加拿大股票",
-      "originalTitle": "人工智能數據中心的反彈已經開始：我會關注這兩隻加拿大股票",
-      "translatedTitle": "人工智能數據中心的反彈已經開始：我會關注這兩隻加拿大股票",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-16T22:25:32.000Z",
-      "fact": "Moomoo 報導：人工智能數據中心的反彈已經開始：我會關注這兩隻加拿大股票",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；人工智能數據中心的反彈已經開始：我會關注這兩隻加拿大股票 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/76350298/the-ai-data-centre-backlash-has-started-i-d-watch"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Why Optical 股票 Lumentum and ",
-      "title": "Why Optical 股票 Lumentum and Coherent Were the Day's Biggest Gainers",
-      "originalTitle": "Why Optical Stocks Lumentum and Coherent Were the Day's Biggest Gainers",
-      "translatedTitle": "Why Optical 股票 Lumentum and Coherent Were the Day's Biggest Gainers",
+      "subject": "Hong Kong 市場 Quick Take | Al",
+      "title": "Hong Kong 市場 Quick Take | All three major indices rose, with the tech index up 2.20% and MINIMAX surging nearly 19%; robotics, 半導體, and optical communications 股票 performed strongly, with Yunji soaring nearly 22%, Tienshu Zhixin gainin",
+      "originalTitle": "Hong Kong Market Quick Take | All three major indices rose, with the tech index up 2.20% and MINIMAX surging nearly 19%; robotics, semiconductor, and optical communications stocks performed strongly, with Yunji soaring nearly 22%, Tienshu Zhixin gainin",
+      "translatedTitle": "Hong Kong 市場 Quick Take | All three major indices rose, with the tech index up 2.20% and MINIMAX surging nearly 19%; robotics, 半導體, and optical communications 股票 performed strongly, with Yunji soaring nearly 22%, Tienshu Zhixin gainin",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-09-16T21:46:18.000Z",
-      "fact": "富途牛牛 報導：Why Optical 股票 Lumentum and Coherent Were the Day's Biggest Gainers",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Optical Stocks Lumentum and Coherent Were the Day's Biggest Gainers &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-09-18T08:27:00.000Z",
+      "fact": "富途牛牛 報導：Hong Kong 市場 Quick Take | All three major indices rose, with the tech index up 2.20% and MINIMAX surging nearly 19%; robotics, 半導體, and optical communications 股票 performed strongly, with Yunji soaring nearly 22%, Tienshu Zhixin gainin",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Hong Kong Market Quick Take | All three major indices rose, with the tech index up 2.20% and MINIMAX surging nearly 19%;。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
+        "semiconductor",
         "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/79376272/why-optical-stocks-lumentum-and-coherent-were-the-day-s"
+      "url": "https://news.futunn.com/en/post/79463959/hong-kong-market-quick-take-all-three-major-indices-rose"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "AI 資料中心 Deployment Momentum ",
+      "title": "AI 資料中心 Deployment Momentum Draws Investor Attention, Qualcomm's 股票 Price Climbs To A Two-Month High!",
+      "originalTitle": "AI Data Center Deployment Momentum Draws Investor Attention, Qualcomm's Stock Price Climbs To A Two-Month High!",
+      "translatedTitle": "AI 資料中心 Deployment Momentum Draws Investor Attention, Qualcomm's 股票 Price Climbs To A Two-Month High!",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "tmgm.com",
+      "publishedAt": "2026-09-17T06:59:09.000Z",
+      "fact": "tmgm.com 報導：AI 資料中心 Deployment Momentum Draws Investor Attention, Qualcomm's 股票 Price Climbs To A Two-Month High!",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Data Center Deployment Momentum Draws Investor Attention, Qualcomm's Stock Price Climbs To A Two-Month High! &nbsp;&n。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "data center"
+      ],
+      "url": "https://www.tmgm.com/zh-hant/analysis/market-insight/qualcomm-amazon-ai-chips"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Hong Kong 股票 市場 Midday Revie",
+      "title": "Hong Kong 股票 市場 Midday Review | All three major indices rose, with the tech index up 1.74%; 半導體 股票 advanced, as TianShu Zhixin surged more than 13% and Zhaoyi Innovation gained over 7%; MINIMAX climbed more than 13%, while L",
+      "originalTitle": "Hong Kong Stock Market Midday Review | All three major indices rose, with the tech index up 1.74%; semiconductor stocks advanced, as TianShu Zhixin surged more than 13% and Zhaoyi Innovation gained over 7%; MINIMAX climbed more than 13%, while L",
+      "translatedTitle": "Hong Kong 股票 市場 Midday Review | All three major indices rose, with the tech index up 1.74%; 半導體 股票 advanced, as TianShu Zhixin surged more than 13% and Zhaoyi Innovation gained over 7%; MINIMAX climbed more than 13%, while L",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-18T04:10:05.000Z",
+      "fact": "富途牛牛 報導：Hong Kong 股票 市場 Midday Review | All three major indices rose, with the tech index up 1.74%; 半導體 股票 advanced, as TianShu Zhixin surged more than 13% and Zhaoyi Innovation gained over 7%; MINIMAX climbed more than 13%, while L",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Hong Kong Stock Market Midday Review | All three major indices rose, with the tech index up 1.74%; semiconductor stocks。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "semiconductor",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/79453190/hong-kong-stock-market-midday-review-all-three-major-indices"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "摩根士丹利 maintains overweight r",
-      "title": "摩根士丹利 maintains overweight rating on SpaceX with $300 price target: Diversified structure provides defensive buffer amid pressure on AI trades",
-      "originalTitle": "Morgan Stanley maintains overweight rating on SpaceX with $300 price target: Diversified structure provides defensive buffer amid pressure on AI trades",
-      "translatedTitle": "摩根士丹利 maintains overweight rating on SpaceX with $300 price target: Diversified structure provides defensive buffer amid pressure on AI trades",
+      "subject": "Nokia",
+      "title": "Nokia: Expanding its collaboration with 微軟, accelerating network automation, and building a unified data foundation.",
+      "originalTitle": "Nokia: Expanding its collaboration with Microsoft, accelerating network automation, and building a unified data foundation.",
+      "translatedTitle": "Nokia: Expanding its collaboration with 微軟, accelerating network automation, and building a unified data foundation.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-09-17T06:20:00.000Z",
-      "fact": "富途牛牛 報導：摩根士丹利 maintains overweight rating on SpaceX with $300 price target: Diversified structure provides defensive buffer amid pressure on AI trades",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Morgan Stanley maintains overweight rating on SpaceX with $300 price target: Diversified structure provides defensive bu。",
+      "publishedAt": "2026-09-17T07:22:21.000Z",
+      "fact": "富途牛牛 報導：Nokia: Expanding its collaboration with 微軟, accelerating network automation, and building a unified data foundation.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nokia: Expanding its collaboration with Microsoft, accelerating network automation, and building a unified data foundati。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "Microsoft"
       ],
-      "url": "https://news.futunn.com/en/post/79397334/morgan-stanley-maintains-overweight-rating-on-spacex-with-300-price"
+      "url": "https://news.futunn.com/en/flash/20752434/nokia-expanding-its-collaboration-with-microsoft-accelerating-network-automation-and"
     }
   ]
 }
