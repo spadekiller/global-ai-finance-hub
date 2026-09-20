@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-09-19T23:47:14.731Z",
+  "generatedAt": "2026-09-20T02:04:31.882Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？",
+      "originalTitle": "Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？",
+      "translatedTitle": "Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "未來商務",
+      "publishedAt": "2026-09-20T01:00:00.000Z",
+      "fact": "未來商務 報導：Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？ &nbsp;&nbsp; 未來商務。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta"
+      ],
+      "url": "https://fc.bnext.com.tw/articles/view/4925"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "ONON On — Google's Gemini becomes latest AI model to break out and hack computer systems — 股市爆料同學會",
@@ -24,7 +44,7 @@
       "url": "https://www.cmoney.tw/forum/article/184828839"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Google Pixel 11 Pro手機開箱實測！120倍變焦、一鍵抓拍功能大推，更全面支援AirDrop傳照片超快",
@@ -45,7 +65,7 @@
       "url": "https://www.marieclaire.com.tw/lifestyle/news/96028"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "New revelations of OpenAI model boundary violations spark concerns? 微軟 AI chief: The situation is quite serious!",
@@ -67,7 +87,7 @@
       "url": "https://news.futunn.com/en/post/79498632/new-revelations-of-openai-model-boundary-violations-spark-concerns-microsoft"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "歐洲逾30銀行啟用AI代理支付軌道 美國監管陷權責爭議 ",
       "title": "歐洲逾30銀行啟用AI代理支付軌道 美國監管陷權責爭議 - 財經新聞 - PChome Online 新聞",
@@ -87,26 +107,6 @@
       "url": "https://news.pchome.com.tw/finance/sunmedia/20260919/index-78978482751847329003.html"
     },
     {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的",
-      "title": "AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈",
-      "originalTitle": "AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈",
-      "translatedTitle": "AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "思想坦克｜Voicettank",
-      "publishedAt": "2026-09-18T08:21:32.000Z",
-      "fact": "思想坦克｜Voicettank 報導：AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI陣營忠誠與台灣戰略利益──從算力競賽到實體工業基建的博弈 &nbsp;&nbsp; 思想坦克｜Voicettank。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://voicettank.org/20260918-1/"
-    },
-    {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
       "subject": "2026年公用事業創新調查",
@@ -115,10 +115,10 @@
       "translatedTitle": "2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "全球財經",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "publishedAt": "2026-09-18T09:00:00.000Z",
-      "fact": "moomoo.com 報導：2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能 &nbsp;&nbsp; moomoo.com。",
+      "fact": "Moomoo 報導：2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能 &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經"
@@ -128,22 +128,22 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：AI fears are fueling progressive Democrat's campaign in Michigan battleground district",
-      "originalTitle": "AI fears are fueling progressive Democrat's campaign in Michigan battleground district",
-      "translatedTitle": "AI 財經快訊：AI fears are fueling progressive Democrat's campaign in Michigan battleground district",
+      "subject": "IMF",
+      "title": "AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
+      "originalTitle": "IMF tells EU ministers AI could boost growth but increase economic strains",
+      "translatedTitle": "AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
       "source": "Yahoo",
-      "publishedAt": "2026-09-19T04:08:24.000Z",
-      "fact": "Yahoo 報導：AI 財經快訊：AI fears are fueling progressive Democrat's campaign in Michigan battleground district",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI fears are fueling progressive Democrat's campaign in Michigan battleground district &nbsp;&nbsp; Yahoo。",
+      "publishedAt": "2026-09-19T11:30:17.000Z",
+      "fact": "Yahoo 報導：AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；IMF tells EU ministers AI could boost growth but increase economic strains &nbsp;&nbsp; Yahoo。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://hk.news.yahoo.com/politics/articles/ai-fears-fueling-progressive-democrats-040302336.html"
+      "url": "https://hk.news.yahoo.com/imf-tells-eu-ministers-ai-113017094.html"
     },
     {
       "id": "全球財經脈動-3",
@@ -167,42 +167,42 @@
     {
       "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "IMF",
-      "title": "AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
-      "originalTitle": "IMF tells EU ministers AI could boost growth but increase economic strains",
-      "translatedTitle": "AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-19T11:30:17.000Z",
-      "fact": "Yahoo 報導：AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；IMF tells EU ministers AI could boost growth but increase economic strains &nbsp;&nbsp; Yahoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://hk.news.yahoo.com/imf-tells-eu-ministers-ai-113017094.html"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
       "originalTitle": "《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
       "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "自由時報",
+      "source": "news.ltn.com.tw",
       "publishedAt": "2026-09-18T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 Ministry freezes electricity rates until December meet &nbsp;&nbsp; 自由時報。",
+      "fact": "news.ltn.com.tw 報導：AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 Ministry freezes electricity rates until December meet &nbsp;&nbsp; news.ltn.com.tw。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
       "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5578815"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：AI fears are fueling progressive Democrat's campaign in Michigan battleground district",
+      "originalTitle": "AI fears are fueling progressive Democrat's campaign in Michigan battleground district",
+      "translatedTitle": "AI 財經快訊：AI fears are fueling progressive Democrat's campaign in Michigan battleground district",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-19T04:08:24.000Z",
+      "fact": "Yahoo 報導：AI 財經快訊：AI fears are fueling progressive Democrat's campaign in Michigan battleground district",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI fears are fueling progressive Democrat's campaign in Michigan battleground district &nbsp;&nbsp; Yahoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://hk.news.yahoo.com/politics/articles/ai-fears-fueling-progressive-democrats-040302336.html"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -213,10 +213,10 @@
       "translatedTitle": "moomoo AI 半導體股票分析",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "publishedAt": "2026-09-19T01:03:28.000Z",
-      "fact": "moomoo.com 報導：moomoo AI 半導體股票分析",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；moomoo AI 半導體股票分析 &nbsp;&nbsp; moomoo.com。",
+      "fact": "Moomoo 報導：moomoo AI 半導體股票分析",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；moomoo AI 半導體股票分析 &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
@@ -225,27 +225,7 @@
       "url": "https://www.moomoo.com/hant/community/feed/moomoo-ai-for-semiconductor-stocks-117295009497093"
     },
     {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
-      "title": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
-      "originalTitle": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
-      "translatedTitle": "微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-18T14:47:16.000Z",
-      "fact": "TradingKey 報導：微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；微軟又要硬了嗎？這次財報，可能是AI投資報酬的轉折點 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/research/stocks/msft/262094479-microsoft-msft-earnings-azure-copilot-ai-valuation-2026-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI",
       "title": "AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成...",
@@ -253,10 +233,10 @@
       "translatedTitle": "AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成...",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "雲端基礎設施",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "publishedAt": "2026-09-18T05:37:52.000Z",
-      "fact": "moomoo.com 報導：AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成...",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成... &nbsp;&nbsp; moomoo.com。",
+      "fact": "Moomoo 報導：AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成...",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成... &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
@@ -266,7 +246,7 @@
       "url": "https://www.moomoo.com/hant/community/feed/ai-semiconductor-stocks-are-back-in-the-spotlight-with-token-117290426171398"
     },
     {
-      "id": "美股與全球市場焦點-5",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "股票 Bend",
       "title": "股票 Bend, but Don't Break, in Head-Spinning September. More Tests Are Coming. — Barron’s.com",
@@ -284,6 +264,27 @@
         "stocks"
       ],
       "url": "https://news.futunn.com/hk/post/79488492/stocks-bend-but-don-t-break-in-head-spinning-september"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "U.S. AI",
+      "title": "U.S. AI-Related 股票 Extend Rally Premarket — 市場 Talk",
+      "originalTitle": "U.S. AI-Related Stocks Extend Rally Premarket -- Market Talk",
+      "translatedTitle": "U.S. AI-Related 股票 Extend Rally Premarket — 市場 Talk",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-18T09:44:44.000Z",
+      "fact": "富途牛牛 報導：U.S. AI-Related 股票 Extend Rally Premarket — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. AI-Related Stocks Extend Rally Premarket -- Market Talk &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/79472748/us-ai-related-stocks-extend-rally-premarket-market-talk"
     }
   ]
 }
