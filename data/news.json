@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-09-20T02:04:31.882Z",
+  "generatedAt": "2026-09-20T23:42:42.771Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？",
-      "originalTitle": "Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？",
-      "translatedTitle": "Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "未來商務",
-      "publishedAt": "2026-09-20T01:00:00.000Z",
-      "fact": "未來商務 報導：Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 發表 Muse，App 與 WhatsApp 雙管道代辦購物訂票、健身規劃！背後邏輯是什麼？ &nbsp;&nbsp; 未來商務。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta"
-      ],
-      "url": "https://fc.bnext.com.tw/articles/view/4925"
-    },
-    {
-      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "ONON On — Google's Gemini becomes latest AI model to break out and hack computer systems — 股市爆料同學會",
@@ -31,10 +11,10 @@
       "translatedTitle": "ONON On — Google's Gemini becomes latest AI model to break out and hack computer systems — 股市爆料同學會",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "CMoney",
+      "source": "cmoney.tw",
       "publishedAt": "2026-09-19T01:15:57.000Z",
-      "fact": "CMoney 報導：ONON On — Google's Gemini becomes latest AI model to break out and hack computer systems — 股市爆料同學會",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；ONON On - Google's Gemini becomes latest AI model to break out and hack computer systems - 股市爆料同學會 &nbsp;&nbsp; CMoney。",
+      "fact": "cmoney.tw 報導：ONON On — Google's Gemini becomes latest AI model to break out and hack computer systems — 股市爆料同學會",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；ONON On - Google's Gemini becomes latest AI model to break out and hack computer systems - 股市爆料同學會 &nbsp;&nbsp; cmoney.t。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
@@ -44,28 +24,70 @@
       "url": "https://www.cmoney.tw/forum/article/184828839"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google Pixel 11 Pro手機開箱實測！120倍變焦、一鍵抓拍功能大推，更全面支援AirDrop傳照片超快",
-      "originalTitle": "Google Pixel 11 Pro手機開箱實測！120倍變焦、一鍵抓拍功能大推，更全面支援AirDrop傳照片超快",
-      "translatedTitle": "Google Pixel 11 Pro手機開箱實測！120倍變焦、一鍵抓拍功能大推，更全面支援AirDrop傳照片超快",
+      "subject": "「AI末日論是騙局？」Trump與黃仁勳聯手重塑美國人工",
+      "title": "「AI末日論是騙局？」Trump與黃仁勳聯手重塑美國人工智慧監管戰場",
+      "originalTitle": "「AI末日論是騙局？」Trump與黃仁勳聯手重塑美國人工智慧監管戰場",
+      "translatedTitle": "「AI末日論是騙局？」Trump與黃仁勳聯手重塑美國人工智慧監管戰場",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "Marie Claire 美麗佳人",
-      "publishedAt": "2026-09-19T16:47:26.000Z",
-      "fact": "Marie Claire 美麗佳人 報導：Google Pixel 11 Pro手機開箱實測！120倍變焦、一鍵抓拍功能大推，更全面支援AirDrop傳照片超快",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Pixel 11 Pro手機開箱實測！120倍變焦、一鍵抓拍功能大推，更全面支援AirDrop傳照片超快 &nbsp;&nbsp; Marie Claire 美麗佳人。",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-09-20T12:00:21.000Z",
+      "fact": "CMoney投資網誌 報導：「AI末日論是騙局？」Trump與黃仁勳聯手重塑美國人工智慧監管戰場",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；「AI末日論是騙局？」Trump與黃仁勳聯手重塑美國人工智慧監管戰場 &nbsp;&nbsp; CMoney投資網誌。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
         "AI"
       ],
-      "url": "https://www.marieclaire.com.tw/lifestyle/news/96028"
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-db2bcabd-b4ea-11f1-b9a6-bc091fb3d290"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "速度快也沒用！OpenAI 極速模型 Spark 上線半年宣告退役，工程師毒舌狂酸：只是更快產生Bug",
+      "originalTitle": "速度快也沒用！OpenAI 極速模型 Spark 上線半年宣告退役，工程師毒舌狂酸：只是更快產生Bug",
+      "translatedTitle": "速度快也沒用！OpenAI 極速模型 Spark 上線半年宣告退役，工程師毒舌狂酸：只是更快產生Bug",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "T客邦",
+      "publishedAt": "2026-09-20T03:00:00.000Z",
+      "fact": "T客邦 報導：速度快也沒用！OpenAI 極速模型 Spark 上線半年宣告退役，工程師毒舌狂酸：只是更快產生Bug",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；速度快也沒用！OpenAI 極速模型 Spark 上線半年宣告退役，工程師毒舌狂酸：只是更快產生Bug &nbsp;&nbsp; T客邦。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://www.techbang.com/posts/133160-openai-cancels-spark-model-speed-intelligence-tradeoff"
     },
     {
       "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "剛呼籲放慢AI開發，Anthropic據悉考慮發布新模型，OpenAI競爭壓力升溫",
+      "originalTitle": "剛呼籲放慢AI開發，Anthropic據悉考慮發布新模型，OpenAI競爭壓力升溫",
+      "translatedTitle": "剛呼籲放慢AI開發，Anthropic據悉考慮發布新模型，OpenAI競爭壓力升溫",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "TradingKey",
+      "publishedAt": "2026-09-20T06:23:53.000Z",
+      "fact": "TradingKey 報導：剛呼籲放慢AI開發，Anthropic據悉考慮發布新模型，OpenAI競爭壓力升溫",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；剛呼籲放慢AI開發，Anthropic據悉考慮發布新模型，OpenAI競爭壓力升溫 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262176683-anthropic-slow-ai-but-new-model-openai-tradingkey"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "New revelations of OpenAI model boundary violations spark concerns? 微軟 AI chief: The situation is quite serious!",
@@ -87,105 +109,7 @@
       "url": "https://news.futunn.com/en/post/79498632/new-revelations-of-openai-model-boundary-violations-spark-concerns-microsoft"
     },
     {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "歐洲逾30銀行啟用AI代理支付軌道 美國監管陷權責爭議 ",
-      "title": "歐洲逾30銀行啟用AI代理支付軌道 美國監管陷權責爭議 - 財經新聞 - PChome Online 新聞",
-      "originalTitle": "歐洲逾30銀行啟用AI代理支付軌道 美國監管陷權責爭議 - 財經新聞 - PChome Online 新聞",
-      "translatedTitle": "歐洲逾30銀行啟用AI代理支付軌道 美國監管陷權責爭議 - 財經新聞 - PChome Online 新聞",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-09-19T02:27:07.000Z",
-      "fact": "PChome Online 新聞 報導：歐洲逾30銀行啟用AI代理支付軌道 美國監管陷權責爭議 - 財經新聞 - PChome Online 新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；歐洲逾30銀行啟用AI代理支付軌道 美國監管陷權責爭議 - 財經新聞 - PChome Online 新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.pchome.com.tw/finance/sunmedia/20260919/index-78978482751847329003.html"
-    },
-    {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "2026年公用事業創新調查",
-      "title": "2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能",
-      "originalTitle": "2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能",
-      "translatedTitle": "2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-18T09:00:00.000Z",
-      "fact": "Moomoo 報導：2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；2026年公用事業創新調查：隨着數據中心熱潮重塑電網規劃，行業領導者increasingly 轉向人工智能 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/76452294/2026-utility-innovation-survey-industry-leaders-turning-more-to-ai"
-    },
-    {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "IMF",
-      "title": "AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
-      "originalTitle": "IMF tells EU ministers AI could boost growth but increase economic strains",
-      "translatedTitle": "AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-19T11:30:17.000Z",
-      "fact": "Yahoo 報導：AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；IMF tells EU ministers AI could boost growth but increase economic strains &nbsp;&nbsp; Yahoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://hk.news.yahoo.com/imf-tells-eu-ministers-ai-113017094.html"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "Tech",
-      "title": "Tech, Media & Telecom Roundup: 市場 Talk",
-      "originalTitle": "Tech, Media & Telecom Roundup: Market Talk",
-      "translatedTitle": "Tech, Media & Telecom Roundup: 市場 Talk",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-18T20:50:00.000Z",
-      "fact": "富途牛牛 報導：Tech, Media & Telecom Roundup: 市場 Talk",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Tech, Media & Telecom Roundup: Market Talk &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://news.futunn.com/hk/post/79494858/tech-media-telecom-roundup-market-talk"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
-      "originalTitle": "《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "news.ltn.com.tw",
-      "publishedAt": "2026-09-18T19:00:00.000Z",
-      "fact": "news.ltn.com.tw 報導：AI 財經快訊：《TAIPEI TIMES》 Ministry freezes electricity rates until December meet",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 Ministry freezes electricity rates until December meet &nbsp;&nbsp; news.ltn.com.tw。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5578815"
-    },
-    {
-      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：AI fears are fueling progressive Democrat's campaign in Michigan battleground district",
@@ -205,7 +129,127 @@
       "url": "https://hk.news.yahoo.com/politics/articles/ai-fears-fueling-progressive-democrats-040302336.html"
     },
     {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Key 半導體 Developments",
+      "title": "Key 半導體 Developments: Concerns Over the Pace of AI 投資 Weigh on Valuations; Bullish on Nokia and Infineon",
+      "originalTitle": "Key Semiconductor Developments: Concerns Over the Pace of AI Investment Weigh on Valuations; Bullish on Nokia and Infineon",
+      "translatedTitle": "Key 半導體 Developments: Concerns Over the Pace of AI 投資 Weigh on Valuations; Bullish on Nokia and Infineon",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-19T06:54:31.000Z",
+      "fact": "富途牛牛 報導：Key 半導體 Developments: Concerns Over the Pace of AI 投資 Weigh on Valuations; Bullish on Nokia and Infineon",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Key Semiconductor Developments: Concerns Over the Pace of AI Investment Weigh on Valuations; Bullish on Nokia and Infine。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://news.futunn.com/en/post/79501439/key-semiconductor-developments-concerns-over-the-pace-of-ai-investment"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "IMF",
+      "title": "AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
+      "originalTitle": "IMF tells EU ministers AI could boost growth but increase economic strains",
+      "translatedTitle": "AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-19T11:30:17.000Z",
+      "fact": "Yahoo 報導：AI 財經快訊：IMF tells EU ministers AI could boost growth but increase economic strains",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；IMF tells EU ministers AI could boost growth but increase economic strains &nbsp;&nbsp; Yahoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://hk.news.yahoo.com/imf-tells-eu-ministers-ai-113017094.html"
+    },
+    {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Quanta AI Inc業績日期，業績報告和業績電話會",
+      "title": "Quanta AI Inc業績日期，業績報告和業績電話會議",
+      "originalTitle": "Quanta AI Inc業績日期，業績報告和業績電話會議",
+      "translatedTitle": "Quanta AI Inc業績日期，業績報告和業績電話會議",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-19T18:42:59.000Z",
+      "fact": "Moomoo 報導：Quanta AI Inc業績日期，業績報告和業績電話會議",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Quanta AI Inc業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.moomoo.com/hant/stock/QNTA-CA/earnings"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "美股軟件板塊重獲市場青睞",
+      "title": "美股軟件板塊重獲市場青睞：業績超預期 「AI降速」添助力",
+      "originalTitle": "美股軟件板塊重獲市場青睞：業績超預期 「AI降速」添助力",
+      "translatedTitle": "美股軟件板塊重獲市場青睞：業績超預期 「AI降速」添助力",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-20T12:53:12.000Z",
+      "fact": "富途牛牛 報導：美股軟件板塊重獲市場青睞：業績超預期 「AI降速」添助力",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美股軟件板塊重獲市場青睞：業績超預期 「AI降速」添助力 &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/79516639/us-software-stocks-regain-market-favor-earnings-beat-expectations-while"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "一週前瞻",
+      "title": "一週前瞻：中美元首華盛頓會晤，好市多財報與聯準會利率路徑受關注",
+      "originalTitle": "一週前瞻：中美元首華盛頓會晤，好市多財報與聯準會利率路徑受關注",
+      "translatedTitle": "一週前瞻：中美元首華盛頓會晤，好市多財報與聯準會利率路徑受關注",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-09-20T06:05:50.000Z",
+      "fact": "TradingKey 報導：一週前瞻：中美元首華盛頓會晤，好市多財報與聯準會利率路徑受關注",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；一週前瞻：中美元首華盛頓會晤，好市多財報與聯準會利率路徑受關注 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262176652-china-us-summit-washington-costco-earnings-fed-rate-path-week-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "輝達",
+      "title": "輝達-backed \"British Oracle\" Races for U.S. IPO with $35 Billion Valuation Target",
+      "originalTitle": "NVIDIA-backed \"British Oracle\" Races for U.S. IPO with $35 Billion Valuation Target",
+      "translatedTitle": "輝達-backed \"British Oracle\" Races for U.S. IPO with $35 Billion Valuation Target",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-20T10:21:59.000Z",
+      "fact": "富途牛牛 報導：輝達-backed \"British Oracle\" Races for U.S. IPO with $35 Billion Valuation Target",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVIDIA-backed \"British Oracle\" Races for U.S. IPO with $35 Billion Valuation Target &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia"
+      ],
+      "url": "https://news.futunn.com/en/post/79514390/nvidia-backed-british-oracle-races-for-us-ipo-with-35"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "moomoo AI 半導體股票分析",
       "title": "moomoo AI 半導體股票分析",
@@ -223,68 +267,6 @@
         "AI"
       ],
       "url": "https://www.moomoo.com/hant/community/feed/moomoo-ai-for-semiconductor-stocks-117295009497093"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI",
-      "title": "AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成...",
-      "originalTitle": "AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成...",
-      "translatedTitle": "AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成...",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "雲端基礎設施",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-18T05:37:52.000Z",
-      "fact": "Moomoo 報導：AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成...",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI半導體股再成主角！代幣價格下跌，GPU反而上漲？AI需求熱度不減，NeoCloud、半導體製造設備、電力，誰將接棒成... &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "cloud"
-      ],
-      "url": "https://www.moomoo.com/hant/community/feed/ai-semiconductor-stocks-are-back-in-the-spotlight-with-token-117290426171398"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "股票 Bend",
-      "title": "股票 Bend, but Don't Break, in Head-Spinning September. More Tests Are Coming. — Barron’s.com",
-      "originalTitle": "Stocks Bend, but Don't Break, in Head-Spinning September. More Tests Are Coming. -- Barrons.com",
-      "translatedTitle": "股票 Bend, but Don't Break, in Head-Spinning September. More Tests Are Coming. — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-18T15:32:00.000Z",
-      "fact": "富途牛牛 報導：股票 Bend, but Don't Break, in Head-Spinning September. More Tests Are Coming. — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stocks Bend, but Don't Break, in Head-Spinning September. More Tests Are Coming. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/hk/post/79488492/stocks-bend-but-don-t-break-in-head-spinning-september"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "U.S. AI",
-      "title": "U.S. AI-Related 股票 Extend Rally Premarket — 市場 Talk",
-      "originalTitle": "U.S. AI-Related Stocks Extend Rally Premarket -- Market Talk",
-      "translatedTitle": "U.S. AI-Related 股票 Extend Rally Premarket — 市場 Talk",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-18T09:44:44.000Z",
-      "fact": "富途牛牛 報導：U.S. AI-Related 股票 Extend Rally Premarket — 市場 Talk",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. AI-Related Stocks Extend Rally Premarket -- Market Talk &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/79472748/us-ai-related-stocks-extend-rally-premarket-market-talk"
     }
   ]
 }
