@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T00:23:55.506Z",
+  "generatedAt": "2026-09-22T02:11:25.245Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,85 +26,82 @@
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "宏碁首款Googlebook筆電搭載主動式AI",
-      "originalTitle": "宏碁首款Googlebook筆電搭載主動式AI",
-      "translatedTitle": "宏碁首款Googlebook筆電搭載主動式AI",
+      "title": "Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163)",
+      "originalTitle": "Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163)",
+      "translatedTitle": "Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163)",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "經濟日報",
-      "publishedAt": "2026-09-21T14:54:52.000Z",
-      "fact": "經濟日報 報導：宏碁首款Googlebook筆電搭載主動式AI",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；宏碁首款Googlebook筆電搭載主動式AI &nbsp;&nbsp; 經濟日報。",
+      "category": "前沿模型",
+      "source": "Cool3c",
+      "publishedAt": "2026-09-22T01:00:00.000Z",
+      "fact": "Cool3c 報導：Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163)",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163) &nbsp;&nbsp; Cool3c。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "AI"
+        "Google"
       ],
-      "url": "https://money.udn.com/money/story/5612/9769134"
+      "url": "https://www.cool3c.com/article/252163"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "Qualcomm、Google再次合作，以Snapdragon處理器驅動Googlebook的原生Android生態與Gemini AI",
-      "originalTitle": "Qualcomm、Google再次合作，以Snapdragon處理器驅動Googlebook的原生Android生態與Gemini AI",
-      "translatedTitle": "Qualcomm、Google再次合作，以Snapdragon處理器驅動Googlebook的原生Android生態與Gemini AI",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
+      "title": "聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等",
+      "originalTitle": "聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等",
+      "translatedTitle": "聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
       "source": "Mashdigi",
-      "publishedAt": "2026-09-21T13:01:23.000Z",
-      "fact": "Mashdigi 報導：Qualcomm、Google再次合作，以Snapdragon處理器驅動Googlebook的原生Android生態與Gemini AI",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Qualcomm、Google再次合作，以Snapdragon處理器驅動Googlebook的原生Android生態與Gemini AI &nbsp;&nbsp; Mashdigi。",
+      "publishedAt": "2026-09-22T02:00:43.000Z",
+      "fact": "Mashdigi 報導：聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等 &nbsp;&nbsp; Mashdigi。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "AI"
+        "Google"
       ],
-      "url": "https://mashdigi.com/qualcomm-and-google-are-collaborating-again-to-power-googlebooks-native-android-ecosystem-and-gemini-ai-with-snapdragon-processors/"
+      "url": "https://mashdigi.com/mediatek-is-also-entering-the-googlebook-market-with-its-dimensity-cx-c10-max-manufactured-using-tsmcs-3nm-process-but-actual-devices-using-it-will-have-to-wait/"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Googlebook正式開賣！899美元起、買筆電直接送1年AI Pro",
-      "originalTitle": "Googlebook正式開賣！899美元起、買筆電直接送1年AI Pro",
-      "translatedTitle": "Googlebook正式開賣！899美元起、買筆電直接送1年AI Pro",
+      "subject": "Meta",
+      "title": "Meta 股價 Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference",
+      "originalTitle": "Meta Shares Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference",
+      "translatedTitle": "Meta 股價 Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "自由時報",
-      "publishedAt": "2026-09-21T09:11:00.000Z",
-      "fact": "自由時報 報導：Googlebook正式開賣！899美元起、買筆電直接送1年AI Pro",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Googlebook正式開賣！899美元起、買筆電直接送1年AI Pro &nbsp;&nbsp; 自由時報。",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-21T18:36:39.000Z",
+      "fact": "Moomoo 報導：Meta 股價 Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Shares Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
+        "Meta",
         "AI"
       ],
-      "url": "https://stock.ltn.com.tw/article/85cskh83hawc"
+      "url": "https://www.moomoo.com/hant/news/post/76545470/meta-shares-jump-12-boosted-by-latest-ai-bet-ahead"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Nvidia",
-      "title": "Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」",
-      "originalTitle": "Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」",
-      "translatedTitle": "Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 晶片",
-      "source": "BBC",
-      "publishedAt": "2026-09-21T05:53:44.000Z",
-      "fact": "BBC 報導：Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Nvidia執行長黃仁勳駁「AI滅絕人類」憂慮：是「末日敘事」 &nbsp;&nbsp; BBC。",
+      "subject": "Google",
+      "title": "Googlebook 筆電正式登場 純血 Android 打造、深度整合 Gemini",
+      "originalTitle": "Googlebook 筆電正式登場　純血 Android 打造、深度整合 Gemini",
+      "translatedTitle": "Googlebook 筆電正式登場 純血 Android 打造、深度整合 Gemini",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "ETtoday新聞雲",
+      "publishedAt": "2026-09-22T00:52:00.000Z",
+      "fact": "ETtoday新聞雲 報導：Googlebook 筆電正式登場 純血 Android 打造、深度整合 Gemini",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Googlebook 筆電正式登場 純血 Android 打造、深度整合 Gemini &nbsp;&nbsp; ETtoday新聞雲。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Nvidia",
-        "AI"
+        "Google"
       ],
-      "url": "https://www.bbc.com/zhongwen/articles/cv5yjx7n85rjo/trad"
+      "url": "https://www.ettoday.net/news/20260922/3241716.htm"
     },
     {
       "id": "全球財經脈動-1",
@@ -176,9 +173,9 @@
       "translatedTitle": "Fourth Forum on China-ASEAN 人工智慧 Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "etnet.com.hk",
+      "source": "etnet 經濟通",
       "publishedAt": "2026-09-20T05:20:00.000Z",
-      "fact": "etnet.com.hk 報導：Fourth Forum on China-ASEAN 人工智慧 Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates",
+      "fact": "etnet 經濟通 報導：Fourth Forum on China-ASEAN 人工智慧 Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates",
       "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Fourth Forum on China-ASEAN Artificial Intelligence Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
@@ -188,6 +185,28 @@
     },
     {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Meta",
+      "title": "Meta Muse ignites new AI rally + falling oil prices boost 風險 appetite! South Korean 晶片股 follow overnight gains in US equities",
+      "originalTitle": "Meta Muse ignites new AI rally + falling oil prices boost risk appetite! South Korean chip stocks follow overnight gains in US equities",
+      "translatedTitle": "Meta Muse ignites new AI rally + falling oil prices boost 風險 appetite! South Korean 晶片股 follow overnight gains in US equities",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-22T01:17:03.000Z",
+      "fact": "富途牛牛 報導：Meta Muse ignites new AI rally + falling oil prices boost 風險 appetite! South Korean 晶片股 follow overnight gains in US equities",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Meta Muse ignites new AI rally + falling oil prices boost risk appetite! South Korean chip stocks follow overnight gains。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Meta",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/79579442/meta-muse-ignites-new-ai-rally-falling-oil-prices-boost"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "摩根士丹利報告",
       "title": "摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
@@ -207,7 +226,7 @@
       "url": "https://www.blocktempo.com/morgan-stanley-ai-semiconductor-753-billion-taiwan-23-stocks/"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "Meta",
       "title": "Meta股價上漲超8%，創今年2月以來新高：Connect 2026臨近，Muse智能體或成AI新變數",
@@ -228,48 +247,7 @@
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262178811-meta-connect-2026-muse-ai-agent-smart-glasses-event-tradingkey"
     },
     {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Positive Outlook for AI in G",
-      "title": "Positive Outlook for AI in Greater China’s 半導體 Sector; Memory Innovation Key; Industry Rating \"Attractive\"",
-      "originalTitle": "Positive Outlook for AI in Greater China’s Semiconductor Sector; Memory Innovation Key; Industry Rating \"Attractive\"",
-      "translatedTitle": "Positive Outlook for AI in Greater China’s 半導體 Sector; Memory Innovation Key; Industry Rating \"Attractive\"",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-21T08:13:17.000Z",
-      "fact": "富途牛牛 報導：Positive Outlook for AI in Greater China’s 半導體 Sector; Memory Innovation Key; Industry Rating \"Attractive\"",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Positive Outlook for AI in Greater China’s Semiconductor Sector; Memory Innovation Key; Industry Rating \"Attractive\" &nb。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "semiconductor"
-      ],
-      "url": "https://news.futunn.com/en/post/79546960/morgan-stanley-positive-outlook-for-ai-in-greater-china-s"
-    },
-    {
       "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "From Korean 晶片製造商 to Leverag",
-      "title": "From Korean 晶片製造商 to Leveraged 半導體 ETFs: STARTRADER Launches 49 New 24/7 股票 and ETF CFDs",
-      "originalTitle": "From Korean Chipmakers to Leveraged Semiconductor ETFs: STARTRADER Launches 49 New 24/7 Stock and ETF CFDs",
-      "translatedTitle": "From Korean 晶片製造商 to Leveraged 半導體 ETFs: STARTRADER Launches 49 New 24/7 股票 and ETF CFDs",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Quamnet",
-      "publishedAt": "2026-09-21T16:00:01.000Z",
-      "fact": "Quamnet 報導：From Korean 晶片製造商 to Leveraged 半導體 ETFs: STARTRADER Launches 49 New 24/7 股票 and ETF CFDs",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；From Korean Chipmakers to Leveraged Semiconductor ETFs: STARTRADER Launches 49 New 24/7 Stock and ETF CFDs &nbsp;&nbsp;。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "semiconductor"
-      ],
-      "url": "https://www.quamnet.com/post/AjEhGrk4on609E8nHVGM0"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "大摩看多 AI 半導體未來市場表現，點名台積電、聯發科帶",
       "title": "大摩看多 AI 半導體未來市場表現，點名台積電、聯發科帶動產能",
@@ -287,6 +265,26 @@
         "AI"
       ],
       "url": "https://abmedia.io/morgan-stanley-is-bullish-on-the-outlook-of-tsmc-and-related-semiconductor-stocks"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "Aolani計劃部署2.2萬顆輝達Blackwell U",
+      "title": "Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張",
+      "originalTitle": "Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張",
+      "translatedTitle": "Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-09-21T12:42:32.000Z",
+      "fact": "TradingKey 報導：Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262178304-aolani-plan-22000-nvidia-blackwell-ultra-southeast-asia-ai-data-center-tradingkey"
     }
   ]
 }
