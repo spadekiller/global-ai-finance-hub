@@ -1,110 +1,152 @@
 {
-  "generatedAt": "2026-09-22T02:11:25.245Z",
+  "generatedAt": "2026-09-22T23:54:47.823Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "US AI leaders warn of self",
-      "title": "US AI leaders warn of self-improvement and loss of human control 美國AI業界領袖警告：AI恐走向自我改進脫離人類控制",
-      "originalTitle": "US AI leaders warn of self-improvement and loss of human control 美國AI業界領袖警告：AI恐走向自我改進脫離人類控制",
-      "translatedTitle": "US AI leaders warn of self-improvement and loss of human control 美國AI業界領袖警告：AI恐走向自我改進脫離人類控制",
+      "subject": "Google",
+      "title": "高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟",
+      "originalTitle": "高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟",
+      "translatedTitle": "高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟",
       "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "BigGo 財經",
+      "publishedAt": "2026-09-22T21:35:00.000Z",
+      "fact": "BigGo 財經 報導：高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟 &nbsp;&nbsp; BigGo 財經。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://finance.biggo.com.tw/news/abb14285-e5c9-40df-86fa-e8b1119bf66f"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "AI ",
+      "title": "AI ：馬克龍呼籲避免依賴美國或中國",
+      "originalTitle": "AI ：馬克龍呼籲避免依賴美國或中國",
+      "translatedTitle": "AI ：馬克龍呼籲避免依賴美國或中國",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "Taipei Times",
-      "publishedAt": "2026-09-21T16:00:00.000Z",
-      "fact": "Taipei Times 報導：US AI leaders warn of self-improvement and loss of human control 美國AI業界領袖警告：AI恐走向自我改進脫離人類控制",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；US AI leaders warn of self-improvement and loss of human control 美國AI業界領袖警告：AI恐走向自我改進脫離人類控制 &nbsp;&nbsp; Taipei Times。",
+      "source": "RFI",
+      "publishedAt": "2026-09-22T20:51:39.000Z",
+      "fact": "RFI 報導：AI ：馬克龍呼籲避免依賴美國或中國",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI ：馬克龍呼籲避免依賴美國或中國 &nbsp;&nbsp; RFI。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://www.taipeitimes.com/News/lang/archives/2026/09/22/2003864648"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163)",
-      "originalTitle": "Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163)",
-      "translatedTitle": "Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163)",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "Cool3c",
-      "publishedAt": "2026-09-22T01:00:00.000Z",
-      "fact": "Cool3c 報導：Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163)",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google攜手高通將Snapdragon X Elite引入Googlebook #GEMINI (252163) &nbsp;&nbsp; Cool3c。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://www.cool3c.com/article/252163"
+      "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20260922-ai-%E9%A6%AC%E5%85%8B%E9%BE%8D%E5%91%BC%E7%B1%B2%E9%81%BF%E5%85%8D%E4%BE%9D%E8%B3%B4%E7%BE%8E%E5%9C%8B%E6%88%96%E4%B8%AD%E5%9C%8B"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等",
-      "originalTitle": "聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等",
-      "translatedTitle": "聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "title": "高通、Google聯手推AI筆電 Snapdragon X Elite首次導入Googlebook",
+      "originalTitle": "高通、Google聯手推AI筆電　Snapdragon X Elite首次導入Googlebook",
+      "translatedTitle": "高通、Google聯手推AI筆電 Snapdragon X Elite首次導入Googlebook",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "Mashdigi",
-      "publishedAt": "2026-09-22T02:00:43.000Z",
-      "fact": "Mashdigi 報導：聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；聯發科也以台積電3nm製程天璣CX C10 Max進軍Googlebook市場，但實際應用機種要再等等 &nbsp;&nbsp; Mashdigi。",
+      "source": "ETtoday財經雲",
+      "publishedAt": "2026-09-22T19:54:00.000Z",
+      "fact": "ETtoday財經雲 報導：高通、Google聯手推AI筆電 Snapdragon X Elite首次導入Googlebook",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；高通、Google聯手推AI筆電 Snapdragon X Elite首次導入Googlebook &nbsp;&nbsp; ETtoday財經雲。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "Google",
+        "AI"
       ],
-      "url": "https://mashdigi.com/mediatek-is-also-entering-the-googlebook-market-with-its-dimensity-cx-c10-max-manufactured-using-tsmcs-3nm-process-but-actual-devices-using-it-will-have-to-wait/"
+      "url": "https://finance.ettoday.net/news/3242357"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta 股價 Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference",
-      "originalTitle": "Meta Shares Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference",
-      "translatedTitle": "Meta 股價 Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-21T18:36:39.000Z",
-      "fact": "Moomoo 報導：Meta 股價 Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Shares Jump 12%, Boosted by Latest AI Bet Ahead of Flagship Conference &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "subject": "OpenAI",
+      "title": "OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱",
+      "originalTitle": "OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱",
+      "translatedTitle": "OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "流動日報",
+      "publishedAt": "2026-09-22T11:39:25.000Z",
+      "fact": "流動日報 報導：OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱 &nbsp;&nbsp; 流動日報。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Meta",
+        "OpenAI",
         "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/76545470/meta-shares-jump-12-boosted-by-latest-ai-bet-ahead"
+      "url": "https://www.newmobilelife.com/2026/09/22/openai-math-model-solves-100-problems/"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "Googlebook 筆電正式登場 純血 Android 打造、深度整合 Gemini",
-      "originalTitle": "Googlebook 筆電正式登場　純血 Android 打造、深度整合 Gemini",
-      "translatedTitle": "Googlebook 筆電正式登場 純血 Android 打造、深度整合 Gemini",
+      "title": "Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI",
+      "originalTitle": "Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI",
+      "translatedTitle": "Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "ETtoday新聞雲",
-      "publishedAt": "2026-09-22T00:52:00.000Z",
-      "fact": "ETtoday新聞雲 報導：Googlebook 筆電正式登場 純血 Android 打造、深度整合 Gemini",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Googlebook 筆電正式登場 純血 Android 打造、深度整合 Gemini &nbsp;&nbsp; ETtoday新聞雲。",
+      "source": "T客邦",
+      "publishedAt": "2026-09-22T06:00:00.000Z",
+      "fact": "T客邦 報導：Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI &nbsp;&nbsp; T客邦。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "Google",
+        "AI"
       ],
-      "url": "https://www.ettoday.net/news/20260922/3241716.htm"
+      "url": "https://www.techbang.com/posts/133378-acer-googlebook-14-core-ultra-7-oled-gemini"
     },
     {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "CityUHK and University of Ca",
+      "title": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
+      "originalTitle": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future - 全球企業動態",
+      "translatedTitle": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Quamnet",
+      "publishedAt": "2026-09-22T13:00:01.000Z",
+      "fact": "Quamnet 報導：CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://www.quamnet.com/post/mMLVHdQnUMnMbFqY0fp4L"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Another $1.5 billion before ",
+      "title": "Another $1.5 billion before the IPO! 輝達 ramps up its 投資 in SB 能源, bringing the total to $3 billion.",
+      "originalTitle": "Another $1.5 billion before the IPO! NVIDIA ramps up its investment in SB Energy, bringing the total to $3 billion.",
+      "translatedTitle": "Another $1.5 billion before the IPO! 輝達 ramps up its 投資 in SB 能源, bringing the total to $3 billion.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-22T06:00:25.000Z",
+      "fact": "富途牛牛 報導：Another $1.5 billion before the IPO! 輝達 ramps up its 投資 in SB 能源, bringing the total to $3 billion.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Another $1.5 billion before the IPO! NVIDIA ramps up its investment in SB Energy, bringing the total to $3 billion. &nbs。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Nvidia"
+      ],
+      "url": "https://news.futunn.com/en/post/79575727/another-1-5-billion-before-the-ipo-nvidia-ramps-up"
+    },
+    {
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：《TAIPEI TIMES》Baipu to bolster chip ecosystem: Lai",
@@ -124,7 +166,7 @@
       "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5581668"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "Apple",
       "title": "AI 財經快訊：World leaders in New York to grapple with climate. Fuel prices, AI and disasters complicate things",
@@ -145,68 +187,69 @@
       "url": "https://hk.news.yahoo.com/science/articles/world-leaders-york-grapple-climate-130029691.html"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》The US’ Taiwan policy will not change, official says",
-      "originalTitle": "《TAIPEI TIMES》The US’ Taiwan policy will not change, official says",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》The US’ Taiwan policy will not change, official says",
+      "subject": "Muse and Astra Spark a New W",
+      "title": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
+      "originalTitle": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key Investment Themes, with Memory and Semiconductor Equipment Emerging as Major Growth Areas",
+      "translatedTitle": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 監管",
-      "source": "自由時報",
-      "publishedAt": "2026-09-21T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》The US’ Taiwan policy will not change, official says",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》The US’ Taiwan policy will not change, official says &nbsp;&nbsp; 自由時報。",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-22T12:06:48.000Z",
+      "fact": "富途牛牛 報導：Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key Investment Themes, with Memory and。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI"
+        "AI",
+        "semiconductor"
       ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5581653"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "Fourth Forum on China",
-      "title": "Fourth Forum on China-ASEAN 人工智慧 Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates",
-      "originalTitle": "Fourth Forum on China-ASEAN Artificial Intelligence Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates",
-      "translatedTitle": "Fourth Forum on China-ASEAN 人工智慧 Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "etnet 經濟通",
-      "publishedAt": "2026-09-20T05:20:00.000Z",
-      "fact": "etnet 經濟通 報導：Fourth Forum on China-ASEAN 人工智慧 Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Fourth Forum on China-ASEAN Artificial Intelligence Cooperation Successfully Held in Nanning, Drawing Over 700 Delegates。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section"
+      "url": "https://news.futunn.com/en/post/1000025059/muse-and-astra-spark-a-new-wave-in-ai-computing"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Meta",
-      "title": "Meta Muse ignites new AI rally + falling oil prices boost 風險 appetite! South Korean 晶片股 follow overnight gains in US equities",
-      "originalTitle": "Meta Muse ignites new AI rally + falling oil prices boost risk appetite! South Korean chip stocks follow overnight gains in US equities",
-      "translatedTitle": "Meta Muse ignites new AI rally + falling oil prices boost 風險 appetite! South Korean 晶片股 follow overnight gains in US equities",
+      "subject": "Why are Intel and AMD 股票 sur",
+      "title": "Why are Intel and AMD 股票 surging on Monday?",
+      "originalTitle": "Why are Intel and AMD stocks surging on Monday?",
+      "translatedTitle": "Why are Intel and AMD 股票 surging on Monday?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-22T01:17:03.000Z",
-      "fact": "富途牛牛 報導：Meta Muse ignites new AI rally + falling oil prices boost 風險 appetite! South Korean 晶片股 follow overnight gains in US equities",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Meta Muse ignites new AI rally + falling oil prices boost risk appetite! South Korean chip stocks follow overnight gains。",
+      "source": "TradingView",
+      "publishedAt": "2026-09-21T14:09:29.000Z",
+      "fact": "TradingView 報導：Why are Intel and AMD 股票 surging on Monday?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why are Intel and AMD stocks surging on Monday? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Meta",
-        "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/79579442/meta-muse-ignites-new-ai-rally-falling-oil-prices-boost"
+      "url": "https://tw.tradingview.com/news/invezz:1bd7e23df094b:0-why-are-intel-and-amd-stocks-surging-on-monday/"
     },
     {
       "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "Rising interest rates are sq",
+      "title": "Rising interest rates are squeezing small-cap 股票, narrowing the Russell 2000’s outperformance over the 標普 500 to just 2 percentage points. Is capital poised to flow back into concentrated AI trades?",
+      "originalTitle": "Rising interest rates are squeezing small-cap stocks, narrowing the Russell 2000’s outperformance over the S&P 500 to just 2 percentage points. Is capital poised to flow back into concentrated AI trades?",
+      "translatedTitle": "Rising interest rates are squeezing small-cap 股票, narrowing the Russell 2000’s outperformance over the 標普 500 to just 2 percentage points. Is capital poised to flow back into concentrated AI trades?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-22T13:53:44.000Z",
+      "fact": "富途牛牛 報導：Rising interest rates are squeezing small-cap 股票, narrowing the Russell 2000’s outperformance over the 標普 500 to just 2 percentage points. Is capital poised to flow back into concentrated AI trades?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Rising interest rates are squeezing small-cap stocks, narrowing the Russell 2000’s outperformance over the S&P 500 to ju。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1000030953/rising-interest-rates-are-squeezing-small-cap-stocks-narrowing-the"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "摩根士丹利報告",
       "title": "摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
@@ -214,10 +257,10 @@
       "translatedTitle": "摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "動區動趨",
+      "source": "blocktempo.com",
       "publishedAt": "2026-09-21T09:03:30.000Z",
-      "fact": "動區動趨 報導：摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠 &nbsp;&nbsp; 動區動趨。",
+      "fact": "blocktempo.com 報導：摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠 &nbsp;&nbsp; blocktempo.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
@@ -226,45 +269,24 @@
       "url": "https://www.blocktempo.com/morgan-stanley-ai-semiconductor-753-billion-taiwan-23-stocks/"
     },
     {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Meta",
-      "title": "Meta股價上漲超8%，創今年2月以來新高：Connect 2026臨近，Muse智能體或成AI新變數",
-      "originalTitle": "Meta股價上漲超8%，創今年2月以來新高：Connect 2026臨近，Muse智能體或成AI新變數",
-      "translatedTitle": "Meta股價上漲超8%，創今年2月以來新高：Connect 2026臨近，Muse智能體或成AI新變數",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-21T16:19:42.000Z",
-      "fact": "TradingKey 報導：Meta股價上漲超8%，創今年2月以來新高：Connect 2026臨近，Muse智能體或成AI新變數",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Meta股價上漲超8%，創今年2月以來新高：Connect 2026臨近，Muse智能體或成AI新變數 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262178811-meta-connect-2026-muse-ai-agent-smart-glasses-event-tradingkey"
-    },
-    {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "大摩看多 AI 半導體未來市場表現，點名台積電、聯發科帶",
-      "title": "大摩看多 AI 半導體未來市場表現，點名台積電、聯發科帶動產能",
-      "originalTitle": "大摩看多 AI 半導體未來市場表現，點名台積電、聯發科帶動產能",
-      "translatedTitle": "大摩看多 AI 半導體未來市場表現，點名台積電、聯發科帶動產能",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Anthropic",
+      "title": "Broadcom 股票 Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
+      "originalTitle": "Broadcom Stock Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
+      "translatedTitle": "Broadcom 股票 Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "鏈新聞 ABMedia",
-      "publishedAt": "2026-09-21T00:56:37.000Z",
-      "fact": "鏈新聞 ABMedia 報導：大摩看多 AI 半導體未來市場表現，點名台積電、聯發科帶動產能",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；大摩看多 AI 半導體未來市場表現，點名台積電、聯發科帶動產能 &nbsp;&nbsp; 鏈新聞 ABMedia。",
+      "source": "TradingView",
+      "publishedAt": "2026-09-21T15:18:59.000Z",
+      "fact": "TradingView 報導：Broadcom 股票 Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Broadcom Stock Jumps. Anthropic Could Become Its Biggest Custom Chip Customer &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "Anthropic"
       ],
-      "url": "https://abmedia.io/morgan-stanley-is-bullish-on-the-outlook-of-tsmc-and-related-semiconductor-stocks"
+      "url": "https://tw.tradingview.com/news/gurufocus:876c878a4094b:0-broadcom-stock-jumps-anthropic-could-become-its-biggest-custom-chip-customer/"
     },
     {
       "id": "美股與全球市場焦點-5",
