@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:54:47.823Z",
+  "generatedAt": "2026-09-23T02:11:08.391Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,6 +26,26 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減",
+      "originalTitle": "Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減",
+      "translatedTitle": "Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "technews.tw",
+      "publishedAt": "2026-09-23T01:25:40.000Z",
+      "fact": "technews.tw 報導：Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減 &nbsp;&nbsp; technews.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic"
+      ],
+      "url": "https://technews.tw/2026/09/23/anthropic-upgrades-claude-with-new-opus-5-5-model/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "AI ",
       "title": "AI ：馬克龍呼籲避免依賴美國或中國",
       "originalTitle": "AI ：馬克龍呼籲避免依賴美國或中國",
@@ -44,7 +64,7 @@
       "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20260922-ai-%E9%A6%AC%E5%85%8B%E9%BE%8D%E5%91%BC%E7%B1%B2%E9%81%BF%E5%85%8D%E4%BE%9D%E8%B3%B4%E7%BE%8E%E5%9C%8B%E6%88%96%E4%B8%AD%E5%9C%8B"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "高通、Google聯手推AI筆電 Snapdragon X Elite首次導入Googlebook",
@@ -65,49 +85,48 @@
       "url": "https://finance.ettoday.net/news/3242357"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱",
-      "originalTitle": "OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱",
-      "translatedTitle": "OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "流動日報",
-      "publishedAt": "2026-09-22T11:39:25.000Z",
-      "fact": "流動日報 報導：OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 宣佈經一個月訓練已破解逾百道數學難題 數學家憂概念理解被削弱 &nbsp;&nbsp; 流動日報。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://www.newmobilelife.com/2026/09/22/openai-math-model-solves-100-problems/"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI",
-      "originalTitle": "Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI",
-      "translatedTitle": "Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "Anthropic",
+      "title": "AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？",
+      "originalTitle": "AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？",
+      "translatedTitle": "AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "T客邦",
-      "publishedAt": "2026-09-22T06:00:00.000Z",
-      "fact": "T客邦 報導：Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Acer Googlebook 14 登場！1.14 公斤翻轉筆電搭 Core Ultra 7、3K OLED 螢幕與 Gemini AI &nbsp;&nbsp; T客邦。",
+      "source": "SBS",
+      "publishedAt": "2026-09-23T00:46:20.000Z",
+      "fact": "SBS 報導：AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？ &nbsp;&nbsp; SBS。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
+        "Anthropic",
         "AI"
       ],
-      "url": "https://www.techbang.com/posts/133378-acer-googlebook-14-core-ultra-7-oled-gemini"
+      "url": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-global-finance-23092026/5x5tinia1"
     },
     {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "Intel 股票 Soars as AI Spendin",
+      "title": "Intel 股票 Soars as AI Spending Fears Fade",
+      "originalTitle": "Intel Stock Soars as AI Spending Fears Fade",
+      "translatedTitle": "Intel 股票 Soars as AI Spending Fears Fade",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-09-21T19:02:05.000Z",
+      "fact": "TradingView 報導：Intel 股票 Soars as AI Spending Fears Fade",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Intel Stock Soars as AI Spending Fears Fade &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:56a0abaa5094b:0-intel-stock-soars-as-ai-spending-fears-fade/"
+    },
+    {
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "CityUHK and University of Ca",
       "title": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
@@ -126,7 +145,7 @@
       "url": "https://www.quamnet.com/post/mMLVHdQnUMnMbFqY0fp4L"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "Another $1.5 billion before ",
       "title": "Another $1.5 billion before the IPO! 輝達 ramps up its 投資 in SB 能源, bringing the total to $3 billion.",
@@ -146,7 +165,7 @@
       "url": "https://news.futunn.com/en/post/79575727/another-1-5-billion-before-the-ipo-nvidia-ramps-up"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：《TAIPEI TIMES》Baipu to bolster chip ecosystem: Lai",
@@ -166,7 +185,7 @@
       "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5581668"
     },
     {
-      "id": "全球財經脈動-4",
+      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "Apple",
       "title": "AI 財經快訊：World leaders in New York to grapple with climate. Fuel prices, AI and disasters complicate things",
@@ -185,27 +204,6 @@
         "AI"
       ],
       "url": "https://hk.news.yahoo.com/science/articles/world-leaders-york-grapple-climate-130029691.html"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "Muse and Astra Spark a New W",
-      "title": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
-      "originalTitle": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key Investment Themes, with Memory and Semiconductor Equipment Emerging as Major Growth Areas",
-      "translatedTitle": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-22T12:06:48.000Z",
-      "fact": "富途牛牛 報導：Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key Investment Themes, with Memory and。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "semiconductor"
-      ],
-      "url": "https://news.futunn.com/en/post/1000025059/muse-and-astra-spark-a-new-wave-in-ai-computing"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -257,10 +255,10 @@
       "translatedTitle": "摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "blocktempo.com",
+      "source": "動區動趨",
       "publishedAt": "2026-09-21T09:03:30.000Z",
-      "fact": "blocktempo.com 報導：摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠 &nbsp;&nbsp; blocktempo.com。",
+      "fact": "動區動趨 報導：摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠 &nbsp;&nbsp; 動區動趨。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
@@ -291,22 +289,22 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Aolani計劃部署2.2萬顆輝達Blackwell U",
-      "title": "Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張",
-      "originalTitle": "Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張",
-      "translatedTitle": "Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "C3.ai Inc (AI) 今日股票新聞",
+      "title": "C3.ai Inc (AI) 今日股票新聞",
+      "originalTitle": "C3.ai Inc (AI) 今日股票新聞",
+      "translatedTitle": "C3.ai Inc (AI) 今日股票新聞",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "TradingKey",
-      "publishedAt": "2026-09-21T12:42:32.000Z",
-      "fact": "TradingKey 報導：Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Aolani計劃部署2.2萬顆輝達Blackwell Ultra，東南亞AI資料中心加速擴張 &nbsp;&nbsp; TradingKey。",
+      "publishedAt": "2026-09-21T12:05:23.000Z",
+      "fact": "TradingKey 報導：C3.ai Inc (AI) 今日股票新聞",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；C3.ai Inc (AI) 今日股票新聞 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262178304-aolani-plan-22000-nvidia-blackwell-ultra-southeast-asia-ai-data-center-tradingkey"
+      "url": "https://www.tradingkey.com/zh-hant/markets/stocks/ai/news?topic"
     }
   ]
 }
