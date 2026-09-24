@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T00:06:52.499Z",
+  "generatedAt": "2026-09-24T01:57:38.543Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -27,6 +27,46 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "楊立昆與莫德納共同創辦人加入 Cellular Inte",
+      "title": "楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥",
+      "originalTitle": "楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥",
+      "translatedTitle": "楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-09-23T23:39:36.000Z",
+      "fact": "TechNews 科技新報 報導：楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/09/24/modernas-bob-langer-and-amis-yann-lecun-cellular-intelligences-board-bringing-ai-into-medicine/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場",
+      "originalTitle": "MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場",
+      "translatedTitle": "MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "T客邦",
+      "publishedAt": "2026-09-24T01:00:00.000Z",
+      "fact": "T客邦 報導：MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場 &nbsp;&nbsp; T客邦。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.techbang.com/posts/133405-googlebook-google-engineers-gemini-ai"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "Heads of AI firms tell UN Se",
       "title": "Heads of AI firms tell UN Security Council that it could be a 風險 to all humanity",
       "originalTitle": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
@@ -45,66 +85,23 @@
       "url": "https://hk.news.yahoo.com/world/articles/heads-ai-firms-tell-un-195335966.html"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟",
-      "originalTitle": "高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟",
-      "translatedTitle": "高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "BigGo 財經",
-      "publishedAt": "2026-09-22T21:35:00.000Z",
-      "fact": "BigGo 財經 報導：高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟 &nbsp;&nbsp; BigGo 財經。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://finance.biggo.com.tw/news/abb14285-e5c9-40df-86fa-e8b1119bf66f"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠",
-      "originalTitle": "Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠",
-      "translatedTitle": "Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "加密城市CryptoCity",
-      "publishedAt": "2026-09-23T06:43:53.000Z",
-      "fact": "加密城市CryptoCity 報導：Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠 &nbsp;&nbsp; 加密城市CryptoCity。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://www.cryptocity.tw/news/meta-muse-ai-drives-cpu-essd-demand"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減",
-      "originalTitle": "Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減",
-      "translatedTitle": "Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "technews.tw",
-      "publishedAt": "2026-09-23T01:25:40.000Z",
-      "fact": "technews.tw 報導：Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減 &nbsp;&nbsp; technews.tw。",
+      "subject": "聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
+      "title": "聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
+      "originalTitle": "聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
+      "translatedTitle": "聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "Singtaousa",
+      "publishedAt": "2026-09-23T23:17:26.000Z",
+      "fact": "Singtaousa 報導：聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類 &nbsp;&nbsp; Singtaousa。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "Anthropic"
+        "AI 與科技前沿"
       ],
-      "url": "https://technews.tw/2026/09/23/anthropic-upgrades-claude-with-new-opus-5-5-model/"
+      "url": "https://www.singtaousa.com/2026/09/23/news/usa/heads-of-ai-firms-tell-un-security-council-that-it-could-be-a-risk-to-all-humanity/"
     },
     {
       "id": "全球財經脈動-1",
@@ -129,21 +126,21 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "3 E Network通過其北歐子公司Aurora Co",
-      "title": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "originalTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "translatedTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "subject": "Businesses Are Growing at th",
+      "title": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
+      "originalTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down.",
+      "translatedTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-23T11:50:00.000Z",
-      "fact": "富途牛牛 報導：3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目 &nbsp;&nbsp; 富途牛牛。",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-09-23T18:35:55.000Z",
+      "fact": "news.futunn.com 報導：Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經"
       ],
-      "url": "https://news.futunn.com/hk/post/1000094794/3-e-network-advances-european-ai-data-center-project-through"
+      "url": "https://news.futunn.com/hk/post/1000112859/businesses-are-growing-at-the-fastest-pace-in-over-four"
     },
     {
       "id": "全球財經脈動-3",
@@ -167,25 +164,6 @@
     {
       "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "Businesses Are Growing at th",
-      "title": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
-      "originalTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down.",
-      "translatedTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-23T18:29:24.000Z",
-      "fact": "富途牛牛 報導：Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://news.futunn.com/en/post/1000112859/businesses-are-growing-at-the-fastest-pace-in-over-four"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
       "subject": "Solera Commits to Becoming a",
       "title": "Solera Commits to Becoming a Global Partner in China's New 能源 Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
       "originalTitle": "Solera Commits to Becoming a Global Partner in China's New Energy Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
@@ -203,6 +181,27 @@
       "url": "https://macaubusiness.com/solera-commits-to-becoming-a-global-partner-in-chinas-new-energy-vehicle-industrys-international-expansion-following-high-level-meeting-with-catarc/"
     },
     {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "Muse and Astra Spark a New W",
+      "title": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
+      "originalTitle": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key Investment Themes, with Memory and Semiconductor Equipment Emerging as Major Growth Areas",
+      "translatedTitle": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-09-22T12:06:48.000Z",
+      "fact": "news.futunn.com 報導：Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key Investment Themes, with Memory and。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://news.futunn.com/en/post/1000025059/muse-and-astra-spark-a-new-wave-in-ai-computing"
+    },
+    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
       "subject": "These 股票 Are the 'Four Horse",
@@ -211,10 +210,10 @@
       "translatedTitle": "These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "moomoo.com",
+      "source": "Moomoo",
       "publishedAt": "2026-09-23T14:39:41.000Z",
-      "fact": "moomoo.com 報導：These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；These Stocks Are the 'Four Horsemen of AI' - and They're Not the Ones You'd Think &nbsp;&nbsp; moomoo.com。",
+      "fact": "Moomoo 報導：These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；These Stocks Are the 'Four Horsemen of AI' - and They're Not the Ones You'd Think &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
@@ -232,10 +231,10 @@
       "translatedTitle": "The AI-scare Trade Is Finally Hitting Banks. 便宜標的-hunters Should Take Note.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-23T19:19:00.000Z",
-      "fact": "富途牛牛 報導：The AI-scare Trade Is Finally Hitting Banks. 便宜標的-hunters Should Take Note.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI-scare Trade Is Finally Hitting Banks. Bargain-hunters Should Take Note. &nbsp;&nbsp; 富途牛牛。",
+      "source": "news.futunn.com",
+      "publishedAt": "2026-09-23T19:35:17.000Z",
+      "fact": "news.futunn.com 報導：The AI-scare Trade Is Finally Hitting Banks. 便宜標的-hunters Should Take Note.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI-scare Trade Is Finally Hitting Banks. Bargain-hunters Should Take Note. &nbsp;&nbsp; news.futunn.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
