@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-09-23T02:11:08.391Z",
+  "generatedAt": "2026-09-24T00:06:52.499Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作",
+      "originalTitle": "聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作",
+      "translatedTitle": "聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "RFI",
+      "publishedAt": "2026-09-23T21:27:39.000Z",
+      "fact": "RFI 報導：聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作 &nbsp;&nbsp; RFI。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20260923-%E8%81%AF%E5%90%88%E5%9C%8B%E8%81%9A%E7%84%A6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%A8%E9%9A%AA-openai%E8%88%87anthropic%E8%B2%A0%E8%B2%AC%E4%BA%BA%E5%91%BC%E7%B1%B2%E5%8A%A0%E5%BC%B7%E8%AD%A6%E6%83%95%E8%88%87%E5%90%88%E4%BD%9C"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Heads of AI firms tell UN Se",
+      "title": "Heads of AI firms tell UN Security Council that it could be a 風險 to all humanity",
+      "originalTitle": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
+      "translatedTitle": "Heads of AI firms tell UN Security Council that it could be a 風險 to all humanity",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "Yahoo",
+      "publishedAt": "2026-09-23T19:53:35.000Z",
+      "fact": "Yahoo 報導：Heads of AI firms tell UN Security Council that it could be a 風險 to all humanity",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Heads of AI firms tell UN Security Council that it could be a risk to all humanity &nbsp;&nbsp; Yahoo。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://hk.news.yahoo.com/world/articles/heads-ai-firms-tell-un-195335966.html"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "高通攜手Google，以「Gemini Intelligence」強化跨裝置AI聯盟",
@@ -24,7 +66,28 @@
       "url": "https://finance.biggo.com.tw/news/abb14285-e5c9-40df-86fa-e8b1119bf66f"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠",
+      "originalTitle": "Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠",
+      "translatedTitle": "Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "加密城市CryptoCity",
+      "publishedAt": "2026-09-23T06:43:53.000Z",
+      "fact": "加密城市CryptoCity 報導：Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Muse AI代理點燃CPU、eSSD需求！投顧點名6家廠商直接受惠 &nbsp;&nbsp; 加密城市CryptoCity。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://www.cryptocity.tw/news/meta-muse-ai-drives-cpu-essd-demand"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "Anthropic 發表 Claude Opus 5.5，效能直逼 Fable 5.1 且成本大減",
@@ -44,89 +107,46 @@
       "url": "https://technews.tw/2026/09/23/anthropic-upgrades-claude-with-new-opus-5-5-model/"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "AI ",
-      "title": "AI ：馬克龍呼籲避免依賴美國或中國",
-      "originalTitle": "AI ：馬克龍呼籲避免依賴美國或中國",
-      "translatedTitle": "AI ：馬克龍呼籲避免依賴美國或中國",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "RFI",
-      "publishedAt": "2026-09-22T20:51:39.000Z",
-      "fact": "RFI 報導：AI ：馬克龍呼籲避免依賴美國或中國",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI ：馬克龍呼籲避免依賴美國或中國 &nbsp;&nbsp; RFI。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.rfi.fr/tw/%E5%9C%8B%E9%9A%9B/20260922-ai-%E9%A6%AC%E5%85%8B%E9%BE%8D%E5%91%BC%E7%B1%B2%E9%81%BF%E5%85%8D%E4%BE%9D%E8%B3%B4%E7%BE%8E%E5%9C%8B%E6%88%96%E4%B8%AD%E5%9C%8B"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "高通、Google聯手推AI筆電 Snapdragon X Elite首次導入Googlebook",
-      "originalTitle": "高通、Google聯手推AI筆電　Snapdragon X Elite首次導入Googlebook",
-      "translatedTitle": "高通、Google聯手推AI筆電 Snapdragon X Elite首次導入Googlebook",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "ETtoday財經雲",
-      "publishedAt": "2026-09-22T19:54:00.000Z",
-      "fact": "ETtoday財經雲 報導：高通、Google聯手推AI筆電 Snapdragon X Elite首次導入Googlebook",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；高通、Google聯手推AI筆電 Snapdragon X Elite首次導入Googlebook &nbsp;&nbsp; ETtoday財經雲。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://finance.ettoday.net/news/3242357"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？",
-      "originalTitle": "AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？",
-      "translatedTitle": "AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "SBS",
-      "publishedAt": "2026-09-23T00:46:20.000Z",
-      "fact": "SBS 報導：AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 工廠與數據中心有何分別？Anthropic昆州項目如何影響澳洲電價？ &nbsp;&nbsp; SBS。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/cantonese-global-finance-23092026/5x5tinia1"
-    },
-    {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "Intel 股票 Soars as AI Spendin",
-      "title": "Intel 股票 Soars as AI Spending Fears Fade",
-      "originalTitle": "Intel Stock Soars as AI Spending Fears Fade",
-      "translatedTitle": "Intel 股票 Soars as AI Spending Fears Fade",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year",
+      "originalTitle": "《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-09-21T19:02:05.000Z",
-      "fact": "TradingView 報導：Intel 股票 Soars as AI Spending Fears Fade",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Intel Stock Soars as AI Spending Fears Fade &nbsp;&nbsp; TradingView。",
+      "category": "全球財經",
+      "source": "自由時報",
+      "publishedAt": "2026-09-23T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year &nbsp;&nbsp; 自由時報。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:56a0abaa5094b:0-intel-stock-soars-as-ai-spending-fears-fade/"
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5584255"
     },
     {
       "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "3 E Network通過其北歐子公司Aurora Co",
+      "title": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "originalTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "translatedTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-23T11:50:00.000Z",
+      "fact": "富途牛牛 報導：3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目 &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://news.futunn.com/hk/post/1000094794/3-e-network-advances-european-ai-data-center-project-through"
+    },
+    {
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "CityUHK and University of Ca",
       "title": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
@@ -134,9 +154,9 @@
       "translatedTitle": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Quamnet",
+      "source": "華富財經",
       "publishedAt": "2026-09-22T13:00:01.000Z",
-      "fact": "Quamnet 報導：CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
+      "fact": "華富財經 報導：CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
       "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
@@ -145,166 +165,144 @@
       "url": "https://www.quamnet.com/post/mMLVHdQnUMnMbFqY0fp4L"
     },
     {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "Another $1.5 billion before ",
-      "title": "Another $1.5 billion before the IPO! 輝達 ramps up its 投資 in SB 能源, bringing the total to $3 billion.",
-      "originalTitle": "Another $1.5 billion before the IPO! NVIDIA ramps up its investment in SB Energy, bringing the total to $3 billion.",
-      "translatedTitle": "Another $1.5 billion before the IPO! 輝達 ramps up its 投資 in SB 能源, bringing the total to $3 billion.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-22T06:00:25.000Z",
-      "fact": "富途牛牛 報導：Another $1.5 billion before the IPO! 輝達 ramps up its 投資 in SB 能源, bringing the total to $3 billion.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Another $1.5 billion before the IPO! NVIDIA ramps up its investment in SB Energy, bringing the total to $3 billion. &nbs。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "Nvidia"
-      ],
-      "url": "https://news.futunn.com/en/post/79575727/another-1-5-billion-before-the-ipo-nvidia-ramps-up"
-    },
-    {
       "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》Baipu to bolster chip ecosystem: Lai",
-      "originalTitle": "《TAIPEI TIMES》Baipu to bolster chip ecosystem: Lai",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》Baipu to bolster chip ecosystem: Lai",
+      "subject": "Businesses Are Growing at th",
+      "title": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
+      "originalTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down.",
+      "translatedTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "自由時報",
-      "publishedAt": "2026-09-21T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》Baipu to bolster chip ecosystem: Lai",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》Baipu to bolster chip ecosystem: Lai &nbsp;&nbsp; 自由時報。",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-23T18:29:24.000Z",
+      "fact": "富途牛牛 報導：Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經",
-        "AI"
+        "全球財經"
       ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5581668"
+      "url": "https://news.futunn.com/en/post/1000112859/businesses-are-growing-at-the-fastest-pace-in-over-four"
     },
     {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "Apple",
-      "title": "AI 財經快訊：World leaders in New York to grapple with climate. Fuel prices, AI and disasters complicate things",
-      "originalTitle": "World leaders in New York to grapple with climate. Fuel prices, AI and disasters complicate things",
-      "translatedTitle": "AI 財經快訊：World leaders in New York to grapple with climate. Fuel prices, AI and disasters complicate things",
+      "subject": "Solera Commits to Becoming a",
+      "title": "Solera Commits to Becoming a Global Partner in China's New 能源 Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
+      "originalTitle": "Solera Commits to Becoming a Global Partner in China's New Energy Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
+      "translatedTitle": "Solera Commits to Becoming a Global Partner in China's New 能源 Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-21T13:00:29.000Z",
-      "fact": "Yahoo 報導：AI 財經快訊：World leaders in New York to grapple with climate. Fuel prices, AI and disasters complicate things",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；World leaders in New York to grapple with climate. Fuel prices, AI and disasters complicate things &nbsp;&nbsp; Yahoo。",
+      "source": "Macau Business",
+      "publishedAt": "2026-09-23T12:30:22.000Z",
+      "fact": "Macau Business 報導：Solera Commits to Becoming a Global Partner in China's New 能源 Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Solera Commits to Becoming a Global Partner in China's New Energy Vehicle Industry's International Expansion, Following。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經",
-        "Apple",
-        "AI"
+        "全球財經"
       ],
-      "url": "https://hk.news.yahoo.com/science/articles/world-leaders-york-grapple-climate-130029691.html"
+      "url": "https://macaubusiness.com/solera-commits-to-becoming-a-global-partner-in-chinas-new-energy-vehicle-industrys-international-expansion-following-high-level-meeting-with-catarc/"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Why are Intel and AMD 股票 sur",
-      "title": "Why are Intel and AMD 股票 surging on Monday?",
-      "originalTitle": "Why are Intel and AMD stocks surging on Monday?",
-      "translatedTitle": "Why are Intel and AMD 股票 surging on Monday?",
+      "subject": "These 股票 Are the 'Four Horse",
+      "title": "These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
+      "originalTitle": "These Stocks Are the 'Four Horsemen of AI' - and They're Not the Ones You'd Think",
+      "translatedTitle": "These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-09-21T14:09:29.000Z",
-      "fact": "TradingView 報導：Why are Intel and AMD 股票 surging on Monday?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why are Intel and AMD stocks surging on Monday? &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://tw.tradingview.com/news/invezz:1bd7e23df094b:0-why-are-intel-and-amd-stocks-surging-on-monday/"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Rising interest rates are sq",
-      "title": "Rising interest rates are squeezing small-cap 股票, narrowing the Russell 2000’s outperformance over the 標普 500 to just 2 percentage points. Is capital poised to flow back into concentrated AI trades?",
-      "originalTitle": "Rising interest rates are squeezing small-cap stocks, narrowing the Russell 2000’s outperformance over the S&P 500 to just 2 percentage points. Is capital poised to flow back into concentrated AI trades?",
-      "translatedTitle": "Rising interest rates are squeezing small-cap 股票, narrowing the Russell 2000’s outperformance over the 標普 500 to just 2 percentage points. Is capital poised to flow back into concentrated AI trades?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-22T13:53:44.000Z",
-      "fact": "富途牛牛 報導：Rising interest rates are squeezing small-cap 股票, narrowing the Russell 2000’s outperformance over the 標普 500 to just 2 percentage points. Is capital poised to flow back into concentrated AI trades?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Rising interest rates are squeezing small-cap stocks, narrowing the Russell 2000’s outperformance over the S&P 500 to ju。",
+      "source": "moomoo.com",
+      "publishedAt": "2026-09-23T14:39:41.000Z",
+      "fact": "moomoo.com 報導：These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；These Stocks Are the 'Four Horsemen of AI' - and They're Not the Ones You'd Think &nbsp;&nbsp; moomoo.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1000030953/rising-interest-rates-are-squeezing-small-cap-stocks-narrowing-the"
+      "url": "https://www.moomoo.com/hant/news/post/1000103837/these-stocks-are-the-four-horsemen-of-ai-and-they"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "The AI",
+      "title": "The AI-scare Trade Is Finally Hitting Banks. 便宜標的-hunters Should Take Note.",
+      "originalTitle": "The AI-scare Trade Is Finally Hitting Banks. Bargain-hunters Should Take Note.",
+      "translatedTitle": "The AI-scare Trade Is Finally Hitting Banks. 便宜標的-hunters Should Take Note.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-23T19:19:00.000Z",
+      "fact": "富途牛牛 報導：The AI-scare Trade Is Finally Hitting Banks. 便宜標的-hunters Should Take Note.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI-scare Trade Is Finally Hitting Banks. Bargain-hunters Should Take Note. &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/1000114678/the-ai-scare-trade-is-finally-hitting-banks-bargain-hunters"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "摩根士丹利報告",
-      "title": "摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
-      "originalTitle": "摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
-      "translatedTitle": "摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "【22",
+      "title": "【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓",
+      "originalTitle": "【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓",
+      "translatedTitle": "【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "動區動趨",
-      "publishedAt": "2026-09-21T09:03:30.000Z",
-      "fact": "動區動趨 報導：摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；摩根士丹利報告：AI 半導體市場 2030 達 7,530 億美元，點名 23 檔台股受惠 &nbsp;&nbsp; 動區動趨。",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-09-23T14:17:58.000Z",
+      "fact": "CMoney投資網誌 報導：【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓 &nbsp;&nbsp; CMoney投資網誌。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.blocktempo.com/morgan-stanley-ai-semiconductor-753-billion-taiwan-23-stocks/"
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-93bf31d4-b759-11f1-8f98-0d5de85fb617?utm_source"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Anthropic",
-      "title": "Broadcom 股票 Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
-      "originalTitle": "Broadcom Stock Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
-      "translatedTitle": "Broadcom 股票 Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
+      "subject": "Dow Futures Slip While 標普 50",
+      "title": "Dow Futures Slip While 標普 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY 股票 In Focus",
+      "originalTitle": "Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus",
+      "translatedTitle": "Dow Futures Slip While 標普 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY 股票 In Focus",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-09-21T15:18:59.000Z",
-      "fact": "TradingView 報導：Broadcom 股票 Jumps. Anthropic Could Become Its Biggest Custom Chip Customer",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Broadcom Stock Jumps. Anthropic Could Become Its Biggest Custom Chip Customer &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-09-22T02:44:33.000Z",
+      "fact": "TradingView 報導：Dow Futures Slip While 標普 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY 股票 In Focus",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus &nbsp;&nbsp; T。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Anthropic"
+        "AI",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:876c878a4094b:0-broadcom-stock-jumps-anthropic-could-become-its-biggest-custom-chip-customer/"
+      "url": "https://tw.tradingview.com/news/stocktwits:a1b690276094b:0-dow-futures-slip-while-s-p-500-nasdaq-futures-climb-after-ai-rally-gme-ibrx-amd-psky-stocks-in-focus/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "C3.ai Inc (AI) 今日股票新聞",
-      "title": "C3.ai Inc (AI) 今日股票新聞",
-      "originalTitle": "C3.ai Inc (AI) 今日股票新聞",
-      "translatedTitle": "C3.ai Inc (AI) 今日股票新聞",
+      "subject": "【21",
+      "title": "【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐",
+      "originalTitle": "【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐",
+      "translatedTitle": "【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-09-21T12:05:23.000Z",
-      "fact": "TradingKey 報導：C3.ai Inc (AI) 今日股票新聞",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；C3.ai Inc (AI) 今日股票新聞 &nbsp;&nbsp; TradingKey。",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-09-23T13:51:24.000Z",
+      "fact": "CMoney投資網誌 報導：【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐 &nbsp;&nbsp; CMoney投資網誌。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/markets/stocks/ai/news?topic"
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-ddd36057-b755-11f1-9ba5-8681291e3188?utm_source"
     }
   ]
 }
