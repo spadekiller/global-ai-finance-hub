@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-09-25T00:09:12.486Z",
+  "generatedAt": "2026-09-25T02:14:24.269Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "被拆掉書脊的知識──當謠言開始餵養 AI",
+      "title": "被拆掉書脊的知識──當謠言開始餵養 AI",
+      "originalTitle": "被拆掉書脊的知識──當謠言開始餵養 AI",
+      "translatedTitle": "被拆掉書脊的知識──當謠言開始餵養 AI",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "infosecu.technews.tw",
+      "publishedAt": "2026-09-25T01:07:05.000Z",
+      "fact": "infosecu.technews.tw 報導：被拆掉書脊的知識──當謠言開始餵養 AI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；被拆掉書脊的知識──當謠言開始餵養 AI &nbsp;&nbsp; infosecu.technews.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://infosecu.technews.tw/2026/09/25/ai-models-collapse-when-trained-on-recursively-generated-data/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI Academy 兩週年",
@@ -24,48 +44,49 @@
       "url": "https://openai.com/zh-Hant/index/two-years-of-openai-academy/"
     },
     {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "蘋果光環失靈？法院文件曝",
-      "title": "蘋果光環失靈？法院文件曝：ChatGPT 整合 蘋果 Intelligence 採用率慘澹",
-      "originalTitle": "蘋果光環失靈？法院文件曝：ChatGPT 整合 Apple Intelligence 採用率慘澹",
-      "translatedTitle": "蘋果光環失靈？法院文件曝：ChatGPT 整合 蘋果 Intelligence 採用率慘澹",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "technews.tw",
-      "publishedAt": "2026-09-24T07:06:33.000Z",
-      "fact": "technews.tw 報導：蘋果光環失靈？法院文件曝：ChatGPT 整合 蘋果 Intelligence 採用率慘澹",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果光環失靈？法院文件曝：ChatGPT 整合 Apple Intelligence 採用率慘澹 &nbsp;&nbsp; technews.tw。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Apple"
-      ],
-      "url": "https://technews.tw/2026/09/24/openai-apple-ai-user-indifference/"
-    },
-    {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
-      "originalTitle": "OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
-      "translatedTitle": "OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
+      "title": "「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統",
+      "originalTitle": "「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統",
+      "translatedTitle": "「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "capitalfutures.com.tw",
-      "publishedAt": "2026-09-24T02:34:03.000Z",
-      "fact": "capitalfutures.com.tw 報導：OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未 &nbsp;&nbsp; capitalfutures.com.tw。",
+      "source": "sbs.com.au",
+      "publishedAt": "2026-09-25T00:11:49.000Z",
+      "fact": "sbs.com.au 報導：「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統 &nbsp;&nbsp; sbs.com.au。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle?ContentId"
+      "url": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/the-xi-trump-meeting-discussed-multiple-issues-while-the-federal-government-plans-to-sue-openai-for-the-medicare-incident/9mr66kd5o"
     },
     {
       "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "AI 財經快訊：Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In?",
+      "originalTitle": "Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In?",
+      "translatedTitle": "AI 財經快訊：Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-24T16:02:16.000Z",
+      "fact": "Moomoo 報導：AI 財經快訊：Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In?",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In? &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1000184663/meta-wants-to-put-its-muse-ai-assistant-on-your"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨",
@@ -84,28 +105,6 @@
         "AI"
       ],
       "url": "https://www.kocpc.com.tw/archives/670031"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "蘋果 Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決",
-      "originalTitle": "Apple Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決",
-      "translatedTitle": "蘋果 Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "流動日報",
-      "publishedAt": "2026-09-24T06:12:57.000Z",
-      "fact": "流動日報 報導：蘋果 Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決 &nbsp;&nbsp; 流動日報。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Apple",
-        "AI"
-      ],
-      "url": "https://www.newmobilelife.com/2026/09/24/openai-apple-intelligence-chatgpt-adoption/"
     },
     {
       "id": "全球財經脈動-1",
@@ -130,21 +129,22 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "3 E Network通過其北歐子公司Aurora Co",
-      "title": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "originalTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "translatedTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Trump, XI, and the Future of the AI Trade -- Barrons.com",
+      "originalTitle": "Trump, XI, and the Future of the AI Trade -- Barrons.com",
+      "translatedTitle": "AI 財經快訊：Trump, XI, and the Future of the AI Trade -- Barrons.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
       "source": "富途牛牛",
-      "publishedAt": "2026-09-23T11:50:00.000Z",
-      "fact": "富途牛牛 報導：3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目 &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-09-24T15:48:51.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Trump, XI, and the Future of the AI Trade -- Barrons.com",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Trump, XI, and the Future of the AI Trade -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經"
+        "全球財經",
+        "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/1000094794/3-e-network-advances-european-ai-data-center-project-through"
+      "url": "https://news.futunn.com/hk/post/1000182233/trump-xi-and-the-future-of-the-ai-trade-barronscom"
     },
     {
       "id": "全球財經脈動-3",
@@ -170,22 +170,21 @@
     {
       "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "AI",
-      "title": "AI-driven trading has become the central battleground for election-related 風險 in U.S. equities, as investors begin to \"reassess.\"",
-      "originalTitle": "AI-driven trading has become the central battleground for election-related risks in U.S. equities, as investors begin to \"reassess.\"",
-      "translatedTitle": "AI-driven trading has become the central battleground for election-related 風險 in U.S. equities, as investors begin to \"reassess.\"",
+      "subject": "3 E Network通過其北歐子公司Aurora Co",
+      "title": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "originalTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "translatedTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
       "source": "富途牛牛",
-      "publishedAt": "2026-09-24T14:24:06.000Z",
-      "fact": "富途牛牛 報導：AI-driven trading has become the central battleground for election-related 風險 in U.S. equities, as investors begin to \"reassess.\"",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI-driven trading has become the central battleground for election-related risks in U.S. equities, as investors begin to。",
+      "publishedAt": "2026-09-23T11:50:00.000Z",
+      "fact": "富途牛牛 報導：3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目 &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經",
-        "AI"
+        "全球財經"
       ],
-      "url": "https://news.futunn.com/en/post/1000178839/ai-driven-trading-has-become-the-central-battleground-for-election"
+      "url": "https://news.futunn.com/hk/post/1000094794/3-e-network-advances-european-ai-data-center-project-through"
     },
     {
       "id": "全球財經脈動-5",
