@@ -1,107 +1,111 @@
 {
-  "generatedAt": "2026-09-24T01:57:38.543Z",
+  "generatedAt": "2026-09-25T00:09:12.486Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作",
-      "originalTitle": "聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作",
-      "translatedTitle": "聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "title": "OpenAI Academy 兩週年",
+      "originalTitle": "OpenAI Academy 兩週年",
+      "translatedTitle": "OpenAI Academy 兩週年",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "RFI",
-      "publishedAt": "2026-09-23T21:27:39.000Z",
-      "fact": "RFI 報導：聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；聯合國聚焦人工智能風險 OpenAI與Anthropic負責人呼籲加強警惕與合作 &nbsp;&nbsp; RFI。",
+      "source": "OpenAI",
+      "publishedAt": "2026-09-24T03:02:15.000Z",
+      "fact": "OpenAI 報導：OpenAI Academy 兩週年",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI Academy 兩週年 &nbsp;&nbsp; OpenAI。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
-        "Anthropic",
         "AI"
       ],
-      "url": "https://www.rfi.fr/tw/%E4%B8%AD%E5%9C%8B/20260923-%E8%81%AF%E5%90%88%E5%9C%8B%E8%81%9A%E7%84%A6%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E9%A2%A8%E9%9A%AA-openai%E8%88%87anthropic%E8%B2%A0%E8%B2%AC%E4%BA%BA%E5%91%BC%E7%B1%B2%E5%8A%A0%E5%BC%B7%E8%AD%A6%E6%83%95%E8%88%87%E5%90%88%E4%BD%9C"
+      "url": "https://openai.com/zh-Hant/index/two-years-of-openai-academy/"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "楊立昆與莫德納共同創辦人加入 Cellular Inte",
-      "title": "楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥",
-      "originalTitle": "楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥",
-      "translatedTitle": "楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "蘋果光環失靈？法院文件曝",
+      "title": "蘋果光環失靈？法院文件曝：ChatGPT 整合 蘋果 Intelligence 採用率慘澹",
+      "originalTitle": "蘋果光環失靈？法院文件曝：ChatGPT 整合 Apple Intelligence 採用率慘澹",
+      "translatedTitle": "蘋果光環失靈？法院文件曝：ChatGPT 整合 蘋果 Intelligence 採用率慘澹",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-09-23T23:39:36.000Z",
-      "fact": "TechNews 科技新報 報導：楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；楊立昆與莫德納共同創辦人加入 Cellular Intelligence，以巴金森氏症細胞療法驗證 AI 製藥 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "technews.tw",
+      "publishedAt": "2026-09-24T07:06:33.000Z",
+      "fact": "technews.tw 報導：蘋果光環失靈？法院文件曝：ChatGPT 整合 蘋果 Intelligence 採用率慘澹",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果光環失靈？法院文件曝：ChatGPT 整合 Apple Intelligence 採用率慘澹 &nbsp;&nbsp; technews.tw。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "AI"
+        "Apple"
       ],
-      "url": "https://technews.tw/2026/09/24/modernas-bob-langer-and-amis-yann-lecun-cellular-intelligences-board-bringing-ai-into-medicine/"
+      "url": "https://technews.tw/2026/09/24/openai-apple-ai-user-indifference/"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場",
-      "originalTitle": "MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場",
-      "translatedTitle": "MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "T客邦",
-      "publishedAt": "2026-09-24T01:00:00.000Z",
-      "fact": "T客邦 報導：MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；MacBook勁敵現身？Googlebook領軍5大PC龍頭 搭載Intel、 高通雙晶片強攻高階市場 &nbsp;&nbsp; T客邦。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "subject": "OpenAI",
+      "title": "OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
+      "originalTitle": "OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
+      "translatedTitle": "OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "capitalfutures.com.tw",
+      "publishedAt": "2026-09-24T02:34:03.000Z",
+      "fact": "capitalfutures.com.tw 報導：OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未 &nbsp;&nbsp; capitalfutures.com.tw。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "OpenAI",
+        "AI"
       ],
-      "url": "https://www.techbang.com/posts/133405-googlebook-google-engineers-gemini-ai"
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle?ContentId"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Heads of AI firms tell UN Se",
-      "title": "Heads of AI firms tell UN Security Council that it could be a 風險 to all humanity",
-      "originalTitle": "Heads of AI firms tell UN Security Council that it could be a risk to all humanity",
-      "translatedTitle": "Heads of AI firms tell UN Security Council that it could be a 風險 to all humanity",
+      "subject": "Google",
+      "title": "高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨",
+      "originalTitle": "高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨",
+      "translatedTitle": "高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "Yahoo",
-      "publishedAt": "2026-09-23T19:53:35.000Z",
-      "fact": "Yahoo 報導：Heads of AI firms tell UN Security Council that it could be a 風險 to all humanity",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Heads of AI firms tell UN Security Council that it could be a risk to all humanity &nbsp;&nbsp; Yahoo。",
+      "source": "電腦王阿達",
+      "publishedAt": "2026-09-24T13:40:12.000Z",
+      "fact": "電腦王阿達 報導：高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨 &nbsp;&nbsp; 電腦王阿達。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Google",
         "AI"
       ],
-      "url": "https://hk.news.yahoo.com/world/articles/heads-ai-firms-tell-un-195335966.html"
+      "url": "https://www.kocpc.com.tw/archives/670031"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
-      "title": "聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
-      "originalTitle": "聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
-      "translatedTitle": "聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Singtaousa",
-      "publishedAt": "2026-09-23T23:17:26.000Z",
-      "fact": "Singtaousa 報導：聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；聯合國安理會聽證會 人工智能巨頭警告技術失控威脅全人類 &nbsp;&nbsp; Singtaousa。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "subject": "OpenAI",
+      "title": "蘋果 Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決",
+      "originalTitle": "Apple Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決",
+      "translatedTitle": "蘋果 Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "流動日報",
+      "publishedAt": "2026-09-24T06:12:57.000Z",
+      "fact": "流動日報 報導：蘋果 Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple Intelligence 整合 ChatGPT 表現遠遜預期 OpenAI 要求法院審前裁決 &nbsp;&nbsp; 流動日報。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "OpenAI",
+        "Apple",
+        "AI"
       ],
-      "url": "https://www.singtaousa.com/2026/09/23/news/usa/heads-of-ai-firms-tell-un-security-council-that-it-could-be-a-risk-to-all-humanity/"
+      "url": "https://www.newmobilelife.com/2026/09/24/openai-apple-intelligence-chatgpt-adoption/"
     },
     {
       "id": "全球財經脈動-1",
@@ -126,15 +130,75 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
+      "subject": "3 E Network通過其北歐子公司Aurora Co",
+      "title": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "originalTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "translatedTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-23T11:50:00.000Z",
+      "fact": "富途牛牛 報導：3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目 &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://news.futunn.com/hk/post/1000094794/3-e-network-advances-european-ai-data-center-project-through"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "Thailand Unveils First Natio",
+      "title": "Thailand Unveils First National 半導體 Strategy, Targets $80 Billion in 投資 by 2050",
+      "originalTitle": "Thailand Unveils First National Semiconductor Strategy, Targets $80 Billion in Investment by 2050",
+      "translatedTitle": "Thailand Unveils First National 半導體 Strategy, Targets $80 Billion in 投資 by 2050",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "Macau Business",
+      "publishedAt": "2026-09-24T12:05:59.000Z",
+      "fact": "Macau Business 報導：Thailand Unveils First National 半導體 Strategy, Targets $80 Billion in 投資 by 2050",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Thailand Unveils First National Semiconductor Strategy, Targets $80 Billion in Investment by 2050 &nbsp;&nbsp; Macau Bus。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://macaubusiness.com/thailand-unveils-first-national-semiconductor-strategy-targets-80-billion-in-investment-by-2050/"
+    },
+    {
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "AI",
+      "title": "AI-driven trading has become the central battleground for election-related 風險 in U.S. equities, as investors begin to \"reassess.\"",
+      "originalTitle": "AI-driven trading has become the central battleground for election-related risks in U.S. equities, as investors begin to \"reassess.\"",
+      "translatedTitle": "AI-driven trading has become the central battleground for election-related 風險 in U.S. equities, as investors begin to \"reassess.\"",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-24T14:24:06.000Z",
+      "fact": "富途牛牛 報導：AI-driven trading has become the central battleground for election-related 風險 in U.S. equities, as investors begin to \"reassess.\"",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI-driven trading has become the central battleground for election-related risks in U.S. equities, as investors begin to。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/1000178839/ai-driven-trading-has-become-the-central-battleground-for-election"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
       "subject": "Businesses Are Growing at th",
       "title": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
       "originalTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down.",
       "translatedTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "news.futunn.com",
+      "source": "富途牛牛",
       "publishedAt": "2026-09-23T18:35:55.000Z",
-      "fact": "news.futunn.com 報導：Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
+      "fact": "富途牛牛 報導：Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
       "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
@@ -143,66 +207,27 @@
       "url": "https://news.futunn.com/hk/post/1000112859/businesses-are-growing-at-the-fastest-pace-in-over-four"
     },
     {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "CityUHK and University of Ca",
-      "title": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
-      "originalTitle": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future - 全球企業動態",
-      "translatedTitle": "CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "華富財經",
-      "publishedAt": "2026-09-22T13:00:01.000Z",
-      "fact": "華富財經 報導：CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry 5.0 future — 全球企業動態",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；CityUHK and University of Cambridge establish Centre for Advanced and Smart Manufacturing to shape Hong Kong's Industry。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.quamnet.com/post/mMLVHdQnUMnMbFqY0fp4L"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "Solera Commits to Becoming a",
-      "title": "Solera Commits to Becoming a Global Partner in China's New 能源 Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
-      "originalTitle": "Solera Commits to Becoming a Global Partner in China's New Energy Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
-      "translatedTitle": "Solera Commits to Becoming a Global Partner in China's New 能源 Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Macau Business",
-      "publishedAt": "2026-09-23T12:30:22.000Z",
-      "fact": "Macau Business 報導：Solera Commits to Becoming a Global Partner in China's New 能源 Vehicle Industry's International Expansion, Following High-Level Meeting with CATARC",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Solera Commits to Becoming a Global Partner in China's New Energy Vehicle Industry's International Expansion, Following。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://macaubusiness.com/solera-commits-to-becoming-a-global-partner-in-chinas-new-energy-vehicle-industrys-international-expansion-following-high-level-meeting-with-catarc/"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "Muse and Astra Spark a New W",
-      "title": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
-      "originalTitle": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key Investment Themes, with Memory and Semiconductor Equipment Emerging as Major Growth Areas",
-      "translatedTitle": "Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "news.futunn.com",
-      "publishedAt": "2026-09-22T12:06:48.000Z",
-      "fact": "news.futunn.com 報導：Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key 投資 Themes, with Memory and 半導體 Equipment Emerging as Major Growth Areas",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Muse and Astra Spark a New Wave in AI Computing Power! UBS Group Identifies Four Key Investment Themes, with Memory and。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "semiconductor"
-      ],
-      "url": "https://news.futunn.com/en/post/1000025059/muse-and-astra-spark-a-new-wave-in-ai-computing"
-    },
-    {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Forget Doomsday",
+      "title": "Forget Doomsday: These 4 Real-World 風險 Could Derail the AI 股票 Rally — Barron’s.com",
+      "originalTitle": "Forget Doomsday: These 4 Real-World Risks Could Derail the AI Stock Rally -- Barrons.com",
+      "translatedTitle": "Forget Doomsday: These 4 Real-World 風險 Could Derail the AI 股票 Rally — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-24T15:02:33.000Z",
+      "fact": "富途牛牛 報導：Forget Doomsday: These 4 Real-World 風險 Could Derail the AI 股票 Rally — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Forget Doomsday: These 4 Real-World Risks Could Derail the AI Stock Rally -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/1000180910/forget-doomsday-these-4-real-world-risks-could-derail-the"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "These 股票 Are the 'Four Horse",
       "title": "These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
@@ -221,26 +246,6 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1000103837/these-stocks-are-the-four-horsemen-of-ai-and-they"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "The AI",
-      "title": "The AI-scare Trade Is Finally Hitting Banks. 便宜標的-hunters Should Take Note.",
-      "originalTitle": "The AI-scare Trade Is Finally Hitting Banks. Bargain-hunters Should Take Note.",
-      "translatedTitle": "The AI-scare Trade Is Finally Hitting Banks. 便宜標的-hunters Should Take Note.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "news.futunn.com",
-      "publishedAt": "2026-09-23T19:35:17.000Z",
-      "fact": "news.futunn.com 報導：The AI-scare Trade Is Finally Hitting Banks. 便宜標的-hunters Should Take Note.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI-scare Trade Is Finally Hitting Banks. Bargain-hunters Should Take Note. &nbsp;&nbsp; news.futunn.com。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/hk/post/1000114678/the-ai-scare-trade-is-finally-hitting-banks-bargain-hunters"
     },
     {
       "id": "美股與全球市場焦點-3",
@@ -265,23 +270,21 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Dow Futures Slip While 標普 50",
-      "title": "Dow Futures Slip While 標普 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY 股票 In Focus",
-      "originalTitle": "Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus",
-      "translatedTitle": "Dow Futures Slip While 標普 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY 股票 In Focus",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "量子計算股票財報大比拼",
+      "title": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
+      "originalTitle": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
+      "translatedTitle": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-09-22T02:44:33.000Z",
-      "fact": "TradingView 報導：Dow Futures Slip While 標普 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY 股票 In Focus",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Dow Futures Slip While S&P 500, Nasdaq Futures Climb After AI Rally: GME, IBRX, AMD, PSKY Stocks In Focus &nbsp;&nbsp; T。",
+      "source": "NAI500",
+      "publishedAt": "2026-09-23T12:15:50.000Z",
+      "fact": "NAI500 報導：量子計算股票財報大比拼：虧錢越多，漲得越猛？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；量子計算股票財報大比拼：虧錢越多，漲得越猛？ &nbsp;&nbsp; NAI500。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
+        "市場焦點"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:a1b690276094b:0-dow-futures-slip-while-s-p-500-nasdaq-futures-climb-after-ai-rally-gme-ibrx-amd-psky-stocks-in-focus/"
+      "url": "https://nai500.com/zh-hant/blog/2026/04/%E9%87%8F%E5%AD%90%E8%A8%88%E7%AE%97%E8%82%A1%E7%A5%A8%E8%B2%A1%E5%A0%B1%E5%A4%A7%E6%AF%94%E6%8B%BC%EF%BC%9A%E8%99%A7%E9%8C%A2%E8%B6%8A%E5%A4%9A%EF%BC%8C%E6%BC%B2%E5%BE%97%E8%B6%8A%E7%8C%9B%EF%BC%9F/"
     },
     {
       "id": "美股與全球市場焦點-5",
@@ -301,7 +304,7 @@
         "市場焦點",
         "AI"
       ],
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-ddd36057-b755-11f1-9ba5-8681291e3188?utm_source"
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-ddd36057-b755-11f1-9ba5-8681291e3188"
     }
   ]
 }
