@@ -1,26 +1,29 @@
 {
-  "generatedAt": "2026-09-25T02:14:24.269Z",
+  "generatedAt": "2026-09-26T00:15:44.251Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "被拆掉書脊的知識──當謠言開始餵養 AI",
-      "title": "被拆掉書脊的知識──當謠言開始餵養 AI",
-      "originalTitle": "被拆掉書脊的知識──當謠言開始餵養 AI",
-      "translatedTitle": "被拆掉書脊的知識──當謠言開始餵養 AI",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "infosecu.technews.tw",
-      "publishedAt": "2026-09-25T01:07:05.000Z",
-      "fact": "infosecu.technews.tw 報導：被拆掉書脊的知識──當謠言開始餵養 AI",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；被拆掉書脊的知識──當謠言開始餵養 AI &nbsp;&nbsp; infosecu.technews.tw。",
+      "subject": "Meta",
+      "title": "微軟, Meta, Akamai, Zscaler, Comcast, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "originalTitle": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today's Market -- Barrons.com",
+      "translatedTitle": "微軟, Meta, Akamai, Zscaler, Comcast, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-25T20:39:00.000Z",
+      "fact": "Moomoo 報導：微軟, Meta, Akamai, Zscaler, Comcast, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today's Market -- Barrons.com &nbsp;&nbsp; Moomo。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "AI"
+        "Meta",
+        "Microsoft",
+        "AI",
+        "stocks"
       ],
-      "url": "https://infosecu.technews.tw/2026/09/25/ai-models-collapse-when-trained-on-recursively-generated-data/"
+      "url": "https://www.moomoo.com/hant/news/post/1000235148/microsoft-meta-akamai-zscaler-comcast-and-more-stocks-that-explain"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -46,108 +49,89 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
+      "subject": "被拆掉書脊的知識──當謠言開始餵養 AI",
+      "title": "被拆掉書脊的知識──當謠言開始餵養 AI",
+      "originalTitle": "被拆掉書脊的知識──當謠言開始餵養 AI",
+      "translatedTitle": "被拆掉書脊的知識──當謠言開始餵養 AI",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-09-25T01:07:05.000Z",
+      "fact": "TechNews 科技新報 報導：被拆掉書脊的知識──當謠言開始餵養 AI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；被拆掉書脊的知識──當謠言開始餵養 AI &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://infosecu.technews.tw/2026/09/25/ai-models-collapse-when-trained-on-recursively-generated-data/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "微軟, Meta, Akamai, Zscaler, Comcast, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "originalTitle": "Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today's Market -- Barrons.com",
+      "translatedTitle": "微軟, Meta, Akamai, Zscaler, Comcast, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-25T16:59:00.000Z",
+      "fact": "富途牛牛 報導：微軟, Meta, Akamai, Zscaler, Comcast, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Microsoft, Meta, Akamai, Zscaler, Comcast, and More Stocks That Explain Today's Market -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "Microsoft",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/1000223707/microsoft-meta-akamai-zscaler-comcast-and-more-stocks-that-explain"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統",
-      "originalTitle": "「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統",
-      "translatedTitle": "「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統",
+      "title": "OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
+      "originalTitle": "OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
+      "translatedTitle": "OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "sbs.com.au",
-      "publishedAt": "2026-09-25T00:11:49.000Z",
-      "fact": "sbs.com.au 報導：「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；「特習會」討論多項議題 聯邦政府擬起訴OpenAI入侵國民醫療保健系統 &nbsp;&nbsp; sbs.com.au。",
+      "source": "capitalfutures.com.tw",
+      "publishedAt": "2026-09-24T02:34:03.000Z",
+      "fact": "capitalfutures.com.tw 報導：OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI稱蘋果整合效果不及預期，ChatGPT訂閱轉化未 &nbsp;&nbsp; capitalfutures.com.tw。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/the-xi-trump-meeting-discussed-multiple-issues-while-the-federal-government-plans-to-sue-openai-for-the-medicare-incident/9mr66kd5o"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "AI 財經快訊：Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In?",
-      "originalTitle": "Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In?",
-      "translatedTitle": "AI 財經快訊：Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "Moomoo",
-      "publishedAt": "2026-09-24T16:02:16.000Z",
-      "fact": "Moomoo 報導：AI 財經快訊：Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In?",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Wants to Put Its Muse AI Assistant on Your Face - but Will Consumers Buy In? &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1000184663/meta-wants-to-put-its-muse-ai-assistant-on-your"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨",
-      "originalTitle": "高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨",
-      "translatedTitle": "高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "電腦王阿達",
-      "publishedAt": "2026-09-24T13:40:12.000Z",
-      "fact": "電腦王阿達 報導：高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；高通 2026 年 Snapdragon 高峰會：代理式AI PC、Googlebook與Linux時代來臨 &nbsp;&nbsp; 電腦王阿達。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://www.kocpc.com.tw/archives/670031"
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle?ContentId"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year",
-      "originalTitle": "《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "自由時報",
-      "publishedAt": "2026-09-23T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》ADB raises GDP growth for Taiwan to 11％ this year &nbsp;&nbsp; 自由時報。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5584255"
-    },
-    {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Trump, XI, and the Future of the AI Trade -- Barrons.com",
-      "originalTitle": "Trump, XI, and the Future of the AI Trade -- Barrons.com",
-      "translatedTitle": "AI 財經快訊：Trump, XI, and the Future of the AI Trade -- Barrons.com",
+      "subject": "AI",
+      "title": "AI-driven trading has become the central battleground for election-related 風險 in U.S. equities, as investors begin to \"reassess.\"",
+      "originalTitle": "AI-driven trading has become the central battleground for election-related risks in U.S. equities, as investors begin to \"reassess.\"",
+      "translatedTitle": "AI-driven trading has become the central battleground for election-related 風險 in U.S. equities, as investors begin to \"reassess.\"",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
       "source": "富途牛牛",
-      "publishedAt": "2026-09-24T15:48:51.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Trump, XI, and the Future of the AI Trade -- Barrons.com",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Trump, XI, and the Future of the AI Trade -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-09-24T14:24:06.000Z",
+      "fact": "富途牛牛 報導：AI-driven trading has become the central battleground for election-related 風險 in U.S. equities, as investors begin to \"reassess.\"",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI-driven trading has become the central battleground for election-related risks in U.S. equities, as investors begin to。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/1000182233/trump-xi-and-the-future-of-the-ai-trade-barronscom"
+      "url": "https://news.futunn.com/en/post/1000178839/ai-driven-trading-has-become-the-central-battleground-for-election"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "Thailand Unveils First Natio",
       "title": "Thailand Unveils First National 半導體 Strategy, Targets $80 Billion in 投資 by 2050",
@@ -168,142 +152,109 @@
       "url": "https://macaubusiness.com/thailand-unveils-first-national-semiconductor-strategy-targets-80-billion-in-investment-by-2050/"
     },
     {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "3 E Network通過其北歐子公司Aurora Co",
-      "title": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "originalTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "translatedTitle": "3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-23T11:50:00.000Z",
-      "fact": "富途牛牛 報導：3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；3 E Network通過其北歐子公司Aurora Core Technology Oy推進歐洲人工智能數據中心項目 &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://news.futunn.com/hk/post/1000094794/3-e-network-advances-european-ai-data-center-project-through"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "Businesses Are Growing at th",
-      "title": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
-      "originalTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down.",
-      "translatedTitle": "Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-23T18:35:55.000Z",
-      "fact": "富途牛牛 報導：Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. 經濟 Down.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Businesses Are Growing at the Fastest Pace in Over Four Years. Why War and Inflation Isn't Slowing the U.S. Economy Down。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://news.futunn.com/hk/post/1000112859/businesses-are-growing-at-the-fastest-pace-in-over-four"
-    },
-    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Forget Doomsday",
-      "title": "Forget Doomsday: These 4 Real-World 風險 Could Derail the AI 股票 Rally — Barron’s.com",
-      "originalTitle": "Forget Doomsday: These 4 Real-World Risks Could Derail the AI Stock Rally -- Barrons.com",
-      "translatedTitle": "Forget Doomsday: These 4 Real-World 風險 Could Derail the AI 股票 Rally — Barron’s.com",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Goldman’s guide to the AI valuation reset",
+      "originalTitle": "Goldman’s guide to the AI valuation reset",
+      "translatedTitle": "AI 財經快訊：Goldman’s guide to the AI valuation reset",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-09-24T15:02:33.000Z",
-      "fact": "富途牛牛 報導：Forget Doomsday: These 4 Real-World 風險 Could Derail the AI 股票 Rally — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Forget Doomsday: These 4 Real-World Risks Could Derail the AI Stock Rally -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "source": "TradingView",
+      "publishedAt": "2026-09-25T15:14:55.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Goldman’s guide to the AI valuation reset",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Goldman’s guide to the AI valuation reset &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/1000180910/forget-doomsday-these-4-real-world-risks-could-derail-the"
+      "url": "https://tw.tradingview.com/news/seekingalpha:085c09ae1094b:0-goldman-s-guide-to-the-ai-valuation-reset/"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "These 股票 Are the 'Four Horse",
-      "title": "These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
-      "originalTitle": "These Stocks Are the 'Four Horsemen of AI' - and They're Not the Ones You'd Think",
-      "translatedTitle": "These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
+      "subject": "European Indexes Rise at Ope",
+      "title": "European Indexes Rise at Open as AI 股票 Rally — 市場 Talk",
+      "originalTitle": "European Indexes Rise at Open as AI Stocks Rally -- Market Talk",
+      "translatedTitle": "European Indexes Rise at Open as AI 股票 Rally — 市場 Talk",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-09-23T14:39:41.000Z",
-      "fact": "Moomoo 報導：These 股票 Are the 'Four Horsemen of AI' — and They're Not the Ones You'd Think",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；These Stocks Are the 'Four Horsemen of AI' - and They're Not the Ones You'd Think &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-09-25T10:09:56.000Z",
+      "fact": "Moomoo 報導：European Indexes Rise at Open as AI 股票 Rally — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Indexes Rise at Open as AI Stocks Rally -- Market Talk &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1000103837/these-stocks-are-the-four-horsemen-of-ai-and-they"
+      "url": "https://www.moomoo.com/hant/news/post/1000212695/european-indexes-rise-at-open-as-ai-stocks-rally-market"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "【22",
-      "title": "【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓",
-      "originalTitle": "【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓",
-      "translatedTitle": "【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓",
+      "subject": "European Indexes Rise at Ope",
+      "title": "European Indexes Rise at Open as AI 股票 Rally — 市場 Talk",
+      "originalTitle": "European Indexes Rise at Open as AI Stocks Rally -- Market Talk",
+      "translatedTitle": "European Indexes Rise at Open as AI 股票 Rally — 市場 Talk",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-09-23T14:17:58.000Z",
-      "fact": "CMoney投資網誌 報導：【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【22:17 即時新聞】Silicon Motion Technology(SIMO) 重挫逾5%：AI晶片供應鏈輪動下量能承壓 &nbsp;&nbsp; CMoney投資網誌。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-09-25T14:13:17.000Z",
+      "fact": "富途牛牛 報導：European Indexes Rise at Open as AI 股票 Rally — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Indexes Rise at Open as AI Stocks Rally -- Market Talk &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-93bf31d4-b759-11f1-8f98-0d5de85fb617?utm_source"
+      "url": "https://news.futunn.com/hk/post/1000206824/european-indexes-rise-at-open-as-ai-stocks-rally-market"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "量子計算股票財報大比拼",
-      "title": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
-      "originalTitle": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
-      "translatedTitle": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "輝達",
+      "title": "輝達, AMD and Intel 股票 plunge before open: are 5% yields breaking the AI trade?",
+      "originalTitle": "Nvidia, AMD and Intel stocks plunge before open: are 5% yields breaking the AI trade?",
+      "translatedTitle": "輝達, AMD and Intel 股票 plunge before open: are 5% yields breaking the AI trade?",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "NAI500",
-      "publishedAt": "2026-09-23T12:15:50.000Z",
-      "fact": "NAI500 報導：量子計算股票財報大比拼：虧錢越多，漲得越猛？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；量子計算股票財報大比拼：虧錢越多，漲得越猛？ &nbsp;&nbsp; NAI500。",
+      "source": "TradingView",
+      "publishedAt": "2026-09-24T10:03:13.000Z",
+      "fact": "TradingView 報導：輝達, AMD and Intel 股票 plunge before open: are 5% yields breaking the AI trade?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia, AMD and Intel stocks plunge before open: are 5% yields breaking the AI trade? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "stocks"
       ],
-      "url": "https://nai500.com/zh-hant/blog/2026/04/%E9%87%8F%E5%AD%90%E8%A8%88%E7%AE%97%E8%82%A1%E7%A5%A8%E8%B2%A1%E5%A0%B1%E5%A4%A7%E6%AF%94%E6%8B%BC%EF%BC%9A%E8%99%A7%E9%8C%A2%E8%B6%8A%E5%A4%9A%EF%BC%8C%E6%BC%B2%E5%BE%97%E8%B6%8A%E7%8C%9B%EF%BC%9F/"
+      "url": "https://tw.tradingview.com/news/invezz:66b448f91094b:0-nvidia-amd-and-intel-stocks-plunge-before-open-are-5-yields-breaking-the-ai-trade/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "【21",
-      "title": "【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐",
-      "originalTitle": "【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐",
-      "translatedTitle": "【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "European AI",
+      "title": "European AI-Related 股票 Rally as Confidence Returns — 市場 Talk",
+      "originalTitle": "European AI-Related Stocks Rally as Confidence Returns -- Market Talk",
+      "translatedTitle": "European AI-Related 股票 Rally as Confidence Returns — 市場 Talk",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-09-23T13:51:24.000Z",
-      "fact": "CMoney投資網誌 報導：【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【21:51 即時新聞】SiTime(SITM) 股價急跌逾5%：AI晶片供應鏈題材炙熱下獲量化評等支撐 &nbsp;&nbsp; CMoney投資網誌。",
+      "source": "Moomoo",
+      "publishedAt": "2026-09-25T09:50:40.000Z",
+      "fact": "Moomoo 報導：European AI-Related 股票 Rally as Confidence Returns — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European AI-Related Stocks Rally as Confidence Returns -- Market Talk &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-ddd36057-b755-11f1-9ba5-8681291e3188"
+      "url": "https://www.moomoo.com/hant/news/post/1000217249/european-ai-related-stocks-rally-as-confidence-returns-market-talk"
     }
   ]
 }
