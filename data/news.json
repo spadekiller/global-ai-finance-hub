@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-09-26T00:15:44.251Z",
+  "generatedAt": "2026-09-26T02:20:10.628Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI Academy 兩週年",
+      "originalTitle": "OpenAI Academy 兩週年",
+      "translatedTitle": "OpenAI Academy 兩週年",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "OpenAI",
+      "publishedAt": "2026-09-24T03:02:15.000Z",
+      "fact": "OpenAI 報導：OpenAI Academy 兩週年",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI Academy 兩週年 &nbsp;&nbsp; OpenAI。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://openai.com/zh-Hant/index/two-years-of-openai-academy/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "微軟, Meta, Akamai, Zscaler, Comcast, and More 股票 That Explain Today's 市場 — Barron’s.com",
@@ -24,27 +45,6 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1000235148/microsoft-meta-akamai-zscaler-comcast-and-more-stocks-that-explain"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI Academy 兩週年",
-      "originalTitle": "OpenAI Academy 兩週年",
-      "translatedTitle": "OpenAI Academy 兩週年",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "OpenAI",
-      "publishedAt": "2026-09-24T03:02:15.000Z",
-      "fact": "OpenAI 報導：OpenAI Academy 兩週年",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI Academy 兩週年 &nbsp;&nbsp; OpenAI。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://openai.com/zh-Hant/index/two-years-of-openai-academy/"
     },
     {
       "id": "ai-與科技前沿-3",
