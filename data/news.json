@@ -1,9 +1,71 @@
 {
-  "generatedAt": "2026-10-03T02:40:20.437Z",
+  "generatedAt": "2026-10-04T00:14:44.091Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "谷歌壹直在追趕OpenAI與Anthropic，其全新旗艦模型真能躋身前沿梯隊嗎？",
+      "originalTitle": "谷歌壹直在追趕OpenAI與Anthropic，其全新旗艦模型真能躋身前沿梯隊嗎？",
+      "translatedTitle": "谷歌壹直在追趕OpenAI與Anthropic，其全新旗艦模型真能躋身前沿梯隊嗎？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "flamingwheels.online",
+      "publishedAt": "2026-10-03T19:17:37.000Z",
+      "fact": "flamingwheels.online 報導：谷歌壹直在追趕OpenAI與Anthropic，其全新旗艦模型真能躋身前沿梯隊嗎？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；谷歌壹直在追趕OpenAI與Anthropic，其全新旗艦模型真能躋身前沿梯隊嗎？ &nbsp;&nbsp; flamingwheels.online。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://www.flamingwheels.online/news-view.html?_FgID"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "戰略調整 華郵",
+      "title": "戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
+      "originalTitle": "戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
+      "translatedTitle": "戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "世界新聞網",
+      "publishedAt": "2026-10-03T06:20:00.000Z",
+      "fact": "世界新聞網 報導：戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」 &nbsp;&nbsp; 世界新聞網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.worldjournal.com/wj/amp/story/121172/9792013"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "「AI 改名 SI」川普正式簽署行政命令，業界自律協議同",
+      "title": "「AI 改名 SI」川普正式簽署行政命令，業界自律協議同步登場｜美股觀察｜豐雲學堂2026 年 10 月",
+      "originalTitle": "「AI 改名 SI」川普正式簽署行政命令，業界自律協議同步登場｜美股觀察｜豐雲學堂2026 年 10 月",
+      "translatedTitle": "「AI 改名 SI」川普正式簽署行政命令，業界自律協議同步登場｜美股觀察｜豐雲學堂2026 年 10 月",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "sinotrade.com.tw",
+      "publishedAt": "2026-10-02T11:41:08.000Z",
+      "fact": "sinotrade.com.tw 報導：「AI 改名 SI」川普正式簽署行政命令，業界自律協議同步登場｜美股觀察｜豐雲學堂2026 年 10 月",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；「AI 改名 SI」川普正式簽署行政命令，業界自律協議同步登場｜美股觀察｜豐雲學堂2026 年 10 月 &nbsp;&nbsp; sinotrade.com.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.sinotrade.com.tw/richclub/hotstock/-AI-%E6%94%B9%E5%90%8D-SI-%E5%B7%9D%E6%99%AE%E6%AD%A3%E5%BC%8F%E7%B0%BD%E7%BD%B2%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4-%E6%A5%AD%E7%95%8C%E8%87%AA%E5%BE%8B%E5%8D%94%E8%AD%B0%E5%90%8C%E6%AD%A5%E7%99%BB%E5%A0%B4-%E7%BE%8E%E8%82%A1%E8%A7%80%E5%AF%9F-6abe27c0d03a4f01608637e0"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "當人工智慧升格為「超級智慧」",
       "title": "當人工智慧升格為「超級智慧」：從白宮協議看台灣AI治理真正的缺口",
@@ -23,107 +85,27 @@
       "url": "https://www.thenewslens.com/article/270381"
     },
     {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "美國推動AI改稱「超級智慧」，科技巨頭簽署自律安全協議強",
-      "title": "美國推動AI改稱「超級智慧」，科技巨頭簽署自律安全協議強化模型控制",
-      "originalTitle": "美國推動AI改稱「超級智慧」，科技巨頭簽署自律安全協議強化模型控制",
-      "translatedTitle": "美國推動AI改稱「超級智慧」，科技巨頭簽署自律安全協議強化模型控制",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "科技產業資訊室",
-      "publishedAt": "2026-10-01T20:00:05.000Z",
-      "fact": "科技產業資訊室 報導：美國推動AI改稱「超級智慧」，科技巨頭簽署自律安全協議強化模型控制",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美國推動AI改稱「超級智慧」，科技巨頭簽署自律安全協議強化模型控制 &nbsp;&nbsp; 科技產業資訊室。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://iknow.stpi.niar.org.tw/article/1/25456"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "AI 代理沙盒爆異常惹議，FTC 出手調查 AI 巨頭是",
-      "title": "AI 代理沙盒爆異常惹議，FTC 出手調查 AI 巨頭是否違反消保法 | 科技新報",
-      "originalTitle": "AI 代理沙盒爆異常惹議，FTC 出手調查 AI 巨頭是否違反消保法 | 科技新報",
-      "translatedTitle": "AI 代理沙盒爆異常惹議，FTC 出手調查 AI 巨頭是否違反消保法 | 科技新報",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "LINE TODAY",
-      "publishedAt": "2026-10-01T10:37:25.000Z",
-      "fact": "LINE TODAY 報導：AI 代理沙盒爆異常惹議，FTC 出手調查 AI 巨頭是否違反消保法 | 科技新報",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 代理沙盒爆異常惹議，FTC 出手調查 AI 巨頭是否違反消保法 | 科技新報 &nbsp;&nbsp; LINE TODAY。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://today.line.me/tw/v3/article/oqplaj6"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "川普宣布AI改名SI 輝達黃仁勳持正面態度 加州政府不跟",
-      "title": "川普宣布AI改名SI 輝達黃仁勳持正面態度 加州政府不跟進",
-      "originalTitle": "川普宣布AI改名SI 輝達黃仁勳持正面態度 加州政府不跟進",
-      "translatedTitle": "川普宣布AI改名SI 輝達黃仁勳持正面態度 加州政府不跟進",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "世界新聞網",
-      "publishedAt": "2026-10-02T06:00:00.000Z",
-      "fact": "世界新聞網 報導：川普宣布AI改名SI 輝達黃仁勳持正面態度 加州政府不跟進",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普宣布AI改名SI 輝達黃仁勳持正面態度 加州政府不跟進 &nbsp;&nbsp; 世界新聞網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.worldjournal.com/wj/amp/story/121368/9790500"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "《美股主題週報》生成式人工智慧—META、AMZN、GOOG",
-      "originalTitle": "《美股主題週報》生成式人工智慧—META、AMZN、GOOG",
-      "translatedTitle": "《美股主題週報》生成式人工智慧—META、AMZN、GOOG",
+      "subject": "川普白宮會AI巨頭 簽自律承諾",
+      "title": "川普白宮會AI巨頭 簽自律承諾",
+      "originalTitle": "川普白宮會AI巨頭 簽自律承諾",
+      "translatedTitle": "川普白宮會AI巨頭 簽自律承諾",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "台視全球資訊網",
-      "publishedAt": "2026-10-01T09:30:54.000Z",
-      "fact": "台視全球資訊網 報導：《美股主題週報》生成式人工智慧—META、AMZN、GOOG",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《美股主題週報》生成式人工智慧—META、AMZN、GOOG &nbsp;&nbsp; 台視全球資訊網。",
+      "source": "美洲台灣日報",
+      "publishedAt": "2026-10-03T02:34:01.000Z",
+      "fact": "美洲台灣日報 報導：川普白宮會AI巨頭 簽自律承諾",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普白宮會AI巨頭 簽自律承諾 &nbsp;&nbsp; 美洲台灣日報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Meta"
+        "AI"
       ],
-      "url": "https://www.ttv.com.tw/finance/view/102026011533A58C64A61EF947D8AA1FA2B10503A7E0E1FF/587"
+      "url": "https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/159897/"
     },
     {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "AI Is Squeezing Out the Rest",
-      "title": "AI Is Squeezing Out the Rest of the 股票 市場 — WSJ",
-      "originalTitle": "AI Is Squeezing Out the Rest of the Stock Market -- WSJ",
-      "translatedTitle": "AI Is Squeezing Out the Rest of the 股票 市場 — WSJ",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-03T00:13:19.000Z",
-      "fact": "Moomoo 報導：AI Is Squeezing Out the Rest of the 股票 市場 — WSJ",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI Is Squeezing Out the Rest of the Stock Market -- WSJ &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1000571620/ai-is-squeezing-out-the-rest-of-the-stock-market"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "Amazon",
       "title": "Amazon's New Push to Get Buy-In for 資料中心 Build-Out",
@@ -143,47 +125,46 @@
       "url": "https://www.moomoo.com/hant/news/post/1000546156/amazon-s-new-push-to-get-buy-in-for-data"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "台積電VS Amkor",
-      "title": "台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
-      "originalTitle": "台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
-      "translatedTitle": "台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
+      "subject": "安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
+      "title": "安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
+      "originalTitle": "安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
+      "translatedTitle": "安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-02T17:03:40.000Z",
-      "fact": "TradingKey 報導：台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？ &nbsp;&nbsp; TradingKey。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-02T21:20:04.000Z",
+      "fact": "Moomoo 報導：安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐 &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262198357-tsm-tsml-amkr-amkor-jay-ai-tradingkey"
+      "url": "https://www.moomoo.com/hant/news/post/1000575566/amkor-technology-rises-as-ai-packaging-story-and-chip-rally"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "Tech",
+      "title": "Tech, Media & Telecom Roundup: 市場 Talk",
+      "originalTitle": "Tech, Media & Telecom Roundup: Market Talk",
+      "translatedTitle": "Tech, Media & Telecom Roundup: 市場 Talk",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-03T12:22:41.000Z",
+      "fact": "富途牛牛 報導：Tech, Media & Telecom Roundup: 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Tech, Media & Telecom Roundup: Market Talk &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://news.futunn.com/hk/post/1000549667/tech-media-telecom-roundup-market-talk"
     },
     {
       "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "十月市場展望",
-      "title": "十月市場展望：AI超大規模業者財報與2027年資本支出指引 - 新聞與統計",
-      "originalTitle": "十月市場展望：AI超大規模業者財報與2027年資本支出指引 - 新聞與統計",
-      "translatedTitle": "十月市場展望：AI超大規模業者財報與2027年資本支出指引 - 新聞與統計",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "indexbox.io",
-      "publishedAt": "2026-10-01T23:20:25.000Z",
-      "fact": "indexbox.io 報導：十月市場展望：AI超大規模業者財報與2027年資本支出指引 - 新聞與統計",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；十月市場展望：AI超大規模業者財報與2027年資本支出指引 - 新聞與統計 &nbsp;&nbsp; indexbox.io。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.indexbox.io/zh-hant/blog/october-outlook-ai-hyperscaler-earnings-and-2027-capex-guidance-in-focus/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Profit-taking sales dominated amid a pullback from recent sharp gains.",
@@ -203,24 +184,44 @@
       "url": "https://news.futunn.com/en/post/1000520096/profit-taking-sales-dominated-amid-a-pullback-from-recent-sharp"
     },
     {
-      "id": "美股與全球市場焦點-5",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：RBC Capital Maintains Mywell Technology Rating, Optimistic About AI Growth Prospects!",
-      "originalTitle": "RBC Capital Maintains Mywell Technology Rating, Optimistic About AI Growth Prospects!",
-      "translatedTitle": "AI 財經快訊：RBC Capital Maintains Mywell Technology Rating, Optimistic About AI Growth Prospects!",
+      "subject": "Micron Technology",
+      "title": "Micron Technology, Inc. (MU) 股票 price, news, quote and history",
+      "originalTitle": "Micron Technology, Inc. (MU) stock price, news, quote and history",
+      "translatedTitle": "Micron Technology, Inc. (MU) 股票 price, news, quote and history",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "tmgm.com",
-      "publishedAt": "2026-10-01T03:45:07.000Z",
-      "fact": "tmgm.com 報導：AI 財經快訊：RBC Capital Maintains Mywell Technology Rating, Optimistic About AI Growth Prospects!",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；RBC Capital Maintains Mywell Technology Rating, Optimistic About AI Growth Prospects! &nbsp;&nbsp; tmgm.com。",
+      "source": "Yahoo Finance Singapore",
+      "publishedAt": "2026-10-02T06:19:23.000Z",
+      "fact": "Yahoo Finance Singapore 報導：Micron Technology, Inc. (MU) 股票 price, news, quote and history",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Micron Technology, Inc. (MU) stock price, news, quote and history &nbsp;&nbsp; Yahoo Finance Singapore。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://sg.finance.yahoo.com/quote/MU/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "European 晶片股 Rise as AI Rall",
+      "title": "European 晶片股 Rise as AI Rally Gains Strength — 市場 Talk",
+      "originalTitle": "European Chip Stocks Rise as AI Rally Gains Strength -- Market Talk",
+      "translatedTitle": "European 晶片股 Rise as AI Rally Gains Strength — 市場 Talk",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-02T08:29:23.000Z",
+      "fact": "富途牛牛 報導：European 晶片股 Rise as AI Rally Gains Strength — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Chip Stocks Rise as AI Rally Gains Strength -- Market Talk &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://www.tmgm.com/cht/analysis/market-insight/marvell-ai-revenue-growth"
+      "url": "https://news.futunn.com/en/post/1000520985/european-chip-stocks-rise-as-ai-rally-gains-strength-market"
     }
   ]
 }
