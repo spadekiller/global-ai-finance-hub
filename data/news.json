@@ -1,9 +1,48 @@
 {
-  "generatedAt": "2026-10-04T00:14:44.091Z",
+  "generatedAt": "2026-10-04T03:11:44.952Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "川普推「超級智能部隊」拒管 AI 華府監管真空恐放大科技",
+      "title": "川普推「超級智能部隊」拒管 AI 華府監管真空恐放大科技風險",
+      "originalTitle": "川普推「超級智能部隊」拒管 AI 華府監管真空恐放大科技風險",
+      "translatedTitle": "川普推「超級智能部隊」拒管 AI 華府監管真空恐放大科技風險",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-10-04T02:00:21.000Z",
+      "fact": "CMoney投資網誌 報導：川普推「超級智能部隊」拒管 AI 華府監管真空恐放大科技風險",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普推「超級智能部隊」拒管 AI 華府監管真空恐放大科技風險 &nbsp;&nbsp; CMoney投資網誌。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-5b65871a-bf97-11f1-b77c-ad238d269f28"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "深度解析",
+      "title": "深度解析：李飛飛為何將公司賣給AMD？蘇姿丰訪談曝收購World Labs戰略邏輯",
+      "originalTitle": "深度解析：李飛飛為何將公司賣給AMD？蘇姿丰訪談曝收購World Labs戰略邏輯",
+      "translatedTitle": "深度解析：李飛飛為何將公司賣給AMD？蘇姿丰訪談曝收購World Labs戰略邏輯",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "加密城市CryptoCity",
+      "publishedAt": "2026-10-04T02:39:43.000Z",
+      "fact": "加密城市CryptoCity 報導：深度解析：李飛飛為何將公司賣給AMD？蘇姿丰訪談曝收購World Labs戰略邏輯",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；深度解析：李飛飛為何將公司賣給AMD？蘇姿丰訪談曝收購World Labs戰略邏輯 &nbsp;&nbsp; 加密城市CryptoCity。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.cryptocity.tw/news/fei-fei-li-amd-world-model-ai-future"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "谷歌壹直在追趕OpenAI與Anthropic，其全新旗艦模型真能躋身前沿梯隊嗎？",
@@ -25,27 +64,27 @@
       "url": "https://www.flamingwheels.online/news-view.html?_FgID"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "戰略調整 華郵",
-      "title": "戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
-      "originalTitle": "戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
-      "translatedTitle": "戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
+      "subject": "華郵",
+      "title": "華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
+      "originalTitle": "華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
+      "translatedTitle": "華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "世界新聞網",
-      "publishedAt": "2026-10-03T06:20:00.000Z",
-      "fact": "世界新聞網 報導：戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；戰略調整 華郵：川普將任命情報總監克萊頓兼任「AI沙皇」 &nbsp;&nbsp; 世界新聞網。",
+      "publishedAt": "2026-10-03T15:33:00.000Z",
+      "fact": "世界新聞網 報導：華郵：川普將任命情報總監克萊頓兼任「AI沙皇」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；華郵：川普將任命情報總監克萊頓兼任「AI沙皇」 &nbsp;&nbsp; 世界新聞網。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://www.worldjournal.com/wj/amp/story/121172/9792013"
+      "url": "https://www.worldjournal.com/wj/story/121172/9792013"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "「AI 改名 SI」川普正式簽署行政命令，業界自律協議同",
       "title": "「AI 改名 SI」川普正式簽署行政命令，業界自律協議同步登場｜美股觀察｜豐雲學堂2026 年 10 月",
@@ -63,46 +102,6 @@
         "AI"
       ],
       "url": "https://www.sinotrade.com.tw/richclub/hotstock/-AI-%E6%94%B9%E5%90%8D-SI-%E5%B7%9D%E6%99%AE%E6%AD%A3%E5%BC%8F%E7%B0%BD%E7%BD%B2%E8%A1%8C%E6%94%BF%E5%91%BD%E4%BB%A4-%E6%A5%AD%E7%95%8C%E8%87%AA%E5%BE%8B%E5%8D%94%E8%AD%B0%E5%90%8C%E6%AD%A5%E7%99%BB%E5%A0%B4-%E7%BE%8E%E8%82%A1%E8%A7%80%E5%AF%9F-6abe27c0d03a4f01608637e0"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "當人工智慧升格為「超級智慧」",
-      "title": "當人工智慧升格為「超級智慧」：從白宮協議看台灣AI治理真正的缺口",
-      "originalTitle": "當人工智慧升格為「超級智慧」：從白宮協議看台灣AI治理真正的缺口",
-      "translatedTitle": "當人工智慧升格為「超級智慧」：從白宮協議看台灣AI治理真正的缺口",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "TNL The News Lens 關鍵評論網",
-      "publishedAt": "2026-10-02T23:57:00.000Z",
-      "fact": "TNL The News Lens 關鍵評論網 報導：當人工智慧升格為「超級智慧」：從白宮協議看台灣AI治理真正的缺口",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；當人工智慧升格為「超級智慧」：從白宮協議看台灣AI治理真正的缺口 &nbsp;&nbsp; TNL The News Lens 關鍵評論網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.thenewslens.com/article/270381"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "川普白宮會AI巨頭 簽自律承諾",
-      "title": "川普白宮會AI巨頭 簽自律承諾",
-      "originalTitle": "川普白宮會AI巨頭 簽自律承諾",
-      "translatedTitle": "川普白宮會AI巨頭 簽自律承諾",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "美洲台灣日報",
-      "publishedAt": "2026-10-03T02:34:01.000Z",
-      "fact": "美洲台灣日報 報導：川普白宮會AI巨頭 簽自律承諾",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普白宮會AI巨頭 簽自律承諾 &nbsp;&nbsp; 美洲台灣日報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/159897/"
     },
     {
       "id": "全球財經脈動-1",
@@ -127,26 +126,6 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
-      "title": "安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
-      "originalTitle": "安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
-      "translatedTitle": "安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-02T21:20:04.000Z",
-      "fact": "Moomoo 報導：安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；安靠科技股價上漲，AI封裝敘事與芯片股反彈提供支撐 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1000575566/amkor-technology-rises-as-ai-packaging-story-and-chip-rally"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
       "subject": "Tech",
       "title": "Tech, Media & Telecom Roundup: 市場 Talk",
       "originalTitle": "Tech, Media & Telecom Roundup: Market Talk",
@@ -162,6 +141,26 @@
         "市場焦點"
       ],
       "url": "https://news.futunn.com/hk/post/1000549667/tech-media-telecom-roundup-market-talk"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "台積電VS Amkor",
+      "title": "台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
+      "originalTitle": "台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
+      "translatedTitle": "台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-02T17:04:40.000Z",
+      "fact": "TradingKey 報導：台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？ &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262198357-tsm-tsml-amkr-amkor-jay-ai-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-3",
