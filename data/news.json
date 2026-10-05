@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T00:19:19.061Z",
+  "generatedAt": "2026-10-05T02:46:19.673Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -12,7 +12,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
       "source": "蘋果仁",
-      "publishedAt": "2026-10-04T23:04:57.000Z",
+      "publishedAt": "2026-10-05T02:20:05.000Z",
       "fact": "蘋果仁 報導：Google 將在 10/9 調整 Gemini 模型使用權限！免費帳戶、AI Plus 都縮水",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 將在 10/9 調整 Gemini 模型使用權限！免費帳戶、AI Plus 都縮水 &nbsp;&nbsp; 蘋果仁。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
@@ -26,85 +26,82 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Gemini 功能大縮水！Google 10 月起限制免費及 AI Plus 用戶 Model 權限",
-      "originalTitle": "Gemini 功能大縮水！Google 10 月起限制免費及 AI Plus 用戶 Model 權限",
-      "translatedTitle": "Gemini 功能大縮水！Google 10 月起限制免費及 AI Plus 用戶 Model 權限",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "電腦廣場",
-      "publishedAt": "2026-10-04T13:25:46.000Z",
-      "fact": "電腦廣場 報導：Gemini 功能大縮水！Google 10 月起限制免費及 AI Plus 用戶 Model 權限",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 功能大縮水！Google 10 月起限制免費及 AI Plus 用戶 Model 權限 &nbsp;&nbsp; 電腦廣場。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "subject": "川普主導「超級智慧」新布局撕下 AI 恐怖標籤，聯手科技",
+      "title": "川普主導「超級智慧」新布局撕下 AI 恐怖標籤，聯手科技巨頭推自願性安全承諾",
+      "originalTitle": "川普主導「超級智慧」新布局撕下 AI 恐怖標籤，聯手科技巨頭推自願性安全承諾",
+      "translatedTitle": "川普主導「超級智慧」新布局撕下 AI 恐怖標籤，聯手科技巨頭推自願性安全承諾",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-10-05T02:37:30.000Z",
+      "fact": "TechNews 科技新報 報導：川普主導「超級智慧」新布局撕下 AI 恐怖標籤，聯手科技巨頭推自願性安全承諾",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普主導「超級智慧」新布局撕下 AI 恐怖標籤，聯手科技巨頭推自願性安全承諾 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
         "AI"
       ],
-      "url": "https://www.pcmarket.com.hk/google-gemini-model-downgrade-free-ai-plus-tier-changes/"
+      "url": "https://technews.tw/2026/10/05/trump-rebrands-super-intelligence-boost-ai-image/"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "川普成立AI「超級智慧特遣隊」情報首長任「AI沙皇」 1",
-      "title": "川普成立AI「超級智慧特遣隊」情報首長任「AI沙皇」 120天釐清政府該不該管、怎麼管 | 上報",
-      "originalTitle": "川普成立AI「超級智慧特遣隊」情報首長任「AI沙皇」 120天釐清政府該不該管、怎麼管 | 上報",
-      "translatedTitle": "川普成立AI「超級智慧特遣隊」情報首長任「AI沙皇」 120天釐清政府該不該管、怎麼管 | 上報",
+      "subject": "川普白宮會AI巨頭 簽自律承諾",
+      "title": "川普白宮會AI巨頭 簽自律承諾",
+      "originalTitle": "川普白宮會AI巨頭 簽自律承諾",
+      "translatedTitle": "川普白宮會AI巨頭 簽自律承諾",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "LINE TODAY",
-      "publishedAt": "2026-10-04T07:43:24.000Z",
-      "fact": "LINE TODAY 報導：川普成立AI「超級智慧特遣隊」情報首長任「AI沙皇」 120天釐清政府該不該管、怎麼管 | 上報",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普成立AI「超級智慧特遣隊」情報首長任「AI沙皇」 120天釐清政府該不該管、怎麼管 | 上報 &nbsp;&nbsp; LINE TODAY。",
+      "source": "美洲台灣日報",
+      "publishedAt": "2026-10-04T23:32:55.000Z",
+      "fact": "美洲台灣日報 報導：川普白宮會AI巨頭 簽自律承諾",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普白宮會AI巨頭 簽自律承諾 &nbsp;&nbsp; 美洲台灣日報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://today.line.me/tw/v3/article/eLpvapZ?referral"
+      "url": "https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/159897/"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 宣佈 Gemini 免費用戶只提供 Flash Lite 付費 AI Plus 用戶不能用 Pro 模型",
-      "originalTitle": "Google 宣佈 Gemini 免費用戶只提供 Flash Lite 付費 AI Plus 用戶不能用 Pro 模型",
-      "translatedTitle": "Google 宣佈 Gemini 免費用戶只提供 Flash Lite 付費 AI Plus 用戶不能用 Pro 模型",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "流動日報",
-      "publishedAt": "2026-10-03T21:54:02.000Z",
-      "fact": "流動日報 報導：Google 宣佈 Gemini 免費用戶只提供 Flash Lite 付費 AI Plus 用戶不能用 Pro 模型",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 宣佈 Gemini 免費用戶只提供 Flash Lite 付費 AI Plus 用戶不能用 Pro 模型 &nbsp;&nbsp; 流動日報。",
+      "subject": "AI才剛改名「SI」！川普再宣布成立「超級智慧部隊」 4",
+      "title": "AI才剛改名「SI」！川普再宣布成立「超級智慧部隊」 4大高官領軍 | 鏡週刊",
+      "originalTitle": "AI才剛改名「SI」！川普再宣布成立「超級智慧部隊」 4大高官領軍 | 鏡週刊",
+      "translatedTitle": "AI才剛改名「SI」！川普再宣布成立「超級智慧部隊」 4大高官領軍 | 鏡週刊",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "LINE TODAY",
+      "publishedAt": "2026-10-05T01:22:27.000Z",
+      "fact": "LINE TODAY 報導：AI才剛改名「SI」！川普再宣布成立「超級智慧部隊」 4大高官領軍 | 鏡週刊",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI才剛改名「SI」！川普再宣布成立「超級智慧部隊」 4大高官領軍 | 鏡週刊 &nbsp;&nbsp; LINE TODAY。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
         "AI"
       ],
-      "url": "https://www.newmobilelife.com/2026/10/04/gemini-model-access-new-limit/"
+      "url": "https://today.line.me/tw/v3/article/PGz97eo?view"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google Gemini 大縮水 免費用戶只可用 Flash-Lite AI Plus 不能再用 Pro 模型",
-      "originalTitle": "Google Gemini 大縮水 免費用戶只可用 Flash-Lite AI Plus 不能再用 Pro 模型",
-      "translatedTitle": "Google Gemini 大縮水 免費用戶只可用 Flash-Lite AI Plus 不能再用 Pro 模型",
+      "subject": "AI rally defies 24",
+      "title": "AI rally defies 24-yr high in Treasury yields, but 風險 are building",
+      "originalTitle": "AI rally defies 24-yr high in Treasury yields, but risks are building",
+      "translatedTitle": "AI rally defies 24-yr high in Treasury yields, but 風險 are building",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "Unwire.hk",
-      "publishedAt": "2026-10-04T07:07:25.000Z",
-      "fact": "Unwire.hk 報導：Google Gemini 大縮水 免費用戶只可用 Flash-Lite AI Plus 不能再用 Pro 模型",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Gemini 大縮水 免費用戶只可用 Flash-Lite AI Plus 不能再用 Pro 模型 &nbsp;&nbsp; Unwire.hk。",
+      "category": "AI 與科技前沿",
+      "source": "TradingView",
+      "publishedAt": "2026-10-04T15:34:05.000Z",
+      "fact": "TradingView 報導：AI rally defies 24-yr high in Treasury yields, but 風險 are building",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI rally defies 24-yr high in Treasury yields, but risks are building &nbsp;&nbsp; TradingView。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
         "AI"
       ],
-      "url": "https://unwire.hk/2026/10/04/gemini-model-access-limits/ai/"
+      "url": "https://tw.tradingview.com/news/seekingalpha:46ffc30b2094b:0-ai-rally-defies-24-yr-high-in-treasury-yields-but-risks-are-building/"
     },
     {
       "id": "全球財經脈動-1",
@@ -129,44 +126,24 @@
       "url": "https://news.futunn.com/en/post/1000553847/weekly-outlook-the-fed-minutes-are-coming-can-expectations-of"
     },
     {
-      "id": "美股與全球市場焦點-1",
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
-      "originalTitle": "Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
-      "translatedTitle": "AI 財經快訊：Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "【跨市思維】波動沒有消失．它只是穿上了AI的外套（二）",
+      "title": "【跨市思維】波動沒有消失．它只是穿上了AI的外套（二）",
+      "originalTitle": "【跨市思維】波動沒有消失．它只是穿上了AI的外套（二）",
+      "translatedTitle": "【跨市思維】波動沒有消失．它只是穿上了AI的外套（二）",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-04T16:30:35.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof' &nbsp;&nbsp; TradingView。",
+      "source": "Now 財經",
+      "publishedAt": "2026-10-05T02:15:03.000Z",
+      "fact": "Now 財經 報導：【跨市思維】波動沒有消失．它只是穿上了AI的外套（二）",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【跨市思維】波動沒有消失．它只是穿上了AI的外套（二） &nbsp;&nbsp; Now 財經。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:1912063e8094b:0-jordi-visser-says-crypto-is-at-its-micron-moment-sees-token-volumes-going-through-the-roof/"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "October Can Be a Scary Month",
-      "title": "October Can Be a Scary Month for 股票. Here's What Investors Need to Watch This Year.",
-      "originalTitle": "October Can Be a Scary Month for Stocks. Here's What Investors Need to Watch This Year.",
-      "translatedTitle": "October Can Be a Scary Month for 股票. Here's What Investors Need to Watch This Year.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-04T13:52:01.000Z",
-      "fact": "富途牛牛 報導：October Can Be a Scary Month for 股票. Here's What Investors Need to Watch This Year.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；October Can Be a Scary Month for Stocks. Here's What Investors Need to Watch This Year. &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/hk/post/1000556412/october-can-be-a-scary-month-for-stocks-here-s"
+      "url": "https://finance.now.com/news/post.php?id"
     },
     {
       "id": "美股與全球市場焦點-3",
@@ -191,6 +168,26 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
+      "originalTitle": "Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
+      "translatedTitle": "AI 財經快訊：Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-04T16:30:35.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof'",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Jordi Visser Says Crypto Is At Its 'Micron Moment,' Sees Token Volumes Going 'Through The Roof' &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/stocktwits:1912063e8094b:0-jordi-visser-says-crypto-is-at-its-micron-moment-sees-token-volumes-going-through-the-roof/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
       "subject": "Tech",
       "title": "Tech, Media & Telecom Roundup: 市場 Talk",
       "originalTitle": "Tech, Media & Telecom Roundup: Market Talk",
@@ -206,26 +203,6 @@
         "市場焦點"
       ],
       "url": "https://news.futunn.com/en/post/1000549667/tech-media-telecom-roundup-market-talk"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：A global frenzy for capital is underway.",
-      "originalTitle": "A global frenzy for capital is underway.",
-      "translatedTitle": "AI 財經快訊：A global frenzy for capital is underway.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-04T06:17:13.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：A global frenzy for capital is underway.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；A global frenzy for capital is underway. &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1000554565/a-global-frenzy-for-capital-is-underway"
     }
   ]
 }
