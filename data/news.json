@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T01:59:06.766Z",
+  "generatedAt": "2026-10-06T03:37:41.019Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -12,7 +12,7 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
       "source": "TechNews 科技新報",
-      "publishedAt": "2026-10-05T23:56:27.000Z",
+      "publishedAt": "2026-10-06T02:07:45.000Z",
       "fact": "TechNews 科技新報 報導：Anthropic 布局生技領域，籲 AI 藥物研發需嚴守安全防線",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 布局生技領域，籲 AI 藥物研發需嚴守安全防線 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
@@ -54,7 +54,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
       "source": "TechNews 科技新報",
-      "publishedAt": "2026-10-05T23:37:16.000Z",
+      "publishedAt": "2026-10-06T02:23:07.000Z",
       "fact": "TechNews 科技新報 報導：DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
@@ -109,6 +109,28 @@
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
+      "subject": "OpenAI",
+      "title": "Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World 人工智慧 Summit has opened, with executives from OpenAI, 輝達, and others set to participate.",
+      "originalTitle": "Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World Artificial Intelligence Summit has opened, with executives from OpenAI, NVIDIA, and others set to participate.",
+      "translatedTitle": "Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World 人工智慧 Summit has opened, with executives from OpenAI, 輝達, and others set to participate.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-04T05:12:09.000Z",
+      "fact": "富途牛牛 報導：Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World 人工智慧 Summit has opened, with executives from OpenAI, 輝達, and others set to participate.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World Artificial Intelligen。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "OpenAI",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/1000553847/weekly-outlook-the-fed-minutes-are-coming-can-expectations-of"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
       "subject": "Chubb Wealth Q4 2026 投資 Outl",
       "title": "Chubb Wealth Q4 2026 投資 Outlook: A Less Synchronized World",
       "originalTitle": "Chubb Wealth Q4 2026 Investment Outlook: A Less Synchronized World",
@@ -126,28 +148,6 @@
       "url": "https://macaubusiness.com/chubb-wealth-q4-2026-investment-outlook-a-less-synchronized-world/"
     },
     {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "OpenAI",
-      "title": "Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World 人工智慧 Summit has opened, with executives from OpenAI, 輝達, and others set to participate.",
-      "originalTitle": "Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World Artificial Intelligence Summit has opened, with executives from OpenAI, NVIDIA, and others set to participate.",
-      "translatedTitle": "Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World 人工智慧 Summit has opened, with executives from OpenAI, 輝達, and others set to participate.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "news.futunn.com",
-      "publishedAt": "2026-10-04T05:12:09.000Z",
-      "fact": "news.futunn.com 報導：Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World 人工智慧 Summit has opened, with executives from OpenAI, 輝達, and others set to participate.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Weekly Outlook | The Fed minutes are coming! Can expectations of rate hikes be reversed? The World Artificial Intelligen。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "OpenAI",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1000553847/weekly-outlook-the-fed-minutes-are-coming-can-expectations-of"
-    },
-    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
       "subject": "From Micron to Hon Hai",
@@ -156,9 +156,9 @@
       "translatedTitle": "From Micron to Hon Hai: AI supply chain 財報 continue to beat expectations as global infrastructure spending remains robust.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "news.futunn.com",
+      "source": "富途牛牛",
       "publishedAt": "2026-10-05T14:06:12.000Z",
-      "fact": "news.futunn.com 報導：From Micron to Hon Hai: AI supply chain 財報 continue to beat expectations as global infrastructure spending remains robust.",
+      "fact": "富途牛牛 報導：From Micron to Hon Hai: AI supply chain 財報 continue to beat expectations as global infrastructure spending remains robust.",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；From Micron to Hon Hai: AI supply chain earnings continue to beat expectations as global infrastructure spending remains。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
@@ -211,42 +211,42 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "The 股票 市場 Dynamic Has Shifte",
-      "title": "The 股票 市場 Dynamic Has Shifted, Just Look at Intel and 輝達 — Barron’s.com",
-      "originalTitle": "The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia -- Barrons.com",
-      "translatedTitle": "The 股票 市場 Dynamic Has Shifted, Just Look at Intel and 輝達 — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "news.futunn.com",
-      "publishedAt": "2026-10-05T11:36:00.000Z",
-      "fact": "news.futunn.com 報導：The 股票 市場 Dynamic Has Shifted, Just Look at Intel and 輝達 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The Stock Market Dynamic Has Shifted, Just Look at Intel and Nvidia -- Barrons.com &nbsp;&nbsp; news.futunn.com。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia"
-      ],
-      "url": "https://news.futunn.com/hk/post/1000576143/the-stock-market-dynamic-has-shifted-just-look-at-intel"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
       "subject": "股票 Keep Climbing",
       "title": "股票 Keep Climbing-and So Do Bond Yields — WSJ",
       "originalTitle": "Stocks Keep Climbing-and So Do Bond Yields -- WSJ",
       "translatedTitle": "股票 Keep Climbing-and So Do Bond Yields — WSJ",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "news.futunn.com",
+      "source": "富途牛牛",
       "publishedAt": "2026-10-05T21:10:00.000Z",
-      "fact": "news.futunn.com 報導：股票 Keep Climbing-and So Do Bond Yields — WSJ",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stocks Keep Climbing-and So Do Bond Yields -- WSJ &nbsp;&nbsp; news.futunn.com。",
+      "fact": "富途牛牛 報導：股票 Keep Climbing-and So Do Bond Yields — WSJ",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stocks Keep Climbing-and So Do Bond Yields -- WSJ &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "stocks"
       ],
       "url": "https://news.futunn.com/hk/post/1000592823/stocks-keep-climbing-and-so-do-bond-yields-wsj"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "台積電VS Amkor",
+      "title": "台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
+      "originalTitle": "台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
+      "translatedTitle": "台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-05T21:55:43.000Z",
+      "fact": "TradingKey 報導：台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；台積電VS Amkor：TSM和AMKR，哪隻AI晶片股更適合長期持有？ &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262198357-tsm-tsml-amkr-amkor-jay-ai-tradingkey"
     }
   ]
 }
