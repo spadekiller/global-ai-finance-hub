@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-10-07T01:08:11.079Z",
+  "generatedAt": "2026-10-07T03:03:44.653Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
+      "originalTitle": "OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
+      "translatedTitle": "OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-10-07T02:55:57.000Z",
+      "fact": "TechNews 科技新報 報導：OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/10/07/openai-releases-new-mathematical-results-produced-by-an-internal-frontier-model/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "中美AI軍事化背景下，美國國防部正式停用 Anthropic 的 AI 工具",
@@ -22,27 +43,6 @@
         "AI"
       ],
       "url": "https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic 布局生技領域，籲 AI 藥物研發需嚴守安全防線",
-      "originalTitle": "Anthropic 布局生技領域，籲 AI 藥物研發需嚴守安全防線",
-      "translatedTitle": "Anthropic 布局生技領域，籲 AI 藥物研發需嚴守安全防線",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-10-06T02:56:50.000Z",
-      "fact": "TechNews 科技新報 報導：Anthropic 布局生技領域，籲 AI 藥物研發需嚴守安全防線",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 布局生技領域，籲 AI 藥物研發需嚴守安全防線 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://technews.tw/2026/10/06/anthropic-is-warning-the-world-about-ai/"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -90,22 +90,23 @@
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "OpenAI出席國會聽證會 就Medicare入侵事件致歉",
-      "originalTitle": "OpenAI出席國會聽證會 就Medicare入侵事件致歉",
-      "translatedTitle": "OpenAI出席國會聽證會 就Medicare入侵事件致歉",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "title": "DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報",
+      "originalTitle": "DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報",
+      "translatedTitle": "DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "SBS",
-      "publishedAt": "2026-10-06T06:29:43.000Z",
-      "fact": "SBS 報導：OpenAI出席國會聽證會 就Medicare入侵事件致歉",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI出席國會聽證會 就Medicare入侵事件致歉 &nbsp;&nbsp; SBS。",
+      "source": "LINE TODAY",
+      "publishedAt": "2026-10-05T20:47:12.000Z",
+      "fact": "LINE TODAY 報導：DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報 &nbsp;&nbsp; LINE TODAY。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
+        "Anthropic",
         "AI"
       ],
-      "url": "https://www.sbs.com.au/language/chinese/zh-hant/article/open-ai-being-grilled-at-parliamentary-inquiry-in-sydney/kniap0db6"
+      "url": "https://today.line.me/tw/v3/article/qoZM5Lm"
     },
     {
       "id": "全球財經脈動-1",
@@ -230,6 +231,26 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
+      "subject": "【2026",
+      "title": "【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡",
+      "originalTitle": "【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡",
+      "translatedTitle": "【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "商傳媒",
+      "publishedAt": "2026-10-05T12:35:47.000Z",
+      "fact": "商傳媒 報導：【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡 &nbsp;&nbsp; 商傳媒。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://sunmedia.tw/news/finance/1791203588-%E3%80%902026-10-05%E3%80%91%E3%80%8A%E5%95%86%E5%82%B3%E5%AA%92%EF%BD%9C%E7%BE%8E%E8%B2%A1%E7%B6%93%E4%B8%80%E9%80%B1%E5%A4%A7%E4%BA%8B%E3%80%8B%E5%AE%8F%E8%A7%80%E9%80%86%E9%A2%A8%E8%88%87AI%E7%8B%82%E6%BD%AE%E6%8B%89%E9%8B%B8-%E7%BE%8E%E8%82%A1%E9%9C%87%E7%9B%AA%E4%B8%AD%E5%B0%8B%E6%B1%82%E5%B9%B3%E8%A1%A1"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
       "subject": "股票 Are Ignoring the Bond 市場 ",
       "title": "股票 Are Ignoring the Bond 市場 Warning at Their Peril — Barron’s.com",
       "originalTitle": "Stocks Are Ignoring the Bond Market Warning at Their Peril -- Barrons.com",
@@ -246,27 +267,6 @@
         "stocks"
       ],
       "url": "https://news.futunn.com/hk/post/1000614912/stocks-are-ignoring-the-bond-market-warning-at-their-peril"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達 Is 'Tip Of The Spear' For",
-      "title": "輝達 Is 'Tip Of The Spear' For AI Trade, Says Dan Niles — Warns 'At A Certain Point Either The Bond 市場's Wrong Or 股票 市場 Is Wrong'",
-      "originalTitle": "Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles — Warns 'At A Certain Point Either The Bond Market's Wrong Or Stock Market Is Wrong'",
-      "translatedTitle": "輝達 Is 'Tip Of The Spear' For AI Trade, Says Dan Niles — Warns 'At A Certain Point Either The Bond 市場's Wrong Or 股票 市場 Is Wrong'",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-05T16:59:34.000Z",
-      "fact": "TradingView 報導：輝達 Is 'Tip Of The Spear' For AI Trade, Says Dan Niles — Warns 'At A Certain Point Either The Bond 市場's Wrong Or 股票 市場 Is Wrong'",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Is 'Tip Of The Spear' For AI Trade, Says Dan Niles — Warns 'At A Certain Point Either The Bond Market's Wrong Or。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/stocktwits:35fa550bf094b:0-nvidia-is-tip-of-the-spear-for-ai-trade-says-dan-niles-warns-at-a-certain-point-either-the-bond-market-s-wrong-or-stock-market-is-wrong/"
     }
   ]
 }
