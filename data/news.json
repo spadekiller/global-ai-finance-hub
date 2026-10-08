@@ -1,9 +1,48 @@
 {
-  "generatedAt": "2026-10-08T01:26:37.582Z",
+  "generatedAt": "2026-10-08T03:20:09.899Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "ChatGPT 推出 Intelligent UI",
+      "title": "ChatGPT 推出 Intelligent UI：回答直接長出圖表、表單與小工具，GPT-6 免費用戶隔天也能用",
+      "originalTitle": "ChatGPT 推出 Intelligent UI：回答直接長出圖表、表單與小工具，GPT-6 免費用戶隔天也能用",
+      "translatedTitle": "ChatGPT 推出 Intelligent UI：回答直接長出圖表、表單與小工具，GPT-6 免費用戶隔天也能用",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "硬是要學",
+      "publishedAt": "2026-10-08T01:54:20.000Z",
+      "fact": "硬是要學 報導：ChatGPT 推出 Intelligent UI：回答直接長出圖表、表單與小工具，GPT-6 免費用戶隔天也能用",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；ChatGPT 推出 Intelligent UI：回答直接長出圖表、表單與小工具，GPT-6 免費用戶隔天也能用 &nbsp;&nbsp; 硬是要學。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.soft4fun.net/tech/news/chatgpt-intelligent-ui-gpt-6-interactive-answers-rollout.htm"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "川普政府啟動「超級智慧」戰略 AI沙皇今日訪矽谷會科技巨",
+      "title": "川普政府啟動「超級智慧」戰略 AI沙皇今日訪矽谷會科技巨頭",
+      "originalTitle": "川普政府啟動「超級智慧」戰略 AI沙皇今日訪矽谷會科技巨頭",
+      "translatedTitle": "川普政府啟動「超級智慧」戰略 AI沙皇今日訪矽谷會科技巨頭",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "商傳媒",
+      "publishedAt": "2026-10-08T02:28:12.000Z",
+      "fact": "商傳媒 報導：川普政府啟動「超級智慧」戰略 AI沙皇今日訪矽谷會科技巨頭",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普政府啟動「超級智慧」戰略 AI沙皇今日訪矽谷會科技巨頭 &nbsp;&nbsp; 商傳媒。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://sunmedia.tw/news/Industry-information/1791425917-%E5%B7%9D%E6%99%AE%E6%94%BF%E5%BA%9C%E5%95%9F%E5%8B%95%E3%80%8C%E8%B6%85%E7%B4%9A%E6%99%BA%E6%85%A7%E3%80%8D%E6%88%B0%E7%95%A5%E3%80%80AI%E6%B2%99%E7%9A%87%E4%BB%8A%E6%97%A5%E8%A8%AA%E7%9F%BD%E8%B0%B7%E6%9C%83%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "全民防偽時代來臨！Google釋出SynthID Detector偵測網站，一鍵辨識AI生成內容",
@@ -24,7 +63,7 @@
       "url": "https://mashdigi.com/the-era-of-universal-anti-counterfeiting-has-arrived-google-releases-synthid-detector-a-website-that-can-identify-ai-generated-content-with-a-single-click/"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI 釋出 722 篇 AI 數學論文手稿 真正考驗交給數學界",
@@ -45,7 +84,7 @@
       "url": "https://yellow.com/zh-tw/news/openai-%E9%87%8B%E5%87%BA-722-%E7%AF%87-ai-%E6%95%B8%E5%AD%B8%E8%AB%96%E6%96%87%E6%89%8B%E7%A8%BF-%E7%9C%9F%E6%AD%A3%E8%80%83%E9%A9%97%E4%BA%A4%E7%B5%A6%E6%95%B8%E5%AD%B8%E7%95%8C"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "Kevin Roose新書中關於OpenAI與Anthropic最爆笑、最離奇及純粹古怪的時刻",
@@ -65,48 +104,6 @@
         "AI"
       ],
       "url": "https://www.businessinsider.tw/article/8017"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
-      "originalTitle": "OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
-      "translatedTitle": "OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-10-07T02:56:10.000Z",
-      "fact": "TechNews 科技新報 報導：OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://technews.tw/2026/10/07/openai-releases-new-mathematical-results-produced-by-an-internal-frontier-model/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "中美AI軍事化背景下，美國國防部正式停用 Anthropic 的 AI 工具",
-      "originalTitle": "中美AI軍事化背景下，美國國防部正式停用 Anthropic 的 AI 工具",
-      "translatedTitle": "中美AI軍事化背景下，美國國防部正式停用 Anthropic 的 AI 工具",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "BBC",
-      "publishedAt": "2026-10-06T08:39:09.000Z",
-      "fact": "BBC 報導：中美AI軍事化背景下，美國國防部正式停用 Anthropic 的 AI 工具",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；中美AI軍事化背景下，美國國防部正式停用 Anthropic 的 AI 工具 &nbsp;&nbsp; BBC。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad"
     },
     {
       "id": "全球財經脈動-1",
