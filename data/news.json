@@ -1,9 +1,73 @@
 {
-  "generatedAt": "2026-10-07T03:03:44.653Z",
+  "generatedAt": "2026-10-08T01:26:37.582Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "全民防偽時代來臨！Google釋出SynthID Detector偵測網站，一鍵辨識AI生成內容",
+      "originalTitle": "全民防偽時代來臨！Google釋出SynthID Detector偵測網站，一鍵辨識AI生成內容",
+      "translatedTitle": "全民防偽時代來臨！Google釋出SynthID Detector偵測網站，一鍵辨識AI生成內容",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "Mashdigi",
+      "publishedAt": "2026-10-07T22:03:51.000Z",
+      "fact": "Mashdigi 報導：全民防偽時代來臨！Google釋出SynthID Detector偵測網站，一鍵辨識AI生成內容",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；全民防偽時代來臨！Google釋出SynthID Detector偵測網站，一鍵辨識AI生成內容 &nbsp;&nbsp; Mashdigi。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://mashdigi.com/the-era-of-universal-anti-counterfeiting-has-arrived-google-releases-synthid-detector-a-website-that-can-identify-ai-generated-content-with-a-single-click/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI 釋出 722 篇 AI 數學論文手稿 真正考驗交給數學界",
+      "originalTitle": "OpenAI 釋出 722 篇 AI 數學論文手稿 真正考驗交給數學界",
+      "translatedTitle": "OpenAI 釋出 722 篇 AI 數學論文手稿 真正考驗交給數學界",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "Yellow.com",
+      "publishedAt": "2026-10-07T17:08:10.000Z",
+      "fact": "Yellow.com 報導：OpenAI 釋出 722 篇 AI 數學論文手稿 真正考驗交給數學界",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 釋出 722 篇 AI 數學論文手稿 真正考驗交給數學界 &nbsp;&nbsp; Yellow.com。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://yellow.com/zh-tw/news/openai-%E9%87%8B%E5%87%BA-722-%E7%AF%87-ai-%E6%95%B8%E5%AD%B8%E8%AB%96%E6%96%87%E6%89%8B%E7%A8%BF-%E7%9C%9F%E6%AD%A3%E8%80%83%E9%A9%97%E4%BA%A4%E7%B5%A6%E6%95%B8%E5%AD%B8%E7%95%8C"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "Kevin Roose新書中關於OpenAI與Anthropic最爆笑、最離奇及純粹古怪的時刻",
+      "originalTitle": "Kevin Roose新書中關於OpenAI與Anthropic最爆笑、最離奇及純粹古怪的時刻",
+      "translatedTitle": "Kevin Roose新書中關於OpenAI與Anthropic最爆笑、最離奇及純粹古怪的時刻",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "Business Insider Taiwan",
+      "publishedAt": "2026-10-07T12:56:08.000Z",
+      "fact": "Business Insider Taiwan 報導：Kevin Roose新書中關於OpenAI與Anthropic最爆笑、最離奇及純粹古怪的時刻",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Kevin Roose新書中關於OpenAI與Anthropic最爆笑、最離奇及純粹古怪的時刻 &nbsp;&nbsp; Business Insider Taiwan。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://www.businessinsider.tw/article/8017"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
@@ -12,7 +76,7 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
       "source": "TechNews 科技新報",
-      "publishedAt": "2026-10-07T02:55:57.000Z",
+      "publishedAt": "2026-10-07T02:56:10.000Z",
       "fact": "TechNews 科技新報 報導：OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 釋出 722 篇數學論文手稿，未公開模型展現強大研究能量 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
@@ -24,7 +88,7 @@
       "url": "https://technews.tw/2026/10/07/openai-releases-new-mathematical-results-produced-by-an-internal-frontier-model/"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "中美AI軍事化背景下，美國國防部正式停用 Anthropic 的 AI 工具",
@@ -43,70 +107,6 @@
         "AI"
       ],
       "url": "https://www.bbc.com/zhongwen/articles/cm8ezkd09057o/trad"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "澳洲ABC槓上OpenAI、Anthropic？反對放寬AI著作權、稱內容恐早遭抓取",
-      "originalTitle": "澳洲ABC槓上OpenAI、Anthropic？反對放寬AI著作權、稱內容恐早遭抓取",
-      "translatedTitle": "澳洲ABC槓上OpenAI、Anthropic？反對放寬AI著作權、稱內容恐早遭抓取",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "TVBS新聞網",
-      "publishedAt": "2026-10-06T09:23:00.000Z",
-      "fact": "TVBS新聞網 報導：澳洲ABC槓上OpenAI、Anthropic？反對放寬AI著作權、稱內容恐早遭抓取",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；澳洲ABC槓上OpenAI、Anthropic？反對放寬AI著作權、稱內容恐早遭抓取 &nbsp;&nbsp; TVBS新聞網。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://news.tvbs.com.tw/tech/4032166"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "PA日報 | 幣安推出AI產品棧Binance Inte",
-      "title": "PA日報 | 幣安推出AI產品棧Binance Intelligence；美CFTC提出首輪加密市場規則",
-      "originalTitle": "PA日報 | 幣安推出AI產品棧Binance Intelligence；美CFTC提出首輪加密市場規則",
-      "translatedTitle": "PA日報 | 幣安推出AI產品棧Binance Intelligence；美CFTC提出首輪加密市場規則",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "PANews",
-      "publishedAt": "2026-10-06T20:02:00.000Z",
-      "fact": "PANews 報導：PA日報 | 幣安推出AI產品棧Binance Intelligence；美CFTC提出首輪加密市場規則",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；PA日報 | 幣安推出AI產品棧Binance Intelligence；美CFTC提出首輪加密市場規則 &nbsp;&nbsp; PANews。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.panewslab.com/zh-hant/articles/01a11072-6947-75d3-aa05-9f9554d17136"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報",
-      "originalTitle": "DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報",
-      "translatedTitle": "DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "LINE TODAY",
-      "publishedAt": "2026-10-05T20:47:12.000Z",
-      "fact": "LINE TODAY 報導：DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；DeepSeek 緊追 OpenAI、Anthropic！美中 AI 差距縮減至 3%，創歷史新低 | 科技新報 &nbsp;&nbsp; LINE TODAY。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://today.line.me/tw/v3/article/qoZM5Lm"
     },
     {
       "id": "全球財經脈動-1",
@@ -129,63 +129,25 @@
       "url": "https://macaubusiness.com/ai-borrowing-binge-rattles-us-markets/"
     },
     {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "Americas Technology",
-      "title": "Americas Technology: 半導體: Q3 Preview: Performance Expected to Improve After Significant Sector Correction",
-      "originalTitle": "Americas Technology: Semiconductors: Q3 Preview: Performance Expected to Improve After Significant Sector Correction",
-      "translatedTitle": "Americas Technology: 半導體: Q3 Preview: Performance Expected to Improve After Significant Sector Correction",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-05T07:49:12.000Z",
-      "fact": "富途牛牛 報導：Americas Technology: 半導體: Q3 Preview: Performance Expected to Improve After Significant Sector Correction",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Americas Technology: Semiconductors: Q3 Preview: Performance Expected to Improve After Significant Sector Correction &nb。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "semiconductor"
-      ],
-      "url": "https://news.futunn.com/en/post/1000597050/americas-technology-semiconductors-q3-preview-performance-expected-to-improve-after"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "Chubb Wealth Q4 2026 投資 Outl",
-      "title": "Chubb Wealth Q4 2026 投資 Outlook: A Less Synchronized World",
-      "originalTitle": "Chubb Wealth Q4 2026 Investment Outlook: A Less Synchronized World",
-      "translatedTitle": "Chubb Wealth Q4 2026 投資 Outlook: A Less Synchronized World",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Macau Business",
-      "publishedAt": "2026-10-05T09:38:47.000Z",
-      "fact": "Macau Business 報導：Chubb Wealth Q4 2026 投資 Outlook: A Less Synchronized World",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Chubb Wealth Q4 2026 Investment Outlook: A Less Synchronized World &nbsp;&nbsp; Macau Business。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://macaubusiness.com/chubb-wealth-q4-2026-investment-outlook-a-less-synchronized-world/"
-    },
-    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "INTC",
-      "title": "INTC, AMD, MU, SNDK, SOXX: Chips, Memory 股票 Slip Premarket After Sharp October Rally",
-      "originalTitle": "INTC, AMD, MU, SNDK, SOXX: Chips, Memory Stocks Slip Premarket After Sharp October Rally",
-      "translatedTitle": "INTC, AMD, MU, SNDK, SOXX: Chips, Memory 股票 Slip Premarket After Sharp October Rally",
+      "subject": "微軟 Keeps Winning in AI. The ",
+      "title": "微軟 Keeps Winning in AI. The 股票 Is Still Waiting",
+      "originalTitle": "Microsoft Keeps Winning in AI. The Stock Is Still Waiting",
+      "translatedTitle": "微軟 Keeps Winning in AI. The 股票 Is Still Waiting",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-10-06T09:12:51.000Z",
-      "fact": "TradingView 報導：INTC, AMD, MU, SNDK, SOXX: Chips, Memory 股票 Slip Premarket After Sharp October Rally",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；INTC, AMD, MU, SNDK, SOXX: Chips, Memory Stocks Slip Premarket After Sharp October Rally &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-10-06T18:35:12.000Z",
+      "fact": "TradingView 報導：微軟 Keeps Winning in AI. The 股票 Is Still Waiting",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft Keeps Winning in AI. The Stock Is Still Waiting &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "stocks"
+        "Microsoft",
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:2de156ace094b:0-intc-amd-mu-sndk-soxx-chips-memory-stocks-slip-premarket-after-sharp-october-rally/"
+      "url": "https://tw.tradingview.com/news/gurufocus:83fe4067f094b:0-microsoft-keeps-winning-in-ai-the-stock-is-still-waiting/"
     },
     {
       "id": "美股與全球市場焦點-2",
@@ -211,62 +173,64 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Cathie Wood Just Bought $81 ",
-      "title": "Cathie Wood Just Bought $81 Million of This Red-Hot AI 晶片股",
-      "originalTitle": "Cathie Wood Just Bought $81 Million of This Red-Hot AI Chip Stock",
-      "translatedTitle": "Cathie Wood Just Bought $81 Million of This Red-Hot AI 晶片股",
+      "subject": "輝達 股票 Gets Jaw",
+      "title": "輝達 股票 Gets Jaw-Dropping Price Target Hike on Booming AI 需求",
+      "originalTitle": "Nvidia Stock Gets Jaw-Dropping Price Target Hike on Booming AI Demand",
+      "translatedTitle": "輝達 股票 Gets Jaw-Dropping Price Target Hike on Booming AI 需求",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-10-05T15:00:11.000Z",
-      "fact": "TradingView 報導：Cathie Wood Just Bought $81 Million of This Red-Hot AI 晶片股",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Cathie Wood Just Bought $81 Million of This Red-Hot AI Chip Stock &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-10-06T11:50:32.000Z",
+      "fact": "TradingView 報導：輝達 股票 Gets Jaw-Dropping Price Target Hike on Booming AI 需求",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Stock Gets Jaw-Dropping Price Target Hike on Booming AI Demand &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
+        "Nvidia",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:60a0c87d8094b:0-cathie-wood-just-bought-81-million-of-this-red-hot-ai-chip-stock/"
+      "url": "https://tw.tradingview.com/news/gurufocus:830c2ed32094b:0-nvidia-stock-gets-jaw-dropping-price-target-hike-on-booming-ai-demand/"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "【2026",
-      "title": "【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡",
-      "originalTitle": "【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡",
-      "translatedTitle": "【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "SPCX 股票 Slips After",
+      "title": "SPCX 股票 Slips After-Hours As SpaceX Reportedly Seeks $40B For 輝達 Chips",
+      "originalTitle": "SPCX Stock Slips After-Hours As SpaceX Reportedly Seeks $40B For Nvidia Chips",
+      "translatedTitle": "SPCX 股票 Slips After-Hours As SpaceX Reportedly Seeks $40B For 輝達 Chips",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "商傳媒",
-      "publishedAt": "2026-10-05T12:35:47.000Z",
-      "fact": "商傳媒 報導：【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【2026-10-05】《商傳媒｜美財經一週大事》宏觀逆風與AI狂潮拉鋸 美股震盪中尋求平衡 &nbsp;&nbsp; 商傳媒。",
+      "source": "TradingView",
+      "publishedAt": "2026-10-06T23:48:23.000Z",
+      "fact": "TradingView 報導：SPCX 股票 Slips After-Hours As SpaceX Reportedly Seeks $40B For 輝達 Chips",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SPCX Stock Slips After-Hours As SpaceX Reportedly Seeks $40B For Nvidia Chips &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "Nvidia"
       ],
-      "url": "https://sunmedia.tw/news/finance/1791203588-%E3%80%902026-10-05%E3%80%91%E3%80%8A%E5%95%86%E5%82%B3%E5%AA%92%EF%BD%9C%E7%BE%8E%E8%B2%A1%E7%B6%93%E4%B8%80%E9%80%B1%E5%A4%A7%E4%BA%8B%E3%80%8B%E5%AE%8F%E8%A7%80%E9%80%86%E9%A2%A8%E8%88%87AI%E7%8B%82%E6%BD%AE%E6%8B%89%E9%8B%B8-%E7%BE%8E%E8%82%A1%E9%9C%87%E7%9B%AA%E4%B8%AD%E5%B0%8B%E6%B1%82%E5%B9%B3%E8%A1%A1"
+      "url": "https://tw.tradingview.com/news/stocktwits:10178495f094b:0-spcx-stock-slips-after-hours-as-spacex-reportedly-seeks-40b-for-nvidia-chips/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "股票 Are Ignoring the Bond 市場 ",
-      "title": "股票 Are Ignoring the Bond 市場 Warning at Their Peril — Barron’s.com",
-      "originalTitle": "Stocks Are Ignoring the Bond Market Warning at Their Peril -- Barrons.com",
-      "translatedTitle": "股票 Are Ignoring the Bond 市場 Warning at Their Peril — Barron’s.com",
+      "subject": "NVDA",
+      "title": "NVDA: 輝達 Nears $6 Trillion as Record Close Signals Renewed Confidence in AI 需求",
+      "originalTitle": "NVDA: Nvidia Nears $6 Trillion as Record Close Signals Renewed Confidence in AI Demand",
+      "translatedTitle": "NVDA: 輝達 Nears $6 Trillion as Record Close Signals Renewed Confidence in AI 需求",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-06T11:36:00.000Z",
-      "fact": "富途牛牛 報導：股票 Are Ignoring the Bond 市場 Warning at Their Peril — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stocks Are Ignoring the Bond Market Warning at Their Peril -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-10-06T07:36:49.000Z",
+      "fact": "TradingView 報導：NVDA: 輝達 Nears $6 Trillion as Record Close Signals Renewed Confidence in AI 需求",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVDA: Nvidia Nears $6 Trillion as Record Close Signals Renewed Confidence in AI Demand &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "stocks"
+        "Nvidia",
+        "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/1000614912/stocks-are-ignoring-the-bond-market-warning-at-their-peril"
+      "url": "https://tw.tradingview.com/news/tradingview:ed4e1ee00094b:0-nvda-nvidia-nears-6-trillion-as-record-close-signals-renewed-confidence-in-ai-demand/"
     }
   ]
 }
