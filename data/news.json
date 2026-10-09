@@ -1,28 +1,9 @@
 {
-  "generatedAt": "2026-10-09T01:33:37.231Z",
+  "generatedAt": "2026-10-09T03:25:54.059Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
-      "section": "AI 與科技前沿",
-      "subject": "讓人人都能使用 GPT",
-      "title": "讓人人都能使用 GPT-6 與智慧介面",
-      "originalTitle": "讓人人都能使用 GPT-6 與智慧介面",
-      "translatedTitle": "讓人人都能使用 GPT-6 與智慧介面",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "OpenAI",
-      "publishedAt": "2026-10-08T00:25:18.000Z",
-      "fact": "OpenAI 報導：讓人人都能使用 GPT-6 與智慧介面",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；讓人人都能使用 GPT-6 與智慧介面 &nbsp;&nbsp; OpenAI。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://openai.com/zh-Hant/index/gpt-6-for-everyone/"
-    },
-    {
-      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "特朗普稱不支持AI改名SI就是白宮敵人",
       "title": "特朗普稱不支持AI改名SI就是白宮敵人",
@@ -40,6 +21,27 @@
         "AI"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1000790675"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI 股票",
+      "originalTitle": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI Stock",
+      "translatedTitle": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI 股票",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-07T13:02:54.000Z",
+      "fact": "TradingView 報導：Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI 股票",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI Stock &nbsp;&nbsp; TradingV。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/benzinga:7dc806d5f094b:0-cathie-wood-bets-31m-on-amazon-coreweave-and-meta-while-pulling-26-5m-out-of-this-hot-ai-stock/"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -65,6 +67,26 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
+      "subject": "微軟加快 Windows AI 化！推出 Hybrid ",
+      "title": "微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務",
+      "originalTitle": "微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務",
+      "translatedTitle": "微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "XFastest",
+      "publishedAt": "2026-10-08T11:37:00.000Z",
+      "fact": "XFastest 報導：微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務 &nbsp;&nbsp; XFastest。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.xfastest.com/thread-314165-1-1.html"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "【AI+OpenAI】OpenAI推出GPT-6：導入Intelligent UI動態介面邊推理邊回答速度提升44%",
       "originalTitle": "【AI+OpenAI】OpenAI推出GPT-6：導入Intelligent UI動態介面邊推理邊回答速度提升44%",
@@ -84,48 +106,7 @@
       "url": "https://inews.hket.com/article/4206000/openai-gpt6-launch-intelligent-ui-chatgpt-update"
     },
     {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI 股票",
-      "originalTitle": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI Stock",
-      "translatedTitle": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI 股票",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-07T13:02:54.000Z",
-      "fact": "TradingView 報導：Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI 股票",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI Stock &nbsp;&nbsp; TradingV。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/benzinga:7dc806d5f094b:0-cathie-wood-bets-31m-on-amazon-coreweave-and-meta-while-pulling-26-5m-out-of-this-hot-ai-stock/"
-    },
-    {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
-      "originalTitle": "《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "自由時報",
-      "publishedAt": "2026-10-08T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says &nbsp;&nbsp; 自由時報。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5600420"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Ray Dalio Reportedly Warns AI Bubble Is ‘Close’ To Bursting As Rising Rates Test Debt-Fueled Spending",
@@ -143,6 +124,26 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/stocktwits:5c8de7d40094b:0-ray-dalio-reportedly-warns-ai-bubble-is-close-to-bursting-as-rising-rates-test-debt-fueled-spending/"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
+      "originalTitle": "《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "自由時報",
+      "publishedAt": "2026-10-08T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says &nbsp;&nbsp; 自由時報。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5600420"
     },
     {
       "id": "全球財經脈動-3",
@@ -237,7 +238,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 晶片",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-08T11:44:39.000Z",
+      "publishedAt": "2026-10-08T07:37:43.000Z",
       "fact": "富途牛牛 報導：Taiwan 半導體's Q3 revenue rose 51% year over year, beating expectations, as the 市場 closely watches its 2027 capital expenditures, overseas production capacity, and wafer pricing.",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Taiwan Semiconductor's Q3 revenue rose 51% year over year, beating expectations, as the market closely watches its 2027。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
@@ -246,7 +247,7 @@
         "AI",
         "semiconductor"
       ],
-      "url": "https://news.futunn.com/en/post/1000699800/taiwan-semiconductor-tsmus-reported-a-51-year-on-year-increase"
+      "url": "https://news.futunn.com/en/post/1000699800/taiwan-semiconductor-s-q3-revenue-rose-51-year-over-year"
     },
     {
       "id": "美股與全球市場焦點-4",
