@@ -1,132 +1,153 @@
 {
-  "generatedAt": "2026-10-09T03:25:54.059Z",
+  "generatedAt": "2026-10-10T01:23:59.089Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "特朗普稱不支持AI改名SI就是白宮敵人",
-      "title": "特朗普稱不支持AI改名SI就是白宮敵人",
-      "originalTitle": "特朗普稱不支持AI改名SI就是白宮敵人",
-      "translatedTitle": "特朗普稱不支持AI改名SI就是白宮敵人",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-08T23:41:22.000Z",
-      "fact": "Moomoo 報導：特朗普稱不支持AI改名SI就是白宮敵人",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；特朗普稱不支持AI改名SI就是白宮敵人 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "subject": "Anthropic",
+      "title": "AI 財經快訊：Anthropic AI model submits false homicide tip to police website",
+      "originalTitle": "Anthropic AI model submits false homicide tip to police website",
+      "translatedTitle": "AI 財經快訊：Anthropic AI model submits false homicide tip to police website",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-09T19:21:18.000Z",
+      "fact": "Yahoo 報導：AI 財經快訊：Anthropic AI model submits false homicide tip to police website",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic AI model submits false homicide tip to police website &nbsp;&nbsp; Yahoo。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
+        "Anthropic",
         "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1000790675"
+      "url": "https://hk.news.yahoo.com/us/articles/anthropic-ai-model-submits-false-192118108.html"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Meta",
-      "title": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI 股票",
-      "originalTitle": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI Stock",
-      "translatedTitle": "Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI 股票",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-07T13:02:54.000Z",
-      "fact": "TradingView 報導：Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI 股票",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Cathie Wood Bets $31M On Amazon, CoreWeave And Meta, While Pulling $26.5M Out of This Hot AI Stock &nbsp;&nbsp; TradingV。",
+      "title": "扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上",
+      "originalTitle": "扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上",
+      "translatedTitle": "扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "BBC",
+      "publishedAt": "2026-10-09T08:21:08.000Z",
+      "fact": "BBC 報導：扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上 &nbsp;&nbsp; BBC。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Meta",
-        "AI"
+        "Meta"
       ],
-      "url": "https://tw.tradingview.com/news/benzinga:7dc806d5f094b:0-cathie-wood-bets-31m-on-amazon-coreweave-and-meta-while-pulling-26-5m-out-of-this-hot-ai-stock/"
+      "url": "https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "OpenAI 推出 Intelligent UI ChatGPT 回應加入互動圖表與按鈕",
-      "originalTitle": "OpenAI 推出 Intelligent UI ChatGPT 回應加入互動圖表與按鈕",
-      "translatedTitle": "OpenAI 推出 Intelligent UI ChatGPT 回應加入互動圖表與按鈕",
-      "translationNote": "系統翻譯，請以原文為準",
+      "title": "不准再叫AI！川普：拒用SI就是白宮敵人 OpenAI剛表態不會改名",
+      "originalTitle": "不准再叫AI！川普：拒用SI就是白宮敵人　OpenAI剛表態不會改名",
+      "translatedTitle": "不准再叫AI！川普：拒用SI就是白宮敵人 OpenAI剛表態不會改名",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "流動日報",
-      "publishedAt": "2026-10-08T11:05:22.000Z",
-      "fact": "流動日報 報導：OpenAI 推出 Intelligent UI ChatGPT 回應加入互動圖表與按鈕",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 推出 Intelligent UI ChatGPT 回應加入互動圖表與按鈕 &nbsp;&nbsp; 流動日報。",
+      "source": "NOWnews今日新聞",
+      "publishedAt": "2026-10-09T08:12:07.000Z",
+      "fact": "NOWnews今日新聞 報導：不准再叫AI！川普：拒用SI就是白宮敵人 OpenAI剛表態不會改名",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；不准再叫AI！川普：拒用SI就是白宮敵人 OpenAI剛表態不會改名 &nbsp;&nbsp; NOWnews今日新聞。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://www.newmobilelife.com/2026/10/08/openai-intelligent-ui-chatgpt-gpt-6/"
+      "url": "https://www.nownews.com/news/6881997"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "微軟加快 Windows AI 化！推出 Hybrid ",
-      "title": "微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務",
-      "originalTitle": "微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務",
-      "translatedTitle": "微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "XFastest",
-      "publishedAt": "2026-10-08T11:37:00.000Z",
-      "fact": "XFastest 報導：微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；微軟加快 Windows AI 化！推出 Hybrid intelligence 混合智慧技術， Copilot 可深入系統執行本地任務 &nbsp;&nbsp; XFastest。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.xfastest.com/thread-314165-1-1.html"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "【AI+OpenAI】OpenAI推出GPT-6：導入Intelligent UI動態介面邊推理邊回答速度提升44%",
-      "originalTitle": "【AI+OpenAI】OpenAI推出GPT-6：導入Intelligent UI動態介面邊推理邊回答速度提升44%",
-      "translatedTitle": "【AI+OpenAI】OpenAI推出GPT-6：導入Intelligent UI動態介面邊推理邊回答速度提升44%",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "香港經濟日報HKET",
-      "publishedAt": "2026-10-08T08:50:28.000Z",
-      "fact": "香港經濟日報HKET 報導：【AI+OpenAI】OpenAI推出GPT-6：導入Intelligent UI動態介面邊推理邊回答速度提升44%",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【AI+OpenAI】OpenAI推出GPT-6：導入Intelligent UI動態介面邊推理邊回答速度提升44% &nbsp;&nbsp; 香港經濟日報HKET。",
+      "title": "川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI",
+      "originalTitle": "川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI",
+      "translatedTitle": "川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 晶片",
+      "source": "動區動趨",
+      "publishedAt": "2026-10-09T06:56:57.000Z",
+      "fact": "動區動趨 報導：川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI &nbsp;&nbsp; 動區動趨。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
+        "Nvidia",
         "AI"
       ],
-      "url": "https://inews.hket.com/article/4206000/openai-gpt6-launch-intelligent-ui-chatgpt-update"
+      "url": "https://www.blocktempo.com/white-house-6-billion-science-golden-age-super-intelligence/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Why Oracle (ORCL) 股價 Are Tra",
+      "title": "Why Oracle (ORCL) 股價 Are Trading Lower Today",
+      "originalTitle": "Why Oracle (ORCL) Shares Are Trading Lower Today",
+      "translatedTitle": "Why Oracle (ORCL) 股價 Are Trading Lower Today",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-08T19:40:59.000Z",
+      "fact": "TradingView 報導：Why Oracle (ORCL) 股價 Are Trading Lower Today",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why Oracle (ORCL) Shares Are Trading Lower Today &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://tw.tradingview.com/news/stockstory:a07825300094b:0-why-oracle-orcl-shares-are-trading-lower-today/"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Ray Dalio Reportedly Warns AI Bubble Is ‘Close’ To Bursting As Rising Rates Test Debt-Fueled Spending",
-      "originalTitle": "Ray Dalio Reportedly Warns AI Bubble Is ‘Close’ To Bursting As Rising Rates Test Debt-Fueled Spending",
-      "translatedTitle": "AI 財經快訊：Ray Dalio Reportedly Warns AI Bubble Is ‘Close’ To Bursting As Rising Rates Test Debt-Fueled Spending",
+      "subject": "輝達 (NVDA.US)",
+      "title": "輝達 (NVDA.US)-backed AI 資料中心 firm Firmus sees IPO fall through! $30 billion valuation questioned amid weak subscription 需求 from U.S. investors.",
+      "originalTitle": "NVIDIA (NVDA.US)-backed AI data center firm Firmus sees IPO fall through! $30 billion valuation questioned amid weak subscription demand from U.S. investors.",
+      "translatedTitle": "輝達 (NVDA.US)-backed AI 資料中心 firm Firmus sees IPO fall through! $30 billion valuation questioned amid weak subscription 需求 from U.S. investors.",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "TradingView",
-      "publishedAt": "2026-10-07T10:38:11.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：Ray Dalio Reportedly Warns AI Bubble Is ‘Close’ To Bursting As Rising Rates Test Debt-Fueled Spending",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Ray Dalio Reportedly Warns AI Bubble Is ‘Close’ To Bursting As Rising Rates Test Debt-Fueled Spending &nbsp;&nbsp; Tradi。",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-09T20:29:51.000Z",
+      "fact": "富途牛牛 報導：輝達 (NVDA.US)-backed AI 資料中心 firm Firmus sees IPO fall through! $30 billion valuation questioned amid weak subscription 需求 from U.S. investors.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；NVIDIA (NVDA.US)-backed AI data center firm Firmus sees IPO fall through! $30 billion valuation questioned amid weak sub。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI"
+        "Nvidia",
+        "AI",
+        "data center"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:5c8de7d40094b:0-ray-dalio-reportedly-warns-ai-bubble-is-close-to-bursting-as-rising-rates-test-debt-fueled-spending/"
+      "url": "https://news.futunn.com/en/post/1000807860/nvidia-nvdaus-backed-ai-data-center-firm-firmus-sees-ipo"
     },
     {
       "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Aehr Test Systems將於2026年11月2",
+      "title": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
+      "originalTitle": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
+      "translatedTitle": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-08T11:30:00.000Z",
+      "fact": "Moomoo 報導：Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1000762432/aehr-test-systems-to-announce-first-quarter-fiscal-2027-financial"
+    },
+    {
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
@@ -146,7 +167,27 @@
       "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5600420"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "Schneider Electric Pioneers ",
+      "title": "Schneider Electric Pioneers 能源 Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
+      "originalTitle": "Schneider Electric Pioneers Energy Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
+      "translatedTitle": "Schneider Electric Pioneers 能源 Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Media OutReach Newswire",
+      "publishedAt": "2026-10-08T12:48:00.000Z",
+      "fact": "Media OutReach Newswire 報導：Schneider Electric Pioneers 能源 Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Schneider Electric Pioneers Energy Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Su。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://www.media-outreach.com/news/hong-kong/2026/10/08/492782/schneider-electric-pioneers-energy-technology-to-accelerate-smart-transformation-and-sustainable-growth-at-innovation-summit-hong-kong-2026/"
+    },
+    {
+      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "As AI chip production ramps ",
       "title": "As AI chip production ramps up, 資料中心 face power shortages: 半導體 shipment forecasts are under test",
@@ -168,48 +209,50 @@
       "url": "https://news.futunn.com/en/post/1000726466/as-ai-chip-production-ramps-up-data-centers-face-power"
     },
     {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "MagPro Launches AeroLev 1850",
-      "title": "MagPro Launches AeroLev 1850 to Advance Water-Smart Cooling for AI 資料中心",
-      "originalTitle": "MagPro Launches AeroLev 1850 to Advance Water-Smart Cooling for AI Data Centers",
-      "translatedTitle": "MagPro Launches AeroLev 1850 to Advance Water-Smart Cooling for AI 資料中心",
+      "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "U.S. AI 晶片股 rose collectivel",
+      "title": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Broadcom gaining more than 2%.",
+      "originalTitle": "U.S. AI chip stocks rose collectively in pre-market trading, with Broadcom gaining more than 2%.",
+      "translatedTitle": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Broadcom gaining more than 2%.",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "webook.com.tw",
-      "publishedAt": "2026-10-07T10:26:36.000Z",
-      "fact": "webook.com.tw 報導：MagPro Launches AeroLev 1850 to Advance Water-Smart Cooling for AI 資料中心",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；MagPro Launches AeroLev 1850 to Advance Water-Smart Cooling for AI Data Centers &nbsp;&nbsp; webook.com.tw。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-09T15:19:59.000Z",
+      "fact": "富途牛牛 報導：U.S. AI 晶片股 rose collectively in pre-市場 trading, with Broadcom gaining more than 2%.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. AI chip stocks rose collectively in pre-market trading, with Broadcom gaining more than 2%. &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "全球財經",
+        "市場焦點",
         "AI",
-        "data center"
+        "stocks"
       ],
-      "url": "https://www.webook.com.tw/acg-news/2026-10-06-webook-news-41/"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "Schneider Electric Pioneers ",
-      "title": "Schneider Electric Pioneers 能源 Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
-      "originalTitle": "Schneider Electric Pioneers Energy Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
-      "translatedTitle": "Schneider Electric Pioneers 能源 Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Media OutReach Newswire",
-      "publishedAt": "2026-10-08T12:48:00.000Z",
-      "fact": "Media OutReach Newswire 報導：Schneider Electric Pioneers 能源 Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Schneider Electric Pioneers Energy Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Su。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://www.media-outreach.com/news/hong-kong/2026/10/08/492782/schneider-electric-pioneers-energy-technology-to-accelerate-smart-transformation-and-sustainable-growth-at-innovation-summit-hong-kong-2026/"
+      "url": "https://news.futunn.com/en/post/1000781448/us-ai-chip-stocks-rose-collectively-in-pre-market-trading"
     },
     {
       "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "輝達",
+      "title": "輝達, AMD, Intel 股票 fall despite record AI 需求: has the easy money gone?",
+      "originalTitle": "Nvidia, AMD, Intel stocks fall despite record AI demand: has the easy money gone?",
+      "translatedTitle": "輝達, AMD, Intel 股票 fall despite record AI 需求: has the easy money gone?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-08T10:27:39.000Z",
+      "fact": "TradingView 報導：輝達, AMD, Intel 股票 fall despite record AI 需求: has the easy money gone?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia, AMD, Intel stocks fall despite record AI demand: has the easy money gone? &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/invezz:658b313d7094b:0-nvidia-amd-intel-stocks-fall-despite-record-ai-demand-has-the-easy-money-gone/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "費城半導體跌超3%！晟碟大跌5%，花旗指AI資本支出仍擴",
       "title": "費城半導體跌超3%！晟碟大跌5%，花旗指AI資本支出仍擴張但獲利前景分化",
@@ -229,65 +272,46 @@
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262206780-us-ai-hardware-stock-drop-citigroup-capex-divergence-semiconductor-q3-earnings-sandisk-micron-tradingkey"
     },
     {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Taiwan 半導體's Q3 revenue rose",
-      "title": "Taiwan 半導體's Q3 revenue rose 51% year over year, beating expectations, as the 市場 closely watches its 2027 capital expenditures, overseas production capacity, and wafer pricing.",
-      "originalTitle": "Taiwan Semiconductor's Q3 revenue rose 51% year over year, beating expectations, as the market closely watches its 2027 capital expenditures, overseas production capacity, and wafer pricing.",
-      "translatedTitle": "Taiwan 半導體's Q3 revenue rose 51% year over year, beating expectations, as the 市場 closely watches its 2027 capital expenditures, overseas production capacity, and wafer pricing.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-08T07:37:43.000Z",
-      "fact": "富途牛牛 報導：Taiwan 半導體's Q3 revenue rose 51% year over year, beating expectations, as the 市場 closely watches its 2027 capital expenditures, overseas production capacity, and wafer pricing.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Taiwan Semiconductor's Q3 revenue rose 51% year over year, beating expectations, as the market closely watches its 2027。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "semiconductor"
-      ],
-      "url": "https://news.futunn.com/en/post/1000699800/taiwan-semiconductor-s-q3-revenue-rose-51-year-over-year"
-    },
-    {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Rising Rates Are Eroding the",
-      "title": "Rising Rates Are Eroding the Value of Even the Most High-Flying Tech 股票 — WSJ",
-      "originalTitle": "Rising Rates Are Eroding the Value of Even the Most High-Flying Tech Stocks -- WSJ",
-      "translatedTitle": "Rising Rates Are Eroding the Value of Even the Most High-Flying Tech 股票 — WSJ",
+      "subject": "OpenAI",
+      "title": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags 晶片製造商 — NVDA, DIS, ORCL, SBUX In Focus",
+      "originalTitle": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus",
+      "translatedTitle": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags 晶片製造商 — NVDA, DIS, ORCL, SBUX In Focus",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-07T21:25:47.000Z",
-      "fact": "Moomoo 報導：Rising Rates Are Eroding the Value of Even the Most High-Flying Tech 股票 — WSJ",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Rising Rates Are Eroding the Value of Even the Most High-Flying Tech Stocks -- WSJ &nbsp;&nbsp; Moomoo。",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-10-08T22:55:19.000Z",
+      "fact": "TradingView 報導：Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags 晶片製造商 — NVDA, DIS, ORCL, SBUX In Focus",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "stocks"
+        "OpenAI",
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1000712185/rising-rates-are-eroding-the-value-of-even-the-most"
+      "url": "https://tw.tradingview.com/news/stocktwits:815daf0c7094b:0-nasdaq-100-ends-lower-as-report-of-weaker-than-expected-openai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：SA analyst upgrades/downgrades: NVDA, UNH, CLSK, CAT",
-      "originalTitle": "SA analyst upgrades/downgrades: NVDA, UNH, CLSK, CAT",
-      "translatedTitle": "AI 財經快訊：SA analyst upgrades/downgrades: NVDA, UNH, CLSK, CAT",
+      "subject": "SpaceX",
+      "title": "SpaceX, Verizon, Delta, Humana, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "originalTitle": "SpaceX, Verizon, Delta, Humana, and More Stocks That Explain Today's Market -- Barrons.com",
+      "translatedTitle": "SpaceX, Verizon, Delta, Humana, and More 股票 That Explain Today's 市場 — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-07T14:03:03.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：SA analyst upgrades/downgrades: NVDA, UNH, CLSK, CAT",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SA analyst upgrades/downgrades: NVDA, UNH, CLSK, CAT &nbsp;&nbsp; TradingView。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-09T10:37:00.000Z",
+      "fact": "富途牛牛 報導：SpaceX, Verizon, Delta, Humana, and More 股票 That Explain Today's 市場 — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SpaceX, Verizon, Delta, Humana, and More Stocks That Explain Today's Market -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/seekingalpha:7ce5dfda6094b:0-sa-analyst-upgrades-downgrades-nvda-unh-clsk-cat/"
+      "url": "https://news.futunn.com/en/post/1000794825/spacex-verizon-delta-humana-and-more-stocks-that-explain-today"
     }
   ]
 }
