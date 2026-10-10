@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:23:59.089Z",
+  "generatedAt": "2026-10-10T03:05:34.936Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -108,6 +108,25 @@
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
+      "subject": "Aehr Test Systems將於2026年11月2",
+      "title": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
+      "originalTitle": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
+      "translatedTitle": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-08T11:30:00.000Z",
+      "fact": "Moomoo 報導：Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1000762432/aehr-test-systems-to-announce-first-quarter-fiscal-2027-financial"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
       "subject": "輝達 (NVDA.US)",
       "title": "輝達 (NVDA.US)-backed AI 資料中心 firm Firmus sees IPO fall through! $30 billion valuation questioned amid weak subscription 需求 from U.S. investors.",
       "originalTitle": "NVIDIA (NVDA.US)-backed AI data center firm Firmus sees IPO fall through! $30 billion valuation questioned amid weak subscription demand from U.S. investors.",
@@ -126,25 +145,6 @@
         "data center"
       ],
       "url": "https://news.futunn.com/en/post/1000807860/nvidia-nvdaus-backed-ai-data-center-firm-firmus-sees-ipo"
-    },
-    {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "Aehr Test Systems將於2026年11月2",
-      "title": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
-      "originalTitle": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
-      "translatedTitle": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-08T11:30:00.000Z",
-      "fact": "Moomoo 報導：Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1000762432/aehr-test-systems-to-announce-first-quarter-fiscal-2027-financial"
     },
     {
       "id": "全球財經脈動-3",
@@ -274,6 +274,25 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
+      "subject": "量子計算股票財報大比拼",
+      "title": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
+      "originalTitle": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
+      "translatedTitle": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "NAI500",
+      "publishedAt": "2026-10-09T04:34:25.000Z",
+      "fact": "NAI500 報導：量子計算股票財報大比拼：虧錢越多，漲得越猛？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；量子計算股票財報大比拼：虧錢越多，漲得越猛？ &nbsp;&nbsp; NAI500。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://nai500.com/zh-hant/blog/2026/04/%E9%87%8F%E5%AD%90%E8%A8%88%E7%AE%97%E8%82%A1%E7%A5%A8%E8%B2%A1%E5%A0%B1%E5%A4%A7%E6%AF%94%E6%8B%BC%EF%BC%9A%E8%99%A7%E9%8C%A2%E8%B6%8A%E5%A4%9A%EF%BC%8C%E6%BC%B2%E5%BE%97%E8%B6%8A%E7%8C%9B%EF%BC%9F/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
       "subject": "OpenAI",
       "title": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags 晶片製造商 — NVDA, DIS, ORCL, SBUX In Focus",
       "originalTitle": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus",
@@ -291,27 +310,6 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/stocktwits:815daf0c7094b:0-nasdaq-100-ends-lower-as-report-of-weaker-than-expected-openai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "SpaceX",
-      "title": "SpaceX, Verizon, Delta, Humana, and More 股票 That Explain Today's 市場 — Barron’s.com",
-      "originalTitle": "SpaceX, Verizon, Delta, Humana, and More Stocks That Explain Today's Market -- Barrons.com",
-      "translatedTitle": "SpaceX, Verizon, Delta, Humana, and More 股票 That Explain Today's 市場 — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-09T10:37:00.000Z",
-      "fact": "富途牛牛 報導：SpaceX, Verizon, Delta, Humana, and More 股票 That Explain Today's 市場 — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SpaceX, Verizon, Delta, Humana, and More Stocks That Explain Today's Market -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1000794825/spacex-verizon-delta-humana-and-more-stocks-that-explain-today"
     }
   ]
 }
