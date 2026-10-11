@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-10-11T00:34:41.780Z",
+  "generatedAt": "2026-10-11T02:37:18.290Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "AI又失控！竟向美國警方謊報凶殺案檢舉 自稱「看到可疑的",
+      "title": "AI又失控！竟向美國警方謊報凶殺案檢舉 自稱「看到可疑的人」",
+      "originalTitle": "AI又失控！竟向美國警方謊報凶殺案檢舉 自稱「看到可疑的人」",
+      "translatedTitle": "AI又失控！竟向美國警方謊報凶殺案檢舉 自稱「看到可疑的人」",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "梅花新聞網",
+      "publishedAt": "2026-10-11T02:00:00.000Z",
+      "fact": "梅花新聞網 報導：AI又失控！竟向美國警方謊報凶殺案檢舉 自稱「看到可疑的人」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI又失控！竟向美國警方謊報凶殺案檢舉 自稱「看到可疑的人」 &nbsp;&nbsp; 梅花新聞網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.i-meihua.com/Article/Detail/57405"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "川普白宮會AI巨頭 簽自律承諾",
       "title": "川普白宮會AI巨頭 簽自律承諾",
@@ -23,7 +43,7 @@
       "url": "https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/159897/"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Tesla",
       "title": "AI 被改名 SI！川普行政命令要「正名」，馬斯克響應 SpaceXAI、Tesla 接力換招牌",
@@ -43,7 +63,7 @@
       "url": "https://www.kocpc.com.tw/archives/671635"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "AI 駭客攻擊頻傳恐釀災難 業者擔憂公眾反彈 川普組專責",
       "title": "AI 駭客攻擊頻傳恐釀災難 業者擔憂公眾反彈 川普組專責小組",
@@ -63,44 +83,25 @@
       "url": "https://sunmedia.tw/news/technology/1791593326-AI%20%E9%A7%AD%E5%AE%A2%E6%94%BB%E6%93%8A%E9%A0%BB%E5%82%B3%E6%81%90%E9%87%80%E7%81%BD%E9%9B%A3%20%E6%A5%AD%E8%80%85%E6%93%94%E6%86%82%E5%85%AC%E7%9C%BE%E5%8F%8D%E5%BD%88%20%E5%B7%9D%E6%99%AE%E7%B5%84%E5%B0%88%E8%B2%AC%E5%B0%8F%E7%B5%84"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Googlebook 筆電首波評價超慘 外媒狠批：主打功能都用不了",
-      "originalTitle": "Googlebook 筆電首波評價超慘　外媒狠批：主打功能都用不了",
-      "translatedTitle": "Googlebook 筆電首波評價超慘 外媒狠批：主打功能都用不了",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "ETtoday新聞雲",
-      "publishedAt": "2026-10-10T11:23:00.000Z",
-      "fact": "ETtoday新聞雲 報導：Googlebook 筆電首波評價超慘 外媒狠批：主打功能都用不了",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Googlebook 筆電首波評價超慘 外媒狠批：主打功能都用不了 &nbsp;&nbsp; ETtoday新聞雲。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://www.ettoday.net/news/20261010/3252135.htm"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上",
-      "originalTitle": "扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上",
-      "translatedTitle": "扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上",
+      "subject": "Anthropic",
+      "title": "自行申請簽證、謊報凶案線索 Anthropic再爆AI失控",
+      "originalTitle": "自行申請簽證、謊報凶案線索 Anthropic再爆AI失控",
+      "translatedTitle": "自行申請簽證、謊報凶案線索 Anthropic再爆AI失控",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "BBC",
-      "publishedAt": "2026-10-09T08:21:08.000Z",
-      "fact": "BBC 報導：扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上 &nbsp;&nbsp; BBC。",
+      "category": "前沿模型",
+      "source": "中央社 CNA",
+      "publishedAt": "2026-10-10T03:28:00.000Z",
+      "fact": "中央社 CNA 報導：自行申請簽證、謊報凶案線索 Anthropic再爆AI失控",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；自行申請簽證、謊報凶案線索 Anthropic再爆AI失控 &nbsp;&nbsp; 中央社 CNA。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Meta"
+        "Anthropic",
+        "AI"
       ],
-      "url": "https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad"
+      "url": "https://www.cna.com.tw/news/aopl/202610100059.aspx"
     },
     {
       "id": "全球財經脈動-1",
