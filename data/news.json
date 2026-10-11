@@ -1,30 +1,89 @@
 {
-  "generatedAt": "2026-10-10T03:05:34.936Z",
+  "generatedAt": "2026-10-11T00:34:41.780Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "AI 財經快訊：Anthropic AI model submits false homicide tip to police website",
-      "originalTitle": "Anthropic AI model submits false homicide tip to police website",
-      "translatedTitle": "AI 財經快訊：Anthropic AI model submits false homicide tip to police website",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-09T19:21:18.000Z",
-      "fact": "Yahoo 報導：AI 財經快訊：Anthropic AI model submits false homicide tip to police website",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic AI model submits false homicide tip to police website &nbsp;&nbsp; Yahoo。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "subject": "川普白宮會AI巨頭 簽自律承諾",
+      "title": "川普白宮會AI巨頭 簽自律承諾",
+      "originalTitle": "川普白宮會AI巨頭 簽自律承諾",
+      "translatedTitle": "川普白宮會AI巨頭 簽自律承諾",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "美洲台灣日報",
+      "publishedAt": "2026-10-10T22:07:16.000Z",
+      "fact": "美洲台灣日報 報導：川普白宮會AI巨頭 簽自律承諾",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普白宮會AI巨頭 簽自律承諾 &nbsp;&nbsp; 美洲台灣日報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
         "AI"
       ],
-      "url": "https://hk.news.yahoo.com/us/articles/anthropic-ai-model-submits-false-192118108.html"
+      "url": "https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/159897/"
     },
     {
       "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Tesla",
+      "title": "AI 被改名 SI！川普行政命令要「正名」，馬斯克響應 SpaceXAI、Tesla 接力換招牌",
+      "originalTitle": "AI 被改名 SI！川普行政命令要「正名」，馬斯克響應 SpaceXAI、Tesla 接力換招牌",
+      "translatedTitle": "AI 被改名 SI！川普行政命令要「正名」，馬斯克響應 SpaceXAI、Tesla 接力換招牌",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "電腦王阿達",
+      "publishedAt": "2026-10-10T22:16:31.000Z",
+      "fact": "電腦王阿達 報導：AI 被改名 SI！川普行政命令要「正名」，馬斯克響應 SpaceXAI、Tesla 接力換招牌",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 被改名 SI！川普行政命令要「正名」，馬斯克響應 SpaceXAI、Tesla 接力換招牌 &nbsp;&nbsp; 電腦王阿達。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.kocpc.com.tw/archives/671635"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "AI 駭客攻擊頻傳恐釀災難 業者擔憂公眾反彈 川普組專責",
+      "title": "AI 駭客攻擊頻傳恐釀災難 業者擔憂公眾反彈 川普組專責小組",
+      "originalTitle": "AI 駭客攻擊頻傳恐釀災難 業者擔憂公眾反彈 川普組專責小組",
+      "translatedTitle": "AI 駭客攻擊頻傳恐釀災難 業者擔憂公眾反彈 川普組專責小組",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "商傳媒",
+      "publishedAt": "2026-10-10T07:36:23.000Z",
+      "fact": "商傳媒 報導：AI 駭客攻擊頻傳恐釀災難 業者擔憂公眾反彈 川普組專責小組",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 駭客攻擊頻傳恐釀災難 業者擔憂公眾反彈 川普組專責小組 &nbsp;&nbsp; 商傳媒。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://sunmedia.tw/news/technology/1791593326-AI%20%E9%A7%AD%E5%AE%A2%E6%94%BB%E6%93%8A%E9%A0%BB%E5%82%B3%E6%81%90%E9%87%80%E7%81%BD%E9%9B%A3%20%E6%A5%AD%E8%80%85%E6%93%94%E6%86%82%E5%85%AC%E7%9C%BE%E5%8F%8D%E5%BD%88%20%E5%B7%9D%E6%99%AE%E7%B5%84%E5%B0%88%E8%B2%AC%E5%B0%8F%E7%B5%84"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Googlebook 筆電首波評價超慘 外媒狠批：主打功能都用不了",
+      "originalTitle": "Googlebook 筆電首波評價超慘　外媒狠批：主打功能都用不了",
+      "translatedTitle": "Googlebook 筆電首波評價超慘 外媒狠批：主打功能都用不了",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "ETtoday新聞雲",
+      "publishedAt": "2026-10-10T11:23:00.000Z",
+      "fact": "ETtoday新聞雲 報導：Googlebook 筆電首波評價超慘 外媒狠批：主打功能都用不了",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Googlebook 筆電首波評價超慘 外媒狠批：主打功能都用不了 &nbsp;&nbsp; ETtoday新聞雲。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.ettoday.net/news/20261010/3252135.htm"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "扎克伯格的形象岌岌可危，但Meta的業務卻蒸蒸日上",
@@ -44,85 +103,24 @@
       "url": "https://www.bbc.com/zhongwen/articles/cvj6jz6e89n2o/trad"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "不准再叫AI！川普：拒用SI就是白宮敵人 OpenAI剛表態不會改名",
-      "originalTitle": "不准再叫AI！川普：拒用SI就是白宮敵人　OpenAI剛表態不會改名",
-      "translatedTitle": "不准再叫AI！川普：拒用SI就是白宮敵人 OpenAI剛表態不會改名",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "NOWnews今日新聞",
-      "publishedAt": "2026-10-09T08:12:07.000Z",
-      "fact": "NOWnews今日新聞 報導：不准再叫AI！川普：拒用SI就是白宮敵人 OpenAI剛表態不會改名",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；不准再叫AI！川普：拒用SI就是白宮敵人 OpenAI剛表態不會改名 &nbsp;&nbsp; NOWnews今日新聞。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://www.nownews.com/news/6881997"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI",
-      "originalTitle": "川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI",
-      "translatedTitle": "川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 晶片",
-      "source": "動區動趨",
-      "publishedAt": "2026-10-09T06:56:57.000Z",
-      "fact": "動區動趨 報導：川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普政府砸 60 億美元開啟「科學黃金時代」！白宮聯手 NVIDIA、OpenAI 押注超級智慧 SI &nbsp;&nbsp; 動區動趨。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://www.blocktempo.com/white-house-6-billion-science-golden-age-super-intelligence/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Why Oracle (ORCL) 股價 Are Tra",
-      "title": "Why Oracle (ORCL) 股價 Are Trading Lower Today",
-      "originalTitle": "Why Oracle (ORCL) Shares Are Trading Lower Today",
-      "translatedTitle": "Why Oracle (ORCL) 股價 Are Trading Lower Today",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-08T19:40:59.000Z",
-      "fact": "TradingView 報導：Why Oracle (ORCL) 股價 Are Trading Lower Today",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Why Oracle (ORCL) Shares Are Trading Lower Today &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://tw.tradingview.com/news/stockstory:a07825300094b:0-why-oracle-orcl-shares-are-trading-lower-today/"
-    },
-    {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "Aehr Test Systems將於2026年11月2",
-      "title": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
-      "originalTitle": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
-      "translatedTitle": "Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》Lai calls for ‘guardian mountain chain’",
+      "originalTitle": "《TAIPEI TIMES》Lai calls for ‘guardian mountain chain’",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》Lai calls for ‘guardian mountain chain’",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-08T11:30:00.000Z",
-      "fact": "Moomoo 報導：Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Aehr Test Systems將於2026年11月2日公佈2027財年第一季度財務業績 &nbsp;&nbsp; Moomoo。",
+      "source": "自由時報",
+      "publishedAt": "2026-10-10T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》Lai calls for ‘guardian mountain chain’",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》Lai calls for ‘guardian mountain chain’ &nbsp;&nbsp; 自由時報。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經"
+        "全球財經",
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1000762432/aehr-test-systems-to-announce-first-quarter-fiscal-2027-financial"
+      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5602246"
     },
     {
       "id": "全球財經脈動-2",
@@ -147,132 +145,88 @@
       "url": "https://news.futunn.com/en/post/1000807860/nvidia-nvdaus-backed-ai-data-center-firm-firmus-sees-ipo"
     },
     {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
-      "originalTitle": "《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "自由時報",
-      "publishedAt": "2026-10-08T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 Working with Taiwan key to regional stability, Tsai says &nbsp;&nbsp; 自由時報。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5600420"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "Schneider Electric Pioneers ",
-      "title": "Schneider Electric Pioneers 能源 Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
-      "originalTitle": "Schneider Electric Pioneers Energy Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
-      "translatedTitle": "Schneider Electric Pioneers 能源 Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Media OutReach Newswire",
-      "publishedAt": "2026-10-08T12:48:00.000Z",
-      "fact": "Media OutReach Newswire 報導：Schneider Electric Pioneers 能源 Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Summit Hong Kong 2026 #SchneiderElectric",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Schneider Electric Pioneers Energy Technology to Accelerate Smart Transformation and Sustainable Growth at Innovation Su。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://www.media-outreach.com/news/hong-kong/2026/10/08/492782/schneider-electric-pioneers-energy-technology-to-accelerate-smart-transformation-and-sustainable-growth-at-innovation-summit-hong-kong-2026/"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "As AI chip production ramps ",
-      "title": "As AI chip production ramps up, 資料中心 face power shortages: 半導體 shipment forecasts are under test",
-      "originalTitle": "As AI chip production ramps up, data centers face power shortages: Semiconductor shipment forecasts are under test",
-      "translatedTitle": "As AI chip production ramps up, 資料中心 face power shortages: 半導體 shipment forecasts are under test",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-08T12:23:49.000Z",
-      "fact": "富途牛牛 報導：As AI chip production ramps up, 資料中心 face power shortages: 半導體 shipment forecasts are under test",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；As AI chip production ramps up, data centers face power shortages: Semiconductor shipment forecasts are under test &nbsp。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "data center",
-        "semiconductor"
-      ],
-      "url": "https://news.futunn.com/en/post/1000726466/as-ai-chip-production-ramps-up-data-centers-face-power"
-    },
-    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "U.S. AI 晶片股 rose collectivel",
-      "title": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Broadcom gaining more than 2%.",
-      "originalTitle": "U.S. AI chip stocks rose collectively in pre-market trading, with Broadcom gaining more than 2%.",
-      "translatedTitle": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Broadcom gaining more than 2%.",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "AI營收疑慮令半導體股從10月高點回落",
+      "title": "AI營收疑慮令半導體股從10月高點回落",
+      "originalTitle": "AI營收疑慮令半導體股從10月高點回落",
+      "translatedTitle": "AI營收疑慮令半導體股從10月高點回落",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-09T15:19:59.000Z",
-      "fact": "富途牛牛 報導：U.S. AI 晶片股 rose collectively in pre-市場 trading, with Broadcom gaining more than 2%.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. AI chip stocks rose collectively in pre-market trading, with Broadcom gaining more than 2%. &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-10-10T16:38:00.000Z",
+      "fact": "富途牛牛 報導：AI營收疑慮令半導體股從10月高點回落",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI營收疑慮令半導體股從10月高點回落 &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "stocks"
+        "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1000781448/us-ai-chip-stocks-rose-collectively-in-pre-market-trading"
+      "url": "https://news.futunn.com/hk/post/1000834725/ai-revenue-questions-pull-semiconductor-stocks-off-october-highs"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "輝達",
-      "title": "輝達, AMD, Intel 股票 fall despite record AI 需求: has the easy money gone?",
-      "originalTitle": "Nvidia, AMD, Intel stocks fall despite record AI demand: has the easy money gone?",
-      "translatedTitle": "輝達, AMD, Intel 股票 fall despite record AI 需求: has the easy money gone?",
+      "subject": "Why 輝達's 股票 Is Dodging the A",
+      "title": "Why 輝達's 股票 Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
+      "originalTitle": "Why Nvidia's Stock Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
+      "translatedTitle": "Why 輝達's 股票 Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-08T10:27:39.000Z",
-      "fact": "TradingView 報導：輝達, AMD, Intel 股票 fall despite record AI 需求: has the easy money gone?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia, AMD, Intel stocks fall despite record AI demand: has the easy money gone? &nbsp;&nbsp; TradingView。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-10T12:47:28.000Z",
+      "fact": "Moomoo 報導：Why 輝達's 股票 Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Nvidia's Stock Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "Nvidia",
-        "AI",
-        "stocks"
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/invezz:658b313d7094b:0-nvidia-amd-intel-stocks-fall-despite-record-ai-demand-has-the-easy-money-gone/"
+      "url": "https://www.moomoo.com/hant/news/post/1000874958/why-nvidia-s-stock-is-dodging-the-ai-credit-scare"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "費城半導體跌超3%！晟碟大跌5%，花旗指AI資本支出仍擴",
-      "title": "費城半導體跌超3%！晟碟大跌5%，花旗指AI資本支出仍擴張但獲利前景分化",
-      "originalTitle": "費城半導體跌超3%！晟碟大跌5%，花旗指AI資本支出仍擴張但獲利前景分化",
-      "translatedTitle": "費城半導體跌超3%！晟碟大跌5%，花旗指AI資本支出仍擴張但獲利前景分化",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "What's Going On With Applied",
+      "title": "What's Going On With Applied Optoelectronics 股票 Friday?",
+      "originalTitle": "What's Going On With Applied Optoelectronics Stock Friday?",
+      "translatedTitle": "What's Going On With Applied Optoelectronics 股票 Friday?",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-08T17:23:08.000Z",
-      "fact": "TradingKey 報導：費城半導體跌超3%！晟碟大跌5%，花旗指AI資本支出仍擴張但獲利前景分化",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；費城半導體跌超3%！晟碟大跌5%，花旗指AI資本支出仍擴張但獲利前景分化 &nbsp;&nbsp; TradingKey。",
+      "source": "TradingView",
+      "publishedAt": "2026-10-09T10:45:03.000Z",
+      "fact": "TradingView 報導：What's Going On With Applied Optoelectronics 股票 Friday?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；What's Going On With Applied Optoelectronics Stock Friday? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262206780-us-ai-hardware-stock-drop-citigroup-capex-divergence-semiconductor-q3-earnings-sandisk-micron-tradingkey"
+      "url": "https://tw.tradingview.com/news/benzinga:1a6b08a21094b:0-what-s-going-on-with-applied-optoelectronics-stock-friday/"
     },
     {
       "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Why 輝達's 股票 Is Dodging the A",
+      "title": "Why 輝達's 股票 Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
+      "originalTitle": "Why Nvidia's Stock Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
+      "translatedTitle": "Why 輝達's 股票 Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-10T13:48:30.000Z",
+      "fact": "富途牛牛 報導：Why 輝達's 股票 Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Nvidia's Stock Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/1000832644/why-nvidia-s-stock-is-dodging-the-ai-credit-scare"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "量子計算股票財報大比拼",
       "title": "量子計算股票財報大比拼：虧錢越多，漲得越猛？",
@@ -289,27 +243,6 @@
         "市場焦點"
       ],
       "url": "https://nai500.com/zh-hant/blog/2026/04/%E9%87%8F%E5%AD%90%E8%A8%88%E7%AE%97%E8%82%A1%E7%A5%A8%E8%B2%A1%E5%A0%B1%E5%A4%A7%E6%AF%94%E6%8B%BC%EF%BC%9A%E8%99%A7%E9%8C%A2%E8%B6%8A%E5%A4%9A%EF%BC%8C%E6%BC%B2%E5%BE%97%E8%B6%8A%E7%8C%9B%EF%BC%9F/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "OpenAI",
-      "title": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags 晶片製造商 — NVDA, DIS, ORCL, SBUX In Focus",
-      "originalTitle": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus",
-      "translatedTitle": "Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags 晶片製造商 — NVDA, DIS, ORCL, SBUX In Focus",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "TradingView",
-      "publishedAt": "2026-10-08T22:55:19.000Z",
-      "fact": "TradingView 報導：Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags 晶片製造商 — NVDA, DIS, ORCL, SBUX In Focus",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nasdaq 100 Ends Lower As Report Of Weaker-Than-Expected OpenAI Revenue Drags Chipmakers — NVDA, DIS, ORCL, SBUX In Focus。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/stocktwits:815daf0c7094b:0-nasdaq-100-ends-lower-as-report-of-weaker-than-expected-openai-revenue-drags-chipmakers-nvda-dis-orcl-sbux-in-focus/"
     }
   ]
 }
