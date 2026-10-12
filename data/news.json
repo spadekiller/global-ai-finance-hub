@@ -1,29 +1,50 @@
 {
-  "generatedAt": "2026-10-12T00:50:01.941Z",
+  "generatedAt": "2026-10-12T03:01:21.305Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "防範 AI 風險，微軟 CEO 納德拉",
-      "title": "防範 AI 風險，微軟 CEO 納德拉：須由人類設立與執行煞車機制",
-      "originalTitle": "防範 AI 風險，微軟 CEO 納德拉：須由人類設立與執行煞車機制",
-      "translatedTitle": "防範 AI 風險，微軟 CEO 納德拉：須由人類設立與執行煞車機制",
+      "subject": "Anthropic",
+      "title": "Anthropic 揭露 AI 代理測試失控，Claude 竟向費城警方送出假命案線報",
+      "originalTitle": "Anthropic 揭露 AI 代理測試失控，Claude 竟向費城警方送出假命案線報",
+      "translatedTitle": "Anthropic 揭露 AI 代理測試失控，Claude 竟向費城警方送出假命案線報",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
+      "category": "前沿模型",
       "source": "TechNews 科技新報",
-      "publishedAt": "2026-10-12T00:16:29.000Z",
-      "fact": "TechNews 科技新報 報導：防範 AI 風險，微軟 CEO 納德拉：須由人類設立與執行煞車機制",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；防範 AI 風險，微軟 CEO 納德拉：須由人類設立與執行煞車機制 &nbsp;&nbsp; TechNews 科技新報。",
+      "publishedAt": "2026-10-12T02:50:58.000Z",
+      "fact": "TechNews 科技新報 報導：Anthropic 揭露 AI 代理測試失控，Claude 竟向費城警方送出假命案線報",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 揭露 AI 代理測試失控，Claude 竟向費城警方送出假命案線報 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://infosecu.technews.tw/2026/10/12/anthropic-ai-model-sent-fake-homicide-tip-to-philadelphia-police/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "蘋果招募由NotebookLM前員工合組的AI podc",
+      "title": "蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
+      "originalTitle": "蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
+      "translatedTitle": "蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "iThome",
+      "publishedAt": "2026-10-12T00:33:45.000Z",
+      "fact": "iThome 報導：蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果招募由NotebookLM前員工合組的AI podcast App公司Huxe &nbsp;&nbsp; iThome。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://infosecu.technews.tw/2026/10/12/microsofts-nadella-says-ai-needs-an-emergency-brake-that-humans-control/"
+      "url": "https://www.ithome.com.tw/news/179564"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "AI又失控！竟向美國警方謊報凶殺案檢舉 自稱「看到可疑的",
       "title": "AI又失控！竟向美國警方謊報凶殺案檢舉 自稱「看到可疑的人」",
@@ -43,7 +64,7 @@
       "url": "https://www.i-meihua.com/Article/Detail/57405"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "美國要求AI事故及時披露，企業如何承擔補救責任？",
       "title": "美國要求AI事故及時披露，企業如何承擔補救責任？",
@@ -63,7 +84,7 @@
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/GlobalArticle?ContentId"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "【2026",
       "title": "【2026-10-12】《商傳媒｜AI產業一週大事》AI發展的雙面刃：投資競逐與風險管控的急迫性",
@@ -81,26 +102,6 @@
         "AI"
       ],
       "url": "https://sunmedia.tw/news/finance/1791734817-%E3%80%902026-10-12%E3%80%91%E3%80%8A%E5%95%86%E5%82%B3%E5%AA%92%EF%BD%9CAI%E7%94%A2%E6%A5%AD%E4%B8%80%E9%80%B1%E5%A4%A7%E4%BA%8B%E3%80%8BAI%E7%99%BC%E5%B1%95%E7%9A%84%E9%9B%99%E9%9D%A2%E5%88%83%EF%BC%9A%E6%8A%95%E8%B3%87%E7%AB%B6%E9%80%90%E8%88%87%E9%A2%A8%E9%9A%AA%E7%AE%A1%E6%8E%A7%E7%9A%84%E6%80%A5%E8%BF%AB%E6%80%A7"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "微軟與 輝達 聯手定義未來 PC",
-      "title": "微軟與 輝達 聯手定義未來 PC：Satya Nadella 與黃仁勳對談「混合智慧」與 MXC 架構｜TN科技筆記(TechNotes) — 方格子",
-      "originalTitle": "微軟與 NVIDIA 聯手定義未來 PC：Satya Nadella 與黃仁勳對談「混合智慧」與 MXC 架構｜TN科技筆記(TechNotes) - 方格子",
-      "translatedTitle": "微軟與 輝達 聯手定義未來 PC：Satya Nadella 與黃仁勳對談「混合智慧」與 MXC 架構｜TN科技筆記(TechNotes) — 方格子",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "vocus",
-      "publishedAt": "2026-10-12T00:30:25.000Z",
-      "fact": "vocus 報導：微軟與 輝達 聯手定義未來 PC：Satya Nadella 與黃仁勳對談「混合智慧」與 MXC 架構｜TN科技筆記(TechNotes) — 方格子",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；微軟與 NVIDIA 聯手定義未來 PC：Satya Nadella 與黃仁勳對談「混合智慧」與 MXC 架構｜TN科技筆記(TechNotes) - 方格子 &nbsp;&nbsp; vocus。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Nvidia"
-      ],
-      "url": "https://vocus.cc/article/6acb8b67fd89780001ac8da0"
     },
     {
       "id": "全球財經脈動-1",
@@ -166,26 +167,6 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "We're About to Get a Huge Re",
-      "title": "We're About to Get a Huge Read on Whether 財報 Can Keep Propping up the 股票 市場",
-      "originalTitle": "We're About to Get a Huge Read on Whether Earnings Can Keep Propping up the Stock Market",
-      "translatedTitle": "We're About to Get a Huge Read on Whether 財報 Can Keep Propping up the 股票 市場",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-11T15:23:19.000Z",
-      "fact": "富途牛牛 報導：We're About to Get a Huge Read on Whether 財報 Can Keep Propping up the 股票 市場",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；We're About to Get a Huge Read on Whether Earnings Can Keep Propping up the Stock Market &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "earnings"
-      ],
-      "url": "https://news.futunn.com/en/post/1000842612/we-re-about-to-get-a-huge-read-on-whether"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
       "subject": "Why 輝達's 股票 Is Dodging the A",
       "title": "Why 輝達's 股票 Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
       "originalTitle": "Why Nvidia's Stock Is Dodging the AI Credit Scare That Is Crushing Broadcom and Oracle",
@@ -205,7 +186,7 @@
       "url": "https://news.futunn.com/en/post/1000832644/why-nvidia-s-stock-is-dodging-the-ai-credit-scare"
     },
     {
-      "id": "美股與全球市場焦點-5",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "【2026",
       "title": "【2026-10-12】《商傳媒｜美財經一週大事》AI熱潮與利率挑戰交織：美股牛市中的兩極分化",
@@ -223,6 +204,25 @@
         "AI"
       ],
       "url": "https://sunmedia.tw/news/finance/1791734817-%E3%80%902026-10-12%E3%80%91%E3%80%8A%E5%95%86%E5%82%B3%E5%AA%92%EF%BD%9C%E7%BE%8E%E8%B2%A1%E7%B6%93%E4%B8%80%E9%80%B1%E5%A4%A7%E4%BA%8B%E3%80%8BAI%E7%86%B1%E6%BD%AE%E8%88%87%E5%88%A9%E7%8E%87%E6%8C%91%E6%88%B0%E4%BA%A4%E7%B9%94%EF%BC%9A%E7%BE%8E%E8%82%A1%E7%89%9B%E5%B8%82%E4%B8%AD%E7%9A%84%E5%85%A9%E6%A5%B5%E5%88%86%E5%8C%96"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "一週前瞻",
+      "title": "一週前瞻：美國9月CPI和PPI重磅來襲，華爾街大型銀行財報季正式開啟，台積電財報成焦點",
+      "originalTitle": "一週前瞻：美國9月CPI和PPI重磅來襲，華爾街大型銀行財報季正式開啟，台積電財報成焦點",
+      "translatedTitle": "一週前瞻：美國9月CPI和PPI重磅來襲，華爾街大型銀行財報季正式開啟，台積電財報成焦點",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-11T06:04:01.000Z",
+      "fact": "TradingKey 報導：一週前瞻：美國9月CPI和PPI重磅來襲，華爾街大型銀行財報季正式開啟，台積電財報成焦點",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；一週前瞻：美國9月CPI和PPI重磅來襲，華爾街大型銀行財報季正式開啟，台積電財報成焦點 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262210227-weekly-preview-us-september-cpi-ppi-wall-street-banks-earnings-tsmc-tradingkey"
     }
   ]
 }
