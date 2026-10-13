@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-10-13T02:46:16.044Z",
+  "generatedAt": "2026-10-13T04:16:30.153Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "代理能力躍進！Meta發表Muse Wonder系列模型：性能緊追Claude Opus 5.5，任務成本飆2.8倍",
+      "originalTitle": "代理能力躍進！Meta發表Muse Wonder系列模型：性能緊追Claude Opus 5.5，任務成本飆2.8倍",
+      "translatedTitle": "代理能力躍進！Meta發表Muse Wonder系列模型：性能緊追Claude Opus 5.5，任務成本飆2.8倍",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "數位時代",
+      "publishedAt": "2026-10-13T03:25:00.000Z",
+      "fact": "數位時代 報導：代理能力躍進！Meta發表Muse Wonder系列模型：性能緊追Claude Opus 5.5，任務成本飆2.8倍",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；代理能力躍進！Meta發表Muse Wonder系列模型：性能緊追Claude Opus 5.5，任務成本飆2.8倍 &nbsp;&nbsp; 數位時代。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta"
+      ],
+      "url": "https://www.bnext.com.tw/article/92595/meta-muse-wonder-frontier-model-launch"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta 發佈 Muse Wonder 兩款模型 程式碼能力躍升至前沿水平",
@@ -23,7 +43,7 @@
       "url": "https://www.newmobilelife.com/2026/10/13/meta-muse-wonder-frontier-model/"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "【META震撼彈】Meta推兩新AI模型 Muse Wonder Full排世界第4 僅次Anthropic 股價一度升逾4.5%",
@@ -45,7 +65,28 @@
       "url": "https://inews.hket.com/article/4207932/%E3%80%90META%E9%9C%87%E6%92%BC%E5%BD%88%E3%80%91Meta%E6%8E%A8%E5%85%A9%E6%96%B0AI%E6%A8%A1%E5%9E%8B%E3%80%80Muse%20Wonder%20Full%E6%8E%92%E4%B8%96%E7%95%8C%E7%AC%AC4%E3%80%80%E5%83%85%E6%AC%A1Anthropic%E3%80%80%E8%82%A1%E5%83%B9%E4%B8%80%E5%BA%A6%E5%8D%87%E9%80%BE4.5-?mtc"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型",
+      "originalTitle": "Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型",
+      "translatedTitle": "Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "cyberq.tw",
+      "publishedAt": "2026-10-13T00:45:00.000Z",
+      "fact": "cyberq.tw 報導：Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型 &nbsp;&nbsp; cyberq.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://cyberq.tw/2026/10/13/meta-publishes-muse-wonder-ai-generated/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "AI 財經快訊：Meta Is Back on the AI Leaderboard With Its New Family of Wonder Models",
@@ -64,48 +105,6 @@
         "AI"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1000957773/meta-is-back-on-the-ai-leaderboard-with-its-new"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google強化Gemini企業應用 讓AI自主分工並追蹤任務進度",
-      "originalTitle": "Google強化Gemini企業應用 讓AI自主分工並追蹤任務進度",
-      "translatedTitle": "Google強化Gemini企業應用 讓AI自主分工並追蹤任務進度",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "科技島",
-      "publishedAt": "2026-10-12T06:29:56.000Z",
-      "fact": "科技島 報導：Google強化Gemini企業應用 讓AI自主分工並追蹤任務進度",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google強化Gemini企業應用 讓AI自主分工並追蹤任務進度 &nbsp;&nbsp; 科技島。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://www.technice.com.tw/issues/ai/327942/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "After 14 months, Meta has launched the Muse Wonder AI model, which boasts 'cutting-edge capabilities,' while Zuckerberg has rejected calls to 放緩 down its development.",
-      "originalTitle": "After 14 months, Meta has launched the Muse Wonder AI model, which boasts 'cutting-edge capabilities,' while Zuckerberg has rejected calls to slow down its development.",
-      "translatedTitle": "After 14 months, Meta has launched the Muse Wonder AI model, which boasts 'cutting-edge capabilities,' while Zuckerberg has rejected calls to 放緩 down its development.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-12T17:14:07.000Z",
-      "fact": "富途牛牛 報導：After 14 months, Meta has launched the Muse Wonder AI model, which boasts 'cutting-edge capabilities,' while Zuckerberg has rejected calls to 放緩 down its development.",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；After 14 months, Meta has launched the Muse Wonder AI model, which boasts 'cutting-edge capabilities,' while Zuckerberg。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/flash/1000911052/after-14-months-meta-has-launched-the-muse-wonder-ai"
     },
     {
       "id": "全球財經脈動-1",
@@ -153,6 +152,27 @@
     {
       "id": "全球財經脈動-3",
       "section": "全球財經脈動",
+      "subject": "ASML Holding's AI",
+      "title": "ASML Holding's AI-driven premium faces a major test with its Q3 財報 report; EUV orders and guidance may prove decisive for the 股票 price.",
+      "originalTitle": "ASML Holding's AI-driven premium faces a major test with its Q3 earnings report; EUV orders and guidance may prove decisive for the stock price.",
+      "translatedTitle": "ASML Holding's AI-driven premium faces a major test with its Q3 財報 report; EUV orders and guidance may prove decisive for the 股票 price.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-12T08:48:56.000Z",
+      "fact": "富途牛牛 報導：ASML Holding's AI-driven premium faces a major test with its Q3 財報 report; EUV orders and guidance may prove decisive for the 股票 price.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；ASML Holding's AI-driven premium faces a major test with its Q3 earnings report; EUV orders and guidance may prove decis。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "earnings"
+      ],
+      "url": "https://news.futunn.com/en/post/1000872887/asml-holding-s-ai-driven-premium-faces-a-major-test"
+    },
+    {
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
       "subject": "微軟 bets on homegrown AI chip",
       "title": "微軟 bets on homegrown AI chip to challenge 輝達",
       "originalTitle": "Microsoft bets on homegrown AI chip to challenge Nvidia",
@@ -173,7 +193,7 @@
       "url": "https://macaubusiness.com/microsoft-bets-on-homegrown-ai-chip-to-challenge-nvidia/"
     },
     {
-      "id": "全球財經脈動-4",
+      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "UBS Group identifies the nex",
       "title": "UBS Group identifies the next main theme for AI trading: power, 資料中心, and critical resources.",
@@ -194,48 +214,7 @@
       "url": "https://news.futunn.com/en/post/1000891586/ubs-group-identifies-the-next-main-theme-for-ai-trading"
     },
     {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "ASML Holding's AI",
-      "title": "ASML Holding's AI-driven premium faces a major test with its Q3 財報 report; EUV orders and guidance may prove decisive for the 股票 price.",
-      "originalTitle": "ASML Holding's AI-driven premium faces a major test with its Q3 earnings report; EUV orders and guidance may prove decisive for the stock price.",
-      "translatedTitle": "ASML Holding's AI-driven premium faces a major test with its Q3 財報 report; EUV orders and guidance may prove decisive for the 股票 price.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-12T08:48:56.000Z",
-      "fact": "富途牛牛 報導：ASML Holding's AI-driven premium faces a major test with its Q3 財報 report; EUV orders and guidance may prove decisive for the 股票 price.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；ASML Holding's AI-driven premium faces a major test with its Q3 earnings report; EUV orders and guidance may prove decis。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://news.futunn.com/en/post/1000872887/asml-holding-s-ai-driven-premium-faces-a-major-test"
-    },
-    {
       "id": "美股與全球市場焦點-1",
-      "section": "美股與全球市場焦點",
-      "subject": "微軟 Corporation (MSFT) 股價、新聞、",
-      "title": "微軟 Corporation (MSFT) 股價、新聞、報價和記錄",
-      "originalTitle": "Microsoft Corporation (MSFT) 股價、新聞、報價和記錄",
-      "translatedTitle": "微軟 Corporation (MSFT) 股價、新聞、報價和記錄",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Yahoo 財經",
-      "publishedAt": "2026-10-12T03:31:08.000Z",
-      "fact": "Yahoo 財經 報導：微軟 Corporation (MSFT) 股價、新聞、報價和記錄",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft Corporation (MSFT) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Microsoft"
-      ],
-      "url": "https://hk.finance.yahoo.com/quote/MSFT/"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "存儲器和半導體類股失去上漲動能，比特幣反彈，顯示出投資者",
       "title": "存儲器和半導體類股失去上漲動能，比特幣反彈，顯示出投資者關注點正在轉變",
@@ -252,6 +231,26 @@
         "市場焦點"
       ],
       "url": "https://news.futunn.com/hk/post/75517509/memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行",
+      "title": "不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情",
+      "originalTitle": "不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情",
+      "translatedTitle": "不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "經濟日報",
+      "publishedAt": "2026-10-11T17:39:25.000Z",
+      "fact": "經濟日報 報導：不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情 &nbsp;&nbsp; 經濟日報。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://money.udn.com/money/story/5599/9808294"
     },
     {
       "id": "美股與全球市場焦點-3",
