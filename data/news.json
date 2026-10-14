@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-10-14T00:44:32.466Z",
+  "generatedAt": "2026-10-14T02:28:20.753Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "【因約眺望專欄】豈能將AI改名SI呢？",
+      "title": "【因約眺望專欄】豈能將AI改名SI呢？",
+      "originalTitle": "【因約眺望專欄】豈能將AI改名SI呢？",
+      "translatedTitle": "【因約眺望專欄】豈能將AI改名SI呢？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "基督教今日報",
+      "publishedAt": "2026-10-14T02:02:26.000Z",
+      "fact": "基督教今日報 報導：【因約眺望專欄】豈能將AI改名SI呢？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【因約眺望專欄】豈能將AI改名SI呢？ &nbsp;&nbsp; 基督教今日報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://cdn-news.org/ColumnistArticle.aspx?EntityID"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Siri AI 對決 Alexa+、Gemini！智慧家",
+      "title": "Siri AI 對決 Alexa+、Gemini！智慧家庭換機潮來了?三家產品大PK",
+      "originalTitle": "Siri AI 對決 Alexa+、Gemini！智慧家庭換機潮來了?三家產品大PK",
+      "translatedTitle": "Siri AI 對決 Alexa+、Gemini！智慧家庭換機潮來了?三家產品大PK",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "鉅亨網",
+      "publishedAt": "2026-10-14T01:49:57.000Z",
+      "fact": "鉅亨網 報導：Siri AI 對決 Alexa+、Gemini！智慧家庭換機潮來了?三家產品大PK",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Siri AI 對決 Alexa+、Gemini！智慧家庭換機潮來了?三家產品大PK &nbsp;&nbsp; 鉅亨網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://news.cnyes.com/news/id/6629838"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "【即時新聞】Meta(META)發布最新AI模型獲狂讚！目標價上看1000美元帶動股價大漲",
@@ -24,28 +64,7 @@
       "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-516810af-c736-11f1-9fe8-c2300f36fddc"
     },
     {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude",
-      "originalTitle": "砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude",
-      "translatedTitle": "砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "鉅亨網",
-      "publishedAt": "2026-10-13T07:08:23.000Z",
-      "fact": "鉅亨網 報導：砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude &nbsp;&nbsp; 鉅亨網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://news.cnyes.com/news/id/6628945"
-    },
-    {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "代理能力躍進！Meta發表Muse Wonder系列模型：性能緊追Claude Opus 5.5，任務成本飆2.8倍",
@@ -65,7 +84,7 @@
       "url": "https://www.bnext.com.tw/article/92595/meta-muse-wonder-frontier-model-launch"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta發表全新Muse Wonder AI模型，主打「主動記憶」與進階編碼能力",
@@ -84,27 +103,6 @@
         "AI"
       ],
       "url": "https://mashdigi.com/meta-unveils-its-new-muse-wonder-ai-model-highlighting-its-active-memory-and-advanced-coding-capabilities/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩",
-      "originalTitle": "OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩",
-      "translatedTitle": "OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "T客邦",
-      "publishedAt": "2026-10-13T07:30:00.000Z",
-      "fact": "T客邦 報導：OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩 &nbsp;&nbsp; T客邦。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://www.techbang.com/posts/133976-chatgpt-interactive-charts-and-buttons"
     },
     {
       "id": "全球財經脈動-1",
@@ -170,27 +168,6 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Meta",
-      "title": "Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗",
-      "originalTitle": "Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗",
-      "translatedTitle": "Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-13T16:16:29.000Z",
-      "fact": "TradingKey 報導：Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262214460-meta-stock-near-alltime-high-q3-earnings-ai-monetization-capex-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
       "subject": "Michael Burry's Big Short Ge",
       "title": "Michael Burry's Big Short Gets Broader: 輝達-Heavy Chip ETF, Nasdaq Now in Focus",
       "originalTitle": "Michael Burry's Big Short Gets Broader: Nvidia-Heavy Chip ETF, Nasdaq Now in Focus",
@@ -209,7 +186,7 @@
       "url": "https://tw.tradingview.com/news/benzinga:1d48996d0094b:0-michael-burry-s-big-short-gets-broader-nvidia-heavy-chip-etf-nasdaq-now-in-focus/"
     },
     {
-      "id": "美股與全球市場焦點-5",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Investors Are Split on AI Bu",
       "title": "Investors Are Split on AI Bubble 風險 but Still Piling into the 股票",
@@ -228,6 +205,27 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1001044466/investors-are-split-on-ai-bubble-risks-but-still-piling"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "微軟 股票 Heads for a Record Hig",
+      "title": "微軟 股票 Heads for a Record High With More AI Upside Ahead",
+      "originalTitle": "Microsoft Stock Heads for a Record High With More AI Upside Ahead",
+      "translatedTitle": "微軟 股票 Heads for a Record High With More AI Upside Ahead",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-13T16:08:29.000Z",
+      "fact": "Moomoo 報導：微軟 股票 Heads for a Record High With More AI Upside Ahead",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft Stock Heads for a Record High With More AI Upside Ahead &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Microsoft",
+        "AI"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1001051758/microsoft-stock-heads-for-a-record-high-with-more-ai"
     }
   ]
 }
