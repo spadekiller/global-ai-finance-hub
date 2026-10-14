@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-10-13T04:16:30.153Z",
+  "generatedAt": "2026-10-14T00:44:32.466Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "【即時新聞】Meta(META)發布最新AI模型獲狂讚！目標價上看1000美元帶動股價大漲",
+      "originalTitle": "【即時新聞】Meta(META)發布最新AI模型獲狂讚！目標價上看1000美元帶動股價大漲",
+      "translatedTitle": "【即時新聞】Meta(META)發布最新AI模型獲狂讚！目標價上看1000美元帶動股價大漲",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-10-13T18:45:53.000Z",
+      "fact": "CMoney投資網誌 報導：【即時新聞】Meta(META)發布最新AI模型獲狂讚！目標價上看1000美元帶動股價大漲",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【即時新聞】Meta(META)發布最新AI模型獲狂讚！目標價上看1000美元帶動股價大漲 &nbsp;&nbsp; CMoney投資網誌。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://cmnews.com.tw/article/newsyoudeservetoknow-516810af-c736-11f1-9fe8-c2300f36fddc"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude",
+      "originalTitle": "砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude",
+      "translatedTitle": "砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "鉅亨網",
+      "publishedAt": "2026-10-13T07:08:23.000Z",
+      "fact": "鉅亨網 報導：砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；砸重金挖人才終於交卷！Meta推最強AI模型 叫陣ChatGPT與Claude &nbsp;&nbsp; 鉅亨網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://news.cnyes.com/news/id/6628945"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "代理能力躍進！Meta發表Muse Wonder系列模型：性能緊追Claude Opus 5.5，任務成本飆2.8倍",
@@ -23,114 +65,49 @@
       "url": "https://www.bnext.com.tw/article/92595/meta-muse-wonder-frontier-model-launch"
     },
     {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta 發佈 Muse Wonder 兩款模型 程式碼能力躍升至前沿水平",
-      "originalTitle": "Meta 發佈 Muse Wonder 兩款模型 程式碼能力躍升至前沿水平",
-      "translatedTitle": "Meta 發佈 Muse Wonder 兩款模型 程式碼能力躍升至前沿水平",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "流動日報",
-      "publishedAt": "2026-10-12T20:18:27.000Z",
-      "fact": "流動日報 報導：Meta 發佈 Muse Wonder 兩款模型 程式碼能力躍升至前沿水平",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 發佈 Muse Wonder 兩款模型 程式碼能力躍升至前沿水平 &nbsp;&nbsp; 流動日報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta"
-      ],
-      "url": "https://www.newmobilelife.com/2026/10/13/meta-muse-wonder-frontier-model/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "【META震撼彈】Meta推兩新AI模型 Muse Wonder Full排世界第4 僅次Anthropic 股價一度升逾4.5%",
-      "originalTitle": "【META震撼彈】Meta推兩新AI模型 Muse Wonder Full排世界第4 僅次Anthropic 股價一度升逾4.5%",
-      "translatedTitle": "【META震撼彈】Meta推兩新AI模型 Muse Wonder Full排世界第4 僅次Anthropic 股價一度升逾4.5%",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "香港經濟日報HKET",
-      "publishedAt": "2026-10-12T23:53:37.000Z",
-      "fact": "香港經濟日報HKET 報導：【META震撼彈】Meta推兩新AI模型 Muse Wonder Full排世界第4 僅次Anthropic 股價一度升逾4.5%",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【META震撼彈】Meta推兩新AI模型 Muse Wonder Full排世界第4 僅次Anthropic 股價一度升逾4.5% &nbsp;&nbsp; 香港經濟日報HKET。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://inews.hket.com/article/4207932/%E3%80%90META%E9%9C%87%E6%92%BC%E5%BD%88%E3%80%91Meta%E6%8E%A8%E5%85%A9%E6%96%B0AI%E6%A8%A1%E5%9E%8B%E3%80%80Muse%20Wonder%20Full%E6%8E%92%E4%B8%96%E7%95%8C%E7%AC%AC4%E3%80%80%E5%83%85%E6%AC%A1Anthropic%E3%80%80%E8%82%A1%E5%83%B9%E4%B8%80%E5%BA%A6%E5%8D%87%E9%80%BE4.5-?mtc"
-    },
-    {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Meta",
-      "title": "Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型",
-      "originalTitle": "Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型",
-      "translatedTitle": "Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型",
+      "title": "Meta發表全新Muse Wonder AI模型，主打「主動記憶」與進階編碼能力",
+      "originalTitle": "Meta發表全新Muse Wonder AI模型，主打「主動記憶」與進階編碼能力",
+      "translatedTitle": "Meta發表全新Muse Wonder AI模型，主打「主動記憶」與進階編碼能力",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "cyberq.tw",
-      "publishedAt": "2026-10-13T00:45:00.000Z",
-      "fact": "cyberq.tw 報導：Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推出 Muse Wonder，鎖定個人與專業 AI 代理的尖端模型 &nbsp;&nbsp; cyberq.tw。",
+      "source": "Mashdigi",
+      "publishedAt": "2026-10-13T08:32:29.000Z",
+      "fact": "Mashdigi 報導：Meta發表全新Muse Wonder AI模型，主打「主動記憶」與進階編碼能力",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta發表全新Muse Wonder AI模型，主打「主動記憶」與進階編碼能力 &nbsp;&nbsp; Mashdigi。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Meta",
         "AI"
       ],
-      "url": "https://cyberq.tw/2026/10/13/meta-publishes-muse-wonder-ai-generated/"
+      "url": "https://mashdigi.com/meta-unveils-its-new-muse-wonder-ai-model-highlighting-its-active-memory-and-advanced-coding-capabilities/"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "AI 財經快訊：Meta Is Back on the AI Leaderboard With Its New Family of Wonder Models",
-      "originalTitle": "Meta Is Back on the AI Leaderboard With Its New Family of Wonder Models",
-      "translatedTitle": "AI 財經快訊：Meta Is Back on the AI Leaderboard With Its New Family of Wonder Models",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "OpenAI",
+      "title": "OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩",
+      "originalTitle": "OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩",
+      "translatedTitle": "OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-12T19:43:00.000Z",
-      "fact": "Moomoo 報導：AI 財經快訊：Meta Is Back on the AI Leaderboard With Its New Family of Wonder Models",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Is Back on the AI Leaderboard With Its New Family of Wonder Models &nbsp;&nbsp; Moomoo。",
+      "source": "T客邦",
+      "publishedAt": "2026-10-13T07:30:00.000Z",
+      "fact": "T客邦 報導：OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI發表Intelligent UI：互動式地圖、食譜一按就通， 這類用戶搶先玩 &nbsp;&nbsp; T客邦。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Meta",
+        "OpenAI",
         "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1000957773/meta-is-back-on-the-ai-leaderboard-with-its-new"
+      "url": "https://www.techbang.com/posts/133976-chatgpt-interactive-charts-and-buttons"
     },
     {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "Concerns Arise Over Delays i",
-      "title": "Concerns Arise Over Delays in Native 800V Power Deployment for AI 資料中心; 摩根士丹利: 市場 Overreacting, OCP Summit Expected to Catalyze 半導體 股票",
-      "originalTitle": "Concerns Arise Over Delays in Native 800V Power Deployment for AI Data Centers; Morgan Stanley: Market Overreacting, OCP Summit Expected to Catalyze Semiconductor Stocks",
-      "translatedTitle": "Concerns Arise Over Delays in Native 800V Power Deployment for AI 資料中心; 摩根士丹利: 市場 Overreacting, OCP Summit Expected to Catalyze 半導體 股票",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-12T15:08:55.000Z",
-      "fact": "富途牛牛 報導：Concerns Arise Over Delays in Native 800V Power Deployment for AI 資料中心; 摩根士丹利: 市場 Overreacting, OCP Summit Expected to Catalyze 半導體 股票",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Concerns Arise Over Delays in Native 800V Power Deployment for AI Data Centers; Morgan Stanley: Market Overreacting, OCP。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "data center",
-        "semiconductor",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1000903533/concerns-arise-over-delays-in-native-800v-power-deployment-for"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：GMIF2026 Annual Awards Unveiled: Samsung, Sandisk, Lenovo, Silicon Motion, BIWIN, and More Recognized",
@@ -150,166 +127,107 @@
       "url": "https://www.quamnet.com/post/WGPQZorXjBx7a9FPdQmyp"
     },
     {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "ASML Holding's AI",
-      "title": "ASML Holding's AI-driven premium faces a major test with its Q3 財報 report; EUV orders and guidance may prove decisive for the 股票 price.",
-      "originalTitle": "ASML Holding's AI-driven premium faces a major test with its Q3 earnings report; EUV orders and guidance may prove decisive for the stock price.",
-      "translatedTitle": "ASML Holding's AI-driven premium faces a major test with its Q3 財報 report; EUV orders and guidance may prove decisive for the 股票 price.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-12T08:48:56.000Z",
-      "fact": "富途牛牛 報導：ASML Holding's AI-driven premium faces a major test with its Q3 財報 report; EUV orders and guidance may prove decisive for the 股票 price.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；ASML Holding's AI-driven premium faces a major test with its Q3 earnings report; EUV orders and guidance may prove decis。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://news.futunn.com/en/post/1000872887/asml-holding-s-ai-driven-premium-faces-a-major-test"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "微軟 bets on homegrown AI chip",
-      "title": "微軟 bets on homegrown AI chip to challenge 輝達",
-      "originalTitle": "Microsoft bets on homegrown AI chip to challenge Nvidia",
-      "translatedTitle": "微軟 bets on homegrown AI chip to challenge 輝達",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Macau Business",
-      "publishedAt": "2026-10-12T14:08:23.000Z",
-      "fact": "Macau Business 報導：微軟 bets on homegrown AI chip to challenge 輝達",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Microsoft bets on homegrown AI chip to challenge Nvidia &nbsp;&nbsp; Macau Business。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "Microsoft",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://macaubusiness.com/microsoft-bets-on-homegrown-ai-chip-to-challenge-nvidia/"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "UBS Group identifies the nex",
-      "title": "UBS Group identifies the next main theme for AI trading: power, 資料中心, and critical resources.",
-      "originalTitle": "UBS Group identifies the next main theme for AI trading: power, data centers, and critical resources.",
-      "translatedTitle": "UBS Group identifies the next main theme for AI trading: power, 資料中心, and critical resources.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-11T15:31:00.000Z",
-      "fact": "富途牛牛 報導：UBS Group identifies the next main theme for AI trading: power, 資料中心, and critical resources.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；UBS Group identifies the next main theme for AI trading: power, data centers, and critical resources. &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "data center"
-      ],
-      "url": "https://news.futunn.com/en/post/1000891586/ubs-group-identifies-the-next-main-theme-for-ai-trading"
-    },
-    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "存儲器和半導體類股失去上漲動能，比特幣反彈，顯示出投資者",
-      "title": "存儲器和半導體類股失去上漲動能，比特幣反彈，顯示出投資者關注點正在轉變",
-      "originalTitle": "存儲器和半導體類股失去上漲動能，比特幣反彈，顯示出投資者關注點正在轉變",
-      "translatedTitle": "存儲器和半導體類股失去上漲動能，比特幣反彈，顯示出投資者關注點正在轉變",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "AI Fatigue Is Gripping the 市",
+      "title": "AI Fatigue Is Gripping the 市場 and Driving 晶片股 Toward Their Worst Stretch in 16 Months",
+      "originalTitle": "AI Fatigue Is Gripping the Market and Driving Chip Stocks Toward Their Worst Stretch in 16 Months",
+      "translatedTitle": "AI Fatigue Is Gripping the 市場 and Driving 晶片股 Toward Their Worst Stretch in 16 Months",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-12T00:11:40.000Z",
-      "fact": "富途牛牛 報導：存儲器和半導體類股失去上漲動能，比特幣反彈，顯示出投資者關注點正在轉變",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；存儲器和半導體類股失去上漲動能，比特幣反彈，顯示出投資者關注點正在轉變 &nbsp;&nbsp; 富途牛牛。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-13T16:59:02.000Z",
+      "fact": "Moomoo 報導：AI Fatigue Is Gripping the 市場 and Driving 晶片股 Toward Their Worst Stretch in 16 Months",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Fatigue Is Gripping the Market and Driving Chip Stocks Toward Their Worst Stretch in 16 Months &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "AI",
+        "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/75517509/memory-and-semiconductor-stocks-lose-momentum-bitcoin-rebounds-in-sign"
+      "url": "https://www.moomoo.com/hant/news/post/1001065461/ai-fatigue-is-gripping-the-market-and-driving-chip-stocks"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行",
-      "title": "不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情",
-      "originalTitle": "不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情",
-      "translatedTitle": "不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情",
+      "subject": "標普 500 多頭能否續航？AI 財測與高殖利率成關鍵變",
+      "title": "標普 500 多頭能否續航？AI 財測與高殖利率成關鍵變數",
+      "originalTitle": "標普 500 多頭能否續航？AI 財測與高殖利率成關鍵變數",
+      "translatedTitle": "標普 500 多頭能否續航？AI 財測與高殖利率成關鍵變數",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "經濟日報",
-      "publishedAt": "2026-10-11T17:39:25.000Z",
-      "fact": "經濟日報 報導：不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；不成比例重押三星、SK 海力士 韓股 AI 拖油瓶衝擊行情 &nbsp;&nbsp; 經濟日報。",
+      "source": "Yellow.com",
+      "publishedAt": "2026-10-13T19:00:34.000Z",
+      "fact": "Yellow.com 報導：標普 500 多頭能否續航？AI 財測與高殖利率成關鍵變數",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；標普 500 多頭能否續航？AI 財測與高殖利率成關鍵變數 &nbsp;&nbsp; Yellow.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://money.udn.com/money/story/5599/9808294"
+      "url": "https://yellow.com/zh-tw/news/%E6%A8%99%E6%99%AE-500-%E5%A4%9A%E9%A0%AD%E8%83%BD%E5%90%A6%E7%BA%8C%E8%88%AA%EF%BC%9Fai-%E8%B2%A1%E6%B8%AC%E8%88%87%E9%AB%98%E6%AE%96%E5%88%A9%E7%8E%87%E6%88%90%E9%97%9C%E9%8D%B5%E8%AE%8A%E6%95%B8"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "高盛解讀",
-      "title": "高盛解讀：AI巨頭忙於擴張——誰將接棒美股回購？",
-      "originalTitle": "高盛解讀：AI巨頭忙於擴張——誰將接棒美股回購？",
-      "translatedTitle": "高盛解讀：AI巨頭忙於擴張——誰將接棒美股回購？",
+      "subject": "Meta",
+      "title": "Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗",
+      "originalTitle": "Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗",
+      "translatedTitle": "Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-12T11:37:43.000Z",
-      "fact": "Moomoo 報導：高盛解讀：AI巨頭忙於擴張——誰將接棒美股回購？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；高盛解讀：AI巨頭忙於擴張——誰將接棒美股回購？ &nbsp;&nbsp; Moomoo。",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-13T16:16:29.000Z",
+      "fact": "TradingKey 報導：Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Meta股價逼近歷史高位：AI變現預期撐估值，Q3財報與資本支出成關鍵檢驗 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
+        "Meta",
         "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1000928350/goldman-sachs-interpretation-ai-giants-are-busy-expanding-who-is"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262214460-meta-stock-near-alltime-high-q3-earnings-ai-monetization-capex-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "ASML Q3財報前瞻",
-      "title": "ASML Q3財報前瞻：營收或年增55%，華爾街最高看至2866美元",
-      "originalTitle": "ASML Q3財報前瞻：營收或年增55%，華爾街最高看至2866美元",
-      "translatedTitle": "ASML Q3財報前瞻：營收或年增55%，華爾街最高看至2866美元",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-12T07:48:13.000Z",
-      "fact": "TradingKey 報導：ASML Q3財報前瞻：營收或年增55%，華爾街最高看至2866美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；ASML Q3財報前瞻：營收或年增55%，華爾街最高看至2866美元 &nbsp;&nbsp; TradingKey。",
+      "subject": "Michael Burry's Big Short Ge",
+      "title": "Michael Burry's Big Short Gets Broader: 輝達-Heavy Chip ETF, Nasdaq Now in Focus",
+      "originalTitle": "Michael Burry's Big Short Gets Broader: Nvidia-Heavy Chip ETF, Nasdaq Now in Focus",
+      "translatedTitle": "Michael Burry's Big Short Gets Broader: 輝達-Heavy Chip ETF, Nasdaq Now in Focus",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-10-12T16:17:34.000Z",
+      "fact": "TradingView 報導：Michael Burry's Big Short Gets Broader: 輝達-Heavy Chip ETF, Nasdaq Now in Focus",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Michael Burry's Big Short Gets Broader: Nvidia-Heavy Chip ETF, Nasdaq Now in Focus &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "Nvidia"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262211058-asml-q3-earnings-preview-revenue-tradingkey"
+      "url": "https://tw.tradingview.com/news/benzinga:1d48996d0094b:0-michael-burry-s-big-short-gets-broader-nvidia-heavy-chip-etf-nasdaq-now-in-focus/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "【2026",
-      "title": "【2026-10-12】《商傳媒｜美財經一週大事》AI熱潮與利率挑戰交織：美股牛市中的兩極分化",
-      "originalTitle": "【2026-10-12】《商傳媒｜美財經一週大事》AI熱潮與利率挑戰交織：美股牛市中的兩極分化",
-      "translatedTitle": "【2026-10-12】《商傳媒｜美財經一週大事》AI熱潮與利率挑戰交織：美股牛市中的兩極分化",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Investors Are Split on AI Bu",
+      "title": "Investors Are Split on AI Bubble 風險 but Still Piling into the 股票",
+      "originalTitle": "Investors Are Split on AI Bubble Risks but Still Piling into the Stocks",
+      "translatedTitle": "Investors Are Split on AI Bubble 風險 but Still Piling into the 股票",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "商傳媒",
-      "publishedAt": "2026-10-11T16:44:28.000Z",
-      "fact": "商傳媒 報導：【2026-10-12】《商傳媒｜美財經一週大事》AI熱潮與利率挑戰交織：美股牛市中的兩極分化",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【2026-10-12】《商傳媒｜美財經一週大事》AI熱潮與利率挑戰交織：美股牛市中的兩極分化 &nbsp;&nbsp; 商傳媒。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-13T20:26:20.000Z",
+      "fact": "Moomoo 報導：Investors Are Split on AI Bubble 風險 but Still Piling into the 股票",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Investors Are Split on AI Bubble Risks but Still Piling into the Stocks &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://sunmedia.tw/news/finance/1791734817-%E3%80%902026-10-12%E3%80%91%E3%80%8A%E5%95%86%E5%82%B3%E5%AA%92%EF%BD%9C%E7%BE%8E%E8%B2%A1%E7%B6%93%E4%B8%80%E9%80%B1%E5%A4%A7%E4%BA%8B%E3%80%8BAI%E7%86%B1%E6%BD%AE%E8%88%87%E5%88%A9%E7%8E%87%E6%8C%91%E6%88%B0%E4%BA%A4%E7%B9%94%EF%BC%9A%E7%BE%8E%E8%82%A1%E7%89%9B%E5%B8%82%E4%B8%AD%E7%9A%84%E5%85%A9%E6%A5%B5%E5%88%86%E5%8C%96"
+      "url": "https://www.moomoo.com/hant/news/post/1001044466/investors-are-split-on-ai-bubble-risks-but-still-piling"
     }
   ]
 }
