@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-10-15T23:58:14.708Z",
+  "generatedAt": "2026-10-16T01:59:45.722Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta 發布 Muse Spark Open，816B 開放權重模型可在兩台 Mac Studio 上執行",
+      "originalTitle": "Meta 發布 Muse Spark Open，816B 開放權重模型可在兩台 Mac Studio 上執行",
+      "translatedTitle": "Meta 發布 Muse Spark Open，816B 開放權重模型可在兩台 Mac Studio 上執行",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "cyberq.tw",
+      "publishedAt": "2026-10-16T00:38:00.000Z",
+      "fact": "cyberq.tw 報導：Meta 發布 Muse Spark Open，816B 開放權重模型可在兩台 Mac Studio 上執行",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 發布 Muse Spark Open，816B 開放權重模型可在兩台 Mac Studio 上執行 &nbsp;&nbsp; cyberq.tw。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta"
+      ],
+      "url": "https://cyberq.tw/2026/10/16/meta-releases-open-source-muse-spark/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "蘋果與Meta化解心結聯手 開源AI模型Muse登陸Mac",
@@ -11,39 +31,41 @@
       "translatedTitle": "蘋果與Meta化解心結聯手 開源AI模型Muse登陸Mac",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "蕃新聞",
-      "publishedAt": "2026-10-15T23:06:00.000Z",
-      "fact": "蕃新聞 報導：蘋果與Meta化解心結聯手 開源AI模型Muse登陸Mac",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果與Meta化解心結聯手 開源AI模型Muse登陸Mac &nbsp;&nbsp; 蕃新聞。",
+      "source": "Life 生活網",
+      "publishedAt": "2026-10-15T23:06:42.000Z",
+      "fact": "Life 生活網 報導：蘋果與Meta化解心結聯手 開源AI模型Muse登陸Mac",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果與Meta化解心結聯手 開源AI模型Muse登陸Mac &nbsp;&nbsp; Life 生活網。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Meta",
         "AI"
       ],
-      "url": "https://n.yam.com/Article/20261016751650"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "SpaceXSI推出Grok Voice 3.0，語音評",
-      "title": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
-      "originalTitle": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
-      "translatedTitle": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "iThome",
-      "publishedAt": "2026-10-15T03:44:33.000Z",
-      "fact": "iThome 報導：SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；SpaceXSI推出Grok Voice 3.0，語音評測奪冠 &nbsp;&nbsp; iThome。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.ithome.com.tw/news/179704"
+      "url": "https://life.tw/article/%E8%98%8B%E6%9E%9C%E8%88%87meta%E5%8C%96%E8%A7%A3%E5%BF%83%E7%B5%90%E8%81%AF%E6%89%8B-%E9%96%8B%E6%BA%90ai%E6%A8%A1%E5%9E%8Bmuse%E7%99%BB%E9%99%B8mac-3181930"
     },
     {
       "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google 地理空間 AI 工具升級 強化地球數據分析助解環境挑戰",
+      "originalTitle": "Google 地理空間 AI 工具升級 強化地球數據分析助解環境挑戰",
+      "translatedTitle": "Google 地理空間 AI 工具升級 強化地球數據分析助解環境挑戰",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-10-15T17:15:00.000Z",
+      "fact": "蕃新聞 報導：Google 地理空間 AI 工具升級 強化地球數據分析助解環境挑戰",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 地理空間 AI 工具升級 強化地球數據分析助解環境挑戰 &nbsp;&nbsp; 蕃新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://n.yam.com/Article/20261016541169"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "宏碁發表首款 Googlebook 筆電 展現高階工藝與智慧體驗",
@@ -63,44 +85,23 @@
       "url": "https://www.nova.com.tw/article/nb/content/6ad07c12bc5e8"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "蘋果 Intelligence終於傳出中國首發時程 最快",
-      "title": "蘋果 Intelligence終於傳出中國首發時程 最快12月登場",
-      "originalTitle": "Apple Intelligence終於傳出中國首發時程 最快12月登場",
-      "translatedTitle": "蘋果 Intelligence終於傳出中國首發時程 最快12月登場",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "鉅亨網",
-      "publishedAt": "2026-10-14T22:31:57.000Z",
-      "fact": "鉅亨網 報導：蘋果 Intelligence終於傳出中國首發時程 最快12月登場",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple Intelligence終於傳出中國首發時程 最快12月登場 &nbsp;&nbsp; 鉅亨網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Apple"
-      ],
-      "url": "https://m.cnyes.com/news/id/6630681"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "SPEAK UP",
-      "title": "SPEAK UP: ‘Doomsday theory:’ AI could kill all humans by 2030 (1/2) 末日論」：AI 2030前恐害死全人類？（上）",
-      "originalTitle": "SPEAK UP: ‘Doomsday theory:’ AI could kill all humans by 2030 (1/2) 末日論」：AI 2030前恐害死全人類？（上）",
-      "translatedTitle": "SPEAK UP: ‘Doomsday theory:’ AI could kill all humans by 2030 (1/2) 末日論」：AI 2030前恐害死全人類？（上）",
+      "subject": "SpaceXSI推出Grok Voice 3.0，語音評",
+      "title": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
+      "originalTitle": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
+      "translatedTitle": "SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "Taipei Times",
-      "publishedAt": "2026-10-14T16:00:00.000Z",
-      "fact": "Taipei Times 報導：SPEAK UP: ‘Doomsday theory:’ AI could kill all humans by 2030 (1/2) 末日論」：AI 2030前恐害死全人類？（上）",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；SPEAK UP: ‘Doomsday theory:’ AI could kill all humans by 2030 (1/2) 末日論」：AI 2030前恐害死全人類？（上） &nbsp;&nbsp; Taipei Times。",
+      "source": "iThome",
+      "publishedAt": "2026-10-15T03:44:33.000Z",
+      "fact": "iThome 報導：SpaceXSI推出Grok Voice 3.0，語音評測奪冠",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；SpaceXSI推出Grok Voice 3.0，語音評測奪冠 &nbsp;&nbsp; iThome。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://www.taipeitimes.com/News/lang/archives/2026/10/15/2003865968"
+      "url": "https://www.ithome.com.tw/news/179704"
     },
     {
       "id": "全球財經脈動-1",
@@ -151,27 +152,6 @@
       "translatedTitle": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-15T18:58:48.000Z",
-      "fact": "Moomoo 報導：AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stocks Are Hurting. Look at These Other Sectors for Protection. -- Barrons.com &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1001343208/ai-stocks-are-hurting-look-at-these-other-sectors-for"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "AI 股票 Are Hurting. Look at T",
-      "title": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
-      "originalTitle": "AI Stocks Are Hurting. Look at These Other Sectors for Protection. -- Barrons.com",
-      "translatedTitle": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
       "source": "富途牛牛",
       "publishedAt": "2026-10-15T20:25:07.000Z",
       "fact": "富途牛牛 報導：AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
@@ -185,7 +165,47 @@
       "url": "https://news.futunn.com/hk/post/1001300260/ai-stocks-are-hurting-look-at-these-other-sectors-for"
     },
     {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "AI 股票 Are Hurting. Look at T",
+      "title": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
+      "originalTitle": "AI Stocks Are Hurting. Look at These Other Sectors for Protection. -- Barrons.com",
+      "translatedTitle": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-15T18:43:00.000Z",
+      "fact": "Moomoo 報導：AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stocks Are Hurting. Look at These Other Sectors for Protection. -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1001343208/ai-stocks-are-hurting-look-at-these-other-sectors-for"
+    },
+    {
       "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "TradingView上由CNBC TV18發佈的新聞，",
+      "title": "TradingView上由CNBC TV18發佈的新聞，2026-10-14 — cnbctv:df0713b3d094b:0",
+      "originalTitle": "TradingView上由CNBC TV18發佈的新聞，2026-10-14 — cnbctv:df0713b3d094b:0",
+      "translatedTitle": "TradingView上由CNBC TV18發佈的新聞，2026-10-14 — cnbctv:df0713b3d094b:0",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-14T23:02:03.000Z",
+      "fact": "TradingView 報導：TradingView上由CNBC TV18發佈的新聞，2026-10-14 — cnbctv:df0713b3d094b:0",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；TradingView上由CNBC TV18發佈的新聞，2026-10-14 — cnbctv:df0713b3d094b:0 &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://tw.tradingview.com/news/cnbctv:df0713b3d094b:0/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Why Healthcare 股票 Are Hot Wh",
       "title": "Why Healthcare 股票 Are Hot When the AI Trade Runs Cold — Barron’s.com",
@@ -206,45 +226,25 @@
       "url": "https://www.moomoo.com/hant/news/post/1001341813/why-healthcare-stocks-are-hot-when-the-ai-trade-runs"
     },
     {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Bull of the Day: Micron (MU)",
-      "originalTitle": "Bull of the Day: Micron (MU)",
-      "translatedTitle": "AI 財經快訊：Bull of the Day: Micron (MU)",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-14T07:00:00.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：Bull of the Day: Micron (MU)",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Bull of the Day: Micron (MU) &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/zacks:d15b8a62e094b:0-bull-of-the-day-micron-mu/"
-    },
-    {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "The AI Trade Is Splintering ",
-      "title": "The AI Trade Is Splintering as Inflation Fears Rattle Hyped-up Tech 股票",
-      "originalTitle": "The AI Trade Is Splintering as Inflation Fears Rattle Hyped-up Tech Stocks",
-      "translatedTitle": "The AI Trade Is Splintering as Inflation Fears Rattle Hyped-up Tech 股票",
+      "subject": "Why Healthcare 股票 Are Hot Wh",
+      "title": "Why Healthcare 股票 Are Hot When the AI Trade Runs Cold — Barron’s.com",
+      "originalTitle": "Why Healthcare Stocks Are Hot When the AI Trade Runs Cold -- Barrons.com",
+      "translatedTitle": "Why Healthcare 股票 Are Hot When the AI Trade Runs Cold — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-14T23:36:00.000Z",
-      "fact": "富途牛牛 報導：The AI Trade Is Splintering as Inflation Fears Rattle Hyped-up Tech 股票",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI Trade Is Splintering as Inflation Fears Rattle Hyped-up Tech Stocks &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-10-15T19:36:53.000Z",
+      "fact": "富途牛牛 報導：Why Healthcare 股票 Are Hot When the AI Trade Runs Cold — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Healthcare Stocks Are Hot When the AI Trade Runs Cold -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/1001176450/the-ai-trade-is-splintering-as-inflation-fears-rattle-hyped"
+      "url": "https://news.futunn.com/hk/post/1001293743/why-healthcare-stocks-are-hot-when-the-ai-trade-runs"
     }
   ]
 }
