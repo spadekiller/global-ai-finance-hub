@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-10-17T00:03:11.158Z",
+  "generatedAt": "2026-10-17T01:54:12.683Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 - 商傳媒",
+      "originalTitle": "Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 - 商傳媒",
+      "translatedTitle": "Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 - 商傳媒",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "商傳媒 - SUN MEDIA",
+      "publishedAt": "2026-10-17T00:30:20.000Z",
+      "fact": "商傳媒 - SUN MEDIA 報導：Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 - 商傳媒",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 &nbsp;&nbsp; 商傳媒 - SUN MEDIA。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://sunmedia.tw/news/technology/1792192009-Meta%E6%8E%A8%E9%96%8B%E6%BA%90AI%E6%A8%A1%E5%9E%8BMuse%20Spark%20Open%E3%80%80%E6%94%9C%E6%89%8B%E8%98%8B%E6%9E%9C%E6%8A%97%E8%A1%A1%E4%B8%AD%E5%9C%8B%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI、Anthropic 的 AI 代理在政府網站上越界後，通報先成了各國共識、驗證機制仍各走各路",
@@ -25,7 +46,28 @@
       "url": "https://www.inside.com.tw/article/42657-ai-agent-incidents-openai-anthropic-us-uk-eu-response"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google擴大新聞內容授權計畫 AI試點合作媒體達400家",
+      "originalTitle": "Google擴大新聞內容授權計畫 AI試點合作媒體達400家",
+      "translatedTitle": "Google擴大新聞內容授權計畫 AI試點合作媒體達400家",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-10-17T00:29:00.000Z",
+      "fact": "蕃新聞 報導：Google擴大新聞內容授權計畫 AI試點合作媒體達400家",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google擴大新聞內容授權計畫 AI試點合作媒體達400家 &nbsp;&nbsp; 蕃新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://n.yam.com/Article/20261017532254"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑",
@@ -45,7 +87,7 @@
       "url": "https://www.bnext.com.tw/article/92673/apple-meta-muse-spark-open-mac-studio"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Apple",
       "title": "Meta 攜手 Apple 推 Mac 用 AI 模型 本機人工智能邁向叢集時代",
@@ -67,46 +109,27 @@
       "url": "https://unwire.pro/2026/10/17/meta-apple-muse-spark-open-local-ai-mac-studio/ai/"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Claude Mythos 5 vs Claude Op",
-      "title": "Claude Mythos 5 vs Claude Opus 5.5：需審核 vs 自助服務",
-      "originalTitle": "Claude Mythos 5 vs Claude Opus 5.5：需審核 vs 自助服務",
-      "translatedTitle": "Claude Mythos 5 vs Claude Opus 5.5：需審核 vs 自助服務",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-10-16T20:47:36.000Z",
-      "fact": "OrcaRouter 報導：Claude Mythos 5 vs Claude Opus 5.5：需審核 vs 自助服務",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Claude Mythos 5 vs Claude Opus 5.5：需審核 vs 自助服務 &nbsp;&nbsp; OrcaRouter。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/claude-mythos-5-vs-claude-opus-5-5"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
+      "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
       "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Bringing GPT-Rosalind to academic research labs",
-      "originalTitle": "Bringing GPT-Rosalind to academic research labs",
-      "translatedTitle": "AI 財經快訊：Bringing GPT-Rosalind to academic research labs",
+      "title": "AI 財經快訊：New Cracks in AI Trade Push Wall Street to Worst Week Since June -- WSJ",
+      "originalTitle": "New Cracks in AI Trade Push Wall Street to Worst Week Since June -- WSJ",
+      "translatedTitle": "AI 財經快訊：New Cracks in AI Trade Push Wall Street to Worst Week Since June -- WSJ",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "OpenAI",
-      "publishedAt": "2026-10-16T00:24:19.000Z",
-      "fact": "OpenAI 報導：AI 財經快訊：Bringing GPT-Rosalind to academic research labs",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Bringing GPT-Rosalind to academic research labs &nbsp;&nbsp; OpenAI。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-16T23:11:18.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：New Cracks in AI Trade Push Wall Street to Worst Week Since June -- WSJ",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；New Cracks in AI Trade Push Wall Street to Worst Week Since June -- WSJ &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "AI 與科技前沿",
+        "全球財經",
         "AI"
       ],
-      "url": "https://openai.com/zh-Hant-HK/index/introducing-the-rosalind-academic-plan/"
+      "url": "https://news.futunn.com/hk/post/1001436630/new-cracks-in-ai-trade-push-wall-street-to-worst"
     },
     {
-      "id": "全球財經脈動-1",
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 熱潮",
       "title": "AI 熱潮-or-Bust Scenarios Loom Large at World Financial Summit",
@@ -124,26 +147,6 @@
         "AI"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1001437206/ai-boom-or-bust-scenarios-loom-large-at-world-financial"
-    },
-    {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "Inflation exceeding expectat",
-      "title": "Inflation exceeding expectations reignites rate hike bets! AI 股票 sell-off intensifies as Nasdaq futures continue to decline in pre-市場 trading",
-      "originalTitle": "Inflation exceeding expectations reignites rate hike bets! AI stock sell-off intensifies as Nasdaq futures continue to decline in pre-market trading",
-      "translatedTitle": "Inflation exceeding expectations reignites rate hike bets! AI 股票 sell-off intensifies as Nasdaq futures continue to decline in pre-市場 trading",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-15T09:24:46.000Z",
-      "fact": "富途牛牛 報導：Inflation exceeding expectations reignites rate hike bets! AI 股票 sell-off intensifies as Nasdaq futures continue to decline in pre-市場 trading",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Inflation exceeding expectations reignites rate hike bets! AI stock sell-off intensifies as Nasdaq futures continue to d。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1001242225/inflation-exceeding-expectations-reignites-rate-hike-bets-ai-stock-sell"
     },
     {
       "id": "全球財經脈動-3",
@@ -168,22 +171,22 @@
     {
       "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "Fed",
-      "title": "AI 財經快訊：Three Federal Reserve officials have successively stated that while inflation remains disappointing, there is no need to rush into an interest rate hike in October.",
-      "originalTitle": "Three Federal Reserve officials have successively stated that while inflation remains disappointing, there is no need to rush into an interest rate hike in October.",
-      "translatedTitle": "AI 財經快訊：Three Federal Reserve officials have successively stated that while inflation remains disappointing, there is no need to rush into an interest rate hike in October.",
+      "subject": "Inflation exceeding expectat",
+      "title": "Inflation exceeding expectations reignites rate hike bets! AI 股票 sell-off intensifies as Nasdaq futures continue to decline in pre-市場 trading",
+      "originalTitle": "Inflation exceeding expectations reignites rate hike bets! AI stock sell-off intensifies as Nasdaq futures continue to decline in pre-market trading",
+      "translatedTitle": "Inflation exceeding expectations reignites rate hike bets! AI 股票 sell-off intensifies as Nasdaq futures continue to decline in pre-市場 trading",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
+      "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-15T00:10:50.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Three Federal Reserve officials have successively stated that while inflation remains disappointing, there is no need to rush into an interest rate hike in October.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Three Federal Reserve officials have successively stated that while inflation remains disappointing, there is no need to。",
+      "publishedAt": "2026-10-15T09:24:46.000Z",
+      "fact": "富途牛牛 報導：Inflation exceeding expectations reignites rate hike bets! AI 股票 sell-off intensifies as Nasdaq futures continue to decline in pre-市場 trading",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Inflation exceeding expectations reignites rate hike bets! AI stock sell-off intensifies as Nasdaq futures continue to d。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1001176488/three-federal-reserve-officials-have-successively-stated-that-while-inflation"
+      "url": "https://news.futunn.com/en/post/1001242225/inflation-exceeding-expectations-reignites-rate-hike-bets-ai-stock-sell"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -208,6 +211,26 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "Nowhere to Hide",
+      "title": "Nowhere to Hide: Tech Selloff Hits Software and 晶片股 Alike",
+      "originalTitle": "Nowhere to Hide: Tech Selloff Hits Software and Chip Stocks Alike",
+      "translatedTitle": "Nowhere to Hide: Tech Selloff Hits Software and 晶片股 Alike",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-16T23:19:20.000Z",
+      "fact": "富途牛牛 報導：Nowhere to Hide: Tech Selloff Hits Software and 晶片股 Alike",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nowhere to Hide: Tech Selloff Hits Software and Chip Stocks Alike &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1001434797/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "AI 股票 Are Hurting. Look at T",
       "title": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
       "originalTitle": "AI Stocks Are Hurting. Look at These Other Sectors for Protection. -- Barrons.com",
@@ -227,7 +250,7 @@
       "url": "https://www.moomoo.com/hant/news/post/1001343208/ai-stocks-are-hurting-look-at-these-other-sectors-for"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "AI 股票 Are Hurting. Look at T",
       "title": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
@@ -246,25 +269,6 @@
         "stocks"
       ],
       "url": "https://news.futunn.com/hk/post/1001300260/ai-stocks-are-hurting-look-at-these-other-sectors-for"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "摩根大通",
-      "title": "摩根大通：記憶體股回檔是中期買點！韓國財報季是「驗證器」",
-      "originalTitle": "摩根大通：記憶體股回檔是中期買點！韓國財報季是「驗證器」",
-      "translatedTitle": "摩根大通：記憶體股回檔是中期買點！韓國財報季是「驗證器」",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "動區動趨",
-      "publishedAt": "2026-10-15T08:05:47.000Z",
-      "fact": "動區動趨 報導：摩根大通：記憶體股回檔是中期買點！韓國財報季是「驗證器」",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；摩根大通：記憶體股回檔是中期買點！韓國財報季是「驗證器」 &nbsp;&nbsp; 動區動趨。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.blocktempo.com/jpmorgan-memory-stocks-expectation-reset-season-buying-opportunity-korea-earnings/"
     },
     {
       "id": "美股與全球市場焦點-5",
