@@ -1,27 +1,27 @@
 {
-  "generatedAt": "2026-10-17T01:54:12.683Z",
+  "generatedAt": "2026-10-17T23:38:10.494Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 - 商傳媒",
-      "originalTitle": "Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 - 商傳媒",
-      "translatedTitle": "Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 - 商傳媒",
+      "subject": "OpenAI",
+      "title": "前OpenAI研究員發文震動AI界 主張神經網路可解釋性",
+      "originalTitle": "前OpenAI研究員發文震動AI界 主張神經網路可解釋性",
+      "translatedTitle": "前OpenAI研究員發文震動AI界 主張神經網路可解釋性",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "商傳媒 - SUN MEDIA",
-      "publishedAt": "2026-10-17T00:30:20.000Z",
-      "fact": "商傳媒 - SUN MEDIA 報導：Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 - 商傳媒",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta推開源AI模型Muse Spark Open 攜手蘋果抗衡中國科技巨頭 &nbsp;&nbsp; 商傳媒 - SUN MEDIA。",
+      "category": "前沿模型",
+      "source": "商傳媒",
+      "publishedAt": "2026-10-17T09:32:48.000Z",
+      "fact": "商傳媒 報導：前OpenAI研究員發文震動AI界 主張神經網路可解釋性",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；前OpenAI研究員發文震動AI界 主張神經網路可解釋性 &nbsp;&nbsp; 商傳媒。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Meta",
+        "OpenAI",
         "AI"
       ],
-      "url": "https://sunmedia.tw/news/technology/1792192009-Meta%E6%8E%A8%E9%96%8B%E6%BA%90AI%E6%A8%A1%E5%9E%8BMuse%20Spark%20Open%E3%80%80%E6%94%9C%E6%89%8B%E8%98%8B%E6%9E%9C%E6%8A%97%E8%A1%A1%E4%B8%AD%E5%9C%8B%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD"
+      "url": "https://sunmedia.tw/news/technology/1792192067-%E5%89%8DOpenAI%E7%A0%94%E7%A9%B6%E5%93%A1%E7%99%BC%E6%96%87%E9%9C%87%E5%8B%95AI%E7%95%8C%E3%80%80%E4%B8%BB%E5%BC%B5%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF%E5%8F%AF%E8%A7%A3%E9%87%8B%E6%80%A7"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -48,23 +48,23 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google擴大新聞內容授權計畫 AI試點合作媒體達400家",
-      "originalTitle": "Google擴大新聞內容授權計畫 AI試點合作媒體達400家",
-      "translatedTitle": "Google擴大新聞內容授權計畫 AI試點合作媒體達400家",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "蕃新聞",
-      "publishedAt": "2026-10-17T00:29:00.000Z",
-      "fact": "蕃新聞 報導：Google擴大新聞內容授權計畫 AI試點合作媒體達400家",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google擴大新聞內容授權計畫 AI試點合作媒體達400家 &nbsp;&nbsp; 蕃新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "subject": "OpenAI",
+      "title": "AI 財經快訊：Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco",
+      "originalTitle": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco",
+      "translatedTitle": "AI 財經快訊：Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-17T13:00:00.000Z",
+      "fact": "Yahoo 報導：AI 財經快訊：Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco &nbsp;&nbsp; Yahoo。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
+        "OpenAI",
         "AI"
       ],
-      "url": "https://n.yam.com/Article/20261017532254"
+      "url": "https://hk.news.yahoo.com/us/articles/heres-know-man-allegedly-bugged-130000967.html"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -89,24 +89,25 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Apple",
-      "title": "Meta 攜手 Apple 推 Mac 用 AI 模型 本機人工智能邁向叢集時代",
-      "originalTitle": "Meta 攜手 Apple 推 Mac 用 AI 模型 本機人工智能邁向叢集時代",
-      "translatedTitle": "Meta 攜手 Apple 推 Mac 用 AI 模型 本機人工智能邁向叢集時代",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "unwire PRO",
-      "publishedAt": "2026-10-16T16:06:17.000Z",
-      "fact": "unwire PRO 報導：Meta 攜手 Apple 推 Mac 用 AI 模型 本機人工智能邁向叢集時代",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 攜手 Apple 推 Mac 用 AI 模型 本機人工智能邁向叢集時代 &nbsp;&nbsp; unwire PRO。",
+      "subject": "Meta",
+      "title": "8160億參數AI巨獸搬上辦公桌！蘋果聯手Meta破局，威脅輝達？",
+      "originalTitle": "8160億參數AI巨獸搬上辦公桌！Apple聯手Meta破局，威脅NVIDIA？",
+      "translatedTitle": "8160億參數AI巨獸搬上辦公桌！蘋果聯手Meta破局，威脅輝達？",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "台灣好新聞",
+      "publishedAt": "2026-10-16T04:03:23.000Z",
+      "fact": "台灣好新聞 報導：8160億參數AI巨獸搬上辦公桌！蘋果聯手Meta破局，威脅輝達？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；8160億參數AI巨獸搬上辦公桌！Apple聯手Meta破局，威脅NVIDIA？ &nbsp;&nbsp; 台灣好新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Apple",
         "Meta",
+        "Nvidia",
         "AI"
       ],
-      "url": "https://unwire.pro/2026/10/17/meta-apple-muse-spark-open-local-ai-mac-studio/ai/"
+      "url": "https://www.taiwanhot.net/news/1151184/8160%E5%84%84%E5%8F%83%E6%95%B8AI%E5%B7%A8%E7%8D%B8%E6%90%AC%E4%B8%8A%E8%BE%A6%E5%85%AC%E6%A1%8C%EF%BC%81Apple%E8%81%AF%E6%89%8BMeta%E7%A0%B4%E5%B1%80%EF%BC%8C%E5%A8%81%E8%84%85NVIDIA%EF%BC%9F"
     },
     {
       "id": "全球財經脈動-1",
@@ -169,47 +170,52 @@
       "url": "https://macaubusiness.com/us-stocks-mixed-near-end-of-volatile-week/"
     },
     {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "Inflation exceeding expectat",
-      "title": "Inflation exceeding expectations reignites rate hike bets! AI 股票 sell-off intensifies as Nasdaq futures continue to decline in pre-市場 trading",
-      "originalTitle": "Inflation exceeding expectations reignites rate hike bets! AI stock sell-off intensifies as Nasdaq futures continue to decline in pre-market trading",
-      "translatedTitle": "Inflation exceeding expectations reignites rate hike bets! AI 股票 sell-off intensifies as Nasdaq futures continue to decline in pre-市場 trading",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-15T09:24:46.000Z",
-      "fact": "富途牛牛 報導：Inflation exceeding expectations reignites rate hike bets! AI 股票 sell-off intensifies as Nasdaq futures continue to decline in pre-市場 trading",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Inflation exceeding expectations reignites rate hike bets! AI stock sell-off intensifies as Nasdaq futures continue to d。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1001242225/inflation-exceeding-expectations-reignites-rate-hike-bets-ai-stock-sell"
-    },
-    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Chip selloff intensifies as investors question sustainability of AI spending",
-      "originalTitle": "Chip selloff intensifies as investors question sustainability of AI spending",
-      "translatedTitle": "AI 財經快訊：Chip selloff intensifies as investors question sustainability of AI spending",
+      "subject": "Alphabet 股票 Fall Although AI",
+      "title": "Alphabet 股票 Fall Although AI-Chip Forecast Signals a Bigger 雲端 Business",
+      "originalTitle": "Alphabet Stocks Fall Although AI-Chip Forecast Signals a Bigger Cloud Business",
+      "translatedTitle": "Alphabet 股票 Fall Although AI-Chip Forecast Signals a Bigger 雲端 Business",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
+      "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-10-15T08:51:22.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：Chip selloff intensifies as investors question sustainability of AI spending",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip selloff intensifies as investors question sustainability of AI spending &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-10-16T17:13:38.000Z",
+      "fact": "TradingView 報導：Alphabet 股票 Fall Although AI-Chip Forecast Signals a Bigger 雲端 Business",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Alphabet Stocks Fall Although AI-Chip Forecast Signals a Bigger Cloud Business &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks",
+        "cloud"
       ],
-      "url": "https://tw.tradingview.com/news/seekingalpha:324c8078e094b:0-chip-selloff-intensifies-as-investors-question-sustainability-of-ai-spending/"
+      "url": "https://tw.tradingview.com/news/gurufocus:14775eeac094b:0-alphabet-stocks-fall-although-ai-chip-forecast-signals-a-bigger-cloud-business/"
     },
     {
       "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "微軟",
+      "title": "微軟, Shopify and 3 More AI 股票 That Are Favorite Wall Street 財報 Plays",
+      "originalTitle": "Microsoft, Shopify and 3 More AI Stocks That Are Favorite Wall Street Earnings Plays",
+      "translatedTitle": "微軟, Shopify and 3 More AI 股票 That Are Favorite Wall Street 財報 Plays",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-16T07:00:00.000Z",
+      "fact": "Moomoo 報導：微軟, Shopify and 3 More AI 股票 That Are Favorite Wall Street 財報 Plays",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft, Shopify and 3 More AI Stocks That Are Favorite Wall Street Earnings Plays &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Microsoft",
+        "AI",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1001518073/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "Nowhere to Hide",
       "title": "Nowhere to Hide: Tech Selloff Hits Software and 晶片股 Alike",
@@ -229,65 +235,46 @@
       "url": "https://news.futunn.com/en/post/1001434797/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks"
     },
     {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "AI 股票 Are Hurting. Look at T",
-      "title": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
-      "originalTitle": "AI Stocks Are Hurting. Look at These Other Sectors for Protection. -- Barrons.com",
-      "translatedTitle": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-15T18:43:00.000Z",
-      "fact": "Moomoo 報導：AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stocks Are Hurting. Look at These Other Sectors for Protection. -- Barrons.com &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1001343208/ai-stocks-are-hurting-look-at-these-other-sectors-for"
-    },
-    {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "AI 股票 Are Hurting. Look at T",
-      "title": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
-      "originalTitle": "AI Stocks Are Hurting. Look at These Other Sectors for Protection. -- Barrons.com",
-      "translatedTitle": "AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
+      "subject": "Sold",
+      "title": "Sold-Out Chips, Falling 股票: Why Wall Street Is Suddenly Nervous About AI's Memory 熱潮",
+      "originalTitle": "Sold-Out Chips, Falling Stocks: Why Wall Street Is Suddenly Nervous About AI's Memory Boom",
+      "translatedTitle": "Sold-Out Chips, Falling 股票: Why Wall Street Is Suddenly Nervous About AI's Memory 熱潮",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-15T20:25:07.000Z",
-      "fact": "富途牛牛 報導：AI 股票 Are Hurting. Look at These Other Sectors for Protection. — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stocks Are Hurting. Look at These Other Sectors for Protection. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "source": "TradingView",
+      "publishedAt": "2026-10-16T11:59:10.000Z",
+      "fact": "TradingView 報導：Sold-Out Chips, Falling 股票: Why Wall Street Is Suddenly Nervous About AI's Memory 熱潮",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Sold-Out Chips, Falling Stocks: Why Wall Street Is Suddenly Nervous About AI's Memory Boom &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/1001300260/ai-stocks-are-hurting-look-at-these-other-sectors-for"
+      "url": "https://tw.tradingview.com/news/benzinga:fb3deab81094b:0-sold-out-chips-falling-stocks-why-wall-street-is-suddenly-nervous-about-ai-s-memory-boom/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Why This 市場 Washout Will Spa",
-      "title": "Why This 市場 Washout Will Spark a Year-End Rally",
-      "originalTitle": "Why This Market Washout Will Spark a Year-End Rally",
-      "translatedTitle": "Why This 市場 Washout Will Spark a Year-End Rally",
+      "subject": "WDC",
+      "title": "WDC, STX 股票 Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity",
+      "originalTitle": "WDC, STX Stocks Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity",
+      "translatedTitle": "WDC, STX 股票 Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-10-15T19:42:00.000Z",
-      "fact": "TradingView 報導：Why This 市場 Washout Will Spark a Year-End Rally",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why This Market Washout Will Spark a Year-End Rally &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-10-16T11:21:20.000Z",
+      "fact": "TradingView 報導：WDC, STX 股票 Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；WDC, STX Stocks Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity &nbsp;&nbsp; Tr。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "AI",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/zacks:75a6239d6094b:0-why-this-market-washout-will-spark-a-year-end-rally/"
+      "url": "https://tw.tradingview.com/news/stocktwits:428cc4a1f094b:0-wdc-stx-stocks-headed-for-third-straight-weekly-loss-wells-fargo-slashes-targets-but-sees-opportunity/"
     }
   ]
 }
