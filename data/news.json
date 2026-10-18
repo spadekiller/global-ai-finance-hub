@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T23:38:10.494Z",
+  "generatedAt": "2026-10-18T01:53:09.447Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -48,6 +48,26 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑",
+      "originalTitle": "蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑",
+      "translatedTitle": "蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "數位時代",
+      "publishedAt": "2026-10-16T03:45:00.000Z",
+      "fact": "數位時代 報導：蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑 &nbsp;&nbsp; 數位時代。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta"
+      ],
+      "url": "https://www.bnext.com.tw/article/92673/apple-meta-muse-spark-open-mac-studio"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "AI 財經快訊：Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco",
       "originalTitle": "Here's what we know about the man who allegedly bugged an OpenAI conference room in San Francisco",
@@ -65,26 +85,6 @@
         "AI"
       ],
       "url": "https://hk.news.yahoo.com/us/articles/heres-know-man-allegedly-bugged-130000967.html"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑",
-      "originalTitle": "蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑",
-      "translatedTitle": "蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "數位時代",
-      "publishedAt": "2026-10-16T03:45:00.000Z",
-      "fact": "數位時代 報導：蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果與宿敵Meta破冰！開放權重模型Muse Spark Open串起Mac Studio，在桌上就能跑 &nbsp;&nbsp; 數位時代。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta"
-      ],
-      "url": "https://www.bnext.com.tw/article/92673/apple-meta-muse-spark-open-mac-studio"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -172,6 +172,29 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
+      "subject": "微軟",
+      "title": "微軟, Shopify and 3 More AI 股票 That Are Favorite Wall Street 財報 Plays",
+      "originalTitle": "Microsoft, Shopify and 3 More AI Stocks That Are Favorite Wall Street Earnings Plays",
+      "translatedTitle": "微軟, Shopify and 3 More AI 股票 That Are Favorite Wall Street 財報 Plays",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-17T12:20:41.000Z",
+      "fact": "富途牛牛 報導：微軟, Shopify and 3 More AI 股票 That Are Favorite Wall Street 財報 Plays",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft, Shopify and 3 More AI Stocks That Are Favorite Wall Street Earnings Plays &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Microsoft",
+        "AI",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/1001469094/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
       "subject": "Alphabet 股票 Fall Although AI",
       "title": "Alphabet 股票 Fall Although AI-Chip Forecast Signals a Bigger 雲端 Business",
       "originalTitle": "Alphabet Stocks Fall Although AI-Chip Forecast Signals a Bigger Cloud Business",
@@ -192,7 +215,7 @@
       "url": "https://tw.tradingview.com/news/gurufocus:14775eeac094b:0-alphabet-stocks-fall-although-ai-chip-forecast-signals-a-bigger-cloud-business/"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "微軟",
       "title": "微軟, Shopify and 3 More AI 股票 That Are Favorite Wall Street 財報 Plays",
@@ -213,26 +236,6 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1001518073/microsoft-shopify-and-3-more-ai-stocks-that-are-favorite"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Nowhere to Hide",
-      "title": "Nowhere to Hide: Tech Selloff Hits Software and 晶片股 Alike",
-      "originalTitle": "Nowhere to Hide: Tech Selloff Hits Software and Chip Stocks Alike",
-      "translatedTitle": "Nowhere to Hide: Tech Selloff Hits Software and 晶片股 Alike",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-16T23:19:20.000Z",
-      "fact": "富途牛牛 報導：Nowhere to Hide: Tech Selloff Hits Software and 晶片股 Alike",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nowhere to Hide: Tech Selloff Hits Software and Chip Stocks Alike &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1001434797/nowhere-to-hide-tech-selloff-hits-software-and-chip-stocks"
     },
     {
       "id": "美股與全球市場焦點-4",
@@ -258,23 +261,23 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "WDC",
-      "title": "WDC, STX 股票 Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity",
-      "originalTitle": "WDC, STX Stocks Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity",
-      "translatedTitle": "WDC, STX 股票 Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity",
+      "subject": "The Philadelphia 半導體 Index h",
+      "title": "The Philadelphia 半導體 Index has fallen for eight consecutive trading sessions. Jensen Huang stated, \"This too shall pass,\" noting that the AI revolution is only just beginning.",
+      "originalTitle": "The Philadelphia Semiconductor Index has fallen for eight consecutive trading sessions. Jensen Huang stated, \"This too shall pass,\" noting that the AI revolution is only just beginning.",
+      "translatedTitle": "The Philadelphia 半導體 Index has fallen for eight consecutive trading sessions. Jensen Huang stated, \"This too shall pass,\" noting that the AI revolution is only just beginning.",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-16T11:21:20.000Z",
-      "fact": "TradingView 報導：WDC, STX 股票 Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；WDC, STX Stocks Headed For Third Straight Weekly Loss — Wells Fargo Slashes Targets But Sees Opportunity &nbsp;&nbsp; Tr。",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-16T21:45:35.000Z",
+      "fact": "富途牛牛 報導：The Philadelphia 半導體 Index has fallen for eight consecutive trading sessions. Jensen Huang stated, \"This too shall pass,\" noting that the AI revolution is only just beginning.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The Philadelphia Semiconductor Index has fallen for eight consecutive trading sessions. Jensen Huang stated, \"This too s。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "stocks"
+        "semiconductor"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:428cc4a1f094b:0-wdc-stx-stocks-headed-for-third-straight-weekly-loss-wells-fargo-slashes-targets-but-sees-opportunity/"
+      "url": "https://news.futunn.com/en/post/1001432955/the-philadelphia-semiconductor-index-has-fallen-for-eight-consecutive-trading"
     }
   ]
 }
