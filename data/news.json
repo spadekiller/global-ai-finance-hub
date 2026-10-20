@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T00:49:10.385Z",
+  "generatedAt": "2026-10-20T02:25:40.487Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -127,46 +127,26 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "輝達 股票 Rebound With $108 Bill",
-      "title": "輝達 股票 Rebound With $108 Billion Revenue Target Ahead",
-      "originalTitle": "Nvidia Stocks Rebound With $108 Billion Revenue Target Ahead",
-      "translatedTitle": "輝達 股票 Rebound With $108 Billion Revenue Target Ahead",
+      "subject": "Amazon",
+      "title": "Amazon 股票 Advance Premarket as Investors Assess AI Spending Returns",
+      "originalTitle": "Amazon Stocks Advance Premarket as Investors Assess AI Spending Returns",
+      "translatedTitle": "Amazon 股票 Advance Premarket as Investors Assess AI Spending Returns",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-10-19T12:09:07.000Z",
-      "fact": "TradingView 報導：輝達 股票 Rebound With $108 Billion Revenue Target Ahead",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Stocks Rebound With $108 Billion Revenue Target Ahead &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-10-19T12:12:12.000Z",
+      "fact": "TradingView 報導：Amazon 股票 Advance Premarket as Investors Assess AI Spending Returns",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Amazon Stocks Advance Premarket as Investors Assess AI Spending Returns &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
+        "AI",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:044b08798094b:0-nvidia-stocks-rebound-with-108-billion-revenue-target-ahead/"
+      "url": "https://tw.tradingview.com/news/gurufocus:0692944de094b:0-amazon-stocks-advance-premarket-as-investors-assess-ai-spending-returns/"
     },
     {
       "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "HUA HONG GRACE 半導體 LTD UNSPO",
-      "title": "HUA HONG GRACE 半導體 LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分",
-      "originalTitle": "HUA HONG GRACE SEMICONDUCTOR LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分",
-      "translatedTitle": "HUA HONG GRACE 半導體 LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-19T16:43:44.000Z",
-      "fact": "Moomoo 報導：HUA HONG GRACE 半導體 LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；HUA HONG GRACE SEMICONDUCTOR LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分 &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "semiconductor"
-      ],
-      "url": "https://www.moomoo.com/hant/stock/HHGSY-US/financials-revenue"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "中英對照讀新聞》輝達 CEO on AI 市場 turm",
       "title": "中英對照讀新聞》輝達 CEO on AI 市場 turmoil: ‘All of this is going to pass’ 輝達執行長談AI市場震盪：「這一切都將過去」",
@@ -187,7 +167,48 @@
       "url": "https://news.ltn.com.tw/amp/news/world/paper/1775248"
     },
     {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "HUA HONG GRACE 半導體 LTD UNSPO",
+      "title": "HUA HONG GRACE 半導體 LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分",
+      "originalTitle": "HUA HONG GRACE SEMICONDUCTOR LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分",
+      "translatedTitle": "HUA HONG GRACE 半導體 LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-19T16:43:44.000Z",
+      "fact": "Moomoo 報導：HUA HONG GRACE 半導體 LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；HUA HONG GRACE SEMICONDUCTOR LTD UNSPON ADS EACH REP 1 ORD (HHGSY)收入構成- 主要構成部分 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "semiconductor"
+      ],
+      "url": "https://www.moomoo.com/hant/stock/HHGSY-US/financials-revenue"
+    },
+    {
       "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "輝達 股票 Rebound With $108 Bill",
+      "title": "輝達 股票 Rebound With $108 Billion Revenue Target Ahead",
+      "originalTitle": "Nvidia Stocks Rebound With $108 Billion Revenue Target Ahead",
+      "translatedTitle": "輝達 股票 Rebound With $108 Billion Revenue Target Ahead",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-19T12:09:07.000Z",
+      "fact": "TradingView 報導：輝達 股票 Rebound With $108 Billion Revenue Target Ahead",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia Stocks Rebound With $108 Billion Revenue Target Ahead &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:044b08798094b:0-nvidia-stocks-rebound-with-108-billion-revenue-target-ahead/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "The AI 股票 市場 Wobble Is a Rem",
       "title": "The AI 股票 市場 Wobble Is a Reminder: This Time Isn't Different — WSJ",
@@ -205,26 +226,6 @@
         "AI"
       ],
       "url": "https://news.futunn.com/hk/post/1001480892/the-ai-stock-market-wobble-is-a-reminder-this-time"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "AMD 股票 Rise 2.56% With $13 B",
-      "title": "AMD 股票 Rise 2.56% With $13 Billion Revenue Guidance in Focus",
-      "originalTitle": "AMD Stocks Rise 2.56% With $13 Billion Revenue Guidance in Focus",
-      "translatedTitle": "AMD 股票 Rise 2.56% With $13 Billion Revenue Guidance in Focus",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-19T12:02:59.000Z",
-      "fact": "TradingView 報導：AMD 股票 Rise 2.56% With $13 Billion Revenue Guidance in Focus",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AMD Stocks Rise 2.56% With $13 Billion Revenue Guidance in Focus &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:774412881094b:0-amd-stocks-rise-2-56-with-13-billion-revenue-guidance-in-focus/"
     }
   ]
 }
