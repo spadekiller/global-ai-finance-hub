@@ -1,29 +1,9 @@
 {
-  "generatedAt": "2026-10-21T00:13:55.650Z",
+  "generatedAt": "2026-10-21T02:19:21.519Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
-      "section": "AI 與科技前沿",
-      "subject": "從傳聞中的「HomeView Max」推估",
-      "title": "從傳聞中的「HomeView Max」推估：當智慧中控長出機械臂，蘋果如何進軍實體AI鋪路？",
-      "originalTitle": "從傳聞中的「HomeView Max」推估：當智慧中控長出機械臂，蘋果如何進軍實體AI鋪路？",
-      "translatedTitle": "從傳聞中的「HomeView Max」推估：當智慧中控長出機械臂，蘋果如何進軍實體AI鋪路？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Mashdigi",
-      "publishedAt": "2026-10-20T16:00:16.000Z",
-      "fact": "Mashdigi 報導：從傳聞中的「HomeView Max」推估：當智慧中控長出機械臂，蘋果如何進軍實體AI鋪路？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；從傳聞中的「HomeView Max」推估：當智慧中控長出機械臂，蘋果如何進軍實體AI鋪路？ &nbsp;&nbsp; Mashdigi。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://mashdigi.com/rumors-suggest-apple-is-secretly-developing-a-high-end-homeview-max-ultra-model-codenamed-j595-aiming-to-enter-the-physical-ai-market/"
-    },
-    {
-      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta's AI Progress in Focus Ahead of 3Q Results — 財報 Preview",
@@ -45,7 +25,7 @@
       "url": "https://news.futunn.com/hk/post/1001702444/meta-s-ai-progress-in-focus-ahead-of-3q-results"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta Is Back on Offense — and Its Next Move Could Signal 走高 AI Spending Across Big Tech",
@@ -66,7 +46,7 @@
       "url": "https://www.moomoo.com/hant/news/post/1001722853/meta-is-back-on-offense-and-its-next-move-could"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Nemotron 3.5 Super VL 以一半的大小",
       "title": "Nemotron 3.5 Super VL 以一半的大小，表現與 Inkling Small 相當",
@@ -85,7 +65,7 @@
       "url": "https://www.orcarouter.ai/zh-TW/blog/us-open-weights-efficiency-gains-nemotron-3-5"
     },
     {
-      "id": "ai-與科技前沿-5",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "美國 AI 應用步入日常逾半成年人使用、App 成主流入",
       "title": "美國 AI 應用步入日常逾半成年人使用、App 成主流入口- 科技新聞",
@@ -103,6 +83,25 @@
         "AI"
       ],
       "url": "https://news.pchome.com.tw/science/sunmedia/20261020/index-79248055560309329005.html"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超",
+      "title": "不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期",
+      "originalTitle": "不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期",
+      "translatedTitle": "不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-10-20T22:10:12.000Z",
+      "fact": "蕃新聞 報導：不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期 &nbsp;&nbsp; 蕃新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://n.yam.com/Article/20261021681734"
     },
     {
       "id": "全球財經脈動-1",
