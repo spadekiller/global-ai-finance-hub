@@ -1,107 +1,109 @@
 {
-  "generatedAt": "2026-10-21T02:19:21.519Z",
+  "generatedAt": "2026-10-22T00:19:10.669Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta's AI Progress in Focus Ahead of 3Q Results — 財報 Preview",
-      "originalTitle": "Meta's AI Progress in Focus Ahead of 3Q Results -- Earnings Preview",
-      "translatedTitle": "Meta's AI Progress in Focus Ahead of 3Q Results — 財報 Preview",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-20T18:57:53.000Z",
-      "fact": "富途牛牛 報導：Meta's AI Progress in Focus Ahead of 3Q Results — 財報 Preview",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta's AI Progress in Focus Ahead of 3Q Results -- Earnings Preview &nbsp;&nbsp; 富途牛牛。",
+      "subject": "Gemini助陣！蘋果Siri AI韓語版本月上線 能看",
+      "title": "Gemini助陣！蘋果Siri AI韓語版本月上線 能看懂螢幕、翻訊息找食譜",
+      "originalTitle": "Gemini助陣！蘋果Siri AI韓語版本月上線 能看懂螢幕、翻訊息找食譜",
+      "translatedTitle": "Gemini助陣！蘋果Siri AI韓語版本月上線 能看懂螢幕、翻訊息找食譜",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "鉅亨網",
+      "publishedAt": "2026-10-21T08:00:32.000Z",
+      "fact": "鉅亨網 報導：Gemini助陣！蘋果Siri AI韓語版本月上線 能看懂螢幕、翻訊息找食譜",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini助陣！蘋果Siri AI韓語版本月上線 能看懂螢幕、翻訊息找食譜 &nbsp;&nbsp; 鉅亨網。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Meta",
-        "AI",
-        "earnings"
+        "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/1001702444/meta-s-ai-progress-in-focus-ahead-of-3q-results"
+      "url": "https://m.cnyes.com/news/id/6634960"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta Is Back on Offense — and Its Next Move Could Signal 走高 AI Spending Across Big Tech",
-      "originalTitle": "Meta Is Back on Offense - and Its Next Move Could Signal Higher AI Spending Across Big Tech",
-      "translatedTitle": "Meta Is Back on Offense — and Its Next Move Could Signal 走高 AI Spending Across Big Tech",
+      "subject": "TradingView上由CNBC TV18發佈的新聞，",
+      "title": "TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0",
+      "originalTitle": "TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0",
+      "translatedTitle": "TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-20T15:52:00.000Z",
-      "fact": "Moomoo 報導：Meta Is Back on Offense — and Its Next Move Could Signal 走高 AI Spending Across Big Tech",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Is Back on Offense - and Its Next Move Could Signal Higher AI Spending Across Big Tech &nbsp;&nbsp; Moomoo。",
+      "source": "TradingView",
+      "publishedAt": "2026-10-21T12:44:00.000Z",
+      "fact": "TradingView 報導：TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0 &nbsp;&nbsp; TradingView。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1001722853/meta-is-back-on-offense-and-its-next-move-could"
+      "url": "https://tw.tradingview.com/news/cnbctv:ab6e7a6d4094b:0/"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Nemotron 3.5 Super VL 以一半的大小",
-      "title": "Nemotron 3.5 Super VL 以一半的大小，表現與 Inkling Small 相當",
-      "originalTitle": "Nemotron 3.5 Super VL 以一半的大小，表現與 Inkling Small 相當",
-      "translatedTitle": "Nemotron 3.5 Super VL 以一半的大小，表現與 Inkling Small 相當",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-10-20T22:20:01.000Z",
-      "fact": "OrcaRouter 報導：Nemotron 3.5 Super VL 以一半的大小，表現與 Inkling Small 相當",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Nemotron 3.5 Super VL 以一半的大小，表現與 Inkling Small 相當 &nbsp;&nbsp; OrcaRouter。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "subject": "OpenAI",
+      "title": "OpenAI 模型協助找出 PHP 重大漏洞，預告類似發現未來數月急增",
+      "originalTitle": "OpenAI 模型協助找出 PHP 重大漏洞，預告類似發現未來數月急增",
+      "translatedTitle": "OpenAI 模型協助找出 PHP 重大漏洞，預告類似發現未來數月急增",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "鏈新聞 ABMedia",
+      "publishedAt": "2026-10-21T16:09:45.000Z",
+      "fact": "鏈新聞 ABMedia 報導：OpenAI 模型協助找出 PHP 重大漏洞，預告類似發現未來數月急增",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 模型協助找出 PHP 重大漏洞，預告類似發現未來數月急增 &nbsp;&nbsp; 鏈新聞 ABMedia。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
       ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/us-open-weights-efficiency-gains-nemotron-3-5"
+      "url": "https://abmedia.io/openai-gpt-5-6-sol-php-vulnerabilities"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "美國 AI 應用步入日常逾半成年人使用、App 成主流入",
-      "title": "美國 AI 應用步入日常逾半成年人使用、App 成主流入口- 科技新聞",
-      "originalTitle": "美國 AI 應用步入日常逾半成年人使用、App 成主流入口- 科技新聞",
-      "translatedTitle": "美國 AI 應用步入日常逾半成年人使用、App 成主流入口- 科技新聞",
+      "subject": "Google",
+      "title": "Google車用AI大升級！看照片就能導航 不用再記地址",
+      "originalTitle": "Google車用AI大升級！看照片就能導航　不用再記地址",
+      "translatedTitle": "Google車用AI大升級！看照片就能導航 不用再記地址",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-10-20T07:15:55.000Z",
-      "fact": "PChome Online 新聞 報導：美國 AI 應用步入日常逾半成年人使用、App 成主流入口- 科技新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美國 AI 應用步入日常逾半成年人使用、App 成主流入口- 科技新聞 &nbsp;&nbsp; PChome Online 新聞。",
+      "source": "自由電子報3C科技",
+      "publishedAt": "2026-10-21T05:00:00.000Z",
+      "fact": "自由電子報3C科技 報導：Google車用AI大升級！看照片就能導航 不用再記地址",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google車用AI大升級！看照片就能導航 不用再記地址 &nbsp;&nbsp; 自由電子報3C科技。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Google",
         "AI"
       ],
-      "url": "https://news.pchome.com.tw/science/sunmedia/20261020/index-79248055560309329005.html"
+      "url": "https://3c.ltn.com.tw/news/68001"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超",
-      "title": "不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期",
-      "originalTitle": "不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期",
-      "translatedTitle": "不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "蕃新聞",
-      "publishedAt": "2026-10-20T22:10:12.000Z",
-      "fact": "蕃新聞 報導：不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；不只會射火箭！SpaceX 人工智慧業務潛力爆發，表現超乎預期 &nbsp;&nbsp; 蕃新聞。",
+      "subject": "Asian Morning Briefing",
+      "title": "Asian Morning Briefing: U.S. 股票 Rise as SpaceX 財報 Boost AI Trade",
+      "originalTitle": "Asian Morning Briefing: U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
+      "translatedTitle": "Asian Morning Briefing: U.S. 股票 Rise as SpaceX 財報 Boost AI Trade",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-21T20:59:00.000Z",
+      "fact": "Moomoo 報導：Asian Morning Briefing: U.S. 股票 Rise as SpaceX 財報 Boost AI Trade",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Asian Morning Briefing: U.S. Stocks Rise as SpaceX Earnings Boost AI Trade &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "AI",
+        "earnings",
+        "stocks"
       ],
-      "url": "https://n.yam.com/Article/20261021681734"
+      "url": "https://www.moomoo.com/hant/news/post/1001914705/asian-morning-briefing-us-stocks-rise-as-spacex-earnings-boost"
     },
     {
       "id": "全球財經脈動-1",
@@ -125,87 +127,108 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "輝達 CEO urges German manufact",
-      "title": "輝達 CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
-      "originalTitle": "Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
-      "translatedTitle": "輝達 CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
+      "subject": "Research indicates that AI w",
+      "title": "Research indicates that AI will help expand the Southeast Asian digital 經濟 to a scale of $368 billion.",
+      "originalTitle": "Research indicates that AI will help expand the Southeast Asian digital economy to a scale of $368 billion.",
+      "translatedTitle": "Research indicates that AI will help expand the Southeast Asian digital 經濟 to a scale of $368 billion.",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Yahoo",
-      "publishedAt": "2026-10-19T19:28:53.000Z",
-      "fact": "Yahoo 報導：輝達 CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Nvidia CEO urges German manufacturers to adopt AI, saying digital tech won't replace heavy industry &nbsp;&nbsp; Yahoo。",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-21T04:10:59.000Z",
+      "fact": "富途牛牛 報導：Research indicates that AI will help expand the Southeast Asian digital 經濟 to a scale of $368 billion.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Research indicates that AI will help expand the Southeast Asian digital economy to a scale of $368 billion. &nbsp;&nbsp;。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "Nvidia",
         "AI"
       ],
-      "url": "https://hk.news.yahoo.com/world/articles/nvidia-ceo-urges-german-manufacturers-192853330.html"
+      "url": "https://news.futunn.com/en/post/1001751261/research-indicates-that-ai-will-help-expand-the-southeast-asian"
     },
     {
-      "id": "美股與全球市場焦點-1",
-      "section": "美股與全球市場焦點",
-      "subject": "SpaceX 26Q3營收年增161%",
-      "title": "SpaceX 26Q3營收年增161%：AI業務扭虧為盈，商業化邏輯加速兌現",
-      "originalTitle": "SpaceX 26Q3營收年增161%：AI業務扭虧為盈，商業化邏輯加速兌現",
-      "translatedTitle": "SpaceX 26Q3營收年增161%：AI業務扭虧為盈，商業化邏輯加速兌現",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-20T21:09:31.000Z",
-      "fact": "TradingKey 報導：SpaceX 26Q3營收年增161%：AI業務扭虧為盈，商業化邏輯加速兌現",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SpaceX 26Q3營收年增161%：AI業務扭虧為盈，商業化邏輯加速兌現 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262226999-spacex-spcx-q3-2026-earnings-ai-revenue-beat-capex-cash-flow-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Why Are Nasdaq Futures Falli",
-      "title": "Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS 股票 In Focus",
-      "originalTitle": "Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus",
-      "translatedTitle": "Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS 股票 In Focus",
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "The sharp plunge in U.S. 晶片股",
+      "title": "The sharp plunge in U.S. 晶片股 intensified, wiping out more than $1 trillion in 市場 value! Inflation exceeding expectations has reignited rate-hike fears, while financing bottlenecks in AI infrastructure have triggered a valuation reassessment.",
+      "originalTitle": "The sharp plunge in U.S. chip stocks intensified, wiping out more than $1 trillion in market value! Inflation exceeding expectations has reignited rate-hike fears, while financing bottlenecks in AI infrastructure have triggered a valuation reassessment.",
+      "translatedTitle": "The sharp plunge in U.S. 晶片股 intensified, wiping out more than $1 trillion in 市場 value! Inflation exceeding expectations has reignited rate-hike fears, while financing bottlenecks in AI infrastructure have triggered a valuation reassessment.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-20T08:52:01.000Z",
-      "fact": "TradingView 報導：Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS 股票 In Focus",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Are Nasdaq Futures Falling Premarket? CRWV, NBIS, TSLA, SPCX, MU, ASTS, NFLX, SLS Stocks In Focus &nbsp;&nbsp; Tradi。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-21T00:07:27.000Z",
+      "fact": "富途牛牛 報導：The sharp plunge in U.S. 晶片股 intensified, wiping out more than $1 trillion in 市場 value! Inflation exceeding expectations has reignited rate-hike fears, while financing bottlenecks in AI infrastructure have triggered a valuation reassessment.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The sharp plunge in U.S. chip stocks intensified, wiping out more than $1 trillion in market value! Inflation exceeding。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "市場焦點",
+        "全球財經",
+        "AI",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:4125d1ee1094b:0-why-are-nasdaq-futures-falling-premarket-crwv-nbis-tsla-spcx-mu-asts-nflx-sls-stocks-in-focus/"
+      "url": "https://news.futunn.com/en/post/1001180926/the-sharp-plunge-in-us-chip-stocks-intensified-wiping-out"
+    },
+    {
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "Fed",
+      "title": "AI 財經快訊：Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely Wrong!",
+      "originalTitle": "Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely Wrong!",
+      "translatedTitle": "AI 財經快訊：Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely Wrong!",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-21T14:13:20.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely Wrong!",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely W。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/1001815545/former-new-york-fed-president-warns-ai-is-creating-an"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "U.S. AI chip",
-      "title": "U.S. AI chip-related 股票 fell collectively in pre-市場 trading, with AMD and Intel dropping more than 1%.",
-      "originalTitle": "U.S. AI chip-related stocks fell collectively in pre-market trading, with AMD and Intel dropping more than 1%.",
-      "translatedTitle": "U.S. AI chip-related 股票 fell collectively in pre-市場 trading, with AMD and Intel dropping more than 1%.",
+      "subject": "AI",
+      "title": "AI-related 股票 were bought back, primarily driven by SpaceX's strong 財報 results.",
+      "originalTitle": "AI-related stocks were bought back, primarily driven by SpaceX's strong earnings results.",
+      "translatedTitle": "AI-related 股票 were bought back, primarily driven by SpaceX's strong 財報 results.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-20T15:11:17.000Z",
-      "fact": "富途牛牛 報導：U.S. AI chip-related 股票 fell collectively in pre-市場 trading, with AMD and Intel dropping more than 1%.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. AI chip-related stocks fell collectively in pre-market trading, with AMD and Intel dropping more than 1%. &nbsp;&nb。",
+      "publishedAt": "2026-10-21T08:08:39.000Z",
+      "fact": "富途牛牛 報導：AI-related 股票 were bought back, primarily driven by SpaceX's strong 財報 results.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI-related stocks were bought back, primarily driven by SpaceX's strong earnings results. &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
+        "earnings",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1001633759/us-ai-chip-related-stocks-fell-collectively-in-pre-market"
+      "url": "https://news.futunn.com/en/post/1001771389/ai-related-stocks-were-bought-back-primarily-driven-by-spacex"
     },
     {
       "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Nasdaq",
+      "title": "Nasdaq, 標普 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE 股票 In Focus",
+      "originalTitle": "Nasdaq, S&P 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE Stocks In Focus",
+      "translatedTitle": "Nasdaq, 標普 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE 股票 In Focus",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-21T03:38:05.000Z",
+      "fact": "TradingView 報導：Nasdaq, 標普 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE 股票 In Focus",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nasdaq, S&P 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE Stocks In Focus &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/stocktwits:58b3511a1094b:0-nasdaq-s-p-500-futures-climb-after-spacex-s-blowout-quarter-smci-nflx-ge-stocks-in-focus/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Strategist Tom Lee Says He's",
       "title": "Strategist Tom Lee Says He's Buying the AI 股票 Dip, and Cisco Holds the Key",
@@ -223,27 +246,6 @@
         "AI"
       ],
       "url": "https://news.futunn.com/hk/post/1001651012/strategist-tom-lee-says-he-s-buying-the-ai-stock"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Amazon",
-      "title": "Amazon 股票 Advance Premarket as Investors Assess AI Spending Returns",
-      "originalTitle": "Amazon Stocks Advance Premarket as Investors Assess AI Spending Returns",
-      "translatedTitle": "Amazon 股票 Advance Premarket as Investors Assess AI Spending Returns",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-19T12:12:12.000Z",
-      "fact": "TradingView 報導：Amazon 股票 Advance Premarket as Investors Assess AI Spending Returns",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Amazon Stocks Advance Premarket as Investors Assess AI Spending Returns &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:0692944de094b:0-amazon-stocks-advance-premarket-as-investors-assess-ai-spending-returns/"
     }
   ]
 }
