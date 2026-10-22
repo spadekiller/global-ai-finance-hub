@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-10-22T00:19:10.669Z",
+  "generatedAt": "2026-10-22T02:13:54.411Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google 將 Gemini「個人智慧」導入車載系統，航班、餐廳、 行程一問即通",
+      "originalTitle": "Google 將 Gemini「個人智慧」導入車載系統，航班、餐廳、 行程一問即通",
+      "translatedTitle": "Google 將 Gemini「個人智慧」導入車載系統，航班、餐廳、 行程一問即通",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "T客邦",
+      "publishedAt": "2026-10-22T01:30:00.000Z",
+      "fact": "T客邦 報導：Google 將 Gemini「個人智慧」導入車載系統，航班、餐廳、 行程一問即通",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 將 Gemini「個人智慧」導入車載系統，航班、餐廳、 行程一問即通 &nbsp;&nbsp; T客邦。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.techbang.com/posts/134311-google-gemini-personal-intelligence-in-cars"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Gemini助陣！蘋果Siri AI韓語版本月上線 能看",
       "title": "Gemini助陣！蘋果Siri AI韓語版本月上線 能看懂螢幕、翻訊息找食譜",
@@ -23,7 +43,28 @@
       "url": "https://m.cnyes.com/news/id/6634960"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta 2026年第三季法說會：廣告成長、Muse AI 與第四季財測指引",
+      "originalTitle": "Meta 2026年第三季法說會：廣告成長、Muse AI 與第四季財測指引",
+      "translatedTitle": "Meta 2026年第三季法說會：廣告成長、Muse AI 與第四季財測指引",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-21T23:31:53.000Z",
+      "fact": "TradingKey 報導：Meta 2026年第三季法說會：廣告成長、Muse AI 與第四季財測指引",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 2026年第三季法說會：廣告成長、Muse AI 與第四季財測指引 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/news/transcripts/262230692-tradingkey"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "TradingView上由CNBC TV18發佈的新聞，",
       "title": "TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0",
@@ -42,7 +83,7 @@
       "url": "https://tw.tradingview.com/news/cnbctv:ab6e7a6d4094b:0/"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI 模型協助找出 PHP 重大漏洞，預告類似發現未來數月急增",
@@ -61,49 +102,6 @@
         "AI"
       ],
       "url": "https://abmedia.io/openai-gpt-5-6-sol-php-vulnerabilities"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google車用AI大升級！看照片就能導航 不用再記地址",
-      "originalTitle": "Google車用AI大升級！看照片就能導航　不用再記地址",
-      "translatedTitle": "Google車用AI大升級！看照片就能導航 不用再記地址",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "自由電子報3C科技",
-      "publishedAt": "2026-10-21T05:00:00.000Z",
-      "fact": "自由電子報3C科技 報導：Google車用AI大升級！看照片就能導航 不用再記地址",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google車用AI大升級！看照片就能導航 不用再記地址 &nbsp;&nbsp; 自由電子報3C科技。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://3c.ltn.com.tw/news/68001"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Asian Morning Briefing",
-      "title": "Asian Morning Briefing: U.S. 股票 Rise as SpaceX 財報 Boost AI Trade",
-      "originalTitle": "Asian Morning Briefing: U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
-      "translatedTitle": "Asian Morning Briefing: U.S. 股票 Rise as SpaceX 財報 Boost AI Trade",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-21T20:59:00.000Z",
-      "fact": "Moomoo 報導：Asian Morning Briefing: U.S. 股票 Rise as SpaceX 財報 Boost AI Trade",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Asian Morning Briefing: U.S. Stocks Rise as SpaceX Earnings Boost AI Trade &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI",
-        "earnings",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1001914705/asian-morning-briefing-us-stocks-rise-as-spacex-earnings-boost"
     },
     {
       "id": "全球財經脈動-1",
@@ -186,6 +184,28 @@
       "url": "https://news.futunn.com/en/post/1001815545/former-new-york-fed-president-warns-ai-is-creating-an"
     },
     {
+      "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Asian Morning Briefing",
+      "title": "Asian Morning Briefing: U.S. 股票 Rise as SpaceX 財報 Boost AI Trade",
+      "originalTitle": "Asian Morning Briefing: U.S. Stocks Rise as SpaceX Earnings Boost AI Trade",
+      "translatedTitle": "Asian Morning Briefing: U.S. 股票 Rise as SpaceX 財報 Boost AI Trade",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-21T20:59:00.000Z",
+      "fact": "Moomoo 報導：Asian Morning Briefing: U.S. 股票 Rise as SpaceX 財報 Boost AI Trade",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asian Morning Briefing: U.S. Stocks Rise as SpaceX Earnings Boost AI Trade &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1001914705/asian-morning-briefing-us-stocks-rise-as-spacex-earnings-boost"
+    },
+    {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "AI",
@@ -210,22 +230,22 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Nasdaq",
-      "title": "Nasdaq, 標普 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE 股票 In Focus",
-      "originalTitle": "Nasdaq, S&P 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE Stocks In Focus",
-      "translatedTitle": "Nasdaq, 標普 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE 股票 In Focus",
+      "subject": "Braze leads software sector ",
+      "title": "Braze leads software sector 走高, while 晶片股 mostly hold steady",
+      "originalTitle": "Braze leads software sector higher, while chip stocks mostly hold steady",
+      "translatedTitle": "Braze leads software sector 走高, while 晶片股 mostly hold steady",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-10-21T03:38:05.000Z",
-      "fact": "TradingView 報導：Nasdaq, 標普 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE 股票 In Focus",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nasdaq, S&P 500 Futures Climb After SpaceX’s Blowout Quarter: SMCI, NFLX, GE Stocks In Focus &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-10-20T19:13:05.000Z",
+      "fact": "TradingView 報導：Braze leads software sector 走高, while 晶片股 mostly hold steady",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Braze leads software sector higher, while chip stocks mostly hold steady &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:58b3511a1094b:0-nasdaq-s-p-500-futures-climb-after-spacex-s-blowout-quarter-smci-nflx-ge-stocks-in-focus/"
+      "url": "https://tw.tradingview.com/news/seekingalpha:79d114cdb094b:0-braze-leads-software-sector-higher-while-chip-stocks-mostly-hold-steady/"
     },
     {
       "id": "美股與全球市場焦點-5",
