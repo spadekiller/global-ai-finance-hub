@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-10-23T00:14:53.591Z",
+  "generatedAt": "2026-10-23T02:19:49.040Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google Gemini個人化AI升級 車載技術戰場白熱化",
+      "originalTitle": "Google Gemini個人化AI升級 車載技術戰場白熱化",
+      "translatedTitle": "Google Gemini個人化AI升級 車載技術戰場白熱化",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "商傳媒",
+      "publishedAt": "2026-10-23T00:42:18.000Z",
+      "fact": "商傳媒 報導：Google Gemini個人化AI升級 車載技術戰場白熱化",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Gemini個人化AI升級 車載技術戰場白熱化 &nbsp;&nbsp; 商傳媒。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://sunmedia.tw/news/technology/1792710008-Google%20Gemini%E5%80%8B%E4%BA%BA%E5%8C%96AI%E5%8D%87%E7%B4%9A%E3%80%80%E8%BB%8A%E8%BC%89%E6%8A%80%E8%A1%93%E6%88%B0%E5%A0%B4%E7%99%BD%E7%86%B1%E5%8C%96"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "川普白宮會AI巨頭 簽自律承諾",
       "title": "川普白宮會AI巨頭 簽自律承諾",
@@ -23,7 +44,7 @@
       "url": "https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/159897/"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Mark Zuckberg宣告Meta憑藉Muse邁入全新階段，下月正式進駐智慧眼鏡",
@@ -43,7 +64,7 @@
       "url": "https://mashdigi.com/mark-zuckerberg-announced-that-meta-is-entering-a-new-phase-with-muse-and-will-officially-enter-the-smart-glasses-market-next-month/"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "輝達",
       "title": "輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
@@ -62,29 +83,6 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/invezz:b71d16e11094b:0-nvidia-amd-micron-fall-sharply-why-wall-street-is-punishing-ai-spending-either-way/"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
-      "originalTitle": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
-      "translatedTitle": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "雲端基礎設施",
-      "source": "硬是要學",
-      "publishedAt": "2026-10-22T06:58:06.000Z",
-      "fact": "硬是要學 報導：OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買 &nbsp;&nbsp; 硬是要學。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Google",
-        "AI",
-        "cloud"
-      ],
-      "url": "https://www.soft4fun.net/tech/ai/openai-models-codex-google-cloud-model-garden.htm"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -109,6 +107,26 @@
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
+      "subject": "自由能源 (LBRT) 2026 年第三季財報電話會議",
+      "title": "自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議",
+      "originalTitle": "自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議",
+      "translatedTitle": "自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-22T23:43:13.000Z",
+      "fact": "TradingKey 報導：自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/news/transcripts/262234554-tradingkey"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
       "subject": "Research indicates that AI w",
       "title": "Research indicates that AI will help expand the Southeast Asian digital 經濟 to a scale of $368 billion.",
       "originalTitle": "Research indicates that AI will help expand the Southeast Asian digital economy to a scale of $368 billion.",
@@ -127,7 +145,7 @@
       "url": "https://news.futunn.com/en/post/1001751261/research-indicates-that-ai-will-help-expand-the-southeast-asian"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "Fed",
       "title": "AI 財經快訊：Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely Wrong!",
@@ -149,6 +167,28 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "Top News Today",
+      "title": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
+      "originalTitle": "Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings",
+      "translatedTitle": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-22T20:41:00.000Z",
+      "fact": "Moomoo 報導：Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1002071764/top-news-today-stocks-mixed-nasdaq-slides-on-ai-blue"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "AI 股票 Slide After 財報 Disappo",
       "title": "AI 股票 Slide After 財報 Disappoint; French Bonds Tumble and Oil Tops $112 — Update",
       "originalTitle": "AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112 -- Update",
@@ -169,28 +209,28 @@
       "url": "https://news.futunn.com/hk/post/1001968451/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "U.S. 股票 Rise as SpaceX Spurs",
-      "title": "U.S. 股票 Rise as SpaceX Spurs AI Relief Rally — Update",
-      "originalTitle": "U.S. Stocks Rise as SpaceX Spurs AI Relief Rally -- Update",
-      "translatedTitle": "U.S. 股票 Rise as SpaceX Spurs AI Relief Rally — Update",
+      "subject": "AMD 股票 Drop 7.53% as AI Spen",
+      "title": "AMD 股票 Drop 7.53% as AI Spending Fears Challenge a $620 Target",
+      "originalTitle": "AMD Stocks Drop 7.53% as AI Spending Fears Challenge a $620 Target",
+      "translatedTitle": "AMD 股票 Drop 7.53% as AI Spending Fears Challenge a $620 Target",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-21T20:40:59.000Z",
-      "fact": "Moomoo 報導：U.S. 股票 Rise as SpaceX Spurs AI Relief Rally — Update",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Stocks Rise as SpaceX Spurs AI Relief Rally -- Update &nbsp;&nbsp; Moomoo。",
+      "source": "TradingView",
+      "publishedAt": "2026-10-22T18:29:05.000Z",
+      "fact": "TradingView 報導：AMD 股票 Drop 7.53% as AI Spending Fears Challenge a $620 Target",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AMD Stocks Drop 7.53% as AI Spending Fears Challenge a $620 Target &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1001912904/us-stocks-rise-as-spacex-spurs-ai-relief-rally-update"
+      "url": "https://tw.tradingview.com/news/gurufocus:659bc3bf4094b:0-amd-stocks-drop-7-53-as-ai-spending-fears-challenge-a-620-target/"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Meta",
       "title": "Meta and Tesla Lay Bare 股票 市場's Biggest AI Puzzle — Barron’s.com",
@@ -209,25 +249,6 @@
         "AI"
       ],
       "url": "https://news.futunn.com/hk/post/1001958623/meta-and-tesla-lay-bare-stock-market-s-biggest-ai"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "TradingView上由CNBC TV18發佈的新聞，",
-      "title": "TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0",
-      "originalTitle": "TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0",
-      "translatedTitle": "TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-21T12:44:00.000Z",
-      "fact": "TradingView 報導：TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；TradingView上由CNBC TV18發佈的新聞，2026-10-21 — cnbctv:ab6e7a6d4094b:0 &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://tw.tradingview.com/news/cnbctv:ab6e7a6d4094b:0/"
     }
   ]
 }
