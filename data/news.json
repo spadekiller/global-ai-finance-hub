@@ -1,135 +1,128 @@
 {
-  "generatedAt": "2026-10-24T02:17:36.257Z",
+  "generatedAt": "2026-10-24T23:51:47.487Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "中國AI模型雙雄暴跌 市值縮水4.8兆",
-      "title": "中國AI模型雙雄暴跌 市值縮水4.8兆",
-      "originalTitle": "中國AI模型雙雄暴跌 市值縮水4.8兆",
-      "translatedTitle": "中國AI模型雙雄暴跌 市值縮水4.8兆",
+      "subject": "Google",
+      "title": "打破「絕不拿Gmail投廣告」的鐵律？Google悄悄修改隱私權政策，可能利用用戶數據提升廣告業務",
+      "originalTitle": "打破「絕不拿Gmail投廣告」的鐵律？Google悄悄修改隱私權政策，可能利用用戶數據提升廣告業務",
+      "translatedTitle": "打破「絕不拿Gmail投廣告」的鐵律？Google悄悄修改隱私權政策，可能利用用戶數據提升廣告業務",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "自由財經",
-      "publishedAt": "2026-10-23T21:30:00.000Z",
-      "fact": "自由財經 報導：中國AI模型雙雄暴跌 市值縮水4.8兆",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；中國AI模型雙雄暴跌 市值縮水4.8兆 &nbsp;&nbsp; 自由財經。",
+      "source": "Mashdigi",
+      "publishedAt": "2026-10-24T20:07:02.000Z",
+      "fact": "Mashdigi 報導：打破「絕不拿Gmail投廣告」的鐵律？Google悄悄修改隱私權政策，可能利用用戶數據提升廣告業務",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；打破「絕不拿Gmail投廣告」的鐵律？Google悄悄修改隱私權政策，可能利用用戶數據提升廣告業務 &nbsp;&nbsp; Mashdigi。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Google",
         "AI"
       ],
-      "url": "https://ec.ltn.com.tw/amp/article/paper/1775779"
+      "url": "https://mashdigi.com/breaking-the-ironclad-rule-of-never-using-gmail-for-advertising-google-quietly-modifies-its-privacy-policy-potentially-using-user-data-to-boost-its-advertising-business/"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI 宣布進駐 Google 雲端：最新 GPT-5.1 模型與 Codex 啟動私人預覽",
-      "originalTitle": "OpenAI 宣布進駐 Google Cloud：最新 GPT-5.1 模型與 Codex 啟動私人預覽",
-      "translatedTitle": "OpenAI 宣布進駐 Google 雲端：最新 GPT-5.1 模型與 Codex 啟動私人預覽",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-10-22T02:20:19.000Z",
-      "fact": "TechNews 科技新報 報導：OpenAI 宣布進駐 Google 雲端：最新 GPT-5.1 模型與 Codex 啟動私人預覽",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 宣布進駐 Google Cloud：最新 GPT-5.1 模型與 Codex 啟動私人預覽 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Google",
-        "AI",
-        "cloud"
-      ],
-      "url": "https://technews.tw/2026/10/22/openai-models-coming-google-cloud/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
-      "originalTitle": "Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
-      "translatedTitle": "Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "雲端基礎設施",
-      "source": "經濟日報",
-      "publishedAt": "2026-10-22T02:38:59.000Z",
-      "fact": "經濟日報 報導：Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型 &nbsp;&nbsp; 經濟日報。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Google",
-        "AI",
-        "cloud"
-      ],
-      "url": "https://money.udn.com/money/story/5612/9830428"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
-      "originalTitle": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
-      "translatedTitle": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "雲端基礎設施",
-      "source": "硬是要學",
-      "publishedAt": "2026-10-22T06:58:06.000Z",
-      "fact": "硬是要學 報導：OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買 &nbsp;&nbsp; 硬是要學。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Google",
-        "AI",
-        "cloud"
-      ],
-      "url": "https://www.soft4fun.net/tech/ai/openai-models-codex-google-cloud-model-garden.htm"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自",
-      "title": "管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股",
-      "originalTitle": "管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股",
-      "translatedTitle": "管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股",
+      "subject": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡",
+      "title": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
+      "originalTitle": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
+      "translatedTitle": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "商周財富網",
-      "publishedAt": "2026-10-22T03:05:00.000Z",
-      "fact": "商周財富網 報導：管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股 &nbsp;&nbsp; 商周財富網。",
+      "source": "PChome Online 新聞",
+      "publishedAt": "2026-10-24T04:52:42.000Z",
+      "fact": "PChome Online 新聞 報導：美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞 &nbsp;&nbsp; PChome Online 新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://wealth.businessweekly.com.tw/GArticle.aspx?id"
+      "url": "https://news.pchome.com.tw/finance/sunmedia/20261024/index-79281756257161329003.html"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
+      "originalTitle": "Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
+      "translatedTitle": "AI 財經快訊：Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-24T11:00:00.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness. &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/1002204575/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google連結AI後 Gmail與相簿內容可用於廣告",
+      "originalTitle": "Google連結AI後 Gmail與相簿內容可用於廣告",
+      "translatedTitle": "Google連結AI後 Gmail與相簿內容可用於廣告",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "Martin Cid Magazine",
+      "publishedAt": "2026-10-24T06:08:16.000Z",
+      "fact": "Martin Cid Magazine 報導：Google連結AI後 Gmail與相簿內容可用於廣告",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google連結AI後 Gmail與相簿內容可用於廣告 &nbsp;&nbsp; Martin Cid Magazine。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://zh-hant.martincid.com/technology-zh-hant/google%E9%80%A3%E7%B5%90ai%E5%BE%8C-gmail%E8%88%87%E7%9B%B8%E7%B0%BF%E5%85%A7%E5%AE%B9%E5%8F%AF%E7%94%A8%E6%96%BC%E5%BB%A3%E5%91%8A/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "關於OpenAI IPO，您需要瞭解的一些關鍵資訊",
+      "originalTitle": "關於OpenAI IPO，您需要瞭解的一些關鍵資訊",
+      "translatedTitle": "關於OpenAI IPO，您需要瞭解的一些關鍵資訊",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-24T07:03:41.000Z",
+      "fact": "TradingKey 報導：關於OpenAI IPO，您需要瞭解的一些關鍵資訊",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；關於OpenAI IPO，您需要瞭解的一些關鍵資訊 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/261965854-openai-ipo-openai-chatgpt-mu-tradingkey"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "自由能源 (LBRT) 2026 年第三季財報電話會議",
-      "title": "自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議",
-      "originalTitle": "自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議",
-      "translatedTitle": "自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "2026 China Marine 經濟 Expo Ki",
+      "title": "2026 China Marine 經濟 Expo Kicks Off: Embarking Together on a Journey Toward Digital and Smart Ocean",
+      "originalTitle": "2026 China Marine Economy Expo Kicks Off: Embarking Together on a Journey Toward Digital and Smart Ocean",
+      "translatedTitle": "2026 China Marine 經濟 Expo Kicks Off: Embarking Together on a Journey Toward Digital and Smart Ocean",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-22T23:43:13.000Z",
-      "fact": "TradingKey 報導：自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；自由能源 (LBRT) 2026 年第三季財報電話會議：1.2 GW AI 電力協議 &nbsp;&nbsp; TradingKey。",
+      "source": "Quamnet",
+      "publishedAt": "2026-10-24T11:00:01.000Z",
+      "fact": "Quamnet 報導：2026 China Marine 經濟 Expo Kicks Off: Embarking Together on a Journey Toward Digital and Smart Ocean",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；2026 China Marine Economy Expo Kicks Off: Embarking Together on a Journey Toward Digital and Smart Ocean &nbsp;&nbsp; Qu。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經",
-        "AI"
+        "全球財經"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/news/transcripts/262234554-tradingkey"
+      "url": "https://www.quamnet.com/post/WgrBVqdlcu8uUhxBPx7x_"
     },
     {
       "id": "全球財經脈動-2",
@@ -154,48 +147,85 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "輝達's AI Warning",
-      "title": "輝達's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
-      "originalTitle": "Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
-      "translatedTitle": "輝達's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "TradingView",
-      "publishedAt": "2026-10-22T20:07:14.000Z",
-      "fact": "TradingView 報導：輝達's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/benzinga:d1decaaf1094b:0-nvidia-s-ai-warning-111-oil-why-soxl-just-suffered-a-brutal-20-wipeout/"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "AI 股票 Slide After 財報 Disappo",
-      "title": "AI 股票 Slide After 財報 Disappoint; French Bonds Tumble and Oil Tops $112 — Update",
-      "originalTitle": "AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112 -- Update",
-      "translatedTitle": "AI 股票 Slide After 財報 Disappoint; French Bonds Tumble and Oil Tops $112 — Update",
+      "subject": "The AI Trade Is Shifting Fro",
+      "title": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "originalTitle": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com",
+      "translatedTitle": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-22T13:41:14.000Z",
-      "fact": "富途牛牛 報導：AI 股票 Slide After 財報 Disappoint; French Bonds Tumble and Oil Tops $112 — Update",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI Stocks Slide After Earnings Disappoint; French Bonds Tumble and Oil Tops $112 -- Update &nbsp;&nbsp; 富途牛牛。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-24T15:45:15.000Z",
+      "fact": "Moomoo 報導：The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "earnings",
         "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/1001968451/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and"
+      "url": "https://www.moomoo.com/hant/news/post/1002277087/the-ai-trade-is-shifting-from-chip-stocks-to-cybersecurity"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "Why Bloom 能源 (BE) 股價 are fal",
+      "title": "Why Bloom 能源 (BE) 股價 are falling today",
+      "originalTitle": "Why Bloom Energy (BE) shares are falling today",
+      "translatedTitle": "Why Bloom 能源 (BE) 股價 are falling today",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-23T14:30:43.000Z",
+      "fact": "TradingView 報導：Why Bloom 能源 (BE) 股價 are falling today",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Bloom Energy (BE) shares are falling today &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://tw.tradingview.com/news/stockstory:040cd9fa7094b:0-why-bloom-energy-be-shares-are-falling-today/"
     },
     {
       "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "The AI Trade Is Shifting Fro",
+      "title": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "originalTitle": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com",
+      "translatedTitle": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-23T02:14:00.000Z",
+      "fact": "富途牛牛 報導：The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/1002211899/the-ai-trade-is-shifting-from-chip-stocks-to-cybersecurity"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "諾基亞股價預測",
+      "title": "諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺",
+      "originalTitle": "諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺",
+      "translatedTitle": "諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-23T19:13:56.000Z",
+      "fact": "TradingKey 報導：諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262236497-nokia-stock-forecast-q3-earnings-ai-cloud-orders-barclays-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "美股資金流向",
       "title": "美股資金流向：AI股拋售潮後，華爾街資金正流向何處？",
@@ -213,49 +243,6 @@
         "AI"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1002120783/us-stock-market-capital-migration-after-the-ai-stock-selloff"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達",
-      "title": "輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
-      "originalTitle": "Nvidia, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
-      "translatedTitle": "輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "TradingView",
-      "publishedAt": "2026-10-22T11:28:36.000Z",
-      "fact": "TradingView 報導：輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/invezz:b71d16e11094b:0-nvidia-amd-micron-fall-sharply-why-wall-street-is-punishing-ai-spending-either-way/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Top News Today",
-      "title": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
-      "originalTitle": "Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings",
-      "translatedTitle": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-22T20:41:00.000Z",
-      "fact": "Moomoo 報導：Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1002071764/top-news-today-stocks-mixed-nasdaq-slides-on-ai-blue"
     }
   ]
 }
