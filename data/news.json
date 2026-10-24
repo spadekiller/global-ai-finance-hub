@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T00:08:30.277Z",
+  "generatedAt": "2026-10-24T02:17:36.257Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,6 +26,29 @@
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
+      "title": "OpenAI 宣布進駐 Google 雲端：最新 GPT-5.1 模型與 Codex 啟動私人預覽",
+      "originalTitle": "OpenAI 宣布進駐 Google Cloud：最新 GPT-5.1 模型與 Codex 啟動私人預覽",
+      "translatedTitle": "OpenAI 宣布進駐 Google 雲端：最新 GPT-5.1 模型與 Codex 啟動私人預覽",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-10-22T02:20:19.000Z",
+      "fact": "TechNews 科技新報 報導：OpenAI 宣布進駐 Google 雲端：最新 GPT-5.1 模型與 Codex 啟動私人預覽",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 宣布進駐 Google Cloud：最新 GPT-5.1 模型與 Codex 啟動私人預覽 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Google",
+        "AI",
+        "cloud"
+      ],
+      "url": "https://technews.tw/2026/10/22/openai-models-coming-google-cloud/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
       "title": "Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
       "originalTitle": "Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
       "translatedTitle": "Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
@@ -46,7 +69,7 @@
       "url": "https://money.udn.com/money/story/5612/9830428"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
@@ -69,44 +92,24 @@
       "url": "https://www.soft4fun.net/tech/ai/openai-models-codex-google-cloud-model-garden.htm"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
-      "title": "美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
-      "originalTitle": "美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
-      "translatedTitle": "美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "數位時代",
-      "publishedAt": "2026-10-23T02:54:00.000Z",
-      "fact": "數位時代 報導：美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析 &nbsp;&nbsp; 數位時代。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.bnext.com.tw/article/92768/us-chip-stocks-plunge-nvidia-amd-intel"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google Gemini個人化AI升級 車載技術戰場白熱化",
-      "originalTitle": "Google Gemini個人化AI升級 車載技術戰場白熱化",
-      "translatedTitle": "Google Gemini個人化AI升級 車載技術戰場白熱化",
+      "subject": "管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自",
+      "title": "管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股",
+      "originalTitle": "管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股",
+      "translatedTitle": "管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "商傳媒",
-      "publishedAt": "2026-10-23T00:42:18.000Z",
-      "fact": "商傳媒 報導：Google Gemini個人化AI升級 車載技術戰場白熱化",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Gemini個人化AI升級 車載技術戰場白熱化 &nbsp;&nbsp; 商傳媒。",
+      "category": "AI 與科技前沿",
+      "source": "商周財富網",
+      "publishedAt": "2026-10-22T03:05:00.000Z",
+      "fact": "商周財富網 報導：管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；管它AI還是SI，能贏才重要！中國狂撒人民幣10兆元拚自主，「這6檔」有看頭-陸股 &nbsp;&nbsp; 商周財富網。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
         "AI"
       ],
-      "url": "https://sunmedia.tw/news/technology/1792710008-Google%20Gemini%E5%80%8B%E4%BA%BA%E5%8C%96AI%E5%8D%87%E7%B4%9A%E3%80%80%E8%BB%8A%E8%BC%89%E6%8A%80%E8%A1%93%E6%88%B0%E5%A0%B4%E7%99%BD%E7%86%B1%E5%8C%96"
+      "url": "https://wealth.businessweekly.com.tw/GArticle.aspx?id"
     },
     {
       "id": "全球財經脈動-1",
@@ -194,24 +197,22 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Top News Today",
-      "title": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
-      "originalTitle": "Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings",
-      "translatedTitle": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "美股資金流向",
+      "title": "美股資金流向：AI股拋售潮後，華爾街資金正流向何處？",
+      "originalTitle": "美股資金流向：AI股拋售潮後，華爾街資金正流向何處？",
+      "translatedTitle": "美股資金流向：AI股拋售潮後，華爾街資金正流向何處？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-10-22T20:41:00.000Z",
-      "fact": "Moomoo 報導：Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-10-23T04:11:00.000Z",
+      "fact": "Moomoo 報導：美股資金流向：AI股拋售潮後，華爾街資金正流向何處？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美股資金流向：AI股拋售潮後，華爾街資金正流向何處？ &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "earnings",
-        "stocks"
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1002071764/top-news-today-stocks-mixed-nasdaq-slides-on-ai-blue"
+      "url": "https://www.moomoo.com/hant/news/post/1002120783/us-stock-market-capital-migration-after-the-ai-stock-selloff"
     },
     {
       "id": "美股與全球市場焦點-4",
@@ -237,23 +238,24 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "U.S. Tech 股票 Drop on AI Spen",
-      "title": "U.S. Tech 股票 Drop on AI Spending Concerns",
-      "originalTitle": "U.S. Tech Stocks Drop on AI Spending Concerns",
-      "translatedTitle": "U.S. Tech 股票 Drop on AI Spending Concerns",
+      "subject": "Top News Today",
+      "title": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
+      "originalTitle": "Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings",
+      "translatedTitle": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-23T03:03:22.000Z",
-      "fact": "富途牛牛 報導：U.S. Tech 股票 Drop on AI Spending Concerns",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Tech Stocks Drop on AI Spending Concerns &nbsp;&nbsp; 富途牛牛。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-22T20:41:00.000Z",
+      "fact": "Moomoo 報導：Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
+        "earnings",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1002005682/us-tech-stocks-drop-on-ai-spending-concerns"
+      "url": "https://www.moomoo.com/hant/news/post/1002071764/top-news-today-stocks-mixed-nasdaq-slides-on-ai-blue"
     }
   ]
 }
