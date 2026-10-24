@@ -1,9 +1,94 @@
 {
-  "generatedAt": "2026-10-23T02:19:49.040Z",
+  "generatedAt": "2026-10-24T00:08:30.277Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "中國AI模型雙雄暴跌 市值縮水4.8兆",
+      "title": "中國AI模型雙雄暴跌 市值縮水4.8兆",
+      "originalTitle": "中國AI模型雙雄暴跌 市值縮水4.8兆",
+      "translatedTitle": "中國AI模型雙雄暴跌 市值縮水4.8兆",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "自由財經",
+      "publishedAt": "2026-10-23T21:30:00.000Z",
+      "fact": "自由財經 報導：中國AI模型雙雄暴跌 市值縮水4.8兆",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；中國AI模型雙雄暴跌 市值縮水4.8兆 &nbsp;&nbsp; 自由財經。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://ec.ltn.com.tw/amp/article/paper/1775779"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
+      "originalTitle": "Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
+      "translatedTitle": "Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "雲端基礎設施",
+      "source": "經濟日報",
+      "publishedAt": "2026-10-22T02:38:59.000Z",
+      "fact": "經濟日報 報導：Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Cloud 擴大企業客戶模型選擇與彈性 平台加入 OpenAI 模型 &nbsp;&nbsp; 經濟日報。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Google",
+        "AI",
+        "cloud"
+      ],
+      "url": "https://money.udn.com/money/story/5612/9830428"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
+      "originalTitle": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
+      "translatedTitle": "OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "雲端基礎設施",
+      "source": "硬是要學",
+      "publishedAt": "2026-10-22T06:58:06.000Z",
+      "fact": "硬是要學 報導：OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 模型與 Codex 登上 Google Cloud：三大雲端全數到齊，企業用現有額度就能買 &nbsp;&nbsp; 硬是要學。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Google",
+        "AI",
+        "cloud"
+      ],
+      "url": "https://www.soft4fun.net/tech/ai/openai-models-codex-google-cloud-model-garden.htm"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
+      "title": "美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
+      "originalTitle": "美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
+      "translatedTitle": "美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "數位時代",
+      "publishedAt": "2026-10-23T02:54:00.000Z",
+      "fact": "數位時代 報導：美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美股晶片股為何重挫？英特爾、輝達、AMD股價下跌原因解析 &nbsp;&nbsp; 數位時代。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.bnext.com.tw/article/92768/us-chip-stocks-plunge-nvidia-amd-intel"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Google Gemini個人化AI升級 車載技術戰場白熱化",
@@ -22,87 +107,6 @@
         "AI"
       ],
       "url": "https://sunmedia.tw/news/technology/1792710008-Google%20Gemini%E5%80%8B%E4%BA%BA%E5%8C%96AI%E5%8D%87%E7%B4%9A%E3%80%80%E8%BB%8A%E8%BC%89%E6%8A%80%E8%A1%93%E6%88%B0%E5%A0%B4%E7%99%BD%E7%86%B1%E5%8C%96"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "川普白宮會AI巨頭 簽自律承諾",
-      "title": "川普白宮會AI巨頭 簽自律承諾",
-      "originalTitle": "川普白宮會AI巨頭 簽自律承諾",
-      "translatedTitle": "川普白宮會AI巨頭 簽自律承諾",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "美洲台灣日報",
-      "publishedAt": "2026-10-22T20:49:47.000Z",
-      "fact": "美洲台灣日報 報導：川普白宮會AI巨頭 簽自律承諾",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；川普白宮會AI巨頭 簽自律承諾 &nbsp;&nbsp; 美洲台灣日報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://taiwandaily.net/%E5%8D%B3%E6%99%82%E6%96%B0%E8%81%9E/159897/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Mark Zuckberg宣告Meta憑藉Muse邁入全新階段，下月正式進駐智慧眼鏡",
-      "originalTitle": "Mark Zuckberg宣告Meta憑藉Muse邁入全新階段，下月正式進駐智慧眼鏡",
-      "translatedTitle": "Mark Zuckberg宣告Meta憑藉Muse邁入全新階段，下月正式進駐智慧眼鏡",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Mashdigi",
-      "publishedAt": "2026-10-22T19:26:41.000Z",
-      "fact": "Mashdigi 報導：Mark Zuckberg宣告Meta憑藉Muse邁入全新階段，下月正式進駐智慧眼鏡",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Mark Zuckberg宣告Meta憑藉Muse邁入全新階段，下月正式進駐智慧眼鏡 &nbsp;&nbsp; Mashdigi。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta"
-      ],
-      "url": "https://mashdigi.com/mark-zuckerberg-announced-that-meta-is-entering-a-new-phase-with-muse-and-will-officially-enter-the-smart-glasses-market-next-month/"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "輝達",
-      "title": "輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
-      "originalTitle": "Nvidia, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
-      "translatedTitle": "輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "TradingView",
-      "publishedAt": "2026-10-22T11:28:36.000Z",
-      "fact": "TradingView 報導：輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Nvidia, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/invezz:b71d16e11094b:0-nvidia-amd-micron-fall-sharply-why-wall-street-is-punishing-ai-spending-either-way/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "瑞銀稱，Meta的人工智能商業化有望提振營收增長",
-      "originalTitle": "瑞銀稱，Meta的人工智能商業化有望提振營收增長",
-      "translatedTitle": "瑞銀稱，Meta的人工智能商業化有望提振營收增長",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-22T16:33:02.000Z",
-      "fact": "富途牛牛 報導：瑞銀稱，Meta的人工智能商業化有望提振營收增長",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；瑞銀稱，Meta的人工智能商業化有望提振營收增長 &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta"
-      ],
-      "url": "https://news.futunn.com/hk/post/1001992641/meta-s-ai-monetization-could-boost-revenue-growth-ubs-says"
     },
     {
       "id": "全球財經脈動-1",
@@ -127,67 +131,46 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "Research indicates that AI w",
-      "title": "Research indicates that AI will help expand the Southeast Asian digital 經濟 to a scale of $368 billion.",
-      "originalTitle": "Research indicates that AI will help expand the Southeast Asian digital economy to a scale of $368 billion.",
-      "translatedTitle": "Research indicates that AI will help expand the Southeast Asian digital 經濟 to a scale of $368 billion.",
+      "subject": "Blackstone CEO Reveals AI 投資",
+      "title": "Blackstone CEO Reveals AI 投資 Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset Management Giant Bets on the Entire AI Industry Chain",
+      "originalTitle": "Blackstone CEO Reveals AI Investment Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset Management Giant Bets on the Entire AI Industry Chain",
+      "translatedTitle": "Blackstone CEO Reveals AI 投資 Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset Management Giant Bets on the Entire AI Industry Chain",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-21T04:10:59.000Z",
-      "fact": "富途牛牛 報導：Research indicates that AI will help expand the Southeast Asian digital 經濟 to a scale of $368 billion.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Research indicates that AI will help expand the Southeast Asian digital economy to a scale of $368 billion. &nbsp;&nbsp;。",
+      "publishedAt": "2026-10-23T05:31:04.000Z",
+      "fact": "富途牛牛 報導：Blackstone CEO Reveals AI 投資 Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset Management Giant Bets on the Entire AI Industry Chain",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Blackstone CEO Reveals AI Investment Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset M。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1001751261/research-indicates-that-ai-will-help-expand-the-southeast-asian"
+      "url": "https://news.futunn.com/en/post/1002065391/blackstone-ceo-reveals-ai-investment-turning-point-chance-meeting-with"
     },
     {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "Fed",
-      "title": "AI 財經快訊：Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely Wrong!",
-      "originalTitle": "Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely Wrong!",
-      "translatedTitle": "AI 財經快訊：Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely Wrong!",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-21T14:13:20.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely Wrong!",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Former New York Fed President Warns: AI Is Creating an Interest Rate “Roller Coaster,” and Wall Street May Be Entirely W。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1001815545/former-new-york-fed-president-warns-ai-is-creating-an"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Top News Today",
-      "title": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
-      "originalTitle": "Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings",
-      "translatedTitle": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
+      "subject": "輝達's AI Warning",
+      "title": "輝達's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
+      "originalTitle": "Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
+      "translatedTitle": "輝達's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-22T20:41:00.000Z",
-      "fact": "Moomoo 報導：Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings &nbsp;&nbsp; Moomoo。",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-10-22T20:07:14.000Z",
+      "fact": "TradingView 報導：輝達's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia's AI Warning, $111 Oil: Why SOXL Just Suffered a Brutal 20% Wipeout &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "earnings",
-        "stocks"
+        "Nvidia",
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1002071764/top-news-today-stocks-mixed-nasdaq-slides-on-ai-blue"
+      "url": "https://tw.tradingview.com/news/benzinga:d1decaaf1094b:0-nvidia-s-ai-warning-111-oil-why-soxl-just-suffered-a-brutal-20-wipeout/"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "AI 股票 Slide After 財報 Disappo",
       "title": "AI 股票 Slide After 財報 Disappoint; French Bonds Tumble and Oil Tops $112 — Update",
@@ -209,46 +192,68 @@
       "url": "https://news.futunn.com/hk/post/1001968451/ai-stocks-slide-after-earnings-disappoint-french-bonds-tumble-and"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "AMD 股票 Drop 7.53% as AI Spen",
-      "title": "AMD 股票 Drop 7.53% as AI Spending Fears Challenge a $620 Target",
-      "originalTitle": "AMD Stocks Drop 7.53% as AI Spending Fears Challenge a $620 Target",
-      "translatedTitle": "AMD 股票 Drop 7.53% as AI Spending Fears Challenge a $620 Target",
+      "subject": "Top News Today",
+      "title": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
+      "originalTitle": "Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings",
+      "translatedTitle": "Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-22T20:41:00.000Z",
+      "fact": "Moomoo 報導：Top News Today: 股票 Mixed; Nasdaq Slides on AI; Blue Chips Gain on 財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Top News Today: Stocks Mixed; Nasdaq Slides on AI; Blue Chips Gain on Earnings &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1002071764/top-news-today-stocks-mixed-nasdaq-slides-on-ai-blue"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "輝達",
+      "title": "輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
+      "originalTitle": "Nvidia, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
+      "translatedTitle": "輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
       "source": "TradingView",
-      "publishedAt": "2026-10-22T18:29:05.000Z",
-      "fact": "TradingView 報導：AMD 股票 Drop 7.53% as AI Spending Fears Challenge a $620 Target",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AMD Stocks Drop 7.53% as AI Spending Fears Challenge a $620 Target &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-10-22T11:28:36.000Z",
+      "fact": "TradingView 報導：輝達, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia, AMD, Micron fall sharply: why Wall Street is punishing AI spending either way &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/invezz:b71d16e11094b:0-nvidia-amd-micron-fall-sharply-why-wall-street-is-punishing-ai-spending-either-way/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "U.S. Tech 股票 Drop on AI Spen",
+      "title": "U.S. Tech 股票 Drop on AI Spending Concerns",
+      "originalTitle": "U.S. Tech Stocks Drop on AI Spending Concerns",
+      "translatedTitle": "U.S. Tech 股票 Drop on AI Spending Concerns",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-23T03:03:22.000Z",
+      "fact": "富途牛牛 報導：U.S. Tech 股票 Drop on AI Spending Concerns",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Tech Stocks Drop on AI Spending Concerns &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:659bc3bf4094b:0-amd-stocks-drop-7-53-as-ai-spending-fears-challenge-a-620-target/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Meta",
-      "title": "Meta and Tesla Lay Bare 股票 市場's Biggest AI Puzzle — Barron’s.com",
-      "originalTitle": "Meta and Tesla Lay Bare Stock Market's Biggest AI Puzzle -- Barrons.com",
-      "translatedTitle": "Meta and Tesla Lay Bare 股票 市場's Biggest AI Puzzle — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-22T11:44:00.000Z",
-      "fact": "富途牛牛 報導：Meta and Tesla Lay Bare 股票 市場's Biggest AI Puzzle — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Meta and Tesla Lay Bare Stock Market's Biggest AI Puzzle -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/hk/post/1001958623/meta-and-tesla-lay-bare-stock-market-s-biggest-ai"
+      "url": "https://news.futunn.com/en/post/1002005682/us-tech-stocks-drop-on-ai-spending-concerns"
     }
   ]
 }
