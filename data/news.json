@@ -1,9 +1,89 @@
 {
-  "generatedAt": "2026-10-25T02:04:29.960Z",
+  "generatedAt": "2026-10-25T23:40:34.029Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》MODA working on better social media AI disclosure",
+      "originalTitle": "《TAIPEI TIMES》MODA working on better social media AI disclosure",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》MODA working on better social media AI disclosure",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "自由時報",
+      "publishedAt": "2026-10-25T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》MODA working on better social media AI disclosure",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《TAIPEI TIMES》MODA working on better social media AI disclosure &nbsp;&nbsp; 自由時報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5618589"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "調查",
+      "title": "調查：逾四成阿曼民眾已使用人工智慧工具",
+      "originalTitle": "調查：逾四成阿曼民眾已使用人工智慧工具",
+      "translatedTitle": "調查：逾四成阿曼民眾已使用人工智慧工具",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-10-25T22:46:34.000Z",
+      "fact": "蕃新聞 報導：調查：逾四成阿曼民眾已使用人工智慧工具",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；調查：逾四成阿曼民眾已使用人工智慧工具 &nbsp;&nbsp; 蕃新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://n.yam.com/Article/20261026228541"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "originalTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "translatedTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-25T12:07:48.000Z",
+      "fact": "TradingKey 報導：Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/261951082-anthropic-ipo-claude-ai-tradingkey"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google 悄改隱私政策：Gmail、相簿連上 AI 後，資料能拿來推廣告（關閉步驟整理）",
+      "originalTitle": "Google 悄改隱私政策：Gmail、相簿連上 AI 後，資料能拿來推廣告（關閉步驟整理）",
+      "translatedTitle": "Google 悄改隱私政策：Gmail、相簿連上 AI 後，資料能拿來推廣告（關閉步驟整理）",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "動區動趨",
+      "publishedAt": "2026-10-25T03:37:22.000Z",
+      "fact": "動區動趨 報導：Google 悄改隱私政策：Gmail、相簿連上 AI 後，資料能拿來推廣告（關閉步驟整理）",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 悄改隱私政策：Gmail、相簿連上 AI 後，資料能拿來推廣告（關閉步驟整理） &nbsp;&nbsp; 動區動趨。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://www.blocktempo.com/google-privacy-policy-gmail-photos-personal-intelligence-ads-connected-apps/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "打破「絕不拿Gmail投廣告」的鐵律？Google悄悄修改隱私權政策，可能利用用戶數據提升廣告業務",
@@ -22,88 +102,6 @@
         "AI"
       ],
       "url": "https://mashdigi.com/breaking-the-ironclad-rule-of-never-using-gmail-for-advertising-google-quietly-modifies-its-privacy-policy-potentially-using-user-data-to-boost-its-advertising-business/"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
-      "originalTitle": "Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
-      "translatedTitle": "AI 財經快訊：Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-24T11:00:00.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness. &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/hk/post/1002204575/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡",
-      "title": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
-      "originalTitle": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
-      "translatedTitle": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-10-24T04:52:42.000Z",
-      "fact": "PChome Online 新聞 報導：美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.pchome.com.tw/finance/sunmedia/20261024/index-79281756257161329003.html"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "關於OpenAI IPO，您需要瞭解的一些關鍵資訊",
-      "originalTitle": "關於OpenAI IPO，您需要瞭解的一些關鍵資訊",
-      "translatedTitle": "關於OpenAI IPO，您需要瞭解的一些關鍵資訊",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-24T07:03:41.000Z",
-      "fact": "TradingKey 報導：關於OpenAI IPO，您需要瞭解的一些關鍵資訊",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；關於OpenAI IPO，您需要瞭解的一些關鍵資訊 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/261965854-openai-ipo-openai-chatgpt-mu-tradingkey"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google連結AI後 Gmail與相簿內容可用於廣告",
-      "originalTitle": "Google連結AI後 Gmail與相簿內容可用於廣告",
-      "translatedTitle": "Google連結AI後 Gmail與相簿內容可用於廣告",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Martin Cid Magazine",
-      "publishedAt": "2026-10-24T06:08:16.000Z",
-      "fact": "Martin Cid Magazine 報導：Google連結AI後 Gmail與相簿內容可用於廣告",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google連結AI後 Gmail與相簿內容可用於廣告 &nbsp;&nbsp; Martin Cid Magazine。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://zh-hant.martincid.com/technology-zh-hant/google%E9%80%A3%E7%B5%90ai%E5%BE%8C-gmail%E8%88%87%E7%9B%B8%E7%B0%BF%E5%85%A7%E5%AE%B9%E5%8F%AF%E7%94%A8%E6%96%BC%E5%BB%A3%E5%91%8A/"
     },
     {
       "id": "全球財經脈動-1",
@@ -125,27 +123,86 @@
       "url": "https://www.quamnet.com/post/WgrBVqdlcu8uUhxBPx7x_"
     },
     {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "Blackstone CEO Reveals AI 投資",
-      "title": "Blackstone CEO Reveals AI 投資 Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset Management Giant Bets on the Entire AI Industry Chain",
-      "originalTitle": "Blackstone CEO Reveals AI Investment Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset Management Giant Bets on the Entire AI Industry Chain",
-      "translatedTitle": "Blackstone CEO Reveals AI 投資 Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset Management Giant Bets on the Entire AI Industry Chain",
+      "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks",
+      "originalTitle": "Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks",
+      "translatedTitle": "AI 財經快訊：Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-23T05:31:04.000Z",
-      "fact": "富途牛牛 報導：Blackstone CEO Reveals AI 投資 Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset Management Giant Bets on the Entire AI Industry Chain",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Blackstone CEO Reveals AI Investment Turning Point: Chance Meeting with Jack Ma Shifts Judgment as $1.3 Trillion Asset M。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-25T15:46:19.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "全球財經",
+        "市場焦點",
         "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1002065391/blackstone-ceo-reveals-ai-investment-turning-point-chance-meeting-with"
+      "url": "https://tw.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/"
     },
     {
-      "id": "美股與全球市場焦點-1",
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
+      "title": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
+      "originalTitle": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
+      "translatedTitle": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-25T02:56:30.000Z",
+      "fact": "Moomoo 報導：維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；維眸生物(臨時代碼)業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.moomoo.com/hant/stock/811335-HK/earnings"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "The AI Trade Is Shifting Fro",
+      "title": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "originalTitle": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com",
+      "translatedTitle": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-24T15:51:29.000Z",
+      "fact": "富途牛牛 報導：The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/1002211899/the-ai-trade-is-shifting-from-chip-stocks-to-cybersecurity"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "一週前瞻",
+      "title": "一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報",
+      "originalTitle": "一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報",
+      "translatedTitle": "一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-10-25T06:24:01.000Z",
+      "fact": "TradingKey 報導：一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262237760-weekly-fed-microsoft-alphabet-amazon-earnings-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "The AI Trade Is Shifting Fro",
       "title": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
@@ -164,85 +221,6 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1002277087/the-ai-trade-is-shifting-from-chip-stocks-to-cybersecurity"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Why Bloom 能源 (BE) 股價 are fal",
-      "title": "Why Bloom 能源 (BE) 股價 are falling today",
-      "originalTitle": "Why Bloom Energy (BE) shares are falling today",
-      "translatedTitle": "Why Bloom 能源 (BE) 股價 are falling today",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-23T14:30:43.000Z",
-      "fact": "TradingView 報導：Why Bloom 能源 (BE) 股價 are falling today",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Bloom Energy (BE) shares are falling today &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://tw.tradingview.com/news/stockstory:040cd9fa7094b:0-why-bloom-energy-be-shares-are-falling-today/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "The AI Trade Is Shifting Fro",
-      "title": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
-      "originalTitle": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com",
-      "translatedTitle": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-23T02:14:00.000Z",
-      "fact": "富途牛牛 報導：The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/hk/post/1002211899/the-ai-trade-is-shifting-from-chip-stocks-to-cybersecurity"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "諾基亞股價預測",
-      "title": "諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺",
-      "originalTitle": "諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺",
-      "translatedTitle": "諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-23T19:13:56.000Z",
-      "fact": "TradingKey 報導：諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；諾基亞股價預測：巴克萊指其或被傳統電信設備市場疲軟所拖累，8.37美元是多空分水嶺 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262236497-nokia-stock-forecast-q3-earnings-ai-cloud-orders-barclays-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "美股資金流向",
-      "title": "美股資金流向：AI股拋售潮後，華爾街資金正流向何處？",
-      "originalTitle": "美股資金流向：AI股拋售潮後，華爾街資金正流向何處？",
-      "translatedTitle": "美股資金流向：AI股拋售潮後，華爾街資金正流向何處？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-23T04:11:00.000Z",
-      "fact": "Moomoo 報導：美股資金流向：AI股拋售潮後，華爾街資金正流向何處？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；美股資金流向：AI股拋售潮後，華爾街資金正流向何處？ &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1002120783/us-stock-market-capital-migration-after-the-ai-stock-selloff"
     }
   ]
 }
