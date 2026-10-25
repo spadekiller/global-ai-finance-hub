@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T23:51:47.487Z",
+  "generatedAt": "2026-10-25T02:04:29.960Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,26 +26,6 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡",
-      "title": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
-      "originalTitle": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
-      "translatedTitle": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-10-24T04:52:42.000Z",
-      "fact": "PChome Online 新聞 報導：美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.pchome.com.tw/finance/sunmedia/20261024/index-79281756257161329003.html"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
       "originalTitle": "Do Machines Have Feelings? AI Has Philosophers and Tech Leaders Rethinking Consciousness.",
@@ -64,28 +44,27 @@
       "url": "https://news.futunn.com/hk/post/1002204575/do-machines-have-feelings-ai-has-philosophers-and-tech-leaders"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google連結AI後 Gmail與相簿內容可用於廣告",
-      "originalTitle": "Google連結AI後 Gmail與相簿內容可用於廣告",
-      "translatedTitle": "Google連結AI後 Gmail與相簿內容可用於廣告",
+      "subject": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡",
+      "title": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
+      "originalTitle": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
+      "translatedTitle": "美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "Martin Cid Magazine",
-      "publishedAt": "2026-10-24T06:08:16.000Z",
-      "fact": "Martin Cid Magazine 報導：Google連結AI後 Gmail與相簿內容可用於廣告",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google連結AI後 Gmail與相簿內容可用於廣告 &nbsp;&nbsp; Martin Cid Magazine。",
+      "source": "PChome Online 新聞",
+      "publishedAt": "2026-10-24T04:52:42.000Z",
+      "fact": "PChome Online 新聞 報導：美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美聯邦政府推AI 強調數據為先避免追求完美供台灣借鏡- 財經新聞 &nbsp;&nbsp; PChome Online 新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
         "AI"
       ],
-      "url": "https://zh-hant.martincid.com/technology-zh-hant/google%E9%80%A3%E7%B5%90ai%E5%BE%8C-gmail%E8%88%87%E7%9B%B8%E7%B0%BF%E5%85%A7%E5%AE%B9%E5%8F%AF%E7%94%A8%E6%96%BC%E5%BB%A3%E5%91%8A/"
+      "url": "https://news.pchome.com.tw/finance/sunmedia/20261024/index-79281756257161329003.html"
     },
     {
-      "id": "ai-與科技前沿-5",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "關於OpenAI IPO，您需要瞭解的一些關鍵資訊",
@@ -104,6 +83,27 @@
         "AI"
       ],
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/261965854-openai-ipo-openai-chatgpt-mu-tradingkey"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google連結AI後 Gmail與相簿內容可用於廣告",
+      "originalTitle": "Google連結AI後 Gmail與相簿內容可用於廣告",
+      "translatedTitle": "Google連結AI後 Gmail與相簿內容可用於廣告",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "Martin Cid Magazine",
+      "publishedAt": "2026-10-24T06:08:16.000Z",
+      "fact": "Martin Cid Magazine 報導：Google連結AI後 Gmail與相簿內容可用於廣告",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google連結AI後 Gmail與相簿內容可用於廣告 &nbsp;&nbsp; Martin Cid Magazine。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://zh-hant.martincid.com/technology-zh-hant/google%E9%80%A3%E7%B5%90ai%E5%BE%8C-gmail%E8%88%87%E7%9B%B8%E7%B0%BF%E5%85%A7%E5%AE%B9%E5%8F%AF%E7%94%A8%E6%96%BC%E5%BB%A3%E5%91%8A/"
     },
     {
       "id": "全球財經脈動-1",
