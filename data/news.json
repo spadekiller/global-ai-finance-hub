@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:40:34.029Z",
+  "generatedAt": "2026-10-26T02:05:10.788Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -125,6 +125,25 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
+      "subject": "英偉達 (NVDA) 股價、新聞、報價和記錄",
+      "title": "英偉達 (NVDA) 股價、新聞、報價和記錄",
+      "originalTitle": "英偉達 (NVDA) 股價、新聞、報價和記錄",
+      "translatedTitle": "英偉達 (NVDA) 股價、新聞、報價和記錄",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "Yahoo 財經",
+      "publishedAt": "2026-10-26T01:00:07.000Z",
+      "fact": "Yahoo 財經 報導：英偉達 (NVDA) 股價、新聞、報價和記錄",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；英偉達 (NVDA) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://hk.finance.yahoo.com/quote/NVDA/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks",
       "originalTitle": "Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks",
@@ -143,26 +162,28 @@
       "url": "https://tw.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
-      "title": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
-      "originalTitle": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
-      "translatedTitle": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "The AI Trade Is Shifting Fro",
+      "title": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "originalTitle": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com",
+      "translatedTitle": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-10-25T02:56:30.000Z",
-      "fact": "Moomoo 報導：維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；維眸生物(臨時代碼)業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-10-24T15:45:15.000Z",
+      "fact": "Moomoo 報導：The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "AI",
+        "stocks"
       ],
-      "url": "https://www.moomoo.com/hant/stock/811335-HK/earnings"
+      "url": "https://www.moomoo.com/hant/news/post/1002277087/the-ai-trade-is-shifting-from-chip-stocks-to-cybersecurity"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "The AI Trade Is Shifting Fro",
       "title": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
@@ -183,44 +204,23 @@
       "url": "https://news.futunn.com/hk/post/1002211899/the-ai-trade-is-shifting-from-chip-stocks-to-cybersecurity"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "一週前瞻",
-      "title": "一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報",
-      "originalTitle": "一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報",
-      "translatedTitle": "一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報",
+      "subject": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
+      "title": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
+      "originalTitle": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
+      "translatedTitle": "維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-10-25T06:24:01.000Z",
-      "fact": "TradingKey 報導：一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；一週前瞻：聯準會利率決定來襲，微軟，Alphabet和亞馬遜相繼公布財報 &nbsp;&nbsp; TradingKey。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-25T02:56:30.000Z",
+      "fact": "Moomoo 報導：維眸生物(臨時代碼)業績日期，業績報告和業績電話會議",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；維眸生物(臨時代碼)業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262237760-weekly-fed-microsoft-alphabet-amazon-earnings-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "The AI Trade Is Shifting Fro",
-      "title": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
-      "originalTitle": "The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com",
-      "translatedTitle": "The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-24T15:45:15.000Z",
-      "fact": "Moomoo 報導：The AI Trade Is Shifting From 晶片股 to Cybersecurity — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The AI Trade Is Shifting From Chip Stocks to Cybersecurity -- Barrons.com &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1002277087/the-ai-trade-is-shifting-from-chip-stocks-to-cybersecurity"
+      "url": "https://www.moomoo.com/hant/stock/811335-HK/earnings"
     }
   ]
 }
