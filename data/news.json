@@ -1,71 +1,30 @@
 {
-  "generatedAt": "2026-10-27T00:59:47.458Z",
+  "generatedAt": "2026-10-27T02:42:31.822Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "OpenAI推GPT-6.1 Terra日常模型 價格砍半效能大升級",
-      "originalTitle": "OpenAI推GPT-6.1 Terra日常模型 價格砍半效能大升級",
-      "translatedTitle": "OpenAI推GPT-6.1 Terra日常模型 價格砍半效能大升級",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "title": "OpenAI發佈電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
+      "originalTitle": "OpenAI發佈電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
+      "translatedTitle": "OpenAI發佈電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "商傳媒",
-      "publishedAt": "2026-10-26T22:59:26.000Z",
-      "fact": "商傳媒 報導：OpenAI推GPT-6.1 Terra日常模型 價格砍半效能大升級",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI推GPT-6.1 Terra日常模型 價格砍半效能大升級 &nbsp;&nbsp; 商傳媒。",
+      "source": "鉅亨網",
+      "publishedAt": "2026-10-27T01:40:05.000Z",
+      "fact": "鉅亨網 報導：OpenAI發佈電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI發佈電腦操作強者GPT-6.1 Terra：API價格砍半Token效率為Opus 5.5三倍、價格僅四分之一 &nbsp;&nbsp; 鉅亨網。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
         "AI"
       ],
-      "url": "https://sunmedia.tw/news/technology/1793055097-OpenAI%E6%8E%A8GPT-6.1%20Terra%E6%97%A5%E5%B8%B8%E6%A8%A1%E5%9E%8B%E3%80%80%E5%83%B9%E6%A0%BC%E7%A0%8D%E5%8D%8A%E6%95%88%E8%83%BD%E5%A4%A7%E5%8D%87%E7%B4%9A"
+      "url": "https://news.cnyes.com/news/id/6638044"
     },
     {
       "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "中國AI模型雙雄遭拋售近5兆 國家隊終出手撐盤",
-      "title": "中國AI模型雙雄遭拋售近5兆 國家隊終出手撐盤",
-      "originalTitle": "中國AI模型雙雄遭拋售近5兆 國家隊終出手撐盤",
-      "translatedTitle": "中國AI模型雙雄遭拋售近5兆 國家隊終出手撐盤",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "自由時報",
-      "publishedAt": "2026-10-26T19:05:59.000Z",
-      "fact": "自由時報 報導：中國AI模型雙雄遭拋售近5兆 國家隊終出手撐盤",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；中國AI模型雙雄遭拋售近5兆 國家隊終出手撐盤 &nbsp;&nbsp; 自由時報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://stock.ltn.com.tw/article/5nsmccxabazm"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "AI新創淘汰潮來襲！Character.AI聲請破產、OpenAI砍產品 42%企業AI專案遭放棄",
-      "originalTitle": "AI新創淘汰潮來襲！Character.AI聲請破產、OpenAI砍產品 42%企業AI專案遭放棄",
-      "translatedTitle": "AI新創淘汰潮來襲！Character.AI聲請破產、OpenAI砍產品 42%企業AI專案遭放棄",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "鉅亨網",
-      "publishedAt": "2026-10-26T09:10:03.000Z",
-      "fact": "鉅亨網 報導：AI新創淘汰潮來襲！Character.AI聲請破產、OpenAI砍產品 42%企業AI專案遭放棄",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI新創淘汰潮來襲！Character.AI聲請破產、OpenAI砍產品 42%企業AI專案遭放棄 &nbsp;&nbsp; 鉅亨網。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://news.cnyes.com/news/id/6637572"
-    },
-    {
-      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "更新：隨着交易員評估Anthropic的IPO，股市盤中上漲",
@@ -85,23 +44,66 @@
       "url": "https://news.futunn.com/hk/post/1002317289/update-equities-rise-intraday-as-traders-weigh-anthropic-ipo"
     },
     {
-      "id": "ai-與科技前沿-5",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "GPT",
-      "title": "GPT-6.1 Terra vs GPT-6.1 Sol：價格、速度、真實差距",
-      "originalTitle": "GPT-6.1 Terra vs GPT-6.1 Sol：價格、速度、真實差距",
-      "translatedTitle": "GPT-6.1 Terra vs GPT-6.1 Sol：價格、速度、真實差距",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "Meta",
+      "title": "重罰 Meta 250 億美元 新墨西哥州總檢察長點名監管 AI",
+      "originalTitle": "重罰 Meta 250 億美元 新墨西哥州總檢察長點名監管 AI",
+      "translatedTitle": "重罰 Meta 250 億美元 新墨西哥州總檢察長點名監管 AI",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-10-26T19:40:43.000Z",
-      "fact": "OrcaRouter 報導：GPT-6.1 Terra vs GPT-6.1 Sol：價格、速度、真實差距",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6.1 Terra vs GPT-6.1 Sol：價格、速度、真實差距 &nbsp;&nbsp; OrcaRouter。",
+      "source": "PChome Online 新聞",
+      "publishedAt": "2026-10-26T04:36:13.000Z",
+      "fact": "PChome Online 新聞 報導：重罰 Meta 250 億美元 新墨西哥州總檢察長點名監管 AI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；重罰 Meta 250 億美元 新墨西哥州總檢察長點名監管 AI &nbsp;&nbsp; PChome Online 新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
       ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/gpt-6-1-terra-vs-gpt-6-1-sol"
+      "url": "https://news.pchome.com.tw/finance/sunmedia/20261026/index-79298937354801329003.html"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "六家 AI 實驗室簽署了一項自願性的白宮 AI 協議",
+      "title": "六家 AI 實驗室簽署了一項自願性的白宮 AI 協議",
+      "originalTitle": "六家 AI 實驗室簽署了一項自願性的白宮 AI 協議",
+      "translatedTitle": "六家 AI 實驗室簽署了一項自願性的白宮 AI 協議",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-10-26T11:38:23.000Z",
+      "fact": "OrcaRouter 報導：六家 AI 實驗室簽署了一項自願性的白宮 AI 協議",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；六家 AI 實驗室簽署了一項自願性的白宮 AI 協議 &nbsp;&nbsp; OrcaRouter。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.orcarouter.ai/zh-TW/blog/2026-09-29-white-house-frontier-ai-accord"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Trending 股票 this week as mar",
+      "title": "Trending 股票 this week as markets navigate AI concerns, geopolitical tensions",
+      "originalTitle": "Trending stocks this week as markets navigate AI concerns, geopolitical tensions",
+      "translatedTitle": "Trending 股票 this week as markets navigate AI concerns, geopolitical tensions",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-25T17:00:56.000Z",
+      "fact": "TradingView 報導：Trending 股票 this week as markets navigate AI concerns, geopolitical tensions",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Trending stocks this week as markets navigate AI concerns, geopolitical tensions &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/seekingalpha:a79617a86094b:0-trending-stocks-this-week-as-markets-navigate-ai-concerns-geopolitical-tensions/"
     },
     {
       "id": "全球財經脈動-1",
@@ -145,26 +147,26 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Trending 股票 this week as mar",
-      "title": "Trending 股票 this week as markets navigate AI concerns, geopolitical tensions",
-      "originalTitle": "Trending stocks this week as markets navigate AI concerns, geopolitical tensions",
-      "translatedTitle": "Trending 股票 this week as markets navigate AI concerns, geopolitical tensions",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-25T17:00:56.000Z",
-      "fact": "TradingView 報導：Trending 股票 this week as markets navigate AI concerns, geopolitical tensions",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Trending stocks this week as markets navigate AI concerns, geopolitical tensions &nbsp;&nbsp; TradingView。",
+      "subject": "Anthropic",
+      "title": "游庭皓的財經皓角. . 2026/10/27(二)美股止跌了?加碼or觀望 Anthropic上市倒數 期中選舉恐衝擊AI?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.fina",
+      "originalTitle": "游庭皓的財經皓角. . 2026/10/27(二)美股止跌了?加碼or觀望 Anthropic上市倒數 期中選舉恐衝擊AI?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.fina",
+      "translatedTitle": "游庭皓的財經皓角. . 2026/10/27(二)美股止跌了?加碼or觀望 Anthropic上市倒數 期中選舉恐衝擊AI?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.fina",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "Facebook",
+      "publishedAt": "2026-10-27T00:32:03.000Z",
+      "fact": "Facebook 報導：游庭皓的財經皓角. . 2026/10/27(二)美股止跌了?加碼or觀望 Anthropic上市倒數 期中選舉恐衝擊AI?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱： 新友會員 https://jackalopelin.com 老友會員 https://yutinghao.fina",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；游庭皓的財經皓角. . 2026/10/27(二)美股止跌了?加碼or觀望 Anthropic上市倒數 期中選舉恐衝擊AI?【早晨財經速解讀】 開盤前30分鐘，08:30 - 09:00 讓我們一起解讀財經時事 。 參加財經皓角總經訂閱：。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "stocks"
+        "Anthropic",
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/seekingalpha:a79617a86094b:0-trending-stocks-this-week-as-markets-navigate-ai-concerns-geopolitical-tensions/"
+      "url": "https://www.facebook.com/yutinghaosfinance/videos/20261027%E4%BA%8C%E7%BE%8E%E8%82%A1%E6%AD%A2%E8%B7%8C%E4%BA%86%E5%8A%A0%E7%A2%BCor%E8%A7%80%E6%9C%9B-anthropic%E4%B8%8A%E5%B8%82%E5%80%92%E6%95%B8-%E6%9C%9F%E4%B8%AD%E9%81%B8%E8%88%89%E6%81%90%E8%A1%9D%E6%93%8Aai%E6%97%A9%E6%99%A8%E8%B2%A1%E7%B6%93%E9%80%9F%E8%A7%A3%E8%AE%80/2487131858363572/"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "The Mixed Blessing From Tech",
       "title": "The Mixed Blessing From Tech 財報 Weighing on 輝達 股票 — Barron’s.com",
@@ -185,7 +187,7 @@
       "url": "https://news.futunn.com/hk/post/1002277325/the-mixed-blessing-from-tech-earnings-weighing-on-nvidia-stock"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "TransUnion (TRU) Q3 財報",
       "title": "TransUnion (TRU) Q3 財報: what to expect",
@@ -203,26 +205,6 @@
         "earnings"
       ],
       "url": "https://tw.tradingview.com/news/stockstory:21aa4ebb0094b:0-transunion-tru-q3-earnings-what-to-expect/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "財報 to watch",
-      "title": "財報 to watch: Expand 能源 (EXE) reports Q3 results tomorrow",
-      "originalTitle": "Earnings to watch: Expand Energy (EXE) reports Q3 results tomorrow",
-      "translatedTitle": "財報 to watch: Expand 能源 (EXE) reports Q3 results tomorrow",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-26T03:52:50.000Z",
-      "fact": "TradingView 報導：財報 to watch: Expand 能源 (EXE) reports Q3 results tomorrow",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Earnings to watch: Expand Energy (EXE) reports Q3 results tomorrow &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "earnings"
-      ],
-      "url": "https://tw.tradingview.com/news/stockstory:a9c0017ca094b:0-earnings-to-watch-expand-energy-exe-reports-q3-results-tomorrow/"
     }
   ]
 }
