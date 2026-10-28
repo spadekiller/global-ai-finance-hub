@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-10-28T00:49:22.037Z",
+  "generatedAt": "2026-10-28T02:51:21.028Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
-      "title": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
-      "originalTitle": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
-      "translatedTitle": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
+      "title": "Anthropic 重磅上市——目前我們知道的五件驚人信息",
+      "originalTitle": "Anthropic 重磅上市——目前我們知道的五件驚人信息",
+      "translatedTitle": "Anthropic 重磅上市——目前我們知道的五件驚人信息",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "GQ Taiwan",
-      "publishedAt": "2026-10-27T06:23:14.000Z",
-      "fact": "GQ Taiwan 報導：【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信 &nbsp;&nbsp; GQ Taiwan。",
+      "source": "BBC",
+      "publishedAt": "2026-10-28T01:04:09.000Z",
+      "fact": "BBC 報導：Anthropic 重磅上市——目前我們知道的五件驚人信息",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 重磅上市——目前我們知道的五件驚人信息 &nbsp;&nbsp; BBC。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
-        "AI"
+        "Anthropic"
       ],
-      "url": "https://www.gq.com.tw/article/anthropic-ipo-doc"
+      "url": "https://www.bbc.com/zhongwen/articles/c623dz784403o/trad.amp"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -47,23 +46,23 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "蘋果創作坊也導入 OpenAI 技術，AI 助理進駐 Keynote、Pages",
-      "originalTitle": "蘋果創作坊也導入 OpenAI 技術，AI 助理進駐 Keynote、Pages",
-      "translatedTitle": "蘋果創作坊也導入 OpenAI 技術，AI 助理進駐 Keynote、Pages",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "Anthropic",
+      "title": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
+      "originalTitle": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
+      "translatedTitle": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-10-27T14:36:16.000Z",
-      "fact": "TechNews 科技新報 報導：蘋果創作坊也導入 OpenAI 技術，AI 助理進駐 Keynote、Pages",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果創作坊也導入 OpenAI 技術，AI 助理進駐 Keynote、Pages &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "source": "GQ Taiwan",
+      "publishedAt": "2026-10-27T06:23:14.000Z",
+      "fact": "GQ Taiwan 報導：【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信 &nbsp;&nbsp; GQ Taiwan。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "OpenAI",
+        "Anthropic",
         "AI"
       ],
-      "url": "https://technews.tw/2026/10/27/apple-creator-studio-openai/"
+      "url": "https://www.gq.com.tw/article/anthropic-ipo-doc"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -88,23 +87,23 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Broadcom Could Generate Up to $30 Billion in Revenue From Anthropic AI Financing Deal With Limited 風險, Truist Says",
-      "originalTitle": "Broadcom Could Generate Up to $30 Billion in Revenue From Anthropic AI Financing Deal With Limited Risk, Truist Says",
-      "translatedTitle": "Broadcom Could Generate Up to $30 Billion in Revenue From Anthropic AI Financing Deal With Limited 風險, Truist Says",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-27T11:42:50.000Z",
-      "fact": "富途牛牛 報導：Broadcom Could Generate Up to $30 Billion in Revenue From Anthropic AI Financing Deal With Limited 風險, Truist Says",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Broadcom Could Generate Up to $30 Billion in Revenue From Anthropic AI Financing Deal With Limited Risk, Truist Says &nb。",
+      "subject": "Apple",
+      "title": "Apple文件簡報加入AI助理，11月先用美式英文",
+      "originalTitle": "Apple文件簡報加入AI助理，11月先用美式英文",
+      "translatedTitle": "Apple文件簡報加入AI助理，11月先用美式英文",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "蕃新聞",
+      "publishedAt": "2026-10-28T02:07:29.000Z",
+      "fact": "蕃新聞 報導：Apple文件簡報加入AI助理，11月先用美式英文",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple文件簡報加入AI助理，11月先用美式英文 &nbsp;&nbsp; 蕃新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
+        "Apple",
         "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1002423060/broadcom-could-generate-up-to-30-billion-in-revenue-from"
+      "url": "https://n.yam.com/Article/20261028676334"
     },
     {
       "id": "全球財經脈動-1",
@@ -129,6 +128,27 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
+      "subject": "Anthropic",
+      "title": "AI 財經快訊：Nifty IT falls 1.5% as AI trade bounces back on Anthropic IPO filing; TCS, Infosys lead losses",
+      "originalTitle": "Nifty IT falls 1.5% as AI trade bounces back on Anthropic IPO filing; TCS, Infosys lead losses",
+      "translatedTitle": "AI 財經快訊：Nifty IT falls 1.5% as AI trade bounces back on Anthropic IPO filing; TCS, Infosys lead losses",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TradingView",
+      "publishedAt": "2026-10-27T06:08:50.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Nifty IT falls 1.5% as AI trade bounces back on Anthropic IPO filing; TCS, Infosys lead losses",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nifty IT falls 1.5% as AI trade bounces back on Anthropic IPO filing; TCS, Infosys lead losses &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/moneycontrol:ee92ba7ad094b:0-nifty-it-falls-1-5-as-ai-trade-bounces-back-on-anthropic-ipo-filing-tcs-infosys-lead-losses/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
       "subject": "Here's What Investors Must K",
       "title": "Here's What Investors Must Know Ahead of BigBear.ai's Q3 財報",
       "originalTitle": "Here's What Investors Must Know Ahead of BigBear.ai's Q3 Earnings",
@@ -148,7 +168,7 @@
       "url": "https://tw.tradingview.com/news/zacks:d5ceb5838094b:0-here-s-what-investors-must-know-ahead-of-bigbear-ai-s-q3-earnings/"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "Fed",
       "title": "Fed Decision This Week: 3 股票 to Buy Before Wall Street Reacts",
@@ -168,7 +188,7 @@
       "url": "https://tw.tradingview.com/news/coinpedia:c66798cea094b:0-fed-decision-this-week-3-stocks-to-buy-before-wall-street-reacts/"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Anthropic",
       "title": "European 晶片股 Rise as Anthropic's IPO Prospectus Reinvigorates AI Trade — 市場 Talk",
@@ -188,27 +208,6 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1002472978/european-chip-stocks-rise-as-anthropic-s-ipo-prospectus-reinvigorates"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Broadcom 股票 Rise 2.3% With $",
-      "title": "Broadcom 股票 Rise 2.3% With $600 Target Spotlighting AI Cash",
-      "originalTitle": "Broadcom Stocks Rise 2.3% With $600 Target Spotlighting AI Cash",
-      "translatedTitle": "Broadcom 股票 Rise 2.3% With $600 Target Spotlighting AI Cash",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-26T17:30:04.000Z",
-      "fact": "TradingView 報導：Broadcom 股票 Rise 2.3% With $600 Target Spotlighting AI Cash",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Broadcom Stocks Rise 2.3% With $600 Target Spotlighting AI Cash &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:049a207c4094b:0-broadcom-stocks-rise-2-3-with-600-target-spotlighting-ai-cash/"
     },
     {
       "id": "美股與全球市場焦點-5",
