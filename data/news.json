@@ -1,9 +1,49 @@
 {
-  "generatedAt": "2026-10-29T01:24:07.319Z",
+  "generatedAt": "2026-10-29T03:14:19.852Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
+      "originalTitle": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
+      "translatedTitle": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-10-29T02:48:47.000Z",
+      "fact": "TechNews 科技新報 報導：主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+      "originalTitle": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+      "translatedTitle": "Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "iThome",
+      "publishedAt": "2026-10-29T01:48:38.000Z",
+      "fact": "iThome 報導：Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google發表Gemini 4 Carbon，綜合能力評測登頂、資安表現創新高 &nbsp;&nbsp; iThome。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.ithome.com.tw/news/180049"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
@@ -23,7 +63,7 @@
       "url": "https://hk.news.yahoo.com/sap-swaps-costly-ai-models-140807603.html"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
@@ -43,89 +83,27 @@
       "url": "https://www.blocktempo.com/google-gemini-4-carbon-cybersecurity-long-horizon/"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2%",
-      "originalTitle": "Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2%",
-      "translatedTitle": "Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2%",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "商傳媒",
-      "publishedAt": "2026-10-28T22:59:01.000Z",
-      "fact": "商傳媒 報導：Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2%",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2% &nbsp;&nbsp; 商傳媒。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://sunmedia.tw/news/technology/1793228310-Google%20%E7%99%BC%E8%A1%A8%20Gemini%204%20Carbon%20AI%E6%A8%A1%E5%9E%8B%20%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%81%B5%E6%B8%AC%E7%8E%87%E9%81%94%2088.2%25"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事",
-      "originalTitle": "Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事",
-      "translatedTitle": "Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "BBC",
-      "publishedAt": "2026-10-28T01:09:32.000Z",
-      "fact": "BBC 報導：Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事 &nbsp;&nbsp; BBC。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic"
-      ],
-      "url": "https://www.bbc.com/zhongwen/articles/c623dz784403o/trad"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
-      "originalTitle": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
-      "translatedTitle": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Alphabet（GOOGL）發布Gemini 4 Ca",
+      "title": "Alphabet（GOOGL）發布Gemini 4 Carbon 登頂AI指數 軟體漏洞防禦創紀錄|香港經濟日報",
+      "originalTitle": "Alphabet（GOOGL）發布Gemini 4 Carbon 登頂AI指數 軟體漏洞防禦創紀錄|香港經濟日報",
+      "translatedTitle": "Alphabet（GOOGL）發布Gemini 4 Carbon 登頂AI指數 軟體漏洞防禦創紀錄|香港經濟日報",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "GQ Taiwan",
-      "publishedAt": "2026-10-27T06:23:14.000Z",
-      "fact": "GQ Taiwan 報導：【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信 &nbsp;&nbsp; GQ Taiwan。",
+      "source": "香港經濟日報HKET",
+      "publishedAt": "2026-10-29T02:29:25.000Z",
+      "fact": "香港經濟日報HKET 報導：Alphabet（GOOGL）發布Gemini 4 Carbon 登頂AI指數 軟體漏洞防禦創紀錄|香港經濟日報",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Alphabet（GOOGL）發布Gemini 4 Carbon 登頂AI指數 軟體漏洞防禦創紀錄|香港經濟日報 &nbsp;&nbsp; 香港經濟日報HKET。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
         "AI"
       ],
-      "url": "https://www.gq.com.tw/article/anthropic-ipo-doc"
+      "url": "https://inews.hket.com/article/4216372/-finance-tech-gemini-4-carbon-google-ai-model?mtc"
     },
     {
       "id": "全球財經脈動-1",
-      "section": "全球財經脈動",
-      "subject": "How significant is AI's cont",
-      "title": "How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
-      "originalTitle": "How significant is AI's contribution to the U.S. economy? Institutions offer varying assessments.",
-      "translatedTitle": "How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-28T13:04:40.000Z",
-      "fact": "富途牛牛 報導：How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；How significant is AI's contribution to the U.S. economy? Institutions offer varying assessments. &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1002587147/how-significant-is-ai-s-contribution-to-the-us-economy"
-    },
-    {
-      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "Jiami Technology (08198) pro",
       "title": "Jiami Technology (08198) proposes to collaborate with DC ARK on AI computing capabilities and AI 資料中心 operations.",
@@ -144,6 +122,26 @@
         "data center"
       ],
       "url": "https://news.futunn.com/en/post/1002431885/jiami-technology-08198-proposes-to-collaborate-with-dc-ark-on"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "How significant is AI's cont",
+      "title": "How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
+      "originalTitle": "How significant is AI's contribution to the U.S. economy? Institutions offer varying assessments.",
+      "translatedTitle": "How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-28T13:04:40.000Z",
+      "fact": "富途牛牛 報導：How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；How significant is AI's contribution to the U.S. economy? Institutions offer varying assessments. &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/1002587147/how-significant-is-ai-s-contribution-to-the-us-economy"
     },
     {
       "id": "全球財經脈動-3",
@@ -232,6 +230,27 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
+      "subject": "Asian 股票 Gain as AI Optimism",
+      "title": "Asian 股票 Gain as AI Optimism Returns",
+      "originalTitle": "Asian Stocks Gain as AI Optimism Returns",
+      "translatedTitle": "Asian 股票 Gain as AI Optimism Returns",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-28T02:31:37.000Z",
+      "fact": "富途牛牛 報導：Asian 股票 Gain as AI Optimism Returns",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asian Stocks Gain as AI Optimism Returns &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/1002506937/asian-stocks-gain-as-ai-optimism-returns"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
       "subject": "Anthropic",
       "title": "European 晶片股 Rise as Anthropic's IPO Prospectus Reinvigorates AI Trade — 市場 Talk",
       "originalTitle": "European Chip Stocks Rise as Anthropic's IPO Prospectus Reinvigorates AI Trade -- Market Talk",
@@ -250,27 +269,6 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1002472978/european-chip-stocks-rise-as-anthropic-s-ipo-prospectus-reinvigorates"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Asian 股票 Gain as AI Optimism",
-      "title": "Asian 股票 Gain as AI Optimism Returns",
-      "originalTitle": "Asian Stocks Gain as AI Optimism Returns",
-      "translatedTitle": "Asian 股票 Gain as AI Optimism Returns",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-28T02:31:37.000Z",
-      "fact": "富途牛牛 報導：Asian 股票 Gain as AI Optimism Returns",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asian Stocks Gain as AI Optimism Returns &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/hk/post/1002506937/asian-stocks-gain-as-ai-optimism-returns"
     }
   ]
 }
