@@ -1,50 +1,90 @@
 {
-  "generatedAt": "2026-10-28T02:51:21.028Z",
+  "generatedAt": "2026-10-29T01:24:07.319Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
+      "originalTitle": "SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
+      "translatedTitle": "AI 財經快訊：SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "Yahoo",
+      "publishedAt": "2026-10-28T14:08:07.000Z",
+      "fact": "Yahoo 報導：AI 財經快訊：SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；SAP swaps costly AI models for cheaper alternatives, targets over €2 billion in gains &nbsp;&nbsp; Yahoo。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://hk.news.yahoo.com/sap-swaps-costly-ai-models-140807603.html"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
+      "originalTitle": "Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
+      "translatedTitle": "Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "動區動趨",
+      "publishedAt": "2026-10-28T17:46:13.000Z",
+      "fact": "動區動趨 報導：Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠 &nbsp;&nbsp; 動區動趨。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.blocktempo.com/google-gemini-4-carbon-cybersecurity-long-horizon/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2%",
+      "originalTitle": "Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2%",
+      "translatedTitle": "Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2%",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "商傳媒",
+      "publishedAt": "2026-10-28T22:59:01.000Z",
+      "fact": "商傳媒 報導：Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2%",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 發表 Gemini 4 Carbon AI模型 網路安全漏洞偵測率達 88.2% &nbsp;&nbsp; 商傳媒。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://sunmedia.tw/news/technology/1793228310-Google%20%E7%99%BC%E8%A1%A8%20Gemini%204%20Carbon%20AI%E6%A8%A1%E5%9E%8B%20%E7%B6%B2%E8%B7%AF%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E%E5%81%B5%E6%B8%AC%E7%8E%87%E9%81%94%2088.2%25"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "Anthropic",
-      "title": "Anthropic 重磅上市——目前我們知道的五件驚人信息",
-      "originalTitle": "Anthropic 重磅上市——目前我們知道的五件驚人信息",
-      "translatedTitle": "Anthropic 重磅上市——目前我們知道的五件驚人信息",
+      "title": "Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事",
+      "originalTitle": "Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事",
+      "translatedTitle": "Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
       "source": "BBC",
-      "publishedAt": "2026-10-28T01:04:09.000Z",
-      "fact": "BBC 報導：Anthropic 重磅上市——目前我們知道的五件驚人信息",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 重磅上市——目前我們知道的五件驚人信息 &nbsp;&nbsp; BBC。",
+      "publishedAt": "2026-10-28T01:09:32.000Z",
+      "fact": "BBC 報導：Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 的重磅股票上市——我們現在知道的五件令人驚訝的事 &nbsp;&nbsp; BBC。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Anthropic"
       ],
-      "url": "https://www.bbc.com/zhongwen/articles/c623dz784403o/trad.amp"
+      "url": "https://www.bbc.com/zhongwen/articles/c623dz784403o/trad"
     },
     {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "Oracle 聯手 OpenAI 推 AI Workspace Fusion 及 NetSuite 可經 ChatGPT 操作",
-      "originalTitle": "Oracle 聯手 OpenAI 推 AI Workspace Fusion 及 NetSuite 可經 ChatGPT 操作",
-      "translatedTitle": "Oracle 聯手 OpenAI 推 AI Workspace Fusion 及 NetSuite 可經 ChatGPT 操作",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "unwire PRO",
-      "publishedAt": "2026-10-28T00:33:31.000Z",
-      "fact": "unwire PRO 報導：Oracle 聯手 OpenAI 推 AI Workspace Fusion 及 NetSuite 可經 ChatGPT 操作",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Oracle 聯手 OpenAI 推 AI Workspace Fusion 及 NetSuite 可經 ChatGPT 操作 &nbsp;&nbsp; unwire PRO。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://unwire.pro/2026/10/28/oracle-openai-ai-workspace-chatgpt-amd-intel-oci/ai/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "【Business】Anthropic 正式遞交 IPO 申請文件，同時也是一份寫給全人類的 AI 末世警告信",
@@ -65,68 +105,111 @@
       "url": "https://www.gq.com.tw/article/anthropic-ipo-doc"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Firefox Smart Window 加入 AI 表",
-      "title": "Firefox Smart Window 加入 AI 表單填寫 新增網頁變更監測",
-      "originalTitle": "Firefox Smart Window 加入 AI 表單填寫 新增網頁變更監測",
-      "translatedTitle": "Firefox Smart Window 加入 AI 表單填寫 新增網頁變更監測",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "流動日報",
-      "publishedAt": "2026-10-27T22:03:10.000Z",
-      "fact": "流動日報 報導：Firefox Smart Window 加入 AI 表單填寫 新增網頁變更監測",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Firefox Smart Window 加入 AI 表單填寫 新增網頁變更監測 &nbsp;&nbsp; 流動日報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.newmobilelife.com/2026/10/28/firefox-smart-window-form-autofill-monitoring/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Apple",
-      "title": "Apple文件簡報加入AI助理，11月先用美式英文",
-      "originalTitle": "Apple文件簡報加入AI助理，11月先用美式英文",
-      "translatedTitle": "Apple文件簡報加入AI助理，11月先用美式英文",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "蕃新聞",
-      "publishedAt": "2026-10-28T02:07:29.000Z",
-      "fact": "蕃新聞 報導：Apple文件簡報加入AI助理，11月先用美式英文",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple文件簡報加入AI助理，11月先用美式英文 &nbsp;&nbsp; 蕃新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Apple",
-        "AI"
-      ],
-      "url": "https://n.yam.com/Article/20261028676334"
-    },
-    {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "Expansion of AI computing po",
-      "title": "Expansion of AI computing power opens up growth potential! Bernstein raises SpaceX (SPCX.US) price target to $268; 摩根士丹利 maintains \"Overweight\" rating.",
-      "originalTitle": "Expansion of AI computing power opens up growth potential! Bernstein raises SpaceX (SPCX.US) price target to $268; Morgan Stanley maintains \"Overweight\" rating.",
-      "translatedTitle": "Expansion of AI computing power opens up growth potential! Bernstein raises SpaceX (SPCX.US) price target to $268; 摩根士丹利 maintains \"Overweight\" rating.",
+      "subject": "How significant is AI's cont",
+      "title": "How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
+      "originalTitle": "How significant is AI's contribution to the U.S. economy? Institutions offer varying assessments.",
+      "translatedTitle": "How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-26T21:18:36.000Z",
-      "fact": "富途牛牛 報導：Expansion of AI computing power opens up growth potential! Bernstein raises SpaceX (SPCX.US) price target to $268; 摩根士丹利 maintains \"Overweight\" rating.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Expansion of AI computing power opens up growth potential! Bernstein raises SpaceX (SPCX.US) price target to $268; Morga。",
+      "publishedAt": "2026-10-28T13:04:40.000Z",
+      "fact": "富途牛牛 報導：How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；How significant is AI's contribution to the U.S. economy? Institutions offer varying assessments. &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1002309576/expansion-of-ai-computing-power-opens-up-growth-potential-bernstein"
+      "url": "https://news.futunn.com/en/post/1002587147/how-significant-is-ai-s-contribution-to-the-us-economy"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Jiami Technology (08198) pro",
+      "title": "Jiami Technology (08198) proposes to collaborate with DC ARK on AI computing capabilities and AI 資料中心 operations.",
+      "originalTitle": "Jiami Technology (08198) proposes to collaborate with DC ARK on AI computing capabilities and AI data center operations.",
+      "translatedTitle": "Jiami Technology (08198) proposes to collaborate with DC ARK on AI computing capabilities and AI 資料中心 operations.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-27T20:45:43.000Z",
+      "fact": "富途牛牛 報導：Jiami Technology (08198) proposes to collaborate with DC ARK on AI computing capabilities and AI 資料中心 operations.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Jiami Technology (08198) proposes to collaborate with DC ARK on AI computing capabilities and AI data center operations.。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "data center"
+      ],
+      "url": "https://news.futunn.com/en/post/1002431885/jiami-technology-08198-proposes-to-collaborate-with-dc-ark-on"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "Dutch 半導體 equipment manufact",
+      "title": "Dutch 半導體 equipment manufacturer ASM International (ASMIY.US) has raised its 2027 revenue target by approximately 24%, positioning itself to achieve its 2030 goals three years ahead of schedule.",
+      "originalTitle": "Dutch semiconductor equipment manufacturer ASM International (ASMIY.US) has raised its 2027 revenue target by approximately 24%, positioning itself to achieve its 2030 goals three years ahead of schedule.",
+      "translatedTitle": "Dutch 半導體 equipment manufacturer ASM International (ASMIY.US) has raised its 2027 revenue target by approximately 24%, positioning itself to achieve its 2030 goals three years ahead of schedule.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-27T22:52:32.000Z",
+      "fact": "富途牛牛 報導：Dutch 半導體 equipment manufacturer ASM International (ASMIY.US) has raised its 2027 revenue target by approximately 24%, positioning itself to achieve its 2030 goals three years ahead of schedule.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Dutch semiconductor equipment manufacturer ASM International (ASMIY.US) has raised its 2027 revenue target by approximat。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://news.futunn.com/en/post/1002483012/dutch-semiconductor-equipment-manufacturer-asm-international-asmiyus-has-raised-its"
     },
     {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Megacap 財報 Could Spoil the 市",
+      "title": "Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
+      "originalTitle": "Megacap Earnings Could Spoil the Market's Appetite for AI -- Barrons.com",
+      "translatedTitle": "Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-28T11:37:00.000Z",
+      "fact": "富途牛牛 報導：Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Megacap Earnings Could Spoil the Market's Appetite for AI -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings"
+      ],
+      "url": "https://news.futunn.com/hk/post/1002581252/megacap-earnings-could-spoil-the-market-s-appetite-for-ai"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "Megacap 財報 Could Spoil the 市",
+      "title": "Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
+      "originalTitle": "Megacap Earnings Could Spoil the Market's Appetite for AI -- Barrons.com",
+      "translatedTitle": "Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-28T14:14:00.000Z",
+      "fact": "Moomoo 報導：Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Megacap Earnings Could Spoil the Market's Appetite for AI -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1002671618/megacap-earnings-could-spoil-the-market-s-appetite-for-ai"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "Anthropic",
       "title": "AI 財經快訊：Nifty IT falls 1.5% as AI trade bounces back on Anthropic IPO filing; TCS, Infosys lead losses",
@@ -145,47 +228,6 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/moneycontrol:ee92ba7ad094b:0-nifty-it-falls-1-5-as-ai-trade-bounces-back-on-anthropic-ipo-filing-tcs-infosys-lead-losses/"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Here's What Investors Must K",
-      "title": "Here's What Investors Must Know Ahead of BigBear.ai's Q3 財報",
-      "originalTitle": "Here's What Investors Must Know Ahead of BigBear.ai's Q3 Earnings",
-      "translatedTitle": "Here's What Investors Must Know Ahead of BigBear.ai's Q3 財報",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-26T16:40:00.000Z",
-      "fact": "TradingView 報導：Here's What Investors Must Know Ahead of BigBear.ai's Q3 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Here's What Investors Must Know Ahead of BigBear.ai's Q3 Earnings &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://tw.tradingview.com/news/zacks:d5ceb5838094b:0-here-s-what-investors-must-know-ahead-of-bigbear-ai-s-q3-earnings/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Fed",
-      "title": "Fed Decision This Week: 3 股票 to Buy Before Wall Street Reacts",
-      "originalTitle": "Fed Decision This Week: 3 Stocks to Buy Before Wall Street Reacts",
-      "translatedTitle": "Fed Decision This Week: 3 股票 to Buy Before Wall Street Reacts",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-26T12:27:51.000Z",
-      "fact": "TradingView 報導：Fed Decision This Week: 3 股票 to Buy Before Wall Street Reacts",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Fed Decision This Week: 3 Stocks to Buy Before Wall Street Reacts &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://tw.tradingview.com/news/coinpedia:c66798cea094b:0-fed-decision-this-week-3-stocks-to-buy-before-wall-street-reacts/"
     },
     {
       "id": "美股與全球市場焦點-4",
@@ -212,24 +254,23 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "AI",
-      "title": "AI-related 股票 poised to extend rebound; dividend leaders report strong 財報 | Tonight's Highlights",
-      "originalTitle": "AI-related stocks poised to extend rebound; dividend leaders report strong earnings | Tonight's Highlights",
-      "translatedTitle": "AI-related 股票 poised to extend rebound; dividend leaders report strong 財報 | Tonight's Highlights",
+      "subject": "Asian 股票 Gain as AI Optimism",
+      "title": "Asian 股票 Gain as AI Optimism Returns",
+      "originalTitle": "Asian Stocks Gain as AI Optimism Returns",
+      "translatedTitle": "Asian 股票 Gain as AI Optimism Returns",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-27T13:06:04.000Z",
-      "fact": "富途牛牛 報導：AI-related 股票 poised to extend rebound; dividend leaders report strong 財報 | Tonight's Highlights",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI-related stocks poised to extend rebound; dividend leaders report strong earnings | Tonight's Highlights &nbsp;&nbsp;。",
+      "publishedAt": "2026-10-28T02:31:37.000Z",
+      "fact": "富途牛牛 報導：Asian 股票 Gain as AI Optimism Returns",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asian Stocks Gain as AI Optimism Returns &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "earnings",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1002437360/ai-related-stocks-poised-to-extend-rebound-dividend-leaders-report"
+      "url": "https://news.futunn.com/hk/post/1002506937/asian-stocks-gain-as-ai-optimism-returns"
     }
   ]
 }
