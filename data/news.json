@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T01:26:02.513Z",
+  "generatedAt": "2026-10-30T03:17:01.945Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -46,6 +46,28 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較",
+      "originalTitle": "Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較",
+      "translatedTitle": "Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "Grenade 手榴彈",
+      "publishedAt": "2026-10-29T08:25:00.000Z",
+      "fact": "Grenade 手榴彈 報導：Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較 &nbsp;&nbsp; Grenade 手榴彈。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Google",
+        "AI"
+      ],
+      "url": "https://grenade.tw/blog/gemini-4-carbon-google/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
       "originalTitle": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
@@ -64,48 +86,67 @@
       "url": "https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 推 Gemini 4 Carbon 奪 AI 評測榜首，強化資安漏洞偵測",
-      "originalTitle": "Google 推 Gemini 4 Carbon 奪 AI 評測榜首，強化資安漏洞偵測",
-      "translatedTitle": "Google 推 Gemini 4 Carbon 奪 AI 評測榜首，強化資安漏洞偵測",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "自由時報",
-      "publishedAt": "2026-10-29T06:46:33.000Z",
-      "fact": "自由時報 報導：Google 推 Gemini 4 Carbon 奪 AI 評測榜首，強化資安漏洞偵測",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 推 Gemini 4 Carbon 奪 AI 評測榜首，強化資安漏洞偵測 &nbsp;&nbsp; 自由時報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://news.ltn.com.tw/news/aichannel/breakingnews/5622513"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
-      "originalTitle": "Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
-      "translatedTitle": "Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says",
+      "originalTitle": "《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "動區動趨",
-      "publishedAt": "2026-10-28T17:46:13.000Z",
-      "fact": "動區動趨 報導：Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 發表 Gemini 4 Carbon！資安三基準全面領先、Intelligence Index 59 分奪冠 &nbsp;&nbsp; 動區動趨。",
+      "category": "AI 與科技前沿",
+      "source": "自由時報",
+      "publishedAt": "2026-10-29T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says &nbsp;&nbsp; 自由時報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "AI"
       ],
-      "url": "https://www.blocktempo.com/google-gemini-4-carbon-cybersecurity-long-horizon/"
+      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5623308"
     },
     {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "U.S. 經濟 Picked Up Speed",
+      "title": "U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
+      "originalTitle": "U.S. Economy Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
+      "translatedTitle": "U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-29T13:50:02.000Z",
+      "fact": "Moomoo 報導：U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；U.S. Economy Picked Up Speed, With GDP Growth at 3.4% in Third Quarter &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1002838237/us-economy-picked-up-speed-with-gdp-growth-at-3"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "AI buyers compete for 輝達's $",
+      "title": "AI buyers compete for 輝達's $1,999 gaming card as some listings climb past $10,000",
+      "originalTitle": "AI buyers compete for Nvidia's $1,999 gaming card as some listings climb past $10,000",
+      "translatedTitle": "AI buyers compete for 輝達's $1,999 gaming card as some listings climb past $10,000",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "The Cool Down",
+      "publishedAt": "2026-10-30T02:10:00.000Z",
+      "fact": "The Cool Down 報導：AI buyers compete for 輝達's $1,999 gaming card as some listings climb past $10,000",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI buyers compete for Nvidia's $1,999 gaming card as some listings climb past $10,000 &nbsp;&nbsp; The Cool Down。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://www.thecooldown.com/green-tech/nvidia-rtx-5090-ai-gpu-shortage/"
+    },
+    {
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "How significant is AI's cont",
       "title": "How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
@@ -125,7 +166,7 @@
       "url": "https://news.futunn.com/en/post/1002587147/how-significant-is-ai-s-contribution-to-the-us-economy"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "HKSTP Releases First",
       "title": "HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
@@ -144,26 +185,7 @@
       "url": "http://www.etnet.com.hk/www/tc/news/news-article.php?section"
     },
     {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "U.S. 經濟 Picked Up Speed",
-      "title": "U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
-      "originalTitle": "U.S. Economy Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
-      "translatedTitle": "U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-29T13:50:02.000Z",
-      "fact": "Moomoo 報導：U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；U.S. Economy Picked Up Speed, With GDP Growth at 3.4% in Third Quarter &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1002838237/us-economy-picked-up-speed-with-gdp-growth-at-3"
-    },
-    {
-      "id": "全球財經脈動-4",
+      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "This SpaceX Supplier Is an A",
       "title": "This SpaceX Supplier Is an AI Winner on Rising 需求 for 資料中心 and Satellites — Barron’s.com",
