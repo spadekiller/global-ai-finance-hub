@@ -1,29 +1,50 @@
 {
-  "generatedAt": "2026-10-30T03:17:01.945Z",
+  "generatedAt": "2026-10-31T01:14:42.520Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Gemini 4 Carbon 挑戰 GPT",
-      "title": "Gemini 4 Carbon 挑戰 GPT-6：2026 年最新 AI 模型性能與定價解析",
-      "originalTitle": "Gemini 4 Carbon 挑戰 GPT-6：2026 年最新 AI 模型性能與定價解析",
-      "translatedTitle": "Gemini 4 Carbon 挑戰 GPT-6：2026 年最新 AI 模型性能與定價解析",
+      "subject": "Google",
+      "title": "AI 財經快訊：Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate",
+      "originalTitle": "Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate",
+      "translatedTitle": "AI 財經快訊：Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
       "source": "Mashdigi",
-      "publishedAt": "2026-10-29T11:43:06.000Z",
-      "fact": "Mashdigi 報導：Gemini 4 Carbon 挑戰 GPT-6：2026 年最新 AI 模型性能與定價解析",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Carbon 挑戰 GPT-6：2026 年最新 AI 模型性能與定價解析 &nbsp;&nbsp; Mashdigi。",
+      "publishedAt": "2026-10-30T17:59:18.000Z",
+      "fact": "Mashdigi 報導：AI 財經快訊：Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate &nbsp;&nbsp; Mas。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://mashdigi.com/intl/en/google-gemini-4-carbon-ai-security-model/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "AI狂潮變成「超級智慧」戰場",
+      "title": "AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？",
+      "originalTitle": "AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？",
+      "translatedTitle": "AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-10-30T14:00:37.000Z",
+      "fact": "CMoney投資網誌 報導：AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？ &nbsp;&nbsp; CMoney投資網誌。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://mashdigi.com/google-gemini-4-carbon-ai-security-model/"
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-485e289b-d46a-11f1-bcf2-fa08d52fdc8a?utm_source"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Gemini 4 Carbon是什麼？Google最新AI模型亮點、資安能力與開放時程一次看",
@@ -42,28 +63,6 @@
         "AI"
       ],
       "url": "https://www.bnext.com.tw/article/92834/google-gemini-4-carbon-cybersecurity-model"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較",
-      "originalTitle": "Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較",
-      "translatedTitle": "Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "Grenade 手榴彈",
-      "publishedAt": "2026-10-29T08:25:00.000Z",
-      "fact": "Grenade 手榴彈 報導：Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Carbon 是什麼？Google AI 自動找漏洞、修程式，與 Claude、OpenAI 功能比較 &nbsp;&nbsp; Grenade 手榴彈。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Google",
-        "AI"
-      ],
-      "url": "https://grenade.tw/blog/gemini-4-carbon-google/"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -88,25 +87,85 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says",
-      "originalTitle": "《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "自由時報",
-      "publishedAt": "2026-10-29T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《TAIPEI TIMES》 More than half of Taiwanese use AI tools, survey says &nbsp;&nbsp; 自由時報。",
+      "subject": "Anthropic",
+      "title": "Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？",
+      "originalTitle": "Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？",
+      "translatedTitle": "Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "SBS",
+      "publishedAt": "2026-10-30T04:37:39.000Z",
+      "fact": "SBS 報導：Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？ &nbsp;&nbsp; SBS。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Anthropic",
         "AI"
       ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5623308"
+      "url": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/behind-anthropics-ipo-rapid-revenue-growth-meets-a-94-page-warning-of-systemic-collapse/syh58l852"
     },
     {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "Meta",
+      "title": "Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
+      "originalTitle": "Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
+      "translatedTitle": "Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-29T11:30:00.000Z",
+      "fact": "Moomoo 報導：Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Meta"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1002820290/aehr-test-systems-appoints-former-meta-infrastructure-executive-vijay-rao"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Advanced Micro Devices (AMD) News Flow",
+      "originalTitle": "Advanced Micro Devices (AMD) News Flow",
+      "translatedTitle": "AI 財經快訊：Advanced Micro Devices (AMD) News Flow",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-30T16:12:07.000Z",
+      "fact": "Moomoo 報導：AI 財經快訊：Advanced Micro Devices (AMD) News Flow",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Advanced Micro Devices (AMD) News Flow &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://www.moomoo.com/stock/AMD-US/news?chain_id"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "HKSTP Releases First",
+      "title": "HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
+      "originalTitle": "HKSTP Releases First-Ever Battery and Energy Storage Strategy Analysis Report",
+      "translatedTitle": "HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "etnet 經濟通",
+      "publishedAt": "2026-10-29T07:00:00.000Z",
+      "fact": "etnet 經濟通 報導：HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；HKSTP Releases First-Ever Battery and Energy Storage Strategy Analysis Report &nbsp;&nbsp; etnet 經濟通。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section"
+    },
+    {
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "U.S. 經濟 Picked Up Speed",
       "title": "U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
@@ -125,192 +184,127 @@
       "url": "https://www.moomoo.com/hant/news/post/1002838237/us-economy-picked-up-speed-with-gdp-growth-at-3"
     },
     {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "AI buyers compete for 輝達's $",
-      "title": "AI buyers compete for 輝達's $1,999 gaming card as some listings climb past $10,000",
-      "originalTitle": "AI buyers compete for Nvidia's $1,999 gaming card as some listings climb past $10,000",
-      "translatedTitle": "AI buyers compete for 輝達's $1,999 gaming card as some listings climb past $10,000",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "The Cool Down",
-      "publishedAt": "2026-10-30T02:10:00.000Z",
-      "fact": "The Cool Down 報導：AI buyers compete for 輝達's $1,999 gaming card as some listings climb past $10,000",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI buyers compete for Nvidia's $1,999 gaming card as some listings climb past $10,000 &nbsp;&nbsp; The Cool Down。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://www.thecooldown.com/green-tech/nvidia-rtx-5090-ai-gpu-shortage/"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "How significant is AI's cont",
-      "title": "How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
-      "originalTitle": "How significant is AI's contribution to the U.S. economy? Institutions offer varying assessments.",
-      "translatedTitle": "How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-28T13:04:40.000Z",
-      "fact": "富途牛牛 報導：How significant is AI's contribution to the U.S. 經濟? Institutions offer varying assessments.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；How significant is AI's contribution to the U.S. economy? Institutions offer varying assessments. &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1002587147/how-significant-is-ai-s-contribution-to-the-us-economy"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "HKSTP Releases First",
-      "title": "HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
-      "originalTitle": "HKSTP Releases First-Ever Battery and Energy Storage Strategy Analysis Report",
-      "translatedTitle": "HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "etnet 經濟通",
-      "publishedAt": "2026-10-29T07:00:00.000Z",
-      "fact": "etnet 經濟通 報導：HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；HKSTP Releases First-Ever Battery and Energy Storage Strategy Analysis Report &nbsp;&nbsp; etnet 經濟通。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "http://www.etnet.com.hk/www/tc/news/news-article.php?section"
-    },
-    {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "This SpaceX Supplier Is an A",
-      "title": "This SpaceX Supplier Is an AI Winner on Rising 需求 for 資料中心 and Satellites — Barron’s.com",
-      "originalTitle": "This SpaceX Supplier Is an AI Winner on Rising Demand for Data Centers and Satellites -- Barrons.com",
-      "translatedTitle": "This SpaceX Supplier Is an AI Winner on Rising 需求 for 資料中心 and Satellites — Barron’s.com",
+      "subject": "PHLX 半導體 Index (.SOX)",
+      "title": "PHLX 半導體 Index (.SOX)",
+      "originalTitle": "PHLX Semiconductor Index (.SOX)",
+      "translatedTitle": "PHLX 半導體 Index (.SOX)",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
+      "category": "AI 晶片",
       "source": "Moomoo",
-      "publishedAt": "2026-10-29T16:06:32.000Z",
-      "fact": "Moomoo 報導：This SpaceX Supplier Is an AI Winner on Rising 需求 for 資料中心 and Satellites — Barron’s.com",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；This SpaceX Supplier Is an AI Winner on Rising Demand for Data Centers and Satellites -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-10-30T14:49:26.000Z",
+      "fact": "Moomoo 報導：PHLX 半導體 Index (.SOX)",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；PHLX Semiconductor Index (.SOX) &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI",
-        "data center"
+        "semiconductor"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1002835135/this-spacex-supplier-is-an-ai-winner-on-rising-demand"
+      "url": "https://www.moomoo.com/index/.SOX-US/news?chain_id"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Chip and 雲端 股票 Stutter. Why ",
-      "title": "Chip and 雲端 股票 Stutter. Why 微軟 and Alphabet 財報 Hit the AI Trade. — Barron’s.com",
-      "originalTitle": "Chip and Cloud Stocks Stutter. Why Microsoft and Alphabet Earnings Hit the AI Trade. -- Barrons.com",
-      "translatedTitle": "Chip and 雲端 股票 Stutter. Why 微軟 and Alphabet 財報 Hit the AI Trade. — Barron’s.com",
+      "subject": "半導體 股票 Fall as Intel 財報 Trig",
+      "title": "半導體 股票 Fall as Intel 財報 Trigger Broad Tech Selloff — Update",
+      "originalTitle": "Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff -- Update",
+      "translatedTitle": "半導體 股票 Fall as Intel 財報 Trigger Broad Tech Selloff — Update",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-29T14:44:23.000Z",
-      "fact": "富途牛牛 報導：Chip and 雲端 股票 Stutter. Why 微軟 and Alphabet 財報 Hit the AI Trade. — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip and Cloud Stocks Stutter. Why Microsoft and Alphabet Earnings Hit the AI Trade. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-30T14:25:49.000Z",
+      "fact": "Moomoo 報導：半導體 股票 Fall as Intel 財報 Trigger Broad Tech Selloff — Update",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff -- Update &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Microsoft",
-        "AI",
+        "semiconductor",
         "earnings",
         "stocks"
       ],
-      "url": "https://news.futunn.com/hk/post/1002776230/chip-and-cloud-stocks-stutter-why-microsoft-and-alphabet-earnings"
+      "url": "https://www.moomoo.com/hant/news/post/1003027140/semiconductor-stocks-fall-as-intel-earnings-trigger-broad-tech-selloff"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "Fed",
-      "title": "Nasdaq rises as 晶片股 rally ahead of Fed decision, big tech 財報",
-      "originalTitle": "Nasdaq rises as chip stocks rally ahead of Fed decision, big tech earnings",
-      "translatedTitle": "Nasdaq rises as 晶片股 rally ahead of Fed decision, big tech 財報",
+      "subject": "While the AI Trade Is Troubl",
+      "title": "While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
+      "originalTitle": "While the AI Trade Is Troubled, Microsoft Retains Its Fans on Wall Street -- Barrons.com",
+      "translatedTitle": "While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-28T13:43:31.000Z",
-      "fact": "TradingView 報導：Nasdaq rises as 晶片股 rally ahead of Fed decision, big tech 財報",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nasdaq rises as chip stocks rally ahead of Fed decision, big tech earnings &nbsp;&nbsp; TradingView。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-30T13:58:31.000Z",
+      "fact": "富途牛牛 報導：While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；While the AI Trade Is Troubled, Microsoft Retains Its Fans on Wall Street -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "earnings",
-        "stocks"
+        "Microsoft",
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/invezz:43e0862a7094b:0-nasdaq-rises-as-chip-stocks-rally-ahead-of-fed-decision-big-tech-earnings/"
+      "url": "https://news.futunn.com/hk/post/1002939513/while-the-ai-trade-is-troubled-microsoft-retains-its-fans"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Megacap 財報 Could Spoil the 市",
-      "title": "Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
-      "originalTitle": "Megacap Earnings Could Spoil the Market's Appetite for AI -- Barrons.com",
-      "translatedTitle": "Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
+      "subject": "Yardeni Says AI 投資 熱潮 Is Her",
+      "title": "Yardeni Says AI 投資 熱潮 Is Here To Stay — But Warns AI 股票 Jitters Could Persist",
+      "originalTitle": "Yardeni Says AI Investment Boom Is Here To Stay — But Warns AI Stock Jitters Could Persist",
+      "translatedTitle": "Yardeni Says AI 投資 熱潮 Is Here To Stay — But Warns AI 股票 Jitters Could Persist",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-28T14:14:00.000Z",
-      "fact": "Moomoo 報導：Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Megacap Earnings Could Spoil the Market's Appetite for AI -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "source": "TradingView",
+      "publishedAt": "2026-10-29T17:44:41.000Z",
+      "fact": "TradingView 報導：Yardeni Says AI 投資 熱潮 Is Here To Stay — But Warns AI 股票 Jitters Could Persist",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Yardeni Says AI Investment Boom Is Here To Stay — But Warns AI Stock Jitters Could Persist &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "earnings"
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1002671618/megacap-earnings-could-spoil-the-market-s-appetite-for-ai"
+      "url": "https://tw.tradingview.com/news/stocktwits:ce0576517094b:0-yardeni-says-ai-investment-boom-is-here-to-stay-but-warns-ai-stock-jitters-could-persist/"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Megacap 財報 Could Spoil the 市",
-      "title": "Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
-      "originalTitle": "Megacap Earnings Could Spoil the Market's Appetite for AI -- Barrons.com",
-      "translatedTitle": "Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
+      "subject": "Google",
+      "title": "Google 股票 Selloff Exposes Hidden ETF 風險",
+      "originalTitle": "Google Stock Selloff Exposes Hidden ETF Risk",
+      "translatedTitle": "Google 股票 Selloff Exposes Hidden ETF 風險",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-28T11:37:00.000Z",
-      "fact": "富途牛牛 報導：Megacap 財報 Could Spoil the 市場's Appetite for AI — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Megacap Earnings Could Spoil the Market's Appetite for AI -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "source": "TradingView",
+      "publishedAt": "2026-10-29T15:01:26.000Z",
+      "fact": "TradingView 報導：Google 股票 Selloff Exposes Hidden ETF 風險",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Google Stock Selloff Exposes Hidden ETF Risk &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "earnings"
+        "Google"
       ],
-      "url": "https://news.futunn.com/hk/post/1002581252/megacap-earnings-could-spoil-the-market-s-appetite-for-ai"
+      "url": "https://tw.tradingview.com/news/gurufocus:0bb45146a094b:0-google-stock-selloff-exposes-hidden-etf-risk/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Flex 股票 Rise on 財報. Its Upco",
-      "title": "Flex 股票 Rise on 財報. Its Upcoming AI Infrastructure Spinoff May Be the Real Winner. — Barron’s.com",
-      "originalTitle": "Flex Stock Rise on Earnings. Its Upcoming AI Infrastructure Spinoff May Be the Real Winner. -- Barrons.com",
-      "translatedTitle": "Flex 股票 Rise on 財報. Its Upcoming AI Infrastructure Spinoff May Be the Real Winner. — Barron’s.com",
+      "subject": "European Indexes Largely Low",
+      "title": "European Indexes Largely Lower as AI Selloff Bites — 市場 Talk",
+      "originalTitle": "European Indexes Largely Lower as AI Selloff Bites -- Market Talk",
+      "translatedTitle": "European Indexes Largely Lower as AI Selloff Bites — 市場 Talk",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-28T18:20:46.000Z",
-      "fact": "Moomoo 報導：Flex 股票 Rise on 財報. Its Upcoming AI Infrastructure Spinoff May Be the Real Winner. — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Flex Stock Rise on Earnings. Its Upcoming AI Infrastructure Spinoff May Be the Real Winner. -- Barrons.com &nbsp;&nbsp;。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-30T10:36:56.000Z",
+      "fact": "富途牛牛 報導：European Indexes Largely Lower as AI Selloff Bites — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Indexes Largely Lower as AI Selloff Bites -- Market Talk &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "earnings"
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1002671120/flex-stock-rise-on-earnings-its-upcoming-ai-infrastructure-spinoff"
+      "url": "https://news.futunn.com/en/post/1002893011/european-indexes-largely-lower-as-ai-selloff-bites-market-talk"
     }
   ]
 }
