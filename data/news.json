@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T01:14:42.520Z",
+  "generatedAt": "2026-10-31T03:01:12.240Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -68,21 +68,21 @@
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
-      "originalTitle": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
-      "translatedTitle": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
-      "translationNote": "系統翻譯，請以原文為準",
+      "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報",
+      "originalTitle": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報",
+      "translatedTitle": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-10-29T02:48:47.000Z",
-      "fact": "TechNews 科技新報 報導：主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "LINE TODAY",
+      "publishedAt": "2026-10-29T10:57:25.000Z",
+      "fact": "LINE TODAY 報導：主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報 &nbsp;&nbsp; LINE TODAY。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Google"
       ],
-      "url": "https://infosecu.technews.tw/2026/10/29/google-introduces-gemini-4-carbon/"
+      "url": "https://today.line.me/tw/v3/article/j7pXwZY"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -108,6 +108,47 @@
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
+      "subject": "PHLX 半導體 Index (.SOX)",
+      "title": "PHLX 半導體 Index (.SOX)",
+      "originalTitle": "PHLX Semiconductor Index (.SOX)",
+      "translatedTitle": "PHLX 半導體 Index (.SOX)",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-30T14:49:26.000Z",
+      "fact": "Moomoo 報導：PHLX 半導體 Index (.SOX)",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；PHLX Semiconductor Index (.SOX) &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "semiconductor"
+      ],
+      "url": "https://www.moomoo.com/index/.SOX-US/news?chain_id"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Delta Electronics Hosts Inau",
+      "title": "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design and Engineering at NUS to Advance Sustainable 資料中心 Innovation",
+      "originalTitle": "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design and Engineering at NUS to Advance Sustainable Data Center Innovation",
+      "translatedTitle": "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design and Engineering at NUS to Advance Sustainable 資料中心 Innovation",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "Quamnet",
+      "publishedAt": "2026-10-30T14:00:01.000Z",
+      "fact": "Quamnet 報導：Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design and Engineering at NUS to Advance Sustainable 資料中心 Innovation",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "data center"
+      ],
+      "url": "https://www.quamnet.com/post/GOdkYoMb7TLVJnP-ft-mW"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
       "subject": "Meta",
       "title": "Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
       "originalTitle": "Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
@@ -126,7 +167,7 @@
       "url": "https://www.moomoo.com/hant/news/post/1002820290/aehr-test-systems-appoints-former-meta-infrastructure-executive-vijay-rao"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Advanced Micro Devices (AMD) News Flow",
@@ -146,7 +187,7 @@
       "url": "https://www.moomoo.com/stock/AMD-US/news?chain_id"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "HKSTP Releases First",
       "title": "HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
@@ -165,68 +206,69 @@
       "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section"
     },
     {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "U.S. 經濟 Picked Up Speed",
-      "title": "U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
-      "originalTitle": "U.S. Economy Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
-      "translatedTitle": "U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-29T13:50:02.000Z",
-      "fact": "Moomoo 報導：U.S. 經濟 Picked Up Speed, With GDP Growth at 3.4% in Third Quarter",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；U.S. Economy Picked Up Speed, With GDP Growth at 3.4% in Third Quarter &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1002838237/us-economy-picked-up-speed-with-gdp-growth-at-3"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "PHLX 半導體 Index (.SOX)",
-      "title": "PHLX 半導體 Index (.SOX)",
-      "originalTitle": "PHLX Semiconductor Index (.SOX)",
-      "translatedTitle": "PHLX 半導體 Index (.SOX)",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-30T14:49:26.000Z",
-      "fact": "Moomoo 報導：PHLX 半導體 Index (.SOX)",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；PHLX Semiconductor Index (.SOX) &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "semiconductor"
-      ],
-      "url": "https://www.moomoo.com/index/.SOX-US/news?chain_id"
-    },
-    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "半導體 股票 Fall as Intel 財報 Trig",
-      "title": "半導體 股票 Fall as Intel 財報 Trigger Broad Tech Selloff — Update",
-      "originalTitle": "Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff -- Update",
-      "translatedTitle": "半導體 股票 Fall as Intel 財報 Trigger Broad Tech Selloff — Update",
+      "subject": "Amazon",
+      "title": "AI 財經快訊：Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
+      "originalTitle": "Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
+      "translatedTitle": "AI 財經快訊：Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-30T14:25:49.000Z",
-      "fact": "Moomoo 報導：半導體 股票 Fall as Intel 財報 Trigger Broad Tech Selloff — Update",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Semiconductor Stocks Fall as Intel Earnings Trigger Broad Tech Selloff -- Update &nbsp;&nbsp; Moomoo。",
+      "source": "TradingView",
+      "publishedAt": "2026-10-30T13:43:15.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "semiconductor",
-        "earnings",
-        "stocks"
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1003027140/semiconductor-stocks-fall-as-intel-earnings-trigger-broad-tech-selloff"
+      "url": "https://tw.tradingview.com/news/invezz:efb5c3d25094b:0-nasdaq-opens-2-lower-as-amazon-and-intel-selloff-deepens-ai-spending-concerns/"
     },
     {
       "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "Amazon",
+      "title": "U.S. 股票 Slide as Amazon, Intel 財報 Spark More AI Selling",
+      "originalTitle": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
+      "translatedTitle": "U.S. 股票 Slide as Amazon, Intel 財報 Spark More AI Selling",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-30T20:51:31.000Z",
+      "fact": "富途牛牛 報導：U.S. 股票 Slide as Amazon, Intel 財報 Spark More AI Selling",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/1002973341/us-stocks-slide-as-amazon-intel-earnings-spark-more-ai"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "晶片股 Wipe Out $1 Trillion in ",
+      "title": "晶片股 Wipe Out $1 Trillion in Friday Bloodbath: 5 股票 Alone Account for 60% of the Damage",
+      "originalTitle": "Chip Stocks Wipe Out $1 Trillion in Friday Bloodbath: 5 Stocks Alone Account for 60% of the Damage",
+      "translatedTitle": "晶片股 Wipe Out $1 Trillion in Friday Bloodbath: 5 股票 Alone Account for 60% of the Damage",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-30T16:55:09.000Z",
+      "fact": "TradingView 報導：晶片股 Wipe Out $1 Trillion in Friday Bloodbath: 5 股票 Alone Account for 60% of the Damage",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip Stocks Wipe Out $1 Trillion in Friday Bloodbath: 5 Stocks Alone Account for 60% of the Damage &nbsp;&nbsp; TradingV。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/benzinga:5a557b62b094b:0-chip-stocks-wipe-out-1-trillion-in-friday-bloodbath-5-stocks-alone-account-for-60-of-the-damage/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "While the AI Trade Is Troubl",
       "title": "While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
@@ -247,7 +289,7 @@
       "url": "https://news.futunn.com/hk/post/1002939513/while-the-ai-trade-is-troubled-microsoft-retains-its-fans"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Yardeni Says AI 投資 熱潮 Is Her",
       "title": "Yardeni Says AI 投資 熱潮 Is Here To Stay — But Warns AI 股票 Jitters Could Persist",
@@ -265,46 +307,6 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/stocktwits:ce0576517094b:0-yardeni-says-ai-investment-boom-is-here-to-stay-but-warns-ai-stock-jitters-could-persist/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Google",
-      "title": "Google 股票 Selloff Exposes Hidden ETF 風險",
-      "originalTitle": "Google Stock Selloff Exposes Hidden ETF Risk",
-      "translatedTitle": "Google 股票 Selloff Exposes Hidden ETF 風險",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-29T15:01:26.000Z",
-      "fact": "TradingView 報導：Google 股票 Selloff Exposes Hidden ETF 風險",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Google Stock Selloff Exposes Hidden ETF Risk &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Google"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:0bb45146a094b:0-google-stock-selloff-exposes-hidden-etf-risk/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "European Indexes Largely Low",
-      "title": "European Indexes Largely Lower as AI Selloff Bites — 市場 Talk",
-      "originalTitle": "European Indexes Largely Lower as AI Selloff Bites -- Market Talk",
-      "translatedTitle": "European Indexes Largely Lower as AI Selloff Bites — 市場 Talk",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-30T10:36:56.000Z",
-      "fact": "富途牛牛 報導：European Indexes Largely Lower as AI Selloff Bites — 市場 Talk",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Indexes Largely Lower as AI Selloff Bites -- Market Talk &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1002893011/european-indexes-largely-lower-as-ai-selloff-bites-market-talk"
     }
   ]
 }
