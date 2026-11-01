@@ -1,9 +1,29 @@
 {
-  "generatedAt": "2026-11-01T00:32:29.258Z",
+  "generatedAt": "2026-11-01T02:56:18.088Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造",
+      "originalTitle": "Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造",
+      "translatedTitle": "Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "鉅亨網",
+      "publishedAt": "2026-11-01T01:50:03.000Z",
+      "fact": "鉅亨網 報導：Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造 &nbsp;&nbsp; 鉅亨網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta"
+      ],
+      "url": "https://m.cnyes.com/news/id/6643097"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "AI 財經快訊：Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate",
@@ -24,7 +44,7 @@
       "url": "https://mashdigi.com/intl/en/google-gemini-4-carbon-ai-security-model/"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "三星首款AI眼鏡「Intelligent Eyewear",
       "title": "三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣",
@@ -42,26 +62,6 @@
         "AI"
       ],
       "url": "https://finance.biggo.com.tw/news/68a6b7dd-87c4-406f-a5f9-42cfa23fa91d"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力",
-      "originalTitle": "Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力",
-      "translatedTitle": "Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "鉅亨網",
-      "publishedAt": "2026-10-30T14:00:04.000Z",
-      "fact": "鉅亨網 報導：Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力 &nbsp;&nbsp; 鉅亨網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic"
-      ],
-      "url": "https://news.cnyes.com/news/id/6642122"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -251,24 +251,23 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Amazon",
-      "title": "U.S. 股票 Slide as Amazon, Intel 財報 Spark More AI Selling",
-      "originalTitle": "U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling",
-      "translatedTitle": "U.S. 股票 Slide as Amazon, Intel 財報 Spark More AI Selling",
+      "subject": "While the AI Trade Is Troubl",
+      "title": "While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
+      "originalTitle": "While the AI Trade Is Troubled, Microsoft Retains Its Fans on Wall Street -- Barrons.com",
+      "translatedTitle": "While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-30T20:51:31.000Z",
-      "fact": "富途牛牛 報導：U.S. 股票 Slide as Amazon, Intel 財報 Spark More AI Selling",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-10-30T13:58:31.000Z",
+      "fact": "富途牛牛 報導：While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；While the AI Trade Is Troubled, Microsoft Retains Its Fans on Wall Street -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "earnings",
-        "stocks"
+        "Microsoft",
+        "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/1002973341/us-stocks-slide-as-amazon-intel-earnings-spark-more-ai"
+      "url": "https://news.futunn.com/hk/post/1002939513/while-the-ai-trade-is-troubled-microsoft-retains-its-fans"
     },
     {
       "id": "美股與全球市場焦點-5",
