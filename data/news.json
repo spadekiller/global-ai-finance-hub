@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T03:01:12.240Z",
+  "generatedAt": "2026-11-01T00:32:29.258Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,84 +26,83 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "AI狂潮變成「超級智慧」戰場",
-      "title": "AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？",
-      "originalTitle": "AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？",
-      "translatedTitle": "AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "三星首款AI眼鏡「Intelligent Eyewear",
+      "title": "三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣",
+      "originalTitle": "三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣",
+      "translatedTitle": "三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-10-30T14:00:37.000Z",
-      "fact": "CMoney投資網誌 報導：AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI狂潮變成「超級智慧」戰場：華爾街資金暴風雨，誰能撐過算力燒錢時代？ &nbsp;&nbsp; CMoney投資網誌。",
+      "source": "BigGo 財經",
+      "publishedAt": "2026-10-30T06:35:00.000Z",
+      "fact": "BigGo 財經 報導：三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣 &nbsp;&nbsp; BigGo 財經。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-485e289b-d46a-11f1-bcf2-fa08d52fdc8a?utm_source"
+      "url": "https://finance.biggo.com.tw/news/68a6b7dd-87c4-406f-a5f9-42cfa23fa91d"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Gemini 4 Carbon是什麼？Google最新AI模型亮點、資安能力與開放時程一次看",
-      "originalTitle": "Gemini 4 Carbon是什麼？Google最新AI模型亮點、資安能力與開放時程一次看",
-      "translatedTitle": "Gemini 4 Carbon是什麼？Google最新AI模型亮點、資安能力與開放時程一次看",
+      "subject": "Anthropic",
+      "title": "Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力",
+      "originalTitle": "Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力",
+      "translatedTitle": "Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "數位時代",
-      "publishedAt": "2026-10-29T03:50:00.000Z",
-      "fact": "數位時代 報導：Gemini 4 Carbon是什麼？Google最新AI模型亮點、資安能力與開放時程一次看",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Carbon是什麼？Google最新AI模型亮點、資安能力與開放時程一次看 &nbsp;&nbsp; 數位時代。",
+      "source": "鉅亨網",
+      "publishedAt": "2026-10-30T14:00:04.000Z",
+      "fact": "鉅亨網 報導：Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic超越美國政府 成SpaceX最大客戶！12月起月付31億美元買算力 &nbsp;&nbsp; 鉅亨網。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "AI"
+        "Anthropic"
       ],
-      "url": "https://www.bnext.com.tw/article/92834/google-gemini-4-carbon-cybersecurity-model"
+      "url": "https://news.cnyes.com/news/id/6642122"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報",
-      "originalTitle": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報",
-      "translatedTitle": "主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報",
+      "subject": "Anthropic",
+      "title": "SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞",
+      "originalTitle": "SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞",
+      "translatedTitle": "SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "LINE TODAY",
-      "publishedAt": "2026-10-29T10:57:25.000Z",
-      "fact": "LINE TODAY 報導：主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；主攻安全防禦，Google 發表 Gemini 4 Carbon 刷新基準測試紀錄 | 科技新報 &nbsp;&nbsp; LINE TODAY。",
+      "source": "MoneyDJ",
+      "publishedAt": "2026-10-30T03:25:00.000Z",
+      "fact": "MoneyDJ 報導：SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞 &nbsp;&nbsp; MoneyDJ。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "Anthropic"
       ],
-      "url": "https://today.line.me/tw/v3/article/j7pXwZY"
+      "url": "https://www.moneydj.com/z/DJA/News/DJANewsDetail_4840C78F-F5AE-4D88-90A9-37FD10524FB3.djhtm"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
-      "title": "Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？",
-      "originalTitle": "Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？",
-      "translatedTitle": "Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "title": "AI 財經快訊：Anthropic may get junk credit rating after its IPO, Blackstone says: report",
+      "originalTitle": "Anthropic may get junk credit rating after its IPO, Blackstone says: report",
+      "translatedTitle": "AI 財經快訊：Anthropic may get junk credit rating after its IPO, Blackstone says: report",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "SBS",
-      "publishedAt": "2026-10-30T04:37:39.000Z",
-      "fact": "SBS 報導：Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic招股書爆保險黑洞 AI若現大災難全球無力承保？ &nbsp;&nbsp; SBS。",
+      "source": "TradingView",
+      "publishedAt": "2026-10-30T17:00:56.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Anthropic may get junk credit rating after its IPO, Blackstone says: report",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic may get junk credit rating after its IPO, Blackstone says: report &nbsp;&nbsp; TradingView。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Anthropic",
         "AI"
       ],
-      "url": "https://www.sbs.com.au/language/chinese/zh-hant/podcast-episode/behind-anthropics-ipo-rapid-revenue-growth-meets-a-94-page-warning-of-systemic-collapse/syh58l852"
+      "url": "https://tw.tradingview.com/news/seekingalpha:89b0b236c094b:0-anthropic-may-get-junk-credit-rating-after-its-ipo-blackstone-says-report/"
     },
     {
       "id": "全球財經脈動-1",
@@ -149,22 +148,22 @@
     {
       "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "Meta",
-      "title": "Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
-      "originalTitle": "Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
-      "translatedTitle": "Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：U.S. Tech Giants Ramp Up Cash Burn! AI Spending Commitments Exceed $3 Trillion",
+      "originalTitle": "U.S. Tech Giants Ramp Up Cash Burn! AI Spending Commitments Exceed $3 Trillion",
+      "translatedTitle": "AI 財經快訊：U.S. Tech Giants Ramp Up Cash Burn! AI Spending Commitments Exceed $3 Trillion",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-29T11:30:00.000Z",
-      "fact": "Moomoo 報導：Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Aehr測試系統任命前Meta基礎設施高管維傑·拉奧爲董事會成員 &nbsp;&nbsp; Moomoo。",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-31T03:10:53.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：U.S. Tech Giants Ramp Up Cash Burn! AI Spending Commitments Exceed $3 Trillion",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；U.S. Tech Giants Ramp Up Cash Burn! AI Spending Commitments Exceed $3 Trillion &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "Meta"
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1002820290/aehr-test-systems-appoints-former-meta-infrastructure-executive-vijay-rao"
+      "url": "https://news.futunn.com/en/post/1003000010/us-tech-giants-ramp-up-cash-burn-ai-spending-commitments"
     },
     {
       "id": "全球財經脈動-4",
@@ -187,26 +186,50 @@
       "url": "https://www.moomoo.com/stock/AMD-US/news?chain_id"
     },
     {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "HKSTP Releases First",
-      "title": "HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
-      "originalTitle": "HKSTP Releases First-Ever Battery and Energy Storage Strategy Analysis Report",
-      "translatedTitle": "HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
+      "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Wall Street Delivers Stark W",
+      "title": "Wall Street Delivers Stark Warning for AI 股票 as 財報 Beats Fail to Deliver",
+      "originalTitle": "Wall Street Delivers Stark Warning for AI Stocks as Earnings Beats Fail to Deliver",
+      "translatedTitle": "Wall Street Delivers Stark Warning for AI 股票 as 財報 Beats Fail to Deliver",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "etnet 經濟通",
-      "publishedAt": "2026-10-29T07:00:00.000Z",
-      "fact": "etnet 經濟通 報導：HKSTP Releases First-Ever Battery and 能源 Storage Strategy Analysis Report",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；HKSTP Releases First-Ever Battery and Energy Storage Strategy Analysis Report &nbsp;&nbsp; etnet 經濟通。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-10-30T20:00:42.000Z",
+      "fact": "TradingView 報導：Wall Street Delivers Stark Warning for AI 股票 as 財報 Beats Fail to Deliver",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Wall Street Delivers Stark Warning for AI Stocks as Earnings Beats Fail to Deliver &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "全球財經"
+        "市場焦點",
+        "AI",
+        "earnings",
+        "stocks"
       ],
-      "url": "https://www.etnet.com.hk/www/tc/news/news-article.php?section"
+      "url": "https://tw.tradingview.com/news/gurufocus:4ff23b568094b:0-wall-street-delivers-stark-warning-for-ai-stocks-as-earnings-beats-fail-to-deliver/"
     },
     {
-      "id": "美股與全球市場焦點-1",
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "AI 股票 plunged",
+      "title": "AI 股票 plunged, while the equal-weight 標普 500 rose 1.2% against the trend, led by consumer staples which briefly hit a record high.",
+      "originalTitle": "AI stocks plunged, while the equal-weight S&P 500 rose 1.2% against the trend, led by consumer staples which briefly hit a record high.",
+      "translatedTitle": "AI 股票 plunged, while the equal-weight 標普 500 rose 1.2% against the trend, led by consumer staples which briefly hit a record high.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-10-31T08:37:00.000Z",
+      "fact": "富途牛牛 報導：AI 股票 plunged, while the equal-weight 標普 500 rose 1.2% against the trend, led by consumer staples which briefly hit a record high.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI stocks plunged, while the equal-weight S&P 500 rose 1.2% against the trend, led by consumer staples which briefly hit。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1003011772/ai-stocks-plunged-while-the-equal-weight-s-p-500"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "Amazon",
       "title": "AI 財經快訊：Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
@@ -226,7 +249,7 @@
       "url": "https://tw.tradingview.com/news/invezz:efb5c3d25094b:0-nasdaq-opens-2-lower-as-amazon-and-intel-selloff-deepens-ai-spending-concerns/"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Amazon",
       "title": "U.S. 股票 Slide as Amazon, Intel 財報 Spark More AI Selling",
@@ -248,7 +271,7 @@
       "url": "https://news.futunn.com/hk/post/1002973341/us-stocks-slide-as-amazon-intel-earnings-spark-more-ai"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "晶片股 Wipe Out $1 Trillion in ",
       "title": "晶片股 Wipe Out $1 Trillion in Friday Bloodbath: 5 股票 Alone Account for 60% of the Damage",
@@ -266,47 +289,6 @@
         "stocks"
       ],
       "url": "https://tw.tradingview.com/news/benzinga:5a557b62b094b:0-chip-stocks-wipe-out-1-trillion-in-friday-bloodbath-5-stocks-alone-account-for-60-of-the-damage/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "While the AI Trade Is Troubl",
-      "title": "While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
-      "originalTitle": "While the AI Trade Is Troubled, Microsoft Retains Its Fans on Wall Street -- Barrons.com",
-      "translatedTitle": "While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-30T13:58:31.000Z",
-      "fact": "富途牛牛 報導：While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；While the AI Trade Is Troubled, Microsoft Retains Its Fans on Wall Street -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Microsoft",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/hk/post/1002939513/while-the-ai-trade-is-troubled-microsoft-retains-its-fans"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Yardeni Says AI 投資 熱潮 Is Her",
-      "title": "Yardeni Says AI 投資 熱潮 Is Here To Stay — But Warns AI 股票 Jitters Could Persist",
-      "originalTitle": "Yardeni Says AI Investment Boom Is Here To Stay — But Warns AI Stock Jitters Could Persist",
-      "translatedTitle": "Yardeni Says AI 投資 熱潮 Is Here To Stay — But Warns AI 股票 Jitters Could Persist",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-29T17:44:41.000Z",
-      "fact": "TradingView 報導：Yardeni Says AI 投資 熱潮 Is Here To Stay — But Warns AI 股票 Jitters Could Persist",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Yardeni Says AI Investment Boom Is Here To Stay — But Warns AI Stock Jitters Could Persist &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/stocktwits:ce0576517094b:0-yardeni-says-ai-investment-boom-is-here-to-stay-but-warns-ai-stock-jitters-could-persist/"
     }
   ]
 }
