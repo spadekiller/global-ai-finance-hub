@@ -1,152 +1,133 @@
 {
-  "generatedAt": "2026-11-01T02:56:18.088Z",
+  "generatedAt": "2026-11-02T01:07:29.611Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造",
-      "originalTitle": "Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造",
-      "translatedTitle": "Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造",
+      "subject": "新雲端",
+      "title": "新雲端：人工智能泡沫將爆破？一群小公司正加劇擔憂",
+      "originalTitle": "新雲端：人工智能泡沫將爆破？一群小公司正加劇擔憂",
+      "translatedTitle": "新雲端：人工智能泡沫將爆破？一群小公司正加劇擔憂",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "鉅亨網",
-      "publishedAt": "2026-11-01T01:50:03.000Z",
-      "fact": "鉅亨網 報導：Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta與中國傅利葉智能合作開發人形機器人？網傳Max僅48公斤、3個月打造 &nbsp;&nbsp; 鉅亨網。",
+      "source": "BBC",
+      "publishedAt": "2026-11-02T00:22:54.000Z",
+      "fact": "BBC 報導：新雲端：人工智能泡沫將爆破？一群小公司正加劇擔憂",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；新雲端：人工智能泡沫將爆破？一群小公司正加劇擔憂 &nbsp;&nbsp; BBC。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.bbc.com/zhongwen/articles/c5djvk2dm33xo/trad"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "外媒指稱Meta攜手中國新創傅利葉智能打造人形機器人原型機「Max」：搭載NVIDIA晶片與Muse AI",
+      "originalTitle": "外媒指稱Meta攜手中國新創傅利葉智能打造人形機器人原型機「Max」：搭載NVIDIA晶片與Muse AI",
+      "translatedTitle": "外媒指稱Meta攜手中國新創傅利葉智能打造人形機器人原型機「Max」：搭載NVIDIA晶片與Muse AI",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 晶片",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-01T20:36:49.000Z",
+      "fact": "Mashdigi 報導：外媒指稱Meta攜手中國新創傅利葉智能打造人形機器人原型機「Max」：搭載NVIDIA晶片與Muse AI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；外媒指稱Meta攜手中國新創傅利葉智能打造人形機器人原型機「Max」：搭載NVIDIA晶片與Muse AI &nbsp;&nbsp; Mashdigi。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://mashdigi.com/meta-humanoid-robot-max-fourier-nvidia-muse-ai/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta 與中國傅利葉智能合作開發人形機器人？網傳 Max 僅 48 公斤、3 個月打造",
+      "originalTitle": "Meta 與中國傅利葉智能合作開發人形機器人？網傳 Max 僅 48 公斤、3 個月打造",
+      "translatedTitle": "Meta 與中國傅利葉智能合作開發人形機器人？網傳 Max 僅 48 公斤、3 個月打造",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "INSIDE",
+      "publishedAt": "2026-11-01T08:20:11.000Z",
+      "fact": "INSIDE 報導：Meta 與中國傅利葉智能合作開發人形機器人？網傳 Max 僅 48 公斤、3 個月打造",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 與中國傅利葉智能合作開發人形機器人？網傳 Max 僅 48 公斤、3 個月打造 &nbsp;&nbsp; INSIDE。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Meta"
       ],
-      "url": "https://m.cnyes.com/news/id/6643097"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "AI 財經快訊：Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate",
-      "originalTitle": "Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate",
-      "translatedTitle": "AI 財經快訊：Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "Mashdigi",
-      "publishedAt": "2026-10-30T17:59:18.000Z",
-      "fact": "Mashdigi 報導：AI 財經快訊：Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Unveils Gemini 4 Carbon: The New Flagship Model with a 0% Indirect Prompt Injection Success Rate &nbsp;&nbsp; Mas。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://mashdigi.com/intl/en/google-gemini-4-carbon-ai-security-model/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "三星首款AI眼鏡「Intelligent Eyewear",
-      "title": "三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣",
-      "originalTitle": "三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣",
-      "translatedTitle": "三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "BigGo 財經",
-      "publishedAt": "2026-10-30T06:35:00.000Z",
-      "fact": "BigGo 財經 報導：三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；三星首款AI眼鏡「Intelligent Eyewear」12月中旬在韓國、美國開賣 &nbsp;&nbsp; BigGo 財經。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://finance.biggo.com.tw/news/68a6b7dd-87c4-406f-a5f9-42cfa23fa91d"
+      "url": "https://www.inside.com.tw/article/42789-meta-builds-humanoid-robot-with-chinese-startup-fourier-information-says"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞",
-      "originalTitle": "SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞",
-      "translatedTitle": "SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞",
+      "subject": "AI排行榜｜ChatGPT、Gemini非第一！準確度大",
+      "title": "AI排行榜｜ChatGPT、Gemini非第一！準確度大比拼！第1名竟是「它」",
+      "originalTitle": "AI排行榜｜ChatGPT、Gemini非第一！準確度大比拼！第1名竟是「它」",
+      "translatedTitle": "AI排行榜｜ChatGPT、Gemini非第一！準確度大比拼！第1名竟是「它」",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "MoneyDJ",
-      "publishedAt": "2026-10-30T03:25:00.000Z",
-      "fact": "MoneyDJ 報導：SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；SpaceX客戶集中風險曝？傳Anthropic占逾3成營收- 新聞 &nbsp;&nbsp; MoneyDJ。",
+      "source": "UHK 港生活",
+      "publishedAt": "2026-11-01T17:08:10.000Z",
+      "fact": "UHK 港生活 報導：AI排行榜｜ChatGPT、Gemini非第一！準確度大比拼！第1名竟是「它」",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI排行榜｜ChatGPT、Gemini非第一！準確度大比拼！第1名竟是「它」 &nbsp;&nbsp; UHK 港生活。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic"
+        "AI"
       ],
-      "url": "https://www.moneydj.com/z/DJA/News/DJANewsDetail_4840C78F-F5AE-4D88-90A9-37FD10524FB3.djhtm"
+      "url": "https://hk.ulifestyle.com.hk/topic/detail/20082330/ai%E6%BA%96%E7%A2%BA%E5%BA%A6%E8%AA%BF%E6%9F%A5%E6%9B%9D%E5%85%89-chatgpt-gemini-%E8%BC%B8%E7%B5%A6-%E5%AE%83-%E7%9B%B2%E7%9B%AE%E7%9B%B8%E4%BF%A1ai%E8%B3%87%E8%A8%8A%E6%81%90%E8%AE%93%E7%94%A8%E6%88%B6%E6%89%BF%E5%8F%97%E6%B3%95%E5%BE%8B%E9%A2%A8%E9%9A%AA"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "AI 財經快訊：Anthropic may get junk credit rating after its IPO, Blackstone says: report",
-      "originalTitle": "Anthropic may get junk credit rating after its IPO, Blackstone says: report",
-      "translatedTitle": "AI 財經快訊：Anthropic may get junk credit rating after its IPO, Blackstone says: report",
+      "subject": "Meta",
+      "title": "Meta Reportedly Partners with Chinese Startup Fourier to Build Humanoid Robot Prototype \"Max\": Powered by 輝達 Chips and Muse AI",
+      "originalTitle": "Meta Reportedly Partners with Chinese Startup Fourier to Build Humanoid Robot Prototype \"Max\": Powered by NVIDIA Chips and Muse AI",
+      "translatedTitle": "Meta Reportedly Partners with Chinese Startup Fourier to Build Humanoid Robot Prototype \"Max\": Powered by 輝達 Chips and Muse AI",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "TradingView",
-      "publishedAt": "2026-10-30T17:00:56.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：Anthropic may get junk credit rating after its IPO, Blackstone says: report",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic may get junk credit rating after its IPO, Blackstone says: report &nbsp;&nbsp; TradingView。",
+      "category": "AI 晶片",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-01T18:41:08.000Z",
+      "fact": "Mashdigi 報導：Meta Reportedly Partners with Chinese Startup Fourier to Build Humanoid Robot Prototype \"Max\": Powered by 輝達 Chips and Muse AI",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta Reportedly Partners with Chinese Startup Fourier to Build Humanoid Robot Prototype \"Max\": Powered by NVIDIA Chips a。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
+        "Meta",
+        "Nvidia",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/seekingalpha:89b0b236c094b:0-anthropic-may-get-junk-credit-rating-after-its-ipo-blackstone-says-report/"
+      "url": "https://mashdigi.com/intl/en/meta-humanoid-robot-max-fourier-nvidia-muse-ai/"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "PHLX 半導體 Index (.SOX)",
-      "title": "PHLX 半導體 Index (.SOX)",
-      "originalTitle": "PHLX Semiconductor Index (.SOX)",
-      "translatedTitle": "PHLX 半導體 Index (.SOX)",
+      "subject": "The Tangled Web of AI Bets I",
+      "title": "The Tangled Web of AI Bets Is Reason to Fear Tech 股票 — WSJ",
+      "originalTitle": "The Tangled Web of AI Bets Is Reason to Fear Tech Stocks -- WSJ",
+      "translatedTitle": "The Tangled Web of AI Bets Is Reason to Fear Tech 股票 — WSJ",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
+      "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-10-30T14:49:26.000Z",
-      "fact": "Moomoo 報導：PHLX 半導體 Index (.SOX)",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；PHLX Semiconductor Index (.SOX) &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "semiconductor"
-      ],
-      "url": "https://www.moomoo.com/index/.SOX-US/news?chain_id"
-    },
-    {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "Delta Electronics Hosts Inau",
-      "title": "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design and Engineering at NUS to Advance Sustainable 資料中心 Innovation",
-      "originalTitle": "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design and Engineering at NUS to Advance Sustainable Data Center Innovation",
-      "translatedTitle": "Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design and Engineering at NUS to Advance Sustainable 資料中心 Innovation",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "Quamnet",
-      "publishedAt": "2026-10-30T14:00:01.000Z",
-      "fact": "Quamnet 報導：Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design and Engineering at NUS to Advance Sustainable 資料中心 Innovation",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Delta Electronics Hosts Inaugural Future Industry Summit in Singapore and Inks Collaboration with the College of Design。",
+      "publishedAt": "2026-11-01T10:30:00.000Z",
+      "fact": "Moomoo 報導：The Tangled Web of AI Bets Is Reason to Fear Tech 股票 — WSJ",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The Tangled Web of AI Bets Is Reason to Fear Tech Stocks -- WSJ &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI",
-        "data center"
+        "stocks"
       ],
-      "url": "https://www.quamnet.com/post/GOdkYoMb7TLVJnP-ft-mW"
+      "url": "https://www.moomoo.com/hant/news/post/1003116069/the-tangled-web-of-ai-bets-is-reason-to-fear"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：U.S. Tech Giants Ramp Up Cash Burn! AI Spending Commitments Exceed $3 Trillion",
@@ -166,49 +147,47 @@
       "url": "https://news.futunn.com/en/post/1003000010/us-tech-giants-ramp-up-cash-burn-ai-spending-commitments"
     },
     {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Advanced Micro Devices (AMD) News Flow",
-      "originalTitle": "Advanced Micro Devices (AMD) News Flow",
-      "translatedTitle": "AI 財經快訊：Advanced Micro Devices (AMD) News Flow",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-10-30T16:12:07.000Z",
-      "fact": "Moomoo 報導：AI 財經快訊：Advanced Micro Devices (AMD) News Flow",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Advanced Micro Devices (AMD) News Flow &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://www.moomoo.com/stock/AMD-US/news?chain_id"
-    },
-    {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Wall Street Delivers Stark W",
-      "title": "Wall Street Delivers Stark Warning for AI 股票 as 財報 Beats Fail to Deliver",
-      "originalTitle": "Wall Street Delivers Stark Warning for AI Stocks as Earnings Beats Fail to Deliver",
-      "translatedTitle": "Wall Street Delivers Stark Warning for AI 股票 as 財報 Beats Fail to Deliver",
+      "subject": "GOOGL",
+      "title": "GOOGL, AMZN, INTC and More: 5 股票 Investors Couldn't Stop Buzzing About This Week",
+      "originalTitle": "GOOGL, AMZN, INTC and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week",
+      "translatedTitle": "GOOGL, AMZN, INTC and More: 5 股票 Investors Couldn't Stop Buzzing About This Week",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-10-30T20:00:42.000Z",
-      "fact": "TradingView 報導：Wall Street Delivers Stark Warning for AI 股票 as 財報 Beats Fail to Deliver",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Wall Street Delivers Stark Warning for AI Stocks as Earnings Beats Fail to Deliver &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-10-31T12:30:06.000Z",
+      "fact": "TradingView 報導：GOOGL, AMZN, INTC and More: 5 股票 Investors Couldn't Stop Buzzing About This Week",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；GOOGL, AMZN, INTC and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "earnings",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:4ff23b568094b:0-wall-street-delivers-stark-warning-for-ai-stocks-as-earnings-beats-fail-to-deliver/"
+      "url": "https://tw.tradingview.com/news/benzinga:44216a466094b:0-googl-amzn-intc-and-more-5-stocks-investors-couldn-t-stop-buzzing-about-this-week/"
     },
     {
       "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "微軟 Corporation (MSFT) 股價、新聞、",
+      "title": "微軟 Corporation (MSFT) 股價、新聞、報價和記錄",
+      "originalTitle": "Microsoft Corporation (MSFT) 股價、新聞、報價和記錄",
+      "translatedTitle": "微軟 Corporation (MSFT) 股價、新聞、報價和記錄",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Yahoo 財經",
+      "publishedAt": "2026-11-01T07:29:05.000Z",
+      "fact": "Yahoo 財經 報導：微軟 Corporation (MSFT) 股價、新聞、報價和記錄",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft Corporation (MSFT) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Microsoft"
+      ],
+      "url": "https://hk.finance.yahoo.com/quote/MSFT/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "AI 股票 plunged",
       "title": "AI 股票 plunged, while the equal-weight 標普 500 rose 1.2% against the trend, led by consumer staples which briefly hit a record high.",
@@ -217,7 +196,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-10-31T08:37:00.000Z",
+      "publishedAt": "2026-10-31T08:42:12.000Z",
       "fact": "富途牛牛 報導：AI 股票 plunged, while the equal-weight 標普 500 rose 1.2% against the trend, led by consumer staples which briefly hit a record high.",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI stocks plunged, while the equal-weight S&P 500 rose 1.2% against the trend, led by consumer staples which briefly hit。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
@@ -229,65 +208,43 @@
       "url": "https://news.futunn.com/en/post/1003011772/ai-stocks-plunged-while-the-equal-weight-s-p-500"
     },
     {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Amazon",
-      "title": "AI 財經快訊：Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
-      "originalTitle": "Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
-      "translatedTitle": "AI 財經快訊：Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-30T13:43:15.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nasdaq opens 2% lower as Amazon and Intel selloff deepens AI spending concerns &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/invezz:efb5c3d25094b:0-nasdaq-opens-2-lower-as-amazon-and-intel-selloff-deepens-ai-spending-concerns/"
-    },
-    {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "While the AI Trade Is Troubl",
-      "title": "While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
-      "originalTitle": "While the AI Trade Is Troubled, Microsoft Retains Its Fans on Wall Street -- Barrons.com",
-      "translatedTitle": "While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "IINDF業績日期，業績報告和業績電話會議",
+      "title": "IINDF業績日期，業績報告和業績電話會議",
+      "originalTitle": "IINDF業績日期，業績報告和業績電話會議",
+      "translatedTitle": "IINDF業績日期，業績報告和業績電話會議",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-10-30T13:58:31.000Z",
-      "fact": "富途牛牛 報導：While the AI Trade Is Troubled, 微軟 Retains Its Fans on Wall Street — Barron’s.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；While the AI Trade Is Troubled, Microsoft Retains Its Fans on Wall Street -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-31T21:01:38.000Z",
+      "fact": "Moomoo 報導：IINDF業績日期，業績報告和業績電話會議",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；IINDF業績日期，業績報告和業績電話會議 &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "Microsoft",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://news.futunn.com/hk/post/1002939513/while-the-ai-trade-is-troubled-microsoft-retains-its-fans"
+      "url": "https://www.moomoo.com/hant/stock/IINDF-US/earnings"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "晶片股 Wipe Out $1 Trillion in ",
-      "title": "晶片股 Wipe Out $1 Trillion in Friday Bloodbath: 5 股票 Alone Account for 60% of the Damage",
-      "originalTitle": "Chip Stocks Wipe Out $1 Trillion in Friday Bloodbath: 5 Stocks Alone Account for 60% of the Damage",
-      "translatedTitle": "晶片股 Wipe Out $1 Trillion in Friday Bloodbath: 5 股票 Alone Account for 60% of the Damage",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Marvell Technology (MRVL) News Flow",
+      "originalTitle": "Marvell Technology (MRVL) News Flow",
+      "translatedTitle": "AI 財經快訊：Marvell Technology (MRVL) News Flow",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-10-30T16:55:09.000Z",
-      "fact": "TradingView 報導：晶片股 Wipe Out $1 Trillion in Friday Bloodbath: 5 股票 Alone Account for 60% of the Damage",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip Stocks Wipe Out $1 Trillion in Friday Bloodbath: 5 Stocks Alone Account for 60% of the Damage &nbsp;&nbsp; TradingV。",
+      "source": "Moomoo",
+      "publishedAt": "2026-10-31T20:44:06.000Z",
+      "fact": "Moomoo 報導：AI 財經快訊：Marvell Technology (MRVL) News Flow",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Marvell Technology (MRVL) News Flow &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "stocks"
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/benzinga:5a557b62b094b:0-chip-stocks-wipe-out-1-trillion-in-friday-bloodbath-5-stocks-alone-account-for-60-of-the-damage/"
+      "url": "https://www.moomoo.com/stock/MRVL-US/news?chain_id"
     }
   ]
 }
