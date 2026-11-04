@@ -1,26 +1,27 @@
 {
-  "generatedAt": "2026-11-03T04:22:21.722Z",
+  "generatedAt": "2026-11-04T01:45:22.927Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "三星首款AI眼鏡「Intelligent Eyewear",
-      "title": "三星首款AI眼鏡「Intelligent Eyewear」傳12月進駐美國、南韓：續航9小時、聯名Gentle Monster",
-      "originalTitle": "三星首款AI眼鏡「Intelligent Eyewear」傳12月進駐美國、南韓：續航9小時、聯名Gentle Monster",
-      "translatedTitle": "三星首款AI眼鏡「Intelligent Eyewear」傳12月進駐美國、南韓：續航9小時、聯名Gentle Monster",
+      "subject": "Meta",
+      "title": "AI 財經快訊：Taking on Meta Ray-Ban! Samsung’s First AI Glasses \"Intelligent Eyewear\" Rumored to Debut in Korea and U.S. in Mid-December",
+      "originalTitle": "Taking on Meta Ray-Ban! Samsung’s First AI Glasses \"Intelligent Eyewear\" Rumored to Debut in Korea and U.S. in Mid-December",
+      "translatedTitle": "AI 財經快訊：Taking on Meta Ray-Ban! Samsung’s First AI Glasses \"Intelligent Eyewear\" Rumored to Debut in Korea and U.S. in Mid-December",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
       "source": "Mashdigi",
-      "publishedAt": "2026-11-02T16:11:23.000Z",
-      "fact": "Mashdigi 報導：三星首款AI眼鏡「Intelligent Eyewear」傳12月進駐美國、南韓：續航9小時、聯名Gentle Monster",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；三星首款AI眼鏡「Intelligent Eyewear」傳12月進駐美國、南韓：續航9小時、聯名Gentle Monster &nbsp;&nbsp; Mashdigi。",
+      "publishedAt": "2026-11-03T15:51:59.000Z",
+      "fact": "Mashdigi 報導：AI 財經快訊：Taking on Meta Ray-Ban! Samsung’s First AI Glasses \"Intelligent Eyewear\" Rumored to Debut in Korea and U.S. in Mid-December",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Taking on Meta Ray-Ban! Samsung’s First AI Glasses \"Intelligent Eyewear\" Rumored to Debut in Korea and U.S. in Mid-Decem。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Meta",
         "AI"
       ],
-      "url": "https://mashdigi.com/samsung-intelligent-eyewear-ai-glasses-launch-specs/"
+      "url": "https://mashdigi.com/intl/en/samsung-intelligent-eyewear-ai-glasses-launch-specs/"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -46,90 +47,126 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google Gemini AI 強化車載系統 個人化功能升級駕駛體驗",
-      "originalTitle": "Google Gemini AI 強化車載系統 個人化功能升級駕駛體驗",
-      "translatedTitle": "Google Gemini AI 強化車載系統 個人化功能升級駕駛體驗",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "商傳媒",
-      "publishedAt": "2026-11-03T00:43:27.000Z",
-      "fact": "商傳媒 報導：Google Gemini AI 強化車載系統 個人化功能升級駕駛體驗",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Gemini AI 強化車載系統 個人化功能升級駕駛體驗 &nbsp;&nbsp; 商傳媒。",
+      "subject": "Meta",
+      "title": "正面迎戰Meta Ray-Ban！三星首款AI眼鏡「Intelligent Eyewear」傳12月中旬於韓、美兩國首發| 3C家電",
+      "originalTitle": "正面迎戰Meta Ray-Ban！三星首款AI眼鏡「Intelligent Eyewear」傳12月中旬於韓、美兩國首發| 3C家電",
+      "translatedTitle": "正面迎戰Meta Ray-Ban！三星首款AI眼鏡「Intelligent Eyewear」傳12月中旬於韓、美兩國首發| 3C家電",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "udn科技玩家",
+      "publishedAt": "2026-11-02T23:28:19.000Z",
+      "fact": "udn科技玩家 報導：正面迎戰Meta Ray-Ban！三星首款AI眼鏡「Intelligent Eyewear」傳12月中旬於韓、美兩國首發| 3C家電",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；正面迎戰Meta Ray-Ban！三星首款AI眼鏡「Intelligent Eyewear」傳12月中旬於韓、美兩國首發| 3C家電 &nbsp;&nbsp; udn科技玩家。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
+        "Meta",
         "AI"
       ],
-      "url": "https://sunmedia.tw/news/technology/1793659838-Google%20Gemini%20AI%20%E5%BC%B7%E5%8C%96%E8%BB%8A%E8%BC%89%E7%B3%BB%E7%B5%B1%20%E5%80%8B%E4%BA%BA%E5%8C%96%E5%8A%9F%E8%83%BD%E5%8D%87%E7%B4%9A%E9%A7%95%E9%A7%9B%E9%AB%94%E9%A9%97"
+      "url": "https://tech.udn.com/tech/story/123152/9853141"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑",
-      "title": "三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰",
-      "originalTitle": "三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰",
-      "translatedTitle": "三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰",
+      "subject": "為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
+      "title": "為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
+      "originalTitle": "為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
+      "translatedTitle": "為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "蕃新聞",
-      "publishedAt": "2026-11-02T23:40:22.000Z",
-      "fact": "蕃新聞 報導：三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰 &nbsp;&nbsp; 蕃新聞。",
+      "category": "AI 與科技前沿",
+      "source": "TVBS新聞網",
+      "publishedAt": "2026-11-02T03:44:00.000Z",
+      "fact": "TVBS新聞網 報導：為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？ &nbsp;&nbsp; TVBS新聞網。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://n.yam.com/Article/20261103478090"
+      "url": "https://news.tvbs.com.tw/tech/4044561"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "美國OpenAI為改善形象 將數據中心改名為「運算園區」以應對社區反彈",
-      "originalTitle": "美國OpenAI為改善形象 將數據中心改名為「運算園區」以應對社區反彈",
-      "translatedTitle": "美國OpenAI為改善形象 將數據中心改名為「運算園區」以應對社區反彈",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "Singtaousa",
-      "publishedAt": "2026-11-02T21:38:51.000Z",
-      "fact": "Singtaousa 報導：美國OpenAI為改善形象 將數據中心改名為「運算園區」以應對社區反彈",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美國OpenAI為改善形象 將數據中心改名為「運算園區」以應對社區反彈 &nbsp;&nbsp; Singtaousa。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Machines",
+      "originalTitle": "Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Machines",
+      "translatedTitle": "AI 財經快訊：Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Machines",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-03T06:00:27.000Z",
+      "fact": "Mashdigi 報導：AI 財經快訊：Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Machines",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Ma。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "OpenAI",
         "AI"
       ],
-      "url": "https://www.singtaousa.com/2026/11/02/news/usa/openai-s-plan-to-make-data-centers-less-hated-rename-them-compute-campuses/"
+      "url": "https://mashdigi.com/intl/en/acer-swift-blade-14-double-11-deals-2026/"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "財報 Preview | ON 半導體 (ON.US) ",
-      "title": "財報 Preview | ON 半導體 (ON.US) Q3 Results Imminent: AI 資料中心 Business, Gross Margin, and Q4 Guidance Take Center Stage",
-      "originalTitle": "Earnings Preview | ON Semiconductor (ON.US) Q3 Results Imminent: AI Data Center Business, Gross Margin, and Q4 Guidance Take Center Stage",
-      "translatedTitle": "財報 Preview | ON 半導體 (ON.US) Q3 Results Imminent: AI 資料中心 Business, Gross Margin, and Q4 Guidance Take Center Stage",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Bitcoin Miners Pivoted to AI-Only to Find It's Just as Turbulent as Crypto -- WSJ",
+      "originalTitle": "Bitcoin Miners Pivoted to AI-Only to Find It's Just as Turbulent as Crypto -- WSJ",
+      "translatedTitle": "AI 財經快訊：Bitcoin Miners Pivoted to AI-Only to Find It's Just as Turbulent as Crypto -- WSJ",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-02T09:13:18.000Z",
-      "fact": "富途牛牛 報導：財報 Preview | ON 半導體 (ON.US) Q3 Results Imminent: AI 資料中心 Business, Gross Margin, and Q4 Guidance Take Center Stage",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Earnings Preview | ON Semiconductor (ON.US) Q3 Results Imminent: AI Data Center Business, Gross Margin, and Q4 Guidance。",
+      "category": "全球財經",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-03T21:28:06.000Z",
+      "fact": "Moomoo 報導：AI 財經快訊：Bitcoin Miners Pivoted to AI-Only to Find It's Just as Turbulent as Crypto -- WSJ",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Bitcoin Miners Pivoted to AI-Only to Find It's Just as Turbulent as Crypto -- WSJ &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1003384535/bitcoin-miners-pivoted-to-ai-only-to-find-it-s"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Kospi reverses early decline",
+      "title": "Kospi reverses early decline to close 2.24% 走高 as Korean chip exports jump 259%",
+      "originalTitle": "Kospi reverses early decline to close 2.24% higher as Korean chip exports jump 259%",
+      "translatedTitle": "Kospi reverses early decline to close 2.24% 走高 as Korean chip exports jump 259%",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-11-02T08:04:57.000Z",
+      "fact": "TradingView 報導：Kospi reverses early decline to close 2.24% 走高 as Korean chip exports jump 259%",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Kospi reverses early decline to close 2.24% higher as Korean chip exports jump 259% &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://tw.tradingview.com/news/invezz:287981d65094b:0-kospi-reverses-early-decline-to-close-2-24-higher-as-korean-chip-exports-jump-259/"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "Ondine Capital Announces Fir",
+      "title": "Ondine Capital Announces First Close of Fund III to Drive AI and 半導體 Innovation",
+      "originalTitle": "Ondine Capital Announces First Close of Fund III to Drive AI and Semiconductor Innovation",
+      "translatedTitle": "Ondine Capital Announces First Close of Fund III to Drive AI and 半導體 Innovation",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "Macau Business",
+      "publishedAt": "2026-11-03T15:01:57.000Z",
+      "fact": "Macau Business 報導：Ondine Capital Announces First Close of Fund III to Drive AI and 半導體 Innovation",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Ondine Capital Announces First Close of Fund III to Drive AI and Semiconductor Innovation &nbsp;&nbsp; Macau Business。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI",
-        "data center",
-        "semiconductor",
-        "earnings"
+        "semiconductor"
       ],
-      "url": "https://news.futunn.com/en/post/1003076359/earnings-preview-on-semiconductor-onus-q3-results-imminent-ai-data"
+      "url": "https://macaubusiness.com/ondine-capital-announces-first-close-of-fund-iii-to-drive-ai-and-semiconductor-innovation/"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：How will the U.S. midterm elections affect Asian markets? Here are the latest insights from industry experts.",
@@ -149,7 +186,7 @@
       "url": "https://news.futunn.com/en/post/1003052921/how-will-the-us-midterm-elections-affect-asian-markets-here"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Argentina’s Milei pitches a regulation-free AI haven at the end of the world",
@@ -169,47 +206,90 @@
       "url": "https://hk.news.yahoo.com/world/articles/argentina-milei-pitches-regulation-free-080306606.html"
     },
     {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：South Korea to double spending on AI and chips in 2027",
-      "originalTitle": "South Korea to double spending on AI and chips in 2027",
-      "translatedTitle": "AI 財經快訊：South Korea to double spending on AI and chips in 2027",
+      "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Ed Yardeni Sees AI Chip Rebo",
+      "title": "Ed Yardeni Sees AI Chip Rebound, Year-End 股票 Rally — Warns Of Midterm Election, Iran War 風險",
+      "originalTitle": "Ed Yardeni Sees AI Chip Rebound, Year-End Stock Rally — Warns Of Midterm Election, Iran War Risks",
+      "translatedTitle": "Ed Yardeni Sees AI Chip Rebound, Year-End 股票 Rally — Warns Of Midterm Election, Iran War 風險",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Macau Business",
-      "publishedAt": "2026-11-02T04:33:34.000Z",
-      "fact": "Macau Business 報導：AI 財經快訊：South Korea to double spending on AI and chips in 2027",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；South Korea to double spending on AI and chips in 2027 &nbsp;&nbsp; Macau Business。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-02T11:08:29.000Z",
+      "fact": "TradingView 報導：Ed Yardeni Sees AI Chip Rebound, Year-End 股票 Rally — Warns Of Midterm Election, Iran War 風險",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Ed Yardeni Sees AI Chip Rebound, Year-End Stock Rally — Warns Of Midterm Election, Iran War Risks &nbsp;&nbsp; TradingVi。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "全球財經",
+        "市場焦點",
         "AI"
       ],
-      "url": "https://macaubusiness.com/south-korea-to-double-spending-on-ai-and-chips-in-2027/"
+      "url": "https://tw.tradingview.com/news/stocktwits:dd37e0b9b094b:0-ed-yardeni-sees-ai-chip-rebound-year-end-stock-rally-warns-of-midterm-election-iran-war-risks/"
     },
     {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "UBS Sees Buying Opportunitie",
-      "title": "UBS Sees Buying Opportunities on Dip After Tech 股票 Slump: 市場 Underestimates AI Super-Cycle, Inflection Point for Returns May Arrive in 2027",
-      "originalTitle": "UBS Sees Buying Opportunities on Dip After Tech Stock Slump: Market Underestimates AI Super-Cycle, Inflection Point for Returns May Arrive in 2027",
-      "translatedTitle": "UBS Sees Buying Opportunities on Dip After Tech 股票 Slump: 市場 Underestimates AI Super-Cycle, Inflection Point for Returns May Arrive in 2027",
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "U.S. AI 晶片股 rose collectivel",
+      "title": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Taiwan 半導體 and AMD gaining over 2%.",
+      "originalTitle": "U.S. AI chip stocks rose collectively in pre-market trading, with Taiwan Semiconductor and AMD gaining over 2%.",
+      "translatedTitle": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Taiwan 半導體 and AMD gaining over 2%.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-01T11:22:00.000Z",
-      "fact": "富途牛牛 報導：UBS Sees Buying Opportunities on Dip After Tech 股票 Slump: 市場 Underestimates AI Super-Cycle, Inflection Point for Returns May Arrive in 2027",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；UBS Sees Buying Opportunities on Dip After Tech Stock Slump: Market Underestimates AI Super-Cycle, Inflection Point for。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "publishedAt": "2026-11-02T10:09:33.000Z",
+      "fact": "富途牛牛 報導：U.S. AI 晶片股 rose collectively in pre-市場 trading, with Taiwan 半導體 and AMD gaining over 2%.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. AI chip stocks rose collectively in pre-market trading, with Taiwan Semiconductor and AMD gaining over 2%. &nbsp;&n。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "全球財經",
-        "AI"
+        "市場焦點",
+        "AI",
+        "semiconductor",
+        "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1003107853/ubs-sees-buying-opportunities-on-dip-after-tech-stock-slump"
+      "url": "https://news.futunn.com/en/post/1003094385/us-ai-chip-stocks-rose-collectively-in-pre-market-trading"
     },
     {
-      "id": "美股與全球市場焦點-1",
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "半導體 股票 Are Cheaper Than the ",
+      "title": "半導體 股票 Are Cheaper Than the 標普 500: Is It Time to Buy SOXX and SMH ETFs?",
+      "originalTitle": "Semiconductor Stocks Are Cheaper Than the S&P 500: Is It Time to Buy SOXX and SMH ETFs?",
+      "translatedTitle": "半導體 股票 Are Cheaper Than the 標普 500: Is It Time to Buy SOXX and SMH ETFs?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-02T14:16:48.000Z",
+      "fact": "TradingView 報導：半導體 股票 Are Cheaper Than the 標普 500: Is It Time to Buy SOXX and SMH ETFs?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Semiconductor Stocks Are Cheaper Than the S&P 500: Is It Time to Buy SOXX and SMH ETFs? &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "semiconductor",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/benzinga:64c72b695094b:0-semiconductor-stocks-are-cheaper-than-the-s-p-500-is-it-time-to-buy-soxx-and-smh-etfs/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Marvell to Acquire Optical N",
+      "title": "Marvell to Acquire Optical Networking Giant Lumentum for $115 Billion in All-股票 Deal, Creating an AI Interconnect Powerhouse",
+      "originalTitle": "Marvell to Acquire Optical Networking Giant Lumentum for $115 Billion in All-Stock Deal, Creating an AI Interconnect Powerhouse",
+      "translatedTitle": "Marvell to Acquire Optical Networking Giant Lumentum for $115 Billion in All-股票 Deal, Creating an AI Interconnect Powerhouse",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-02T14:00:38.000Z",
+      "fact": "Mashdigi 報導：Marvell to Acquire Optical Networking Giant Lumentum for $115 Billion in All-股票 Deal, Creating an AI Interconnect Powerhouse",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Marvell to Acquire Optical Networking Giant Lumentum for $115 Billion in All-Stock Deal, Creating an AI Interconnect Pow。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://mashdigi.com/intl/en/marvell-acquires-lumentum-ai-interconnect-deal/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "AMD Q3財報前瞻",
       "title": "AMD Q3財報前瞻：AI晶片增長能否扭轉11%跌勢？華爾街最高目標價1250美元",
@@ -227,68 +307,6 @@
         "AI"
       ],
       "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262263679-amd-q3-earnings-preview-ai-chip-growth-reverse-tradingkey"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "晶片股 Are Suffering From a 'Cr",
-      "title": "晶片股 Are Suffering From a 'Crisis of Confidence' — but Things Aren't as Gloomy as They Seem",
-      "originalTitle": "Chip Stocks Are Suffering From a 'Crisis of Confidence' - but Things Aren't as Gloomy as They Seem",
-      "translatedTitle": "晶片股 Are Suffering From a 'Crisis of Confidence' — but Things Aren't as Gloomy as They Seem",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-02T20:42:09.000Z",
-      "fact": "富途牛牛 報導：晶片股 Are Suffering From a 'Crisis of Confidence' — but Things Aren't as Gloomy as They Seem",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Chip Stocks Are Suffering From a 'Crisis of Confidence' - but Things Aren't as Gloomy as They Seem &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1003143608/chip-stocks-are-suffering-from-a-crisis-of-confidence-but"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Is cutting AI spending more ",
-      "title": "Is cutting AI spending more beneficial? Bank of America offers a counterintuitive view: Although \"unpopular,\" it may extend the economic expansion cycle, potentially providing 晶片股 with a longer runway for 財報 growth.",
-      "originalTitle": "Is cutting AI spending more beneficial? Bank of America offers a counterintuitive view: Although \"unpopular,\" it may extend the economic expansion cycle, potentially providing chip stocks with a longer runway for earnings growth.",
-      "translatedTitle": "Is cutting AI spending more beneficial? Bank of America offers a counterintuitive view: Although \"unpopular,\" it may extend the economic expansion cycle, potentially providing 晶片股 with a longer runway for 財報 growth.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-03T00:50:10.000Z",
-      "fact": "富途牛牛 報導：Is cutting AI spending more beneficial? Bank of America offers a counterintuitive view: Although \"unpopular,\" it may extend the economic expansion cycle, potentially providing 晶片股 with a longer runway for 財報 growth.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Is cutting AI spending more beneficial? Bank of America offers a counterintuitive view: Although \"unpopular,\" it may ext。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1003164507/is-cutting-ai-spending-more-beneficial-bank-of-america-offers"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Concerns over AI 投資 returns ",
-      "title": "Concerns over AI 投資 returns continue to intensify! The Nasdaq 100 Index has entered a correction for the third time this year, falling more than 10% from its October highs.",
-      "originalTitle": "Concerns over AI investment returns continue to intensify! The Nasdaq 100 Index has entered a correction for the third time this year, falling more than 10% from its October highs.",
-      "translatedTitle": "Concerns over AI 投資 returns continue to intensify! The Nasdaq 100 Index has entered a correction for the third time this year, falling more than 10% from its October highs.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-02T22:50:33.000Z",
-      "fact": "富途牛牛 報導：Concerns over AI 投資 returns continue to intensify! The Nasdaq 100 Index has entered a correction for the third time this year, falling more than 10% from its October highs.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Concerns over AI investment returns continue to intensify! The Nasdaq 100 Index has entered a correction for the third t。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1003155262/concerns-over-ai-investment-returns-continue-to-intensify-the-nasdaq"
     }
   ]
 }
