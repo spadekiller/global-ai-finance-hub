@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T01:45:22.927Z",
+  "generatedAt": "2026-11-04T03:41:04.535Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,6 +26,27 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "蘋果 加速 Siri AI Agent 化",
+      "title": "蘋果 加速 Siri AI Agent 化：開放第三方App 自訂操作，還能串接多步驟任務| TechOrange 科技報橘",
+      "originalTitle": "Apple 加速 Siri AI Agent 化：開放第三方App 自訂操作，還能串接多步驟任務| TechOrange 科技報橘",
+      "translatedTitle": "蘋果 加速 Siri AI Agent 化：開放第三方App 自訂操作，還能串接多步驟任務| TechOrange 科技報橘",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "LINE TODAY",
+      "publishedAt": "2026-11-04T03:23:32.000Z",
+      "fact": "LINE TODAY 報導：蘋果 加速 Siri AI Agent 化：開放第三方App 自訂操作，還能串接多步驟任務| TechOrange 科技報橘",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple 加速 Siri AI Agent 化：開放第三方App 自訂操作，還能串接多步驟任務| TechOrange 科技報橘 &nbsp;&nbsp; LINE TODAY。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Apple",
+        "AI"
+      ],
+      "url": "https://today.line.me/tw/v3/article/MLBqW20?view"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "中英對照讀新聞》Anthropic Files for IPO in Global Race to Raise Cash for AI Anthropic提交首度公開募股（IPO）文件，加入全球人工智慧（AI）融資競賽",
       "originalTitle": "中英對照讀新聞》Anthropic Files for IPO in Global Race to Raise Cash for AI Anthropic提交首度公開募股（IPO）文件，加入全球人工智慧（AI）融資競賽",
@@ -45,7 +66,7 @@
       "url": "https://news.ltn.com.tw/news/world/paper/1776966"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "正面迎戰Meta Ray-Ban！三星首款AI眼鏡「Intelligent Eyewear」傳12月中旬於韓、美兩國首發| 3C家電",
@@ -66,44 +87,24 @@
       "url": "https://tech.udn.com/tech/story/123152/9853141"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
-      "title": "為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
-      "originalTitle": "為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
-      "translatedTitle": "為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "TVBS新聞網",
-      "publishedAt": "2026-11-02T03:44:00.000Z",
-      "fact": "TVBS新聞網 報導：為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；為什麼美國應該控制風險而非放慢與中國在AI競賽中的速度？ &nbsp;&nbsp; TVBS新聞網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.tvbs.com.tw/tech/4044561"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Machines",
-      "originalTitle": "Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Machines",
-      "translatedTitle": "AI 財經快訊：Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Machines",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "Mashdigi",
-      "publishedAt": "2026-11-03T06:00:27.000Z",
-      "fact": "Mashdigi 報導：AI 財經快訊：Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Machines",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Acer Kicks Off Double 11 Deals: Unveils 799g Swift Blade 14 Ultra-Lightweight Laptop and Core Ultra Series 3 Business Ma。",
+      "subject": "三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑",
+      "title": "三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰",
+      "originalTitle": "三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰",
+      "translatedTitle": "三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "蕃新聞",
+      "publishedAt": "2026-11-02T23:40:22.000Z",
+      "fact": "蕃新聞 報導：三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；三星智慧眼鏡將上市搭載Gemini AI 市場關注隱私挑戰 &nbsp;&nbsp; 蕃新聞。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://mashdigi.com/intl/en/acer-swift-blade-14-double-11-deals-2026/"
+      "url": "https://n.yam.com/Article/20261103478090"
     },
     {
       "id": "全球財經脈動-1",
@@ -147,47 +148,6 @@
     {
       "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "Ondine Capital Announces Fir",
-      "title": "Ondine Capital Announces First Close of Fund III to Drive AI and 半導體 Innovation",
-      "originalTitle": "Ondine Capital Announces First Close of Fund III to Drive AI and Semiconductor Innovation",
-      "translatedTitle": "Ondine Capital Announces First Close of Fund III to Drive AI and 半導體 Innovation",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Macau Business",
-      "publishedAt": "2026-11-03T15:01:57.000Z",
-      "fact": "Macau Business 報導：Ondine Capital Announces First Close of Fund III to Drive AI and 半導體 Innovation",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Ondine Capital Announces First Close of Fund III to Drive AI and Semiconductor Innovation &nbsp;&nbsp; Macau Business。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "semiconductor"
-      ],
-      "url": "https://macaubusiness.com/ondine-capital-announces-first-close-of-fund-iii-to-drive-ai-and-semiconductor-innovation/"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：How will the U.S. midterm elections affect Asian markets? Here are the latest insights from industry experts.",
-      "originalTitle": "How will the U.S. midterm elections affect Asian markets? Here are the latest insights from industry experts.",
-      "translatedTitle": "AI 財經快訊：How will the U.S. midterm elections affect Asian markets? Here are the latest insights from industry experts.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-02T02:21:02.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：How will the U.S. midterm elections affect Asian markets? Here are the latest insights from industry experts.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；How will the U.S. midterm elections affect Asian markets? Here are the latest insights from industry experts. &nbsp;&nbs。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1003052921/how-will-the-us-midterm-elections-affect-asian-markets-here"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Argentina’s Milei pitches a regulation-free AI haven at the end of the world",
       "originalTitle": "Argentina’s Milei pitches a regulation-free AI haven at the end of the world",
@@ -204,6 +164,46 @@
         "AI"
       ],
       "url": "https://hk.news.yahoo.com/world/articles/argentina-milei-pitches-regulation-free-080306606.html"
+    },
+    {
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "Fed",
+      "title": "Former Fed 'Number Three' Warns of AI Infrastructure 風險: $10 Trillion 投資 May Far Exceed 市場 Capacity",
+      "originalTitle": "Former Fed 'Number Three' Warns of AI Infrastructure Risks: $10 Trillion Investment May Far Exceed Market Capacity",
+      "translatedTitle": "Former Fed 'Number Three' Warns of AI Infrastructure 風險: $10 Trillion 投資 May Far Exceed 市場 Capacity",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-04T03:16:38.000Z",
+      "fact": "富途牛牛 報導：Former Fed 'Number Three' Warns of AI Infrastructure 風險: $10 Trillion 投資 May Far Exceed 市場 Capacity",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Former Fed 'Number Three' Warns of AI Infrastructure Risks: $10 Trillion Investment May Far Exceed Market Capacity &nbsp。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/1003338158/former-fed-number-three-warns-of-ai-infrastructure-risks-10"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：South Korea to double spending on AI and chips in 2027",
+      "originalTitle": "South Korea to double spending on AI and chips in 2027",
+      "translatedTitle": "AI 財經快訊：South Korea to double spending on AI and chips in 2027",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "Macau Business",
+      "publishedAt": "2026-11-02T04:33:34.000Z",
+      "fact": "Macau Business 報導：AI 財經快訊：South Korea to double spending on AI and chips in 2027",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；South Korea to double spending on AI and chips in 2027 &nbsp;&nbsp; Macau Business。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://macaubusiness.com/south-korea-to-double-spending-on-ai-and-chips-in-2027/"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -228,6 +228,26 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "微軟 Corporation (MSFT) 股價、新聞、",
+      "title": "微軟 Corporation (MSFT) 股價、新聞、報價和記錄",
+      "originalTitle": "Microsoft Corporation (MSFT) 股價、新聞、報價和記錄",
+      "translatedTitle": "微軟 Corporation (MSFT) 股價、新聞、報價和記錄",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Yahoo 財經",
+      "publishedAt": "2026-11-03T11:46:55.000Z",
+      "fact": "Yahoo 財經 報導：微軟 Corporation (MSFT) 股價、新聞、報價和記錄",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Microsoft Corporation (MSFT) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Microsoft"
+      ],
+      "url": "https://hk.finance.yahoo.com/quote/MSFT/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "U.S. AI 晶片股 rose collectivel",
       "title": "U.S. AI 晶片股 rose collectively in pre-市場 trading, with Taiwan 半導體 and AMD gaining over 2%.",
       "originalTitle": "U.S. AI chip stocks rose collectively in pre-market trading, with Taiwan Semiconductor and AMD gaining over 2%.",
@@ -248,7 +268,7 @@
       "url": "https://news.futunn.com/en/post/1003094385/us-ai-chip-stocks-rose-collectively-in-pre-market-trading"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "半導體 股票 Are Cheaper Than the ",
       "title": "半導體 股票 Are Cheaper Than the 標普 500: Is It Time to Buy SOXX and SMH ETFs?",
@@ -269,7 +289,7 @@
       "url": "https://tw.tradingview.com/news/benzinga:64c72b695094b:0-semiconductor-stocks-are-cheaper-than-the-s-p-500-is-it-time-to-buy-soxx-and-smh-etfs/"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Marvell to Acquire Optical N",
       "title": "Marvell to Acquire Optical Networking Giant Lumentum for $115 Billion in All-股票 Deal, Creating an AI Interconnect Powerhouse",
@@ -287,26 +307,6 @@
         "AI"
       ],
       "url": "https://mashdigi.com/intl/en/marvell-acquires-lumentum-ai-interconnect-deal/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "AMD Q3財報前瞻",
-      "title": "AMD Q3財報前瞻：AI晶片增長能否扭轉11%跌勢？華爾街最高目標價1250美元",
-      "originalTitle": "AMD Q3財報前瞻：AI晶片增長能否扭轉11%跌勢？華爾街最高目標價1250美元",
-      "translatedTitle": "AMD Q3財報前瞻：AI晶片增長能否扭轉11%跌勢？華爾街最高目標價1250美元",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-11-02T08:54:39.000Z",
-      "fact": "TradingKey 報導：AMD Q3財報前瞻：AI晶片增長能否扭轉11%跌勢？華爾街最高目標價1250美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AMD Q3財報前瞻：AI晶片增長能否扭轉11%跌勢？華爾街最高目標價1250美元 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262263679-amd-q3-earnings-preview-ai-chip-growth-reverse-tradingkey"
     }
   ]
 }
