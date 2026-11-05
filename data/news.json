@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T01:53:29.255Z",
+  "generatedAt": "2026-11-05T03:59:23.344Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -227,48 +227,7 @@
       "url": "https://tw.tradingview.com/news/invezz:9e0672855094b:0-why-are-micron-sk-hynix-and-sandisk-stocks-rising-on-tuesday/"
     },
     {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "摩根士丹利 Flags Major Turn in th",
-      "title": "摩根士丹利 Flags Major Turn in the AI Trade",
-      "originalTitle": "Morgan Stanley Flags Major Turn in the AI Trade",
-      "translatedTitle": "摩根士丹利 Flags Major Turn in the AI Trade",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-03T18:04:49.000Z",
-      "fact": "TradingView 報導：摩根士丹利 Flags Major Turn in the AI Trade",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Morgan Stanley Flags Major Turn in the AI Trade &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:15c386f52094b:0-morgan-stanley-flags-major-turn-in-the-ai-trade/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "SoundHound Q3 財報 Ahead",
-      "title": "SoundHound Q3 財報 Ahead: Buy Now or Wait for Clarity?",
-      "originalTitle": "SoundHound Q3 Earnings Ahead: Buy Now or Wait for Clarity?",
-      "translatedTitle": "SoundHound Q3 財報 Ahead: Buy Now or Wait for Clarity?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-03T12:53:00.000Z",
-      "fact": "TradingView 報導：SoundHound Q3 財報 Ahead: Buy Now or Wait for Clarity?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；SoundHound Q3 Earnings Ahead: Buy Now or Wait for Clarity? &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://tw.tradingview.com/news/zacks:797d5a896094b:0-soundhound-q3-earnings-ahead-buy-now-or-wait-for-clarity/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "科技巨頭AI支出承壓「七巨頭」多數跑輸大盤唯蘋果獨秀",
       "title": "科技巨頭AI支出承壓「七巨頭」多數跑輸大盤唯蘋果獨秀- 財經新聞",
@@ -286,6 +245,45 @@
         "AI"
       ],
       "url": "https://news.pchome.com.tw/finance/sunmedia/20261105/index-79383927031434329003.html"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Arm Q2財報前瞻",
+      "title": "Arm Q2財報前瞻：資料中心權利金能否延續翻倍成長？華爾街最高目標價480美元",
+      "originalTitle": "Arm Q2財報前瞻：資料中心權利金能否延續翻倍成長？華爾街最高目標價480美元",
+      "translatedTitle": "Arm Q2財報前瞻：資料中心權利金能否延續翻倍成長？華爾街最高目標價480美元",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-11-03T07:06:20.000Z",
+      "fact": "TradingKey 報導：Arm Q2財報前瞻：資料中心權利金能否延續翻倍成長？華爾街最高目標價480美元",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Arm Q2財報前瞻：資料中心權利金能否延續翻倍成長？華爾街最高目標價480美元 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262266124-arm-q2-earnings-preview-data-center-royalties-tradingkey"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "摩根士丹利 Flags Major Turn in th",
+      "title": "摩根士丹利 Flags Major Turn in the AI Trade",
+      "originalTitle": "Morgan Stanley Flags Major Turn in the AI Trade",
+      "translatedTitle": "摩根士丹利 Flags Major Turn in the AI Trade",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-03T18:04:49.000Z",
+      "fact": "TradingView 報導：摩根士丹利 Flags Major Turn in the AI Trade",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Morgan Stanley Flags Major Turn in the AI Trade &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:15c386f52094b:0-morgan-stanley-flags-major-turn-in-the-ai-trade/"
     }
   ]
 }
