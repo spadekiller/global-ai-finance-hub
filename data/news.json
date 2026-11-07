@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T01:27:15.886Z",
+  "generatedAt": "2026-11-07T03:32:10.675Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -125,23 +125,24 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "The Midterm Election Results",
-      "title": "The Midterm Election Results Are Redrawing the Map for AI 資料中心",
-      "originalTitle": "The Midterm Election Results Are Redrawing the Map for AI Data Centers",
-      "translatedTitle": "The Midterm Election Results Are Redrawing the Map for AI 資料中心",
+      "subject": "微軟 Reportedly Steps Back Fro",
+      "title": "微軟 Reportedly Steps Back From Renewing 資料中心 Contract With 輝達-Backed Nscale",
+      "originalTitle": "Microsoft Reportedly Steps Back From Renewing Data Center Contract With Nvidia-Backed Nscale",
+      "translatedTitle": "微軟 Reportedly Steps Back From Renewing 資料中心 Contract With 輝達-Backed Nscale",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-05T03:01:37.000Z",
-      "fact": "Moomoo 報導：The Midterm Election Results Are Redrawing the Map for AI 資料中心",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The Midterm Election Results Are Redrawing the Map for AI Data Centers &nbsp;&nbsp; Moomoo。",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-11-05T18:04:58.000Z",
+      "fact": "TradingView 報導：微軟 Reportedly Steps Back From Renewing 資料中心 Contract With 輝達-Backed Nscale",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Microsoft Reportedly Steps Back From Renewing Data Center Contract With Nvidia-Backed Nscale &nbsp;&nbsp; TradingView。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI",
+        "Microsoft",
+        "Nvidia",
         "data center"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1003537491/the-midterm-election-results-are-redrawing-the-map-for-ai"
+      "url": "https://tw.tradingview.com/news/stocktwits:3c5bbbb98094b:0-microsoft-reportedly-steps-back-from-renewing-data-center-contract-with-nvidia-backed-nscale/"
     },
     {
       "id": "全球財經脈動-3",
