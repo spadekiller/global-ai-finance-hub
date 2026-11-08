@@ -1,29 +1,89 @@
 {
-  "generatedAt": "2026-11-07T03:32:10.675Z",
+  "generatedAt": "2026-11-08T00:57:52.917Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "Warby Parker於財報揭露Google首款Android XR智慧眼鏡「Intelligent Eyewear」將於11/12開放預購",
-      "originalTitle": "Warby Parker於財報揭露Google首款Android XR智慧眼鏡「Intelligent Eyewear」將於11/12開放預購",
-      "translatedTitle": "Warby Parker於財報揭露Google首款Android XR智慧眼鏡「Intelligent Eyewear」將於11/12開放預購",
+      "title": "AI 財經快訊：Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12",
+      "originalTitle": "Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12",
+      "translatedTitle": "AI 財經快訊：Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
       "source": "Mashdigi",
-      "publishedAt": "2026-11-06T15:49:24.000Z",
-      "fact": "Mashdigi 報導：Warby Parker於財報揭露Google首款Android XR智慧眼鏡「Intelligent Eyewear」將於11/12開放預購",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Warby Parker於財報揭露Google首款Android XR智慧眼鏡「Intelligent Eyewear」將於11/12開放預購 &nbsp;&nbsp; Mashdigi。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "publishedAt": "2026-11-07T08:26:44.000Z",
+      "fact": "Mashdigi 報導：AI 財經快訊：Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12 &nbsp;&nbsp; Mashd。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "Google",
+        "AI"
       ],
-      "url": "https://mashdigi.com/google-intelligent-eyewear-android-xr-preorder/"
+      "url": "https://mashdigi.com/intl/en/google-intelligent-eyewear-android-xr-preorder/"
     },
     {
       "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "美10月下旬反人工智慧示威 逾50座城市響應",
+      "title": "美10月下旬反人工智慧示威 逾50座城市響應",
+      "originalTitle": "美10月下旬反人工智慧示威 逾50座城市響應",
+      "translatedTitle": "美10月下旬反人工智慧示威 逾50座城市響應",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "公視新聞",
+      "publishedAt": "2026-11-07T03:19:46.000Z",
+      "fact": "公視新聞 報導：美10月下旬反人工智慧示威 逾50座城市響應",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；美10月下旬反人工智慧示威 逾50座城市響應 &nbsp;&nbsp; 公視新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://news.pts.org.tw/article/834706"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "小扎硬剛特斯拉！Meta 仨月造出機器人，背後閃現中國速度",
+      "originalTitle": "小扎硬剛特斯拉！Meta 仨月造出機器人，背後閃現中國速度",
+      "translatedTitle": "小扎硬剛特斯拉！Meta 仨月造出機器人，背後閃現中國速度",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "鉅亨號",
+      "publishedAt": "2026-11-07T03:03:53.000Z",
+      "fact": "鉅亨號 報導：小扎硬剛特斯拉！Meta 仨月造出機器人，背後閃現中國速度",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；小扎硬剛特斯拉！Meta 仨月造出機器人，背後閃現中國速度 &nbsp;&nbsp; 鉅亨號。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta"
+      ],
+      "url": "https://hao.cnyes.com/post/276331"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "AI 估值重估引美科技股拋售潮 加密貨幣市場市值大蒸發",
+      "title": "AI 估值重估引美科技股拋售潮 加密貨幣市場市值大蒸發",
+      "originalTitle": "AI 估值重估引美科技股拋售潮 加密貨幣市場市值大蒸發",
+      "translatedTitle": "AI 估值重估引美科技股拋售潮 加密貨幣市場市值大蒸發",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "PChome Online 新聞",
+      "publishedAt": "2026-11-07T01:59:53.000Z",
+      "fact": "PChome Online 新聞 報導：AI 估值重估引美科技股拋售潮 加密貨幣市場市值大蒸發",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 估值重估引美科技股拋售潮 加密貨幣市場市值大蒸發 &nbsp;&nbsp; PChome Online 新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://news.pchome.com.tw/finance/sunmedia/20261107/index-79401679338887329003.html"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "WhatsApp 開始推送 AI 相片擴展功能 iOS ",
       "title": "WhatsApp 開始推送 AI 相片擴展功能 iOS 部分用戶已可使用",
@@ -41,66 +101,6 @@
         "AI"
       ],
       "url": "https://www.newmobilelife.com/2026/11/06/whatsapp-ai-photo-expansion-ios/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "書法大師張炳煌打造 e筆 Smart 用 AI 在 iP",
-      "title": "書法大師張炳煌打造 e筆 Smart 用 AI 在 iPad 寫出大師級書法",
-      "originalTitle": "書法大師張炳煌打造 e筆 Smart 用 AI 在 iPad 寫出大師級書法",
-      "translatedTitle": "書法大師張炳煌打造 e筆 Smart 用 AI 在 iPad 寫出大師級書法",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "壹哥的科技生活",
-      "publishedAt": "2026-11-05T04:34:03.000Z",
-      "fact": "壹哥的科技生活 報導：書法大師張炳煌打造 e筆 Smart 用 AI 在 iPad 寫出大師級書法",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；書法大師張炳煌打造 e筆 Smart 用 AI 在 iPad 寫出大師級書法 &nbsp;&nbsp; 壹哥的科技生活。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://onegeek1979.com/news/99664"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "數位毛筆再進化！「e 筆 Smart」導入 AI 講評、",
-      "title": "數位毛筆再進化！「e 筆 Smart」導入 AI 講評、五大書體學習- 消費新聞",
-      "originalTitle": "數位毛筆再進化！「e 筆 Smart」導入 AI 講評、五大書體學習- 消費新聞",
-      "translatedTitle": "數位毛筆再進化！「e 筆 Smart」導入 AI 講評、五大書體學習- 消費新聞",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-11-05T23:23:34.000Z",
-      "fact": "PChome Online 新聞 報導：數位毛筆再進化！「e 筆 Smart」導入 AI 講評、五大書體學習- 消費新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；數位毛筆再進化！「e 筆 Smart」導入 AI 講評、五大書體學習- 消費新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.pchome.com.tw/expense/leho/20261106/index-79392101452744356013.html"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "國寶書法家張炳煌領軍研發 「e筆 Smart」讓AI助手",
-      "title": "國寶書法家張炳煌領軍研發 「e筆 Smart」讓AI助手陪你練字",
-      "originalTitle": "國寶書法家張炳煌領軍研發 「e筆 Smart」讓AI助手陪你練字",
-      "translatedTitle": "國寶書法家張炳煌領軍研發 「e筆 Smart」讓AI助手陪你練字",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "蕃新聞",
-      "publishedAt": "2026-11-06T02:17:13.000Z",
-      "fact": "蕃新聞 報導：國寶書法家張炳煌領軍研發 「e筆 Smart」讓AI助手陪你練字",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；國寶書法家張炳煌領軍研發 「e筆 Smart」讓AI助手陪你練字 &nbsp;&nbsp; 蕃新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://n.yam.com/Article/20261106327771"
     },
     {
       "id": "全球財經脈動-1",
@@ -125,69 +125,6 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "微軟 Reportedly Steps Back Fro",
-      "title": "微軟 Reportedly Steps Back From Renewing 資料中心 Contract With 輝達-Backed Nscale",
-      "originalTitle": "Microsoft Reportedly Steps Back From Renewing Data Center Contract With Nvidia-Backed Nscale",
-      "translatedTitle": "微軟 Reportedly Steps Back From Renewing 資料中心 Contract With 輝達-Backed Nscale",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "TradingView",
-      "publishedAt": "2026-11-05T18:04:58.000Z",
-      "fact": "TradingView 報導：微軟 Reportedly Steps Back From Renewing 資料中心 Contract With 輝達-Backed Nscale",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Microsoft Reportedly Steps Back From Renewing Data Center Contract With Nvidia-Backed Nscale &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "Microsoft",
-        "Nvidia",
-        "data center"
-      ],
-      "url": "https://tw.tradingview.com/news/stocktwits:3c5bbbb98094b:0-microsoft-reportedly-steps-back-from-renewing-data-center-contract-with-nvidia-backed-nscale/"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：OID 2026: Advancing Technology Partnerships to Power the Next-Gen Industrial City",
-      "originalTitle": "OID 2026: Advancing Technology Partnerships to Power the Next-Gen Industrial City",
-      "translatedTitle": "AI 財經快訊：OID 2026: Advancing Technology Partnerships to Power the Next-Gen Industrial City",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Quamnet",
-      "publishedAt": "2026-11-05T09:00:01.000Z",
-      "fact": "Quamnet 報導：AI 財經快訊：OID 2026: Advancing Technology Partnerships to Power the Next-Gen Industrial City",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；OID 2026: Advancing Technology Partnerships to Power the Next-Gen Industrial City &nbsp;&nbsp; Quamnet。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://www.quamnet.com/post/BqWMzmgvX7cfTA8XeKXkB"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "Global AI 資料中心 市場 to Reach U",
-      "title": "Global AI 資料中心 市場 to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% — Report by Maximize 市場 Research",
-      "originalTitle": "Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market Research",
-      "translatedTitle": "Global AI 資料中心 市場 to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% — Report by Maximize 市場 Research",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-05T06:27:00.000Z",
-      "fact": "富途牛牛 報導：Global AI 資料中心 市場 to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% — Report by Maximize 市場 Research",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Global AI Data Center Market to Reach USD 84.52 Billion by 2032, Growing at a CAGR of 25.8% - Report by Maximize Market。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "data center"
-      ],
-      "url": "https://news.futunn.com/en/post/1003513387/global-ai-data-center-market-to-reach-usd-84-52"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：The Democrats' regaining control of the U.S. Congress has sent shockwaves through financial markets—what lies ahead for the dollar and U.S. Treasuries?",
       "originalTitle": "The Democrats' regaining control of the U.S. Congress has sent shockwaves through financial markets—what lies ahead for the dollar and U.S. Treasuries?",
@@ -206,112 +143,169 @@
       "url": "https://news.futunn.com/en/post/1003698367/the-democrats-regaining-control-of-the-us-congress-has-sent"
     },
     {
-      "id": "美股與全球市場焦點-1",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達",
-      "title": "輝達, Micron, 8 Other AI 股票 Just Broke Below a Key Technical Support",
-      "originalTitle": "Nvidia, Micron, 8 Other AI Stocks Just Broke Below a Key Technical Support",
-      "translatedTitle": "輝達, Micron, 8 Other AI 股票 Just Broke Below a Key Technical Support",
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "Amazon",
+      "title": "Why Amazon and Other AI Data-Center 股票 Will Be Post-Midterm Winners",
+      "originalTitle": "Why Amazon and Other AI Data-Center Stocks Will Be Post-Midterm Winners",
+      "translatedTitle": "Why Amazon and Other AI Data-Center 股票 Will Be Post-Midterm Winners",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-05T17:01:46.000Z",
-      "fact": "TradingView 報導：輝達, Micron, 8 Other AI 股票 Just Broke Below a Key Technical Support",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia, Micron, 8 Other AI Stocks Just Broke Below a Key Technical Support &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-06T13:03:46.000Z",
+      "fact": "Moomoo 報導：Why Amazon and Other AI Data-Center 股票 Will Be Post-Midterm Winners",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Why Amazon and Other AI Data-Center Stocks Will Be Post-Midterm Winners &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "市場焦點",
-        "Nvidia",
+        "全球財經",
         "AI",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/benzinga:b1f2db41b094b:0-nvidia-micron-8-other-ai-stocks-just-broke-below-a-key-technical-support/"
+      "url": "https://www.moomoo.com/hant/news/post/1003816494/why-amazon-and-other-ai-data-center-stocks-will-be"
+    },
+    {
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "Amazon",
+      "title": "Why Amazon and Other AI Data-Center 股票 Will Be Post-Midterm Winners — Barron’s.com",
+      "originalTitle": "Why Amazon and Other AI Data-Center Stocks Will Be Post-Midterm Winners -- Barrons.com",
+      "translatedTitle": "Why Amazon and Other AI Data-Center 股票 Will Be Post-Midterm Winners — Barron’s.com",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-06T11:29:59.000Z",
+      "fact": "富途牛牛 報導：Why Amazon and Other AI Data-Center 股票 Will Be Post-Midterm Winners — Barron’s.com",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Why Amazon and Other AI Data-Center Stocks Will Be Post-Midterm Winners -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/hk/post/1003715165/why-amazon-and-other-ai-data-center-stocks-will-be"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "AI Companies Scramble to Nav",
+      "title": "AI Companies Scramble to Navigate a World Hostile to 資料中心",
+      "originalTitle": "AI Companies Scramble to Navigate a World Hostile to Data Centers",
+      "translatedTitle": "AI Companies Scramble to Navigate a World Hostile to 資料中心",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-06T02:21:58.000Z",
+      "fact": "Moomoo 報導：AI Companies Scramble to Navigate a World Hostile to 資料中心",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI Companies Scramble to Navigate a World Hostile to Data Centers &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "data center"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1003746045/ai-companies-scramble-to-navigate-a-world-hostile-to-data"
+    },
+    {
+      "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "The 標普 500 Could Be Dangerou",
+      "title": "The 標普 500 Could Be Dangerously Exposed to AI. Here Are Some Simple Alternatives.",
+      "originalTitle": "The S&P 500 Could Be Dangerously Exposed to AI. Here Are Some Simple Alternatives.",
+      "translatedTitle": "The 標普 500 Could Be Dangerously Exposed to AI. Here Are Some Simple Alternatives.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-07T16:40:00.000Z",
+      "fact": "富途牛牛 報導：The 標普 500 Could Be Dangerously Exposed to AI. Here Are Some Simple Alternatives.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The S&P 500 Could Be Dangerously Exposed to AI. Here Are Some Simple Alternatives. &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/1003811676/the-s-p-500-could-be-dangerously-exposed-to-ai"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "Dan Ives Warns 晶片股 Aren't Do",
-      "title": "Dan Ives Warns 晶片股 Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally",
-      "originalTitle": "Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally",
-      "translatedTitle": "Dan Ives Warns 晶片股 Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally",
+      "subject": "Oracle leads big tech hypers",
+      "title": "Oracle leads big tech hyperscalers in valuation as AI 股票 rebound premarket",
+      "originalTitle": "Oracle leads big tech hyperscalers in valuation as AI stocks rebound premarket",
+      "translatedTitle": "Oracle leads big tech hyperscalers in valuation as AI 股票 rebound premarket",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-11-06T14:49:35.000Z",
-      "fact": "TradingView 報導：Dan Ives Warns 晶片股 Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,'。",
+      "publishedAt": "2026-11-06T12:38:14.000Z",
+      "fact": "TradingView 報導：Oracle leads big tech hyperscalers in valuation as AI 股票 rebound premarket",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Oracle leads big tech hyperscalers in valuation as AI stocks rebound premarket &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/benzinga:c23c29209094b:0-dan-ives-warns-chip-stocks-aren-t-done-falling-sees-another-12-drop-but-tom-lee-calls-ai-selloff-an-overreaction-predicts-20-tech-rally/"
+      "url": "https://tw.tradingview.com/news/seekingalpha:7ae7ca979094b:0-oracle-leads-big-tech-hyperscalers-in-valuation-as-ai-stocks-rebound-premarket/"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "Post",
-      "title": "Post-財報, AI application software 股票",
-      "originalTitle": "Post-earnings, AI application software stocks",
-      "translatedTitle": "Post-財報, AI application software 股票",
+      "subject": "Nasdaq Suffers Worst AI Pani",
+      "title": "Nasdaq Suffers Worst AI Panic in Years as 輝達, SanDisk, and Western Digital Sink",
+      "originalTitle": "Nasdaq Suffers Worst AI Panic in Years as Nvidia, SanDisk, and Western Digital Sink",
+      "translatedTitle": "Nasdaq Suffers Worst AI Panic in Years as 輝達, SanDisk, and Western Digital Sink",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-05T14:35:39.000Z",
-      "fact": "富途牛牛 報導：Post-財報, AI application software 股票",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Post-earnings, AI application software stocks &nbsp;&nbsp; 富途牛牛。",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-11-06T10:37:07.000Z",
+      "fact": "TradingView 報導：Nasdaq Suffers Worst AI Panic in Years as 輝達, SanDisk, and Western Digital Sink",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nasdaq Suffers Worst AI Panic in Years as Nvidia, SanDisk, and Western Digital Sink &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "earnings",
-        "stocks"
+        "Nvidia",
+        "AI"
       ],
-      "url": "https://news.futunn.com/en/flash/1003578019/post-earnings-ai-application-software-stocks-in-the-us-market"
+      "url": "https://tw.tradingview.com/news/gurufocus:5b943a694094b:0-nasdaq-suffers-worst-ai-panic-in-years-as-nvidia-sandisk-and-western-digital-sink/"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "From Micron to AMD",
-      "title": "From Micron to AMD, AI 股票 Crater — And Citi Just Flagged an 'Exponential' New Threat to 資料中心",
-      "originalTitle": "From Micron to AMD, AI Stocks Crater — And Citi Just Flagged an 'Exponential' New Threat to Data Centers",
-      "translatedTitle": "From Micron to AMD, AI 股票 Crater — And Citi Just Flagged an 'Exponential' New Threat to 資料中心",
+      "subject": "CRWV Poised for a Q3 財報 Beat",
+      "title": "CRWV Poised for a Q3 財報 Beat: Buy, Sell or Hold the 股票 Now?",
+      "originalTitle": "CRWV Poised for a Q3 Earnings Beat: Buy, Sell or Hold the Stock Now?",
+      "translatedTitle": "CRWV Poised for a Q3 財報 Beat: Buy, Sell or Hold the 股票 Now?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-11-05T18:14:20.000Z",
-      "fact": "TradingView 報導：From Micron to AMD, AI 股票 Crater — And Citi Just Flagged an 'Exponential' New Threat to 資料中心",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；From Micron to AMD, AI Stocks Crater — And Citi Just Flagged an 'Exponential' New Threat to Data Centers &nbsp;&nbsp; Tr。",
+      "publishedAt": "2026-11-06T13:16:00.000Z",
+      "fact": "TradingView 報導：CRWV Poised for a Q3 財報 Beat: Buy, Sell or Hold the 股票 Now?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；CRWV Poised for a Q3 Earnings Beat: Buy, Sell or Hold the Stock Now? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "data center",
-        "stocks"
+        "earnings"
       ],
-      "url": "https://tw.tradingview.com/news/benzinga:336d91849094b:0-from-micron-to-amd-ai-stocks-crater-and-citi-just-flagged-an-exponential-new-threat-to-data-centers/"
+      "url": "https://tw.tradingview.com/news/zacks:06ede0b2a094b:0-crwv-poised-for-a-q3-earnings-beat-buy-sell-or-hold-the-stock-now/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Lam Research 股票 Fall 13.5% a",
-      "title": "Lam Research 股票 Fall 13.5% as Equipment Investors Reassess AI Spending",
-      "originalTitle": "Lam Research Stocks Fall 13.5% as Equipment Investors Reassess AI Spending",
-      "translatedTitle": "Lam Research 股票 Fall 13.5% as Equipment Investors Reassess AI Spending",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Expect More Fireworks as Markets Adjust to the New AI Reality -- Barrons.com",
+      "originalTitle": "Expect More Fireworks as Markets Adjust to the New AI Reality -- Barrons.com",
+      "translatedTitle": "AI 財經快訊：Expect More Fireworks as Markets Adjust to the New AI Reality -- Barrons.com",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-05T19:31:33.000Z",
-      "fact": "TradingView 報導：Lam Research 股票 Fall 13.5% as Equipment Investors Reassess AI Spending",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Lam Research Stocks Fall 13.5% as Equipment Investors Reassess AI Spending &nbsp;&nbsp; TradingView。",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-06T12:43:00.000Z",
+      "fact": "Moomoo 報導：AI 財經快訊：Expect More Fireworks as Markets Adjust to the New AI Reality -- Barrons.com",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Expect More Fireworks as Markets Adjust to the New AI Reality -- Barrons.com &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "stocks"
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:f2b981352094b:0-lam-research-stocks-fall-13-5-as-equipment-investors-reassess-ai-spending/"
+      "url": "https://www.moomoo.com/hant/news/post/1003826517/expect-more-fireworks-as-markets-adjust-to-the-new-ai"
     }
   ]
 }
