@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-11-08T00:57:52.917Z",
+  "generatedAt": "2026-11-08T03:01:56.048Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "AI 財經快訊：Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12",
-      "originalTitle": "Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12",
-      "translatedTitle": "AI 財經快訊：Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "禁「AI」改稱「SI」！美國司法部宣布成立超級智慧特別工",
+      "title": "禁「AI」改稱「SI」！美國司法部宣布成立超級智慧特別工作組：嚴打跨國詐騙與外國滲透",
+      "originalTitle": "禁「AI」改稱「SI」！美國司法部宣布成立超級智慧特別工作組：嚴打跨國詐騙與外國滲透",
+      "translatedTitle": "禁「AI」改稱「SI」！美國司法部宣布成立超級智慧特別工作組：嚴打跨國詐騙與外國滲透",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "Mashdigi",
-      "publishedAt": "2026-11-07T08:26:44.000Z",
-      "fact": "Mashdigi 報導：AI 財經快訊：Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google’s First Android XR Smart Glasses, \"Intelligent Eyewear,\" to Open for Pre-orders on November 12 &nbsp;&nbsp; Mashd。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "publishedAt": "2026-11-08T00:00:19.000Z",
+      "fact": "Mashdigi 報導：禁「AI」改稱「SI」！美國司法部宣布成立超級智慧特別工作組：嚴打跨國詐騙與外國滲透",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；禁「AI」改稱「SI」！美國司法部宣布成立超級智慧特別工作組：嚴打跨國詐騙與外國滲透 &nbsp;&nbsp; Mashdigi。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
         "AI"
       ],
-      "url": "https://mashdigi.com/intl/en/google-intelligent-eyewear-android-xr-preorder/"
+      "url": "https://mashdigi.com/doj-super-intelligence-task-force-si-policy/"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -65,6 +64,26 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Ban the term \"AI,\" call it \"SI\"! DOJ Announces \"Super Intelligence Task Force\" to Combat Global Fraud and Foreign Influence",
+      "originalTitle": "Ban the term \"AI,\" call it \"SI\"! DOJ Announces \"Super Intelligence Task Force\" to Combat Global Fraud and Foreign Influence",
+      "translatedTitle": "AI 財經快訊：Ban the term \"AI,\" call it \"SI\"! DOJ Announces \"Super Intelligence Task Force\" to Combat Global Fraud and Foreign Influence",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-08T00:00:19.000Z",
+      "fact": "Mashdigi 報導：AI 財經快訊：Ban the term \"AI,\" call it \"SI\"! DOJ Announces \"Super Intelligence Task Force\" to Combat Global Fraud and Foreign Influence",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Ban the term \"AI,\" call it \"SI\"! DOJ Announces \"Super Intelligence Task Force\" to Combat Global Fraud and Foreign Influe。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://mashdigi.com/intl/en/doj-super-intelligence-task-force-si-policy/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
       "subject": "AI 估值重估引美科技股拋售潮 加密貨幣市場市值大蒸發",
       "title": "AI 估值重估引美科技股拋售潮 加密貨幣市場市值大蒸發",
       "originalTitle": "AI 估值重估引美科技股拋售潮 加密貨幣市場市值大蒸發",
@@ -81,26 +100,6 @@
         "AI"
       ],
       "url": "https://news.pchome.com.tw/finance/sunmedia/20261107/index-79401679338887329003.html"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "WhatsApp 開始推送 AI 相片擴展功能 iOS ",
-      "title": "WhatsApp 開始推送 AI 相片擴展功能 iOS 部分用戶已可使用",
-      "originalTitle": "WhatsApp 開始推送 AI 相片擴展功能 iOS 部分用戶已可使用",
-      "translatedTitle": "WhatsApp 開始推送 AI 相片擴展功能 iOS 部分用戶已可使用",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "流動日報",
-      "publishedAt": "2026-11-06T01:43:52.000Z",
-      "fact": "流動日報 報導：WhatsApp 開始推送 AI 相片擴展功能 iOS 部分用戶已可使用",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；WhatsApp 開始推送 AI 相片擴展功能 iOS 部分用戶已可使用 &nbsp;&nbsp; 流動日報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.newmobilelife.com/2026/11/06/whatsapp-ai-photo-expansion-ios/"
     },
     {
       "id": "全球財經脈動-1",
@@ -187,23 +186,22 @@
     {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "AI Companies Scramble to Nav",
-      "title": "AI Companies Scramble to Navigate a World Hostile to 資料中心",
-      "originalTitle": "AI Companies Scramble to Navigate a World Hostile to Data Centers",
-      "translatedTitle": "AI Companies Scramble to Navigate a World Hostile to 資料中心",
+      "subject": "Everything Is Going Wrong fo",
+      "title": "Everything Is Going Wrong for 晶片股. 5 Names at Fire-Sale Prices. — Barron’s.com",
+      "originalTitle": "Everything Is Going Wrong for Chip Stocks. 5 Names at Fire-Sale Prices. -- Barrons.com",
+      "translatedTitle": "Everything Is Going Wrong for 晶片股. 5 Names at Fire-Sale Prices. — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-06T02:21:58.000Z",
-      "fact": "Moomoo 報導：AI Companies Scramble to Navigate a World Hostile to 資料中心",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI Companies Scramble to Navigate a World Hostile to Data Centers &nbsp;&nbsp; Moomoo。",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-06T15:23:43.000Z",
+      "fact": "富途牛牛 報導：Everything Is Going Wrong for 晶片股. 5 Names at Fire-Sale Prices. — Barron’s.com",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Everything Is Going Wrong for Chip Stocks. 5 Names at Fire-Sale Prices. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI",
-        "data center"
+        "stocks"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1003746045/ai-companies-scramble-to-navigate-a-world-hostile-to-data"
+      "url": "https://news.futunn.com/en/post/1003743761/everything-is-going-wrong-for-chip-stocks-5-names-at"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -270,26 +268,6 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "CRWV Poised for a Q3 財報 Beat",
-      "title": "CRWV Poised for a Q3 財報 Beat: Buy, Sell or Hold the 股票 Now?",
-      "originalTitle": "CRWV Poised for a Q3 Earnings Beat: Buy, Sell or Hold the Stock Now?",
-      "translatedTitle": "CRWV Poised for a Q3 財報 Beat: Buy, Sell or Hold the 股票 Now?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-06T13:16:00.000Z",
-      "fact": "TradingView 報導：CRWV Poised for a Q3 財報 Beat: Buy, Sell or Hold the 股票 Now?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；CRWV Poised for a Q3 Earnings Beat: Buy, Sell or Hold the Stock Now? &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "earnings"
-      ],
-      "url": "https://tw.tradingview.com/news/zacks:06ede0b2a094b:0-crwv-poised-for-a-q3-earnings-beat-buy-sell-or-hold-the-stock-now/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Expect More Fireworks as Markets Adjust to the New AI Reality -- Barrons.com",
       "originalTitle": "Expect More Fireworks as Markets Adjust to the New AI Reality -- Barrons.com",
@@ -306,6 +284,27 @@
         "AI"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1003826517/expect-more-fireworks-as-markets-adjust-to-the-new-ai"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "Dan Ives Warns 晶片股 Aren't Do",
+      "title": "Dan Ives Warns 晶片股 Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally",
+      "originalTitle": "Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally",
+      "translatedTitle": "Dan Ives Warns 晶片股 Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-06T14:49:35.000Z",
+      "fact": "TradingView 報導：Dan Ives Warns 晶片股 Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,'。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/benzinga:c23c29209094b:0-dan-ives-warns-chip-stocks-aren-t-done-falling-sees-another-12-drop-but-tom-lee-calls-ai-selloff-an-overreaction-predicts-20-tech-rally/"
     }
   ]
 }
