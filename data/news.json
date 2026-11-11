@@ -1,112 +1,153 @@
 {
-  "generatedAt": "2026-11-10T04:59:35.130Z",
+  "generatedAt": "2026-11-11T01:35:56.352Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta 推出最小模型 Muse Ember！智能接近 Spark，評測任務成本僅約 1/17",
-      "originalTitle": "Meta 推出最小模型 Muse Ember！智能接近 Spark，評測任務成本僅約 1/17",
-      "translatedTitle": "Meta 推出最小模型 Muse Ember！智能接近 Spark，評測任務成本僅約 1/17",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "動區動趨",
-      "publishedAt": "2026-11-09T18:50:44.000Z",
-      "fact": "動區動趨 報導：Meta 推出最小模型 Muse Ember！智能接近 Spark，評測任務成本僅約 1/17",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 推出最小模型 Muse Ember！智能接近 Spark，評測任務成本僅約 1/17 &nbsp;&nbsp; 動區動趨。",
+      "subject": "Google",
+      "title": "Google 擴大 Gemini Intelligence 支援名單！一年前舊手機也有份",
+      "originalTitle": "Google 擴大 Gemini Intelligence 支援名單！一年前舊手機也有份",
+      "translatedTitle": "Google 擴大 Gemini Intelligence 支援名單！一年前舊手機也有份",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "ETtoday新聞雲",
+      "publishedAt": "2026-11-11T01:07:00.000Z",
+      "fact": "ETtoday新聞雲 報導：Google 擴大 Gemini Intelligence 支援名單！一年前舊手機也有份",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 擴大 Gemini Intelligence 支援名單！一年前舊手機也有份 &nbsp;&nbsp; ETtoday新聞雲。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Meta"
+        "Google"
       ],
-      "url": "https://www.blocktempo.com/meta-muse-ember-smallest-efficient-model/"
+      "url": "https://www.ettoday.net/news/20261111/3270000.htm"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic新AI模型Fable 5.2奪榜首 IPO前夕秀技術實力",
-      "originalTitle": "Anthropic新AI模型Fable 5.2奪榜首 IPO前夕秀技術實力",
-      "translatedTitle": "Anthropic新AI模型Fable 5.2奪榜首 IPO前夕秀技術實力",
+      "subject": "Google",
+      "title": "Google 推出 Gemini 4 Carbon AI 模型週期加速引發新舊交替",
+      "originalTitle": "Google 推出 Gemini 4 Carbon AI 模型週期加速引發新舊交替",
+      "translatedTitle": "Google 推出 Gemini 4 Carbon AI 模型週期加速引發新舊交替",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "商傳媒",
-      "publishedAt": "2026-11-09T22:47:38.000Z",
-      "fact": "商傳媒 報導：Anthropic新AI模型Fable 5.2奪榜首 IPO前夕秀技術實力",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic新AI模型Fable 5.2奪榜首 IPO前夕秀技術實力 &nbsp;&nbsp; 商傳媒。",
+      "source": "流動日報",
+      "publishedAt": "2026-11-10T20:27:20.000Z",
+      "fact": "流動日報 報導：Google 推出 Gemini 4 Carbon AI 模型週期加速引發新舊交替",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 推出 Gemini 4 Carbon AI 模型週期加速引發新舊交替 &nbsp;&nbsp; 流動日報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
+        "Google",
         "AI"
       ],
-      "url": "https://sunmedia.tw/news/technology/1794263976-Anthropic%E6%96%B0AI%E6%A8%A1%E5%9E%8BFable%205.2%E5%A5%AA%E6%A6%9C%E9%A6%96%E3%80%80IPO%E5%89%8D%E5%A4%95%E7%A7%80%E6%8A%80%E8%A1%93%E5%AF%A6%E5%8A%9B"
+      "url": "https://www.newmobilelife.com/2026/11/11/google-gemini-4-carbon-launch-analysis/"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "三星推出搭載谷歌“Gemini”的AI智能眼鏡，12月在",
-      "title": "三星推出搭載谷歌“Gemini”的AI智能眼鏡，12月在韓上市| 東亞日報",
-      "originalTitle": "三星推出搭載谷歌“Gemini”的AI智能眼鏡，12月在韓上市| 東亞日報",
-      "translatedTitle": "三星推出搭載谷歌“Gemini”的AI智能眼鏡，12月在韓上市| 東亞日報",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Google",
+      "title": "Google 將 Gemini AI 下放 Pixel 10，11 月 Pixel Drop 新增自訂小工具與圖示風格",
+      "originalTitle": "Google 將 Gemini AI 下放 Pixel 10，11 月 Pixel Drop 新增自訂小工具與圖示風格",
+      "translatedTitle": "Google 將 Gemini AI 下放 Pixel 10，11 月 Pixel Drop 新增自訂小工具與圖示風格",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "동아일보",
-      "publishedAt": "2026-11-10T00:13:18.000Z",
-      "fact": "동아일보 報導：三星推出搭載谷歌“Gemini”的AI智能眼鏡，12月在韓上市| 東亞日報",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；三星推出搭載谷歌“Gemini”的AI智能眼鏡，12月在韓上市| 東亞日報 &nbsp;&nbsp; 동아일보。",
+      "source": "BigGo 財經",
+      "publishedAt": "2026-11-10T21:01:16.000Z",
+      "fact": "BigGo 財經 報導：Google 將 Gemini AI 下放 Pixel 10，11 月 Pixel Drop 新增自訂小工具與圖示風格",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 將 Gemini AI 下放 Pixel 10，11 月 Pixel Drop 新增自訂小工具與圖示風格 &nbsp;&nbsp; BigGo 財經。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Google",
         "AI"
       ],
-      "url": "https://www.donga.com/tw/article/all/20261110/6453313/1"
+      "url": "https://finance.biggo.com.tw/news/f9dcf70a-df81-4f1a-9ddc-ae40b1e948bc"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "Meta 策略長 Dave Wehner 離職，轉戰 AI 推論新創 Fireworks 財務長",
-      "originalTitle": "Meta 策略長 Dave Wehner 離職，轉戰 AI 推論新創 Fireworks 財務長",
-      "translatedTitle": "Meta 策略長 Dave Wehner 離職，轉戰 AI 推論新創 Fireworks 財務長",
+      "subject": "Gemini 4 Carbon 現已可呼叫，12 月 1",
+      "title": "Gemini 4 Carbon 現已可呼叫，12 月 1 日價格翻倍",
+      "originalTitle": "Gemini 4 Carbon 現已可呼叫，12 月 1 日價格翻倍",
+      "translatedTitle": "Gemini 4 Carbon 現已可呼叫，12 月 1 日價格翻倍",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-11-10T03:26:28.000Z",
-      "fact": "TechNews 科技新報 報導：Meta 策略長 Dave Wehner 離職，轉戰 AI 推論新創 Fireworks 財務長",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 策略長 Dave Wehner 離職，轉戰 AI 推論新創 Fireworks 財務長 &nbsp;&nbsp; TechNews 科技新報。",
+      "category": "前沿模型",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-10T17:32:22.000Z",
+      "fact": "OrcaRouter 報導：Gemini 4 Carbon 現已可呼叫，12 月 1 日價格翻倍",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Carbon 現已可呼叫，12 月 1 日價格翻倍 &nbsp;&nbsp; OrcaRouter。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://technews.tw/2026/11/10/metas-dave-wehner-is-leaving-to-become-cfo-of-fireworks-ai/"
+      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-carbon-now-available"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "AI 財經快訊：Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-      "originalTitle": "Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-      "translatedTitle": "AI 財經快訊：Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
+      "subject": "OpenAI",
+      "title": "AI 財經快訊：SoftBank's $7B quarterly loss shines spotlight on Masayoshi Son's massive OpenAI and AI spending",
+      "originalTitle": "SoftBank's $7B quarterly loss shines spotlight on Masayoshi Son's massive OpenAI and AI spending",
+      "translatedTitle": "AI 財經快訊：SoftBank's $7B quarterly loss shines spotlight on Masayoshi Son's massive OpenAI and AI spending",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-09T20:21:42.000Z",
-      "fact": "Yahoo 報導：AI 財經快訊：Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic unveils new Fable, Mythos models as competition heats up ahead of IPO &nbsp;&nbsp; Yahoo。",
+      "source": "TradingView",
+      "publishedAt": "2026-11-10T09:49:02.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：SoftBank's $7B quarterly loss shines spotlight on Masayoshi Son's massive OpenAI and AI spending",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；SoftBank's $7B quarterly loss shines spotlight on Masayoshi Son's massive OpenAI and AI spending &nbsp;&nbsp; TradingVie。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Anthropic",
+        "OpenAI",
         "AI"
       ],
-      "url": "https://hk.news.yahoo.com/anthropic-unveils-fable-mythos-models-202049363.html"
+      "url": "https://tw.tradingview.com/news/seekingalpha:9711e2bd4094b:0-softbank-s-7b-quarterly-loss-shines-spotlight-on-masayoshi-son-s-massive-openai-and-ai-spending/"
     },
     {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "Taiwan industry sources expe",
+      "title": "Taiwan industry sources expect AI 需求 to stay strong amid 輝達 CEO probe",
+      "originalTitle": "Taiwan industry sources expect AI demand to stay strong amid Nvidia CEO probe",
+      "translatedTitle": "Taiwan industry sources expect AI 需求 to stay strong amid 輝達 CEO probe",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "newsworld.com.tw",
+      "publishedAt": "2026-11-10T08:12:00.000Z",
+      "fact": "newsworld.com.tw 報導：Taiwan industry sources expect AI 需求 to stay strong amid 輝達 CEO probe",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Taiwan industry sources expect AI demand to stay strong amid Nvidia CEO probe &nbsp;&nbsp; newsworld.com.tw。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://newsworld.com.tw/article/20261110n011/"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Google",
+      "title": "AI 財經快訊：Google Hands AMD Major Win in AI Chip Race",
+      "originalTitle": "Google Hands AMD Major Win in AI Chip Race",
+      "translatedTitle": "AI 財經快訊：Google Hands AMD Major Win in AI Chip Race",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-11-09T16:59:49.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Google Hands AMD Major Win in AI Chip Race",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Google Hands AMD Major Win in AI Chip Race &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Google",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:879e2e768094b:0-google-hands-amd-major-win-in-ai-chip-race/"
+    },
+    {
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：《TAIPEI TIMES》TIER forecasts GDP to grow 12.34％ this year",
@@ -123,93 +164,72 @@
         "全球財經",
         "AI"
       ],
-      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5635044"
+      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5635044"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "Will tighter U.S. 資料中心 regul",
-      "title": "Will tighter U.S. 資料中心 regulations impact AI infrastructure 股票? 摩根士丹利",
-      "originalTitle": "Will tighter U.S. data center regulations impact AI infrastructure stocks? Morgan Stanley",
-      "translatedTitle": "Will tighter U.S. 資料中心 regulations impact AI infrastructure 股票? 摩根士丹利",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-09T16:09:33.000Z",
-      "fact": "富途牛牛 報導：Will tighter U.S. 資料中心 regulations impact AI infrastructure 股票? 摩根士丹利",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Will tighter U.S. data center regulations impact AI infrastructure stocks? Morgan Stanley &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "data center",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1003908594/will-tighter-us-data-center-regulations-impact-ai-infrastructure-stocks"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》Huang’s gaffe unlikely to derail AI: sources",
-      "originalTitle": "《TAIPEI TIMES》Huang’s gaffe unlikely to derail AI: sources",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》Huang’s gaffe unlikely to derail AI: sources",
+      "subject": "NYCU Showcases AI Innovation",
+      "title": "NYCU Showcases AI Innovation and Strengthens Global Partnerships at QS 走高 Ed Summit: Asia Pacific 2026",
+      "originalTitle": "NYCU Showcases AI Innovation and Strengthens Global Partnerships at QS Higher Ed Summit: Asia Pacific 2026",
+      "translatedTitle": "NYCU Showcases AI Innovation and Strengthens Global Partnerships at QS 走高 Ed Summit: Asia Pacific 2026",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "自由時報",
-      "publishedAt": "2026-11-09T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》Huang’s gaffe unlikely to derail AI: sources",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》Huang’s gaffe unlikely to derail AI: sources &nbsp;&nbsp; 自由時報。",
+      "source": "中央社 CNA",
+      "publishedAt": "2026-11-10T09:52:31.000Z",
+      "fact": "中央社 CNA 報導：NYCU Showcases AI Innovation and Strengthens Global Partnerships at QS 走高 Ed Summit: Asia Pacific 2026",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；NYCU Showcases AI Innovation and Strengthens Global Partnerships at QS Higher Ed Summit: Asia Pacific 2026 &nbsp;&nbsp;。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5635032"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "Midterm elections expose 市場 ",
-      "title": "Midterm elections expose 市場 fragility! AI trading faces intense scrutiny as U.S. equity 財報 forecasts brace for major adjustments",
-      "originalTitle": "Midterm elections expose market fragility! AI trading faces intense scrutiny as U.S. equity earnings forecasts brace for major adjustments",
-      "translatedTitle": "Midterm elections expose 市場 fragility! AI trading faces intense scrutiny as U.S. equity 財報 forecasts brace for major adjustments",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-09T11:32:28.000Z",
-      "fact": "富途牛牛 報導：Midterm elections expose 市場 fragility! AI trading faces intense scrutiny as U.S. equity 財報 forecasts brace for major adjustments",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Midterm elections expose market fragility! AI trading faces intense scrutiny as U.S. equity earnings forecasts brace for。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://news.futunn.com/en/post/1003877542/midterm-elections-expose-market-fragility-ai-trading-faces-intense-scrutiny"
+      "url": "https://www.cna.com.tw/postwrite/eng/449591"
     },
     {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "Anti",
-      "title": "Anti-資料中心 wave sweeps across the US! Could become a new issue in the 2028 presidential election",
-      "originalTitle": "Anti-data center wave sweeps across the US! Could become a new issue in the 2028 presidential election",
-      "translatedTitle": "Anti-資料中心 wave sweeps across the US! Could become a new issue in the 2028 presidential election",
+      "subject": "2 Things That Could Hit the ",
+      "title": "2 Things That Could Hit the Brakes on the AI 熱潮. Why Hyperscalers Could Benefit. — Barron’s.com",
+      "originalTitle": "2 Things That Could Hit the Brakes on the AI Boom. Why Hyperscalers Could Benefit. -- Barrons.com",
+      "translatedTitle": "2 Things That Could Hit the Brakes on the AI 熱潮. Why Hyperscalers Could Benefit. — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
+      "category": "全球財經",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-08T15:52:00.000Z",
-      "fact": "富途牛牛 報導：Anti-資料中心 wave sweeps across the US! Could become a new issue in the 2028 presidential election",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Anti-data center wave sweeps across the US! Could become a new issue in the 2028 presidential election &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-11-10T10:58:31.000Z",
+      "fact": "富途牛牛 報導：2 Things That Could Hit the Brakes on the AI 熱潮. Why Hyperscalers Could Benefit. — Barron’s.com",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；2 Things That Could Hit the Brakes on the AI Boom. Why Hyperscalers Could Benefit. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "data center"
+        "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1003886356/anti-data-center-wave-sweeps-across-the-us-could-become"
+      "url": "https://news.futunn.com/hk/post/1004017602/2-things-that-could-hit-the-brakes-on-the-ai"
     },
     {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "AI and 晶片股",
+      "title": "AI and 晶片股, minus 輝達, surge to start trading week",
+      "originalTitle": "AI and chip stocks, minus Nvidia, surge to start trading week",
+      "translatedTitle": "AI and 晶片股, minus 輝達, surge to start trading week",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-09T16:26:29.000Z",
+      "fact": "TradingView 報導：AI and 晶片股, minus 輝達, surge to start trading week",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI and chip stocks, minus Nvidia, surge to start trading week &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/seekingalpha:ae687840d094b:0-ai-and-chip-stocks-minus-nvidia-surge-to-start-trading-week/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "Analysts Say These 晶片股 Are 便",
       "title": "Analysts Say These 晶片股 Are 便宜標的. Is It Time to Buy?",
@@ -230,7 +250,7 @@
       "url": "https://news.futunn.com/hk/post/1003925321/analysts-say-these-chip-stocks-are-bargains-is-it-time"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：As AI Trade Falters, Goldman Sachs Says This Lagging Region Is Now Positioned to Outperform",
@@ -250,7 +270,7 @@
       "url": "https://www.moomoo.com/hant/news/post/1004001225/as-ai-trade-falters-goldman-sachs-says-this-lagging-region"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：As AI Trade Falters, Goldman Sachs Says This Lagging Region Is Now Positioned to Outperform",
@@ -270,45 +290,25 @@
       "url": "https://news.futunn.com/hk/post/1003897727/as-ai-trade-falters-goldman-sachs-says-this-lagging-region"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "U.S. 股票 市場 Outlook for the W",
-      "title": "U.S. 股票 市場 Outlook for the Week: CPI data releases on Tuesday, followed by 財報 reports from three major tech giants. Can AI-related trades halt the sell-off?",
-      "originalTitle": "U.S. Stock Market Outlook for the Week: CPI data releases on Tuesday, followed by earnings reports from three major tech giants. Can AI-related trades halt the sell-off?",
-      "translatedTitle": "U.S. 股票 市場 Outlook for the Week: CPI data releases on Tuesday, followed by 財報 reports from three major tech giants. Can AI-related trades halt the sell-off?",
+      "subject": "投資 banks unanimously warn th",
+      "title": "投資 banks unanimously warn that AI 股票 have fallen too far! Asian tech 股票 stage a strong rebound",
+      "originalTitle": "Investment banks unanimously warn that AI stocks have fallen too far! Asian tech stocks stage a strong rebound",
+      "translatedTitle": "投資 banks unanimously warn that AI 股票 have fallen too far! Asian tech 股票 stage a strong rebound",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-08T23:05:43.000Z",
-      "fact": "富途牛牛 報導：U.S. 股票 市場 Outlook for the Week: CPI data releases on Tuesday, followed by 財報 reports from three major tech giants. Can AI-related trades halt the sell-off?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Stock Market Outlook for the Week: CPI data releases on Tuesday, followed by earnings reports from three major tech。",
+      "publishedAt": "2026-11-10T02:37:54.000Z",
+      "fact": "富途牛牛 報導：投資 banks unanimously warn that AI 股票 have fallen too far! Asian tech 股票 stage a strong rebound",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Investment banks unanimously warn that AI stocks have fallen too far! Asian tech stocks stage a strong rebound &nbsp;&nb。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "earnings"
+        "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1003827305/us-stock-market-outlook-for-the-week-cpi-data-releases"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "費城半導體指數上漲6%，重返一萬點",
-      "title": "費城半導體指數上漲6%，重返一萬點：大摩指AI長期投資邏輯並未發生根本變化，偏好輝達與博通",
-      "originalTitle": "費城半導體指數上漲6%，重返一萬點：大摩指AI長期投資邏輯並未發生根本變化，偏好輝達與博通",
-      "translatedTitle": "費城半導體指數上漲6%，重返一萬點：大摩指AI長期投資邏輯並未發生根本變化，偏好輝達與博通",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-11-09T20:08:36.000Z",
-      "fact": "TradingKey 報導：費城半導體指數上漲6%，重返一萬點：大摩指AI長期投資邏輯並未發生根本變化，偏好輝達與博通",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；費城半導體指數上漲6%，重返一萬點：大摩指AI長期投資邏輯並未發生根本變化，偏好輝達與博通 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262296976-philadelphia-semiconductor-index-reclaims-10000-morgan-stanley-ai-stock-opportunities-nvidia-broadcom-tradingkey"
+      "url": "https://news.futunn.com/en/post/1003962241/investment-banks-unanimously-warn-that-ai-stocks-have-fallen-too"
     }
   ]
 }
