@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-11-12T02:35:43.394Z",
+  "generatedAt": "2026-11-12T04:41:15.932Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Meta",
+      "title": "Meta 發表 Muse Ember：輸入每百萬token 只要 0.1 美元，成本約為Claude Haiku 5.5 的三分之一",
+      "originalTitle": "Meta 發表 Muse Ember：輸入每百萬token 只要 0.1 美元，成本約為Claude Haiku 5.5 的三分之一",
+      "translatedTitle": "Meta 發表 Muse Ember：輸入每百萬token 只要 0.1 美元，成本約為Claude Haiku 5.5 的三分之一",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "硬是要學",
+      "publishedAt": "2026-11-12T03:02:14.000Z",
+      "fact": "硬是要學 報導：Meta 發表 Muse Ember：輸入每百萬token 只要 0.1 美元，成本約為Claude Haiku 5.5 的三分之一",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Meta 發表 Muse Ember：輸入每百萬token 只要 0.1 美元，成本約為Claude Haiku 5.5 的三分之一 &nbsp;&nbsp; 硬是要學。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://www.soft4fun.net/tech/ai/meta-muse-ember-launch-0-10-dollar-agent-model-vs-haiku-5-5.htm"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Google開放更多手機使用Gemini Intelligence！15款支援裝置名單一次看",
@@ -23,7 +44,7 @@
       "url": "https://www.sogi.com.tw/articles/google-gemini-intelligence/6270102"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Meta",
       "title": "Meta 推出輕量級模型 Muse Ember，低成本處理 Agent 重複任務",
@@ -43,7 +64,7 @@
       "url": "https://technews.tw/2026/11/11/muse-introduces-muse-ember/"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Google 雲端 Unveils Gemini for Healthcare: An Agentic Platform to Kill the 28-Hour \"Paperwork Hell\"",
@@ -64,7 +85,7 @@
       "url": "https://mashdigi.com/intl/en/google-cloud-gemini-for-healthcare-ai-agent-medical/"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Samsung 首款 AI 智能眼鏡 Intellige",
       "title": "Samsung 首款 AI 智能眼鏡 Intelligent Eyewear 正式開放預購，無顯示屏設計重約 41 克",
@@ -82,27 +103,6 @@
         "AI"
       ],
       "url": "https://www.techritual.com/2026/11/12/600661/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google最強AI不再限新旗艦！Pixel 10也能用 支援名單擴大",
-      "originalTitle": "Google最強AI不再限新旗艦！Pixel 10也能用　支援名單擴大",
-      "translatedTitle": "Google最強AI不再限新旗艦！Pixel 10也能用 支援名單擴大",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "自由電子報3C科技",
-      "publishedAt": "2026-11-11T02:15:00.000Z",
-      "fact": "自由電子報3C科技 報導：Google最強AI不再限新旗艦！Pixel 10也能用 支援名單擴大",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google最強AI不再限新旗艦！Pixel 10也能用 支援名單擴大 &nbsp;&nbsp; 自由電子報3C科技。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://3c.ltn.com.tw/news/68237"
     },
     {
       "id": "全球財經脈動-1",
@@ -127,25 +127,46 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "Dow",
-      "title": "Dow, 標普 500, Nasdaq Futures Mixed As Traders Weigh AI Rebound, Await Inflation Data: HIMS, TTD, NVDA, MARA In Focus",
-      "originalTitle": "Dow, S&P 500, Nasdaq Futures Mixed As Traders Weigh AI Rebound, Await Inflation Data: HIMS, TTD, NVDA, MARA In Focus",
-      "translatedTitle": "Dow, 標普 500, Nasdaq Futures Mixed As Traders Weigh AI Rebound, Await Inflation Data: HIMS, TTD, NVDA, MARA In Focus",
+      "subject": "Buying back of 半導體 and AI",
+      "title": "Buying back of 半導體 and AI-related 股票 intensifies.",
+      "originalTitle": "Buying back of semiconductor and AI-related stocks intensifies.",
+      "translatedTitle": "Buying back of 半導體 and AI-related 股票 intensifies.",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "TradingView",
-      "publishedAt": "2026-11-10T04:31:18.000Z",
-      "fact": "TradingView 報導：Dow, 標普 500, Nasdaq Futures Mixed As Traders Weigh AI Rebound, Await Inflation Data: HIMS, TTD, NVDA, MARA In Focus",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Dow, S&P 500, Nasdaq Futures Mixed As Traders Weigh AI Rebound, Await Inflation Data: HIMS, TTD, NVDA, MARA In Focus &nb。",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-12T00:54:12.000Z",
+      "fact": "富途牛牛 報導：Buying back of 半導體 and AI-related 股票 intensifies.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Buying back of semiconductor and AI-related stocks intensifies. &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI"
+        "AI",
+        "semiconductor",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:3df15b331094b:0-dow-s-p-500-nasdaq-futures-mixed-as-traders-weigh-ai-rebound-await-inflation-data-hims-ttd-nvda-mara-in-focus/"
+      "url": "https://news.futunn.com/en/post/1004226613/buying-back-of-semiconductor-and-ai-related-stocks-intensifies"
     },
     {
       "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "Post midterms",
+      "title": "Post midterms: What’s next for policy, the 經濟, and financial markets?",
+      "originalTitle": "Post midterms: What’s next for policy, the economy, and financial markets?",
+      "translatedTitle": "Post midterms: What’s next for policy, the 經濟, and financial markets?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 監管",
+      "source": "T. Rowe Price",
+      "publishedAt": "2026-11-11T08:22:38.000Z",
+      "fact": "T. Rowe Price 報導：Post midterms: What’s next for policy, the 經濟, and financial markets?",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Post midterms: What’s next for policy, the economy, and financial markets? &nbsp;&nbsp; T. Rowe Price。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://www.troweprice.com/financial-intermediary/hk/zh/thinking/articles/2026/q4/post-midterms-whats-next-for-policy-the-economy-and-financial-markets-apac.html"
+    },
+    {
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "2 Things That Could Hit the ",
       "title": "2 Things That Could Hit the Brakes on the AI 熱潮. Why Hyperscalers Could Benefit. — Barron’s.com",
@@ -163,25 +184,6 @@
         "AI"
       ],
       "url": "https://news.futunn.com/hk/post/1004017602/2-things-that-could-hit-the-brakes-on-the-ai"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "Post midterms",
-      "title": "Post midterms: What’s next for policy, the 經濟, and financial markets?",
-      "originalTitle": "Post midterms: What’s next for policy, the economy, and financial markets?",
-      "translatedTitle": "Post midterms: What’s next for policy, the 經濟, and financial markets?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 監管",
-      "source": "T. Rowe Price",
-      "publishedAt": "2026-11-11T08:22:38.000Z",
-      "fact": "T. Rowe Price 報導：Post midterms: What’s next for policy, the 經濟, and financial markets?",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Post midterms: What’s next for policy, the economy, and financial markets? &nbsp;&nbsp; T. Rowe Price。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://www.troweprice.com/financial-intermediary/hk/zh/thinking/articles/2026/q4/post-midterms-whats-next-for-policy-the-economy-and-financial-markets-apac.html"
     },
     {
       "id": "全球財經脈動-5",
@@ -250,26 +252,26 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "投資 banks unanimously warn th",
-      "title": "投資 banks unanimously warn that AI 股票 have fallen too far! Asian tech 股票 stage a strong rebound",
-      "originalTitle": "Investment banks unanimously warn that AI stocks have fallen too far! Asian tech stocks stage a strong rebound",
-      "translatedTitle": "投資 banks unanimously warn that AI 股票 have fallen too far! Asian tech 股票 stage a strong rebound",
+      "subject": "European 晶片股 Climb After Cor",
+      "title": "European 晶片股 Climb After CoreWeave Results Fuel AI Optimism — 市場 Talk",
+      "originalTitle": "European Chip Stocks Climb After CoreWeave Results Fuel AI Optimism -- Market Talk",
+      "translatedTitle": "European 晶片股 Climb After CoreWeave Results Fuel AI Optimism — 市場 Talk",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-10T02:37:54.000Z",
-      "fact": "富途牛牛 報導：投資 banks unanimously warn that AI 股票 have fallen too far! Asian tech 股票 stage a strong rebound",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Investment banks unanimously warn that AI stocks have fallen too far! Asian tech stocks stage a strong rebound &nbsp;&nb。",
+      "publishedAt": "2026-11-11T09:20:33.000Z",
+      "fact": "富途牛牛 報導：European 晶片股 Climb After CoreWeave Results Fuel AI Optimism — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；European Chip Stocks Climb After CoreWeave Results Fuel AI Optimism -- Market Talk &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1003962241/investment-banks-unanimously-warn-that-ai-stocks-have-fallen-too"
+      "url": "https://news.futunn.com/hk/post/1004156268/european-chip-stocks-climb-after-coreweave-results-fuel-ai-optimism"
     },
     {
-      "id": "美股與全球市場焦點-5",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "AMD 股票 Clocks Best Day In 6 ",
       "title": "AMD 股票 Clocks Best Day In 6 Months — But Michael Burry Won’t Touch The 輝達 Headline Trade",
@@ -287,6 +289,26 @@
         "Nvidia"
       ],
       "url": "https://tw.tradingview.com/news/stocktwits:846043574094b:0-amd-stock-clocks-best-day-in-6-months-but-michael-burry-won-t-touch-the-nvidia-headline-trade/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "TradingKey 每日市場簡報",
+      "title": "TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8%",
+      "originalTitle": "TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8%",
+      "translatedTitle": "TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8%",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-11-12T01:01:50.000Z",
+      "fact": "TradingKey 報導：TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8%",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8% &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262301608-crwv-earnings-ai-stocks-frenzy-mu-amd-nvda-after-hours-drop-tradingkey"
     }
   ]
 }
