@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T02:16:56.512Z",
+  "generatedAt": "2026-11-13T03:53:49.493Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -184,27 +184,47 @@
     {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "Buying back of 半導體 and AI",
-      "title": "Buying back of 半導體 and AI-related 股票 intensifies.",
-      "originalTitle": "Buying back of semiconductor and AI-related stocks intensifies.",
-      "translatedTitle": "Buying back of 半導體 and AI-related 股票 intensifies.",
+      "subject": "資料中心 Will Prevail Despite Al",
+      "title": "資料中心 Will Prevail Despite All the Opposition. How to Play It With Options. — Barron’s.com",
+      "originalTitle": "Data Centers Will Prevail Despite All the Opposition. How to Play It With Options. -- Barrons.com",
+      "translatedTitle": "資料中心 Will Prevail Despite All the Opposition. How to Play It With Options. — Barron’s.com",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
+      "category": "雲端基礎設施",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-12T00:54:12.000Z",
-      "fact": "富途牛牛 報導：Buying back of 半導體 and AI-related 股票 intensifies.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Buying back of semiconductor and AI-related stocks intensifies. &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-11-11T11:29:40.000Z",
+      "fact": "富途牛牛 報導：資料中心 Will Prevail Despite All the Opposition. How to Play It With Options. — Barron’s.com",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Data Centers Will Prevail Despite All the Opposition. How to Play It With Options. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI",
-        "semiconductor",
-        "stocks"
+        "data center"
       ],
-      "url": "https://news.futunn.com/en/post/1004226613/buying-back-of-semiconductor-and-ai-related-stocks-intensifies"
+      "url": "https://news.futunn.com/en/post/1004171693/data-centers-will-prevail-despite-all-the-opposition-how-to"
     },
     {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "The shift toward custom AI 半",
+      "title": "The shift toward custom AI 半導體 is also",
+      "originalTitle": "The shift toward custom AI semiconductors is also",
+      "translatedTitle": "The shift toward custom AI 半導體 is also",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-13T01:01:38.000Z",
+      "fact": "富途牛牛 報導：The shift toward custom AI 半導體 is also",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The shift toward custom AI semiconductors is also &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://news.futunn.com/en/post/1004373110/the-shift-toward-custom-ai-semiconductors-is-also"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "Oppenheimer Sees Major 股票 Ra",
       "title": "Oppenheimer Sees Major 股票 Rally, Backs Two Tech 股票",
@@ -222,27 +242,6 @@
         "stocks"
       ],
       "url": "https://tw.tradingview.com/news/gurufocus:bb1d8a93b094b:0-oppenheimer-sees-major-stock-rally-backs-two-tech-stocks/"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "US AI 晶片股 rose collectively ",
-      "title": "US AI 晶片股 rose collectively in pre-市場 trading, with AMD and Intel gaining more than 4%.",
-      "originalTitle": "US AI chip stocks rose collectively in pre-market trading, with AMD and Intel gaining more than 4%.",
-      "translatedTitle": "US AI 晶片股 rose collectively in pre-市場 trading, with AMD and Intel gaining more than 4%.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-11T16:46:34.000Z",
-      "fact": "富途牛牛 報導：US AI 晶片股 rose collectively in pre-市場 trading, with AMD and Intel gaining more than 4%.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；US AI chip stocks rose collectively in pre-market trading, with AMD and Intel gaining more than 4%. &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1004159309/us-ai-chip-stocks-rose-collectively-in-pre-market-trading"
     },
     {
       "id": "美股與全球市場焦點-3",
@@ -267,6 +266,27 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
+      "subject": "US AI 晶片股 rose collectively ",
+      "title": "US AI 晶片股 rose collectively in pre-市場 trading, with AMD and Intel gaining more than 4%.",
+      "originalTitle": "US AI chip stocks rose collectively in pre-market trading, with AMD and Intel gaining more than 4%.",
+      "translatedTitle": "US AI 晶片股 rose collectively in pre-市場 trading, with AMD and Intel gaining more than 4%.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-11T16:46:34.000Z",
+      "fact": "富途牛牛 報導：US AI 晶片股 rose collectively in pre-市場 trading, with AMD and Intel gaining more than 4%.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；US AI chip stocks rose collectively in pre-market trading, with AMD and Intel gaining more than 4%. &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1004159309/us-ai-chip-stocks-rose-collectively-in-pre-market-trading"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Review & Preview: AI Reckoning -- Barrons.com",
       "originalTitle": "Review & Preview: AI Reckoning -- Barrons.com",
@@ -283,26 +303,6 @@
         "AI"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1003735583/review-preview-ai-reckoning-barronscom"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "TradingKey 每日市場簡報",
-      "title": "TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8%",
-      "originalTitle": "TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8%",
-      "translatedTitle": "TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8%",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-11-12T01:01:50.000Z",
-      "fact": "TradingKey 報導：TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8%",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；TradingKey 每日市場簡報：CRWV財報引爆AI行情！美光漲近12%，AMD漲逾7%，輝達反彈近3%，盤後卻跌逾8% &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262301608-crwv-earnings-ai-stocks-frenzy-mu-amd-nvda-after-hours-drop-tradingkey"
     }
   ]
 }
