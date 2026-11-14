@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T01:54:06.701Z",
+  "generatedAt": "2026-11-14T03:52:30.092Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -44,26 +44,6 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "沒螢幕反而更強？三星首款 AI 眼鏡 Intellige",
-      "title": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
-      "originalTitle": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
-      "translatedTitle": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "T客邦",
-      "publishedAt": "2026-11-13T06:30:00.000Z",
-      "fact": "T客邦 報導：沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便 &nbsp;&nbsp; T客邦。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://www.techbang.com/posts/134611-samsung-ai-glasses-android-xr-gemini-launch"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
       "originalTitle": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
@@ -80,6 +60,26 @@
         "Google"
       ],
       "url": "https://technews.tw/2026/11/13/gemini-4-hydrogen/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "沒螢幕反而更強？三星首款 AI 眼鏡 Intellige",
+      "title": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
+      "originalTitle": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
+      "translatedTitle": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "T客邦",
+      "publishedAt": "2026-11-13T06:30:00.000Z",
+      "fact": "T客邦 報導：沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便 &nbsp;&nbsp; T客邦。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.techbang.com/posts/134611-samsung-ai-glasses-android-xr-gemini-launch"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -227,6 +227,27 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "U.S. 股票 Mixed on 輝達 Fallout ",
+      "title": "U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
+      "originalTitle": "U.S. Stocks Mixed on Nvidia Fallout Fears -- Update",
+      "translatedTitle": "U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-13T22:06:00.000Z",
+      "fact": "Moomoo 報導：U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Stocks Mixed on Nvidia Fallout Fears -- Update &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1004629012/us-stocks-mixed-on-nvidia-fallout-fears-update"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "JPMorgan's Q3 Holdings",
       "title": "JPMorgan's Q3 Holdings: Significant Increase in 輝達 (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While 半導體 Hardware 股票 Face Systematic Reduction",
       "originalTitle": "JPMorgan's Q3 Holdings: Significant Increase in NVIDIA (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While Semiconductor Hardware Stocks Face Systematic Reduction",
@@ -248,7 +269,7 @@
       "url": "https://news.futunn.com/en/post/1004437521/jpmorgan-s-q3-holdings-significant-increase-in-nvidia-nvdaus-position"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "The shift toward custom AI 半",
       "title": "The shift toward custom AI 半導體 is also",
@@ -269,45 +290,24 @@
       "url": "https://news.futunn.com/en/post/1004373110/the-shift-toward-custom-ai-semiconductors-is-also"
     },
     {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Barclays",
-      "title": "Barclays: Fears of robust US economic growth fail to materialize; tactical 風險-reward for cyclical 股票 is favorable",
-      "originalTitle": "Barclays: Fears of robust US economic growth fail to materialize; tactical risk-reward for cyclical stocks is favorable",
-      "translatedTitle": "Barclays: Fears of robust US economic growth fail to materialize; tactical 風險-reward for cyclical 股票 is favorable",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-13T06:30:37.000Z",
-      "fact": "富途牛牛 報導：Barclays: Fears of robust US economic growth fail to materialize; tactical 風險-reward for cyclical 股票 is favorable",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Barclays: Fears of robust US economic growth fail to materialize; tactical risk-reward for cyclical stocks is favorable。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1004417993/barclays-fears-of-robust-us-economic-growth-fail-to-materialize"
-    },
-    {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "財報 Growth Is Set to Peter Ou",
-      "title": "財報 Growth Is Set to Peter Out — but Not the Bull 市場, Says Goldman Sachs. Here's What the Firm Recommends.",
-      "originalTitle": "Earnings Growth Is Set to Peter Out - but Not the Bull Market, Says Goldman Sachs. Here's What the Firm Recommends.",
-      "translatedTitle": "財報 Growth Is Set to Peter Out — but Not the Bull 市場, Says Goldman Sachs. Here's What the Firm Recommends.",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "蘋果股價再創新高",
+      "title": "蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯",
+      "originalTitle": "蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯",
+      "translatedTitle": "蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-13T10:14:00.000Z",
-      "fact": "Moomoo 報導：財報 Growth Is Set to Peter Out — but Not the Bull 市場, Says Goldman Sachs. Here's What the Firm Recommends.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Earnings Growth Is Set to Peter Out - but Not the Bull Market, Says Goldman Sachs. Here's What the Firm Recommends. &nbs。",
+      "source": "TradingKey",
+      "publishedAt": "2026-11-12T17:25:23.000Z",
+      "fact": "TradingKey 報導：蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "earnings"
+        "AI"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1004580003/earnings-growth-is-set-to-peter-out-but-not-the"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262303073-apple-stock-record-high-37-times-earnings-ai-safe-haven-bernstein-tradingkey"
     }
   ]
 }
