@@ -1,9 +1,68 @@
 {
-  "generatedAt": "2026-11-13T03:53:49.493Z",
+  "generatedAt": "2026-11-14T01:54:06.701Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
+      "originalTitle": "Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
+      "translatedTitle": "Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "數位時代",
+      "publishedAt": "2026-11-13T08:00:00.000Z",
+      "fact": "數位時代 報導：Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍 &nbsp;&nbsp; 數位時代。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.bnext.com.tw/article/93061/gemini-4-hydrogen-launch"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Gemini 4 Hydrogen 登陸 Antigra",
+      "title": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
+      "originalTitle": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
+      "translatedTitle": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-13T07:53:20.000Z",
+      "fact": "OrcaRouter 報導：Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點 &nbsp;&nbsp; OrcaRouter。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-hydrogen-antigravity-rollout"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "沒螢幕反而更強？三星首款 AI 眼鏡 Intellige",
+      "title": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
+      "originalTitle": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
+      "translatedTitle": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "T客邦",
+      "publishedAt": "2026-11-13T06:30:00.000Z",
+      "fact": "T客邦 報導：沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便 &nbsp;&nbsp; T客邦。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.techbang.com/posts/134611-samsung-ai-glasses-android-xr-gemini-launch"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
@@ -23,105 +82,45 @@
       "url": "https://technews.tw/2026/11/13/gemini-4-hydrogen/"
     },
     {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Antigravity Orchestrator 上線 ",
-      "title": "Antigravity Orchestrator 上線 Carbon 規劃 Hydrogen 執行平均省 24% 配額",
-      "originalTitle": "Antigravity Orchestrator 上線 Carbon 規劃 Hydrogen 執行平均省 24% 配額",
-      "translatedTitle": "Antigravity Orchestrator 上線 Carbon 規劃 Hydrogen 執行平均省 24% 配額",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "流動日報",
-      "publishedAt": "2026-11-12T23:21:56.000Z",
-      "fact": "流動日報 報導：Antigravity Orchestrator 上線 Carbon 規劃 Hydrogen 執行平均省 24% 配額",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Antigravity Orchestrator 上線 Carbon 規劃 Hydrogen 執行平均省 24% 配額 &nbsp;&nbsp; 流動日報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.newmobilelife.com/2026/11/13/google-antigravity-orchestrator/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "TSMC approves up to US$1B 投資 in Anthropic, OpenAI, sets record dividend | newsworld | 全球中央",
-      "originalTitle": "TSMC approves up to US$1B investment in Anthropic, OpenAI, sets record dividend | newsworld | 全球中央",
-      "translatedTitle": "TSMC approves up to US$1B 投資 in Anthropic, OpenAI, sets record dividend | newsworld | 全球中央",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "中央社 CNA",
-      "publishedAt": "2026-11-12T09:00:00.000Z",
-      "fact": "中央社 CNA 報導：TSMC approves up to US$1B 投資 in Anthropic, OpenAI, sets record dividend | newsworld | 全球中央",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；TSMC approves up to US$1B investment in Anthropic, OpenAI, sets record dividend | newsworld | 全球中央 &nbsp;&nbsp; 中央社 CNA。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "Anthropic",
-        "AI"
-      ],
-      "url": "https://www.cna.com.tw/newsworld/article/20261112n009/"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Meta",
-      "title": "AI 財經快訊：Taking on Meta’s \"Muse\": ByteDance Reportedly Set to Launch AI Agent Within Weeks",
-      "originalTitle": "Taking on Meta’s \"Muse\": ByteDance Reportedly Set to Launch AI Agent Within Weeks",
-      "translatedTitle": "AI 財經快訊：Taking on Meta’s \"Muse\": ByteDance Reportedly Set to Launch AI Agent Within Weeks",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "Mashdigi",
-      "publishedAt": "2026-11-12T19:04:41.000Z",
-      "fact": "Mashdigi 報導：AI 財經快訊：Taking on Meta’s \"Muse\": ByteDance Reportedly Set to Launch AI Agent Within Weeks",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Taking on Meta’s \"Muse\": ByteDance Reportedly Set to Launch AI Agent Within Weeks &nbsp;&nbsp; Mashdigi。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Meta",
-        "AI"
-      ],
-      "url": "https://mashdigi.com/intl/en/bytedance-ai-agent-vs-meta-muse/"
-    },
-    {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Advocacy groups sue AI giant",
-      "title": "Advocacy groups sue AI giants to freeze new models, warning of 'catastrophic' 風險",
-      "originalTitle": "Advocacy groups sue AI giants to freeze new models, warning of 'catastrophic' risks",
-      "translatedTitle": "Advocacy groups sue AI giants to freeze new models, warning of 'catastrophic' 風險",
+      "subject": "Google",
+      "title": "Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用",
+      "originalTitle": "Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用",
+      "translatedTitle": "Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-12T15:00:30.000Z",
-      "fact": "Yahoo 報導：Advocacy groups sue AI giants to freeze new models, warning of 'catastrophic' 風險",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Advocacy groups sue AI giants to freeze new models, warning of 'catastrophic' risks &nbsp;&nbsp; Yahoo。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "source": "TVBS新聞網",
+      "publishedAt": "2026-11-13T06:42:00.000Z",
+      "fact": "TVBS新聞網 報導：Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用 &nbsp;&nbsp; TVBS新聞網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Google",
         "AI"
       ],
-      "url": "https://hk.news.yahoo.com/politics/articles/advocacy-groups-sue-ai-giants-150030003.html"
+      "url": "https://news.tvbs.com.tw/tech/4049961"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "黃仁勳（Jensen Huang）正式宣布離職，",
-      "title": "黃仁勳（Jensen Huang）正式宣布離職，",
-      "originalTitle": "黃仁勳（Jensen Huang）正式宣布離職，",
-      "translatedTitle": "黃仁勳（Jensen Huang）正式宣布離職，",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Lai asks Stan Shih to promot",
+      "title": "Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央",
+      "originalTitle": "Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央",
+      "translatedTitle": "Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "美南新聞",
-      "publishedAt": "2026-11-12T20:02:10.000Z",
-      "fact": "美南新聞 報導：黃仁勳（Jensen Huang）正式宣布離職，",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；黃仁勳（Jensen Huang）正式宣布離職， &nbsp;&nbsp; 美南新聞。",
+      "source": "中央社 CNA",
+      "publishedAt": "2026-11-13T02:38:00.000Z",
+      "fact": "中央社 CNA 報導：Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央 &nbsp;&nbsp; 中央社 CNA。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經"
+        "全球財經",
+        "AI"
       ],
-      "url": "https://scdaily.com/post/102849"
+      "url": "https://www.cna.com.tw/newsworld/article/20261113n002/"
     },
     {
       "id": "全球財經脈動-2",
@@ -146,64 +145,110 @@
     {
       "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "Post midterms",
-      "title": "Post midterms: What’s next for policy, the 經濟, and financial markets?",
-      "originalTitle": "Post midterms: What’s next for policy, the economy, and financial markets?",
-      "translatedTitle": "Post midterms: What’s next for policy, the 經濟, and financial markets?",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, and Other Development Hurdles",
+      "originalTitle": "Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, and Other Development Hurdles",
+      "translatedTitle": "AI 財經快訊：Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, and Other Development Hurdles",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 監管",
-      "source": "T. Rowe Price",
-      "publishedAt": "2026-11-11T08:22:38.000Z",
-      "fact": "T. Rowe Price 報導：Post midterms: What’s next for policy, the 經濟, and financial markets?",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Post midterms: What’s next for policy, the economy, and financial markets? &nbsp;&nbsp; T. Rowe Price。",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-13T08:23:03.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, and Other Development Hurdles",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, an。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經"
+        "全球財經",
+        "AI"
       ],
-      "url": "https://www.troweprice.com/financial-intermediary/hk/zh/thinking/articles/2026/q4/post-midterms-whats-next-for-policy-the-economy-and-financial-markets-apac.html"
+      "url": "https://news.futunn.com/en/post/1004434372/unwilling-to-lag-behind-the-us-and-china-eu-s"
     },
     {
       "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "Bloom 能源's 股票 Is Soaring as ",
-      "title": "Bloom 能源's 股票 Is Soaring as Data-center Jitters Subside",
-      "originalTitle": "Bloom Energy's Stock Is Soaring as Data-center Jitters Subside",
-      "translatedTitle": "Bloom 能源's 股票 Is Soaring as Data-center Jitters Subside",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-11T22:57:24.000Z",
-      "fact": "Moomoo 報導：Bloom 能源's 股票 Is Soaring as Data-center Jitters Subside",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Bloom Energy's Stock Is Soaring as Data-center Jitters Subside &nbsp;&nbsp; Moomoo。",
+      "subject": "黃仁勳（Jensen Huang）正式宣布離職，",
+      "title": "黃仁勳（Jensen Huang）正式宣布離職，",
+      "originalTitle": "黃仁勳（Jensen Huang）正式宣布離職，",
+      "translatedTitle": "黃仁勳（Jensen Huang）正式宣布離職，",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "美南新聞",
+      "publishedAt": "2026-11-12T20:02:10.000Z",
+      "fact": "美南新聞 報導：黃仁勳（Jensen Huang）正式宣布離職，",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；黃仁勳（Jensen Huang）正式宣布離職， &nbsp;&nbsp; 美南新聞。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1004331116/bloom-energy-s-stock-is-soaring-as-data-center-jitters"
+      "url": "https://scdaily.com/post/102849"
     },
     {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "資料中心 Will Prevail Despite Al",
-      "title": "資料中心 Will Prevail Despite All the Opposition. How to Play It With Options. — Barron’s.com",
-      "originalTitle": "Data Centers Will Prevail Despite All the Opposition. How to Play It With Options. -- Barrons.com",
-      "translatedTitle": "資料中心 Will Prevail Despite All the Opposition. How to Play It With Options. — Barron’s.com",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain?",
+      "originalTitle": "\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain?",
+      "translatedTitle": "AI 財經快訊：\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain?",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
+      "category": "全球財經",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-11T11:29:40.000Z",
-      "fact": "富途牛牛 報導：資料中心 Will Prevail Despite All the Opposition. How to Play It With Options. — Barron’s.com",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Data Centers Will Prevail Despite All the Opposition. How to Play It With Options. -- Barrons.com &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-11-12T18:31:15.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain?",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain? &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI",
-        "data center"
+        "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1004171693/data-centers-will-prevail-despite-all-the-opposition-how-to"
+      "url": "https://news.futunn.com/en/post/1004351355/ai-central-bank-earthquake-how-far-will-the-shockwaves-travel"
     },
     {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "JPMorgan's Q3 holdings",
+      "title": "JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
+      "originalTitle": "JPMorgan's Q3 holdings: Heavily increased positions in NVIDIA; AI computing power giants remain \"ballast stones,\" while semiconductor hardware stocks faced systematic reductions.",
+      "translatedTitle": "JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-13T09:35:41.000Z",
+      "fact": "富途牛牛 報導：JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；JPMorgan's Q3 holdings: Heavily increased positions in NVIDIA; AI computing power giants remain \"ballast stones,\" while。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "semiconductor",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1004437521/jpmorgan-s-q3-holdings-heavily-increased-positions-in-nvidia-ai"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "JPMorgan's Q3 Holdings",
+      "title": "JPMorgan's Q3 Holdings: Significant Increase in 輝達 (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While 半導體 Hardware 股票 Face Systematic Reduction",
+      "originalTitle": "JPMorgan's Q3 Holdings: Significant Increase in NVIDIA (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While Semiconductor Hardware Stocks Face Systematic Reduction",
+      "translatedTitle": "JPMorgan's Q3 Holdings: Significant Increase in 輝達 (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While 半導體 Hardware 股票 Face Systematic Reduction",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-13T08:47:12.000Z",
+      "fact": "富途牛牛 報導：JPMorgan's Q3 Holdings: Significant Increase in 輝達 (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While 半導體 Hardware 股票 Face Systematic Reduction",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；JPMorgan's Q3 Holdings: Significant Increase in NVIDIA (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" Whil。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "semiconductor",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1004437521/jpmorgan-s-q3-holdings-significant-increase-in-nvidia-nvdaus-position"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "The shift toward custom AI 半",
       "title": "The shift toward custom AI 半導體 is also",
@@ -224,85 +269,45 @@
       "url": "https://news.futunn.com/en/post/1004373110/the-shift-toward-custom-ai-semiconductors-is-also"
     },
     {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Oppenheimer Sees Major 股票 Ra",
-      "title": "Oppenheimer Sees Major 股票 Rally, Backs Two Tech 股票",
-      "originalTitle": "Oppenheimer Sees Major Stock Rally, Backs Two Tech Stocks",
-      "translatedTitle": "Oppenheimer Sees Major 股票 Rally, Backs Two Tech 股票",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-11T16:47:04.000Z",
-      "fact": "TradingView 報導：Oppenheimer Sees Major 股票 Rally, Backs Two Tech 股票",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Oppenheimer Sees Major Stock Rally, Backs Two Tech Stocks &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:bb1d8a93b094b:0-oppenheimer-sees-major-stock-rally-backs-two-tech-stocks/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "標普 500",
-      "title": "標普 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST 股票 In Focus",
-      "originalTitle": "S&P 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST Stocks In Focus",
-      "translatedTitle": "標普 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST 股票 In Focus",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-11T09:59:35.000Z",
-      "fact": "TradingView 報導：標普 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST 股票 In Focus",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；S&P 500, Nasdaq Futures Rise Premarket — CRWV, GPRO, SPCX, NVDA, NLST Stocks In Focus &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "stocks"
-      ],
-      "url": "https://tw.tradingview.com/news/stocktwits:b8f10f925094b:0-s-p-500-nasdaq-futures-rise-premarket-crwv-gpro-spcx-nvda-nlst-stocks-in-focus/"
-    },
-    {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "US AI 晶片股 rose collectively ",
-      "title": "US AI 晶片股 rose collectively in pre-市場 trading, with AMD and Intel gaining more than 4%.",
-      "originalTitle": "US AI chip stocks rose collectively in pre-market trading, with AMD and Intel gaining more than 4%.",
-      "translatedTitle": "US AI 晶片股 rose collectively in pre-市場 trading, with AMD and Intel gaining more than 4%.",
+      "subject": "Barclays",
+      "title": "Barclays: Fears of robust US economic growth fail to materialize; tactical 風險-reward for cyclical 股票 is favorable",
+      "originalTitle": "Barclays: Fears of robust US economic growth fail to materialize; tactical risk-reward for cyclical stocks is favorable",
+      "translatedTitle": "Barclays: Fears of robust US economic growth fail to materialize; tactical 風險-reward for cyclical 股票 is favorable",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-11T16:46:34.000Z",
-      "fact": "富途牛牛 報導：US AI 晶片股 rose collectively in pre-市場 trading, with AMD and Intel gaining more than 4%.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；US AI chip stocks rose collectively in pre-market trading, with AMD and Intel gaining more than 4%. &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-11-13T06:30:37.000Z",
+      "fact": "富途牛牛 報導：Barclays: Fears of robust US economic growth fail to materialize; tactical 風險-reward for cyclical 股票 is favorable",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Barclays: Fears of robust US economic growth fail to materialize; tactical risk-reward for cyclical stocks is favorable。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1004159309/us-ai-chip-stocks-rose-collectively-in-pre-market-trading"
+      "url": "https://news.futunn.com/en/post/1004417993/barclays-fears-of-robust-us-economic-growth-fail-to-materialize"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Review & Preview: AI Reckoning -- Barrons.com",
-      "originalTitle": "Review & Preview: AI Reckoning -- Barrons.com",
-      "translatedTitle": "AI 財經快訊：Review & Preview: AI Reckoning -- Barrons.com",
+      "subject": "財報 Growth Is Set to Peter Ou",
+      "title": "財報 Growth Is Set to Peter Out — but Not the Bull 市場, Says Goldman Sachs. Here's What the Firm Recommends.",
+      "originalTitle": "Earnings Growth Is Set to Peter Out - but Not the Bull Market, Says Goldman Sachs. Here's What the Firm Recommends.",
+      "translatedTitle": "財報 Growth Is Set to Peter Out — but Not the Bull 市場, Says Goldman Sachs. Here's What the Firm Recommends.",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-11-12T00:23:00.000Z",
-      "fact": "Moomoo 報導：AI 財經快訊：Review & Preview: AI Reckoning -- Barrons.com",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Review & Preview: AI Reckoning -- Barrons.com &nbsp;&nbsp; Moomoo。",
+      "publishedAt": "2026-11-13T10:14:00.000Z",
+      "fact": "Moomoo 報導：財報 Growth Is Set to Peter Out — but Not the Bull 市場, Says Goldman Sachs. Here's What the Firm Recommends.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Earnings Growth Is Set to Peter Out - but Not the Bull Market, Says Goldman Sachs. Here's What the Firm Recommends. &nbs。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "earnings"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1003735583/review-preview-ai-reckoning-barronscom"
+      "url": "https://www.moomoo.com/hant/news/post/1004580003/earnings-growth-is-set-to-peter-out-but-not-the"
     }
   ]
 }
