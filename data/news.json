@@ -1,9 +1,51 @@
 {
-  "generatedAt": "2026-11-14T03:52:30.092Z",
+  "generatedAt": "2026-11-15T01:26:11.961Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線",
+      "originalTitle": "Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線",
+      "translatedTitle": "Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-14T17:00:57.000Z",
+      "fact": "Mashdigi 報導：Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線 &nbsp;&nbsp; Mashdigi。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "Google",
+        "AI"
+      ],
+      "url": "https://mashdigi.com/gemini-google-wallet-plaid-integration-finance-ai/"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "手機自己傳LINE？Google Gemini擴大新功能 134款App曝光",
+      "originalTitle": "手機自己傳LINE？Google Gemini擴大新功能　134款App曝光",
+      "translatedTitle": "手機自己傳LINE？Google Gemini擴大新功能 134款App曝光",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "自由電子報3C科技",
+      "publishedAt": "2026-11-14T05:09:00.000Z",
+      "fact": "自由電子報3C科技 報導：手機自己傳LINE？Google Gemini擴大新功能 134款App曝光",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；手機自己傳LINE？Google Gemini擴大新功能 134款App曝光 &nbsp;&nbsp; 自由電子報3C科技。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://3c.ltn.com.tw/news/68290"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
@@ -21,45 +63,6 @@
         "Google"
       ],
       "url": "https://www.bnext.com.tw/article/93061/gemini-4-hydrogen-launch"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Gemini 4 Hydrogen 登陸 Antigra",
-      "title": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
-      "originalTitle": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
-      "translatedTitle": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-11-13T07:53:20.000Z",
-      "fact": "OrcaRouter 報導：Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點 &nbsp;&nbsp; OrcaRouter。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-hydrogen-antigravity-rollout"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
-      "originalTitle": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
-      "translatedTitle": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-11-13T01:57:16.000Z",
-      "fact": "TechNews 科技新報 報導：Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://technews.tw/2026/11/13/gemini-4-hydrogen/"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -85,22 +88,21 @@
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用",
-      "originalTitle": "Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用",
-      "translatedTitle": "Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用",
+      "title": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
+      "originalTitle": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
+      "translatedTitle": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "TVBS新聞網",
-      "publishedAt": "2026-11-13T06:42:00.000Z",
-      "fact": "TVBS新聞網 報導：Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google發布Gemini 4 Hydrogen 速度提升2.5倍、拓展AI代理應用 &nbsp;&nbsp; TVBS新聞網。",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-11-13T01:57:16.000Z",
+      "fact": "TechNews 科技新報 報導：Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "AI"
+        "Google"
       ],
-      "url": "https://news.tvbs.com.tw/tech/4049961"
+      "url": "https://technews.tw/2026/11/13/gemini-4-hydrogen/"
     },
     {
       "id": "全球財經脈動-1",
@@ -123,86 +125,28 @@
       "url": "https://www.cna.com.tw/newsworld/article/20261113n002/"
     },
     {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》Taiwan committed to AI collaboration: Lai tells Shih",
-      "originalTitle": "《TAIPEI TIMES》Taiwan committed to AI collaboration: Lai tells Shih",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》Taiwan committed to AI collaboration: Lai tells Shih",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "自由時報",
-      "publishedAt": "2026-11-12T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》Taiwan committed to AI collaboration: Lai tells Shih",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》Taiwan committed to AI collaboration: Lai tells Shih &nbsp;&nbsp; 自由時報。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5639026"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, and Other Development Hurdles",
-      "originalTitle": "Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, and Other Development Hurdles",
-      "translatedTitle": "AI 財經快訊：Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, and Other Development Hurdles",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-13T08:23:03.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, and Other Development Hurdles",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Unwilling to Lag Behind the US and China: EU’s First AI Summit Imminent, Focusing on Funding Gaps, Regulatory Reform, an。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1004434372/unwilling-to-lag-behind-the-us-and-china-eu-s"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "黃仁勳（Jensen Huang）正式宣布離職，",
-      "title": "黃仁勳（Jensen Huang）正式宣布離職，",
-      "originalTitle": "黃仁勳（Jensen Huang）正式宣布離職，",
-      "translatedTitle": "黃仁勳（Jensen Huang）正式宣布離職，",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
-      "source": "美南新聞",
-      "publishedAt": "2026-11-12T20:02:10.000Z",
-      "fact": "美南新聞 報導：黃仁勳（Jensen Huang）正式宣布離職，",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；黃仁勳（Jensen Huang）正式宣布離職， &nbsp;&nbsp; 美南新聞。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://scdaily.com/post/102849"
-    },
-    {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain?",
-      "originalTitle": "\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain?",
-      "translatedTitle": "AI 財經快訊：\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-12T18:31:15.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain?",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；\"AI Central Bank\" Earthquake: How Far Will the Shockwaves Travel Along the Financing Chain? &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1004351355/ai-central-bank-earthquake-how-far-will-the-shockwaves-travel"
-    },
-    {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "These 6 Battered AI 股票 Could",
+      "title": "These 6 Battered AI 股票 Could Bounce Back Big, an Analyst Says",
+      "originalTitle": "These 6 Battered AI Stocks Could Bounce Back Big, an Analyst Says",
+      "translatedTitle": "These 6 Battered AI 股票 Could Bounce Back Big, an Analyst Says",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-14T13:00:00.000Z",
+      "fact": "Moomoo 報導：These 6 Battered AI 股票 Could Bounce Back Big, an Analyst Says",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；These 6 Battered AI Stocks Could Bounce Back Big, an Analyst Says &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1004668337/these-6-battered-ai-stocks-could-bounce-back-big-an"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
       "subject": "JPMorgan's Q3 holdings",
       "title": "JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
@@ -211,7 +155,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-13T09:35:41.000Z",
+      "publishedAt": "2026-11-13T09:35:10.000Z",
       "fact": "富途牛牛 報導：JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；JPMorgan's Q3 holdings: Heavily increased positions in NVIDIA; AI computing power giants remain \"ballast stones,\" while。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
@@ -223,27 +167,6 @@
         "stocks"
       ],
       "url": "https://news.futunn.com/en/post/1004437521/jpmorgan-s-q3-holdings-heavily-increased-positions-in-nvidia-ai"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "U.S. 股票 Mixed on 輝達 Fallout ",
-      "title": "U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
-      "originalTitle": "U.S. Stocks Mixed on Nvidia Fallout Fears -- Update",
-      "translatedTitle": "U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-13T22:06:00.000Z",
-      "fact": "Moomoo 報導：U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Stocks Mixed on Nvidia Fallout Fears -- Update &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "stocks"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1004629012/us-stocks-mixed-on-nvidia-fallout-fears-update"
     },
     {
       "id": "美股與全球市場焦點-3",
@@ -271,43 +194,42 @@
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "The shift toward custom AI 半",
-      "title": "The shift toward custom AI 半導體 is also",
-      "originalTitle": "The shift toward custom AI semiconductors is also",
-      "translatedTitle": "The shift toward custom AI 半導體 is also",
+      "subject": "U.S. 股票 Mixed on 輝達 Fallout ",
+      "title": "U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
+      "originalTitle": "U.S. Stocks Mixed on Nvidia Fallout Fears -- Update",
+      "translatedTitle": "U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-13T01:01:38.000Z",
-      "fact": "富途牛牛 報導：The shift toward custom AI 半導體 is also",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；The shift toward custom AI semiconductors is also &nbsp;&nbsp; 富途牛牛。",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-13T22:06:00.000Z",
+      "fact": "Moomoo 報導：U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Stocks Mixed on Nvidia Fallout Fears -- Update &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI",
-        "semiconductor"
+        "Nvidia",
+        "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1004373110/the-shift-toward-custom-ai-semiconductors-is-also"
+      "url": "https://www.moomoo.com/hant/news/post/1004629012/us-stocks-mixed-on-nvidia-fallout-fears-update"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "蘋果股價再創新高",
-      "title": "蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯",
-      "originalTitle": "蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯",
-      "translatedTitle": "蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯",
+      "subject": "Nebius財報後暴跌17%並失守雙均線，120美元失守",
+      "title": "Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元",
+      "originalTitle": "Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元",
+      "translatedTitle": "Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
       "source": "TradingKey",
-      "publishedAt": "2026-11-12T17:25:23.000Z",
-      "fact": "TradingKey 報導：蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；蘋果股價再創新高：37倍本益比背後的AI避險溢價邏輯 &nbsp;&nbsp; TradingKey。",
+      "publishedAt": "2026-11-13T09:30:32.000Z",
+      "fact": "TradingKey 報導：Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262303073-apple-stock-record-high-37-times-earnings-ai-safe-haven-bernstein-tradingkey"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262304356-nebius-plunges-17-after-earnings-below-120-could-trigger-100-nbis-tradingkey"
     }
   ]
 }
