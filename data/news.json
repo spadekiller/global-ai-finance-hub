@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T01:26:11.961Z",
+  "generatedAt": "2026-11-15T03:33:21.933Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -87,42 +87,41 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
-      "originalTitle": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
-      "translatedTitle": "Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
+      "subject": "Gemini 4 Hydrogen 登陸 Antigra",
+      "title": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
+      "originalTitle": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
+      "translatedTitle": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-11-13T01:57:16.000Z",
-      "fact": "TechNews 科技新報 報導：Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 推出全新 Gemini 4 Hydrogen：反應快 2.5 倍，稱霸全球 CP 值榜單 &nbsp;&nbsp; TechNews 科技新報。",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-13T07:53:20.000Z",
+      "fact": "OrcaRouter 報導：Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點 &nbsp;&nbsp; OrcaRouter。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "Google"
+        "AI 與科技前沿"
       ],
-      "url": "https://technews.tw/2026/11/13/gemini-4-hydrogen/"
+      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-hydrogen-antigravity-rollout"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "Lai asks Stan Shih to promot",
-      "title": "Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央",
-      "originalTitle": "Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央",
-      "translatedTitle": "Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Lai asks Shih to convey Taiwan's desire for AI cooperation at APEC summit|English News",
+      "originalTitle": "Lai asks Shih to convey Taiwan's desire for AI cooperation at APEC summit|English News",
+      "translatedTitle": "AI 財經快訊：Lai asks Shih to convey Taiwan's desire for AI cooperation at APEC summit|English News",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "中央社 CNA",
-      "publishedAt": "2026-11-13T02:38:00.000Z",
-      "fact": "中央社 CNA 報導：Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Lai asks Stan Shih to promote AI cooperation at APEC | newsworld | 全球中央 &nbsp;&nbsp; 中央社 CNA。",
+      "source": "僑新聞",
+      "publishedAt": "2026-11-14T08:00:00.000Z",
+      "fact": "僑新聞 報導：AI 財經快訊：Lai asks Shih to convey Taiwan's desire for AI cooperation at APEC summit|English News",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Lai asks Shih to convey Taiwan's desire for AI cooperation at APEC summit|English News &nbsp;&nbsp; 僑新聞。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://www.cna.com.tw/newsworld/article/20261113n002/"
+      "url": "https://ocacnews.net/article/433921"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -148,29 +147,6 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "JPMorgan's Q3 holdings",
-      "title": "JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
-      "originalTitle": "JPMorgan's Q3 holdings: Heavily increased positions in NVIDIA; AI computing power giants remain \"ballast stones,\" while semiconductor hardware stocks faced systematic reductions.",
-      "translatedTitle": "JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-13T09:35:10.000Z",
-      "fact": "富途牛牛 報導：JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；JPMorgan's Q3 holdings: Heavily increased positions in NVIDIA; AI computing power giants remain \"ballast stones,\" while。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI",
-        "semiconductor",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1004437521/jpmorgan-s-q3-holdings-heavily-increased-positions-in-nvidia-ai"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
       "subject": "JPMorgan's Q3 Holdings",
       "title": "JPMorgan's Q3 Holdings: Significant Increase in 輝達 (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While 半導體 Hardware 股票 Face Systematic Reduction",
       "originalTitle": "JPMorgan's Q3 Holdings: Significant Increase in NVIDIA (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While Semiconductor Hardware Stocks Face Systematic Reduction",
@@ -192,7 +168,50 @@
       "url": "https://news.futunn.com/en/post/1004437521/jpmorgan-s-q3-holdings-significant-increase-in-nvidia-nvdaus-position"
     },
     {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "JPMorgan's Q3 holdings",
+      "title": "JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
+      "originalTitle": "JPMorgan's Q3 holdings: Heavily increased positions in NVIDIA; AI computing power giants remain \"ballast stones,\" while semiconductor hardware stocks faced systematic reductions.",
+      "translatedTitle": "JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-13T09:35:10.000Z",
+      "fact": "富途牛牛 報導：JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；JPMorgan's Q3 holdings: Heavily increased positions in NVIDIA; AI computing power giants remain \"ballast stones,\" while。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "semiconductor",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1004437521/jpmorgan-s-q3-holdings-heavily-increased-positions-in-nvidia-ai"
+    },
+    {
       "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "輝達 in Crisis",
+      "title": "輝達 in Crisis: The 股票 Is Still a Buy — Barron’s",
+      "originalTitle": "Nvidia in Crisis: The Stock Is Still a Buy -- Barron's",
+      "translatedTitle": "輝達 in Crisis: The 股票 Is Still a Buy — Barron’s",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-14T02:30:00.000Z",
+      "fact": "Moomoo 報導：輝達 in Crisis: The 股票 Is Still a Buy — Barron’s",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia in Crisis: The Stock Is Still a Buy -- Barron's &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1004644261/nvidia-in-crisis-the-stock-is-still-a-buy-barron"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "U.S. 股票 Mixed on 輝達 Fallout ",
       "title": "U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
@@ -211,25 +230,6 @@
         "stocks"
       ],
       "url": "https://www.moomoo.com/hant/news/post/1004629012/us-stocks-mixed-on-nvidia-fallout-fears-update"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Nebius財報後暴跌17%並失守雙均線，120美元失守",
-      "title": "Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元",
-      "originalTitle": "Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元",
-      "translatedTitle": "Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-11-13T09:30:32.000Z",
-      "fact": "TradingKey 報導：Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nebius財報後暴跌17%並失守雙均線，120美元失守恐再跌17%至100美元 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262304356-nebius-plunges-17-after-earnings-below-120-could-trigger-100-nbis-tradingkey"
     }
   ]
 }
