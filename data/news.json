@@ -1,107 +1,109 @@
 {
-  "generatedAt": "2026-11-15T03:33:21.933Z",
+  "generatedAt": "2026-11-16T01:28:19.280Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
-      "title": "Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線",
-      "originalTitle": "Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線",
-      "translatedTitle": "Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線",
-      "translationNote": "系統翻譯，請以原文為準",
+      "title": "矽谷科技巨頭押注川普恐踢鐵板！OpenAI、Meta政治豪賭埋下AI產業隱憂",
+      "originalTitle": "矽谷科技巨頭押注川普恐踢鐵板！OpenAI、Meta政治豪賭埋下AI產業隱憂",
+      "translatedTitle": "矽谷科技巨頭押注川普恐踢鐵板！OpenAI、Meta政治豪賭埋下AI產業隱憂",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "Mashdigi",
-      "publishedAt": "2026-11-14T17:00:57.000Z",
-      "fact": "Mashdigi 報導：Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 佈局個人化智慧生態，串聯 Google Wallet 走與 OpenAI 相反的唯讀路線 &nbsp;&nbsp; Mashdigi。",
+      "source": "鉅亨網",
+      "publishedAt": "2026-11-15T12:44:38.000Z",
+      "fact": "鉅亨網 報導：矽谷科技巨頭押注川普恐踢鐵板！OpenAI、Meta政治豪賭埋下AI產業隱憂",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；矽谷科技巨頭押注川普恐踢鐵板！OpenAI、Meta政治豪賭埋下AI產業隱憂 &nbsp;&nbsp; 鉅亨網。",
       "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
         "OpenAI",
-        "Google",
+        "Meta",
         "AI"
       ],
-      "url": "https://mashdigi.com/gemini-google-wallet-plaid-integration-finance-ai/"
+      "url": "https://news.cnyes.com/news/id/6662917"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "手機自己傳LINE？Google Gemini擴大新功能 134款App曝光",
-      "originalTitle": "手機自己傳LINE？Google Gemini擴大新功能　134款App曝光",
-      "translatedTitle": "手機自己傳LINE？Google Gemini擴大新功能 134款App曝光",
+      "title": "Google Gemini 4 Hydrogen 登場 速度與智能全面躍升",
+      "originalTitle": "Google Gemini 4 Hydrogen 登場 速度與智能全面躍升",
+      "translatedTitle": "Google Gemini 4 Hydrogen 登場 速度與智能全面躍升",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "自由電子報3C科技",
-      "publishedAt": "2026-11-14T05:09:00.000Z",
-      "fact": "自由電子報3C科技 報導：手機自己傳LINE？Google Gemini擴大新功能 134款App曝光",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；手機自己傳LINE？Google Gemini擴大新功能 134款App曝光 &nbsp;&nbsp; 自由電子報3C科技。",
+      "source": "ENN台灣電報",
+      "publishedAt": "2026-11-15T11:40:05.000Z",
+      "fact": "ENN台灣電報 報導：Google Gemini 4 Hydrogen 登場 速度與智能全面躍升",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Gemini 4 Hydrogen 登場 速度與智能全面躍升 &nbsp;&nbsp; ENN台灣電報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Google"
       ],
-      "url": "https://3c.ltn.com.tw/news/68290"
+      "url": "https://enn.tw/807984/"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
-      "originalTitle": "Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
-      "translatedTitle": "Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "數位時代",
-      "publishedAt": "2026-11-13T08:00:00.000Z",
-      "fact": "數位時代 報導：Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google發表Gemini 4 Hydrogen！智慧指數小勝Argon，速度比3.8 Flash快2.5倍 &nbsp;&nbsp; 數位時代。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://www.bnext.com.tw/article/93061/gemini-4-hydrogen-launch"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "沒螢幕反而更強？三星首款 AI 眼鏡 Intellige",
-      "title": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
-      "originalTitle": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
-      "translatedTitle": "沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
+      "subject": "蘋果智慧眼鏡 N50 為什麼被稱臉上的 AirPods？",
+      "title": "蘋果智慧眼鏡 N50 為什麼被稱臉上的 AirPods？解析 Siri 與供應鏈量產進度",
+      "originalTitle": "蘋果智慧眼鏡 N50 為什麼被稱臉上的 AirPods？解析 Siri 與供應鏈量產進度",
+      "translatedTitle": "蘋果智慧眼鏡 N50 為什麼被稱臉上的 AirPods？解析 Siri 與供應鏈量產進度",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
-      "source": "T客邦",
-      "publishedAt": "2026-11-13T06:30:00.000Z",
-      "fact": "T客邦 報導：沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；沒螢幕反而更強？三星首款 AI 眼鏡 Intelligent Eyewear 規格曝光， 自動掃描筆記超方便 &nbsp;&nbsp; T客邦。",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-15T13:13:35.000Z",
+      "fact": "Mashdigi 報導：蘋果智慧眼鏡 N50 為什麼被稱臉上的 AirPods？解析 Siri 與供應鏈量產進度",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；蘋果智慧眼鏡 N50 為什麼被稱臉上的 AirPods？解析 Siri 與供應鏈量產進度 &nbsp;&nbsp; Mashdigi。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://www.techbang.com/posts/134611-samsung-ai-glasses-android-xr-gemini-launch"
+      "url": "https://mashdigi.com/apple-smart-glasses-n50-wwdc-2027-leaks/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google Android Auto重大升級！新功能只有這8款手機能用",
+      "originalTitle": "Google Android Auto重大升級！新功能只有這8款手機能用",
+      "translatedTitle": "Google Android Auto重大升級！新功能只有這8款手機能用",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "自由電子報3C科技",
+      "publishedAt": "2026-11-15T06:01:00.000Z",
+      "fact": "自由電子報3C科技 報導：Google Android Auto重大升級！新功能只有這8款手機能用",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Android Auto重大升級！新功能只有這8款手機能用 &nbsp;&nbsp; 自由電子報3C科技。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://3c.ltn.com.tw/news/68248"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Gemini 4 Hydrogen 登陸 Antigra",
-      "title": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
-      "originalTitle": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
-      "translatedTitle": "Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "Google",
+      "title": "Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察",
+      "originalTitle": "Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察",
+      "translatedTitle": "Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-11-13T07:53:20.000Z",
-      "fact": "OrcaRouter 報導：Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Hydrogen 登陸 Antigravity：該檢查哪些重點 &nbsp;&nbsp; OrcaRouter。",
+      "source": "Techapple.com",
+      "publishedAt": "2026-11-15T08:30:00.000Z",
+      "fact": "Techapple.com 報導：Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察 &nbsp;&nbsp; Techapple.com。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "Google",
+        "AI"
       ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-hydrogen-antigravity-rollout"
+      "url": "https://techapple.com/archives/66229"
     },
     {
       "id": "全球財經脈動-1",
@@ -124,7 +126,111 @@
       "url": "https://ocacnews.net/article/433921"
     },
     {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "《TAIPEI TIMES》 ‘輝達 loves Tai",
+      "title": "《TAIPEI TIMES》 ‘輝達 loves Taiwan,’ tech executive says",
+      "originalTitle": "《TAIPEI TIMES》 ‘Nvidia loves Taiwan,’ tech executive says",
+      "translatedTitle": "《TAIPEI TIMES》 ‘輝達 loves Taiwan,’ tech executive says",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "自由時報",
+      "publishedAt": "2026-11-15T19:00:00.000Z",
+      "fact": "自由時報 報導：《TAIPEI TIMES》 ‘輝達 loves Taiwan,’ tech executive says",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 ‘Nvidia loves Taiwan,’ tech executive says &nbsp;&nbsp; 自由時報。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5641933"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "Fed",
+      "title": "Fed Survey: 87% See AI as Top 風險 to US Financial System; AI Computing Debt Hits $680 Billion",
+      "originalTitle": "Fed Survey: 87% See AI as Top Risk to US Financial System; AI Computing Debt Hits $680 Billion",
+      "translatedTitle": "Fed Survey: 87% See AI as Top 風險 to US Financial System; AI Computing Debt Hits $680 Billion",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "VOCO News",
+      "publishedAt": "2026-11-15T07:08:41.000Z",
+      "fact": "VOCO News 報導：Fed Survey: 87% See AI as Top 風險 to US Financial System; AI Computing Debt Hits $680 Billion",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Fed Survey: 87% See AI as Top Risk to US Financial System; AI Computing Debt Hits $680 Billion &nbsp;&nbsp; VOCO News。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.vocofm.com/en/%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/209747/"
+    },
+    {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Anthropic",
+      "title": "AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
+      "originalTitle": "AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
+      "translatedTitle": "AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 晶片",
+      "source": "美股放大鏡",
+      "publishedAt": "2026-11-15T14:00:25.000Z",
+      "fact": "美股放大鏡 報導：AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來 &nbsp;&nbsp; 美股放大鏡。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Anthropic",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-e83b496a-e0fc-11f1-a97a-ec6ff6a7547d"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "Taiwan 半導體 Manufacturing Com",
+      "title": "Taiwan 半導體 Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄",
+      "originalTitle": "Taiwan Semiconductor Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄",
+      "translatedTitle": "Taiwan 半導體 Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "Yahoo 財經",
+      "publishedAt": "2026-11-15T12:44:05.000Z",
+      "fact": "Yahoo 財經 報導：Taiwan 半導體 Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Taiwan Semiconductor Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://hk.finance.yahoo.com/quote/TSM/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "黃仁勳去職後首場輝達財報說明會 法人看 AI 展望牽動台",
+      "title": "黃仁勳去職後首場輝達財報說明會 法人看 AI 展望牽動台股",
+      "originalTitle": "黃仁勳去職後首場輝達財報說明會 法人看 AI 展望牽動台股",
+      "translatedTitle": "黃仁勳去職後首場輝達財報說明會 法人看 AI 展望牽動台股",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-11-15T05:00:41.000Z",
+      "fact": "TechNews 科技新報 報導：黃仁勳去職後首場輝達財報說明會 法人看 AI 展望牽動台股",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；黃仁勳去職後首場輝達財報說明會 法人看 AI 展望牽動台股 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://finance.technews.tw/2026/11/15/nvidia-earnings-call-post-jensen-huang-departure-ai-outlook-impacts-taiwan-stocks/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "These 6 Battered AI 股票 Could",
       "title": "These 6 Battered AI 股票 Could Bounce Back Big, an Analyst Says",
@@ -145,91 +251,23 @@
       "url": "https://www.moomoo.com/hant/news/post/1004668337/these-6-battered-ai-stocks-could-bounce-back-big-an"
     },
     {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "JPMorgan's Q3 Holdings",
-      "title": "JPMorgan's Q3 Holdings: Significant Increase in 輝達 (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While 半導體 Hardware 股票 Face Systematic Reduction",
-      "originalTitle": "JPMorgan's Q3 Holdings: Significant Increase in NVIDIA (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While Semiconductor Hardware Stocks Face Systematic Reduction",
-      "translatedTitle": "JPMorgan's Q3 Holdings: Significant Increase in 輝達 (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While 半導體 Hardware 股票 Face Systematic Reduction",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-13T08:47:12.000Z",
-      "fact": "富途牛牛 報導：JPMorgan's Q3 Holdings: Significant Increase in 輝達 (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" While 半導體 Hardware 股票 Face Systematic Reduction",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；JPMorgan's Q3 Holdings: Significant Increase in NVIDIA (NVDA.US) Position; AI Computing Giant Remains the \"Anchor,\" Whil。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI",
-        "semiconductor",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1004437521/jpmorgan-s-q3-holdings-significant-increase-in-nvidia-nvdaus-position"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "JPMorgan's Q3 holdings",
-      "title": "JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
-      "originalTitle": "JPMorgan's Q3 holdings: Heavily increased positions in NVIDIA; AI computing power giants remain \"ballast stones,\" while semiconductor hardware stocks faced systematic reductions.",
-      "translatedTitle": "JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-13T09:35:10.000Z",
-      "fact": "富途牛牛 報導：JPMorgan's Q3 holdings: Heavily increased positions in 輝達; AI computing power giants remain \"ballast stones,\" while 半導體 hardware 股票 faced systematic reductions.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；JPMorgan's Q3 holdings: Heavily increased positions in NVIDIA; AI computing power giants remain \"ballast stones,\" while。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI",
-        "semiconductor",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1004437521/jpmorgan-s-q3-holdings-heavily-increased-positions-in-nvidia-ai"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達 in Crisis",
-      "title": "輝達 in Crisis: The 股票 Is Still a Buy — Barron’s",
-      "originalTitle": "Nvidia in Crisis: The Stock Is Still a Buy -- Barron's",
-      "translatedTitle": "輝達 in Crisis: The 股票 Is Still a Buy — Barron’s",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-14T02:30:00.000Z",
-      "fact": "Moomoo 報導：輝達 in Crisis: The 股票 Is Still a Buy — Barron’s",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia in Crisis: The Stock Is Still a Buy -- Barron's &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1004644261/nvidia-in-crisis-the-stock-is-still-a-buy-barron"
-    },
-    {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "U.S. 股票 Mixed on 輝達 Fallout ",
-      "title": "U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
-      "originalTitle": "U.S. Stocks Mixed on Nvidia Fallout Fears -- Update",
-      "translatedTitle": "U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "一週前瞻",
+      "title": "一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
+      "originalTitle": "一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
+      "translatedTitle": "一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-13T22:06:00.000Z",
-      "fact": "Moomoo 報導：U.S. 股票 Mixed on 輝達 Fallout Fears — Update",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；U.S. Stocks Mixed on Nvidia Fallout Fears -- Update &nbsp;&nbsp; Moomoo。",
+      "source": "TradingKey",
+      "publishedAt": "2026-11-15T06:06:16.000Z",
+      "fact": "TradingKey 報導：一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "Nvidia",
-        "stocks"
+        "市場焦點"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1004629012/us-stocks-mixed-on-nvidia-fallout-fears-update"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262305826-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
     }
   ]
 }
