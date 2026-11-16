@@ -1,9 +1,50 @@
 {
-  "generatedAt": "2026-11-16T01:28:19.280Z",
+  "generatedAt": "2026-11-16T03:32:44.729Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google公布Gemini 4 Hydrogen，比前代快2.5倍",
+      "originalTitle": "Google公布Gemini 4 Hydrogen，比前代快2.5倍",
+      "translatedTitle": "Google公布Gemini 4 Hydrogen，比前代快2.5倍",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "iThome",
+      "publishedAt": "2026-11-16T03:05:20.000Z",
+      "fact": "iThome 報導：Google公布Gemini 4 Hydrogen，比前代快2.5倍",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google公布Gemini 4 Hydrogen，比前代快2.5倍 &nbsp;&nbsp; iThome。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://www.ithome.com.tw/news/180516"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Apple",
+      "title": "Apple Intelligence 免費時代終結！官方文件證實雲端 AI 有使用限制， 想多用得看系統臉色",
+      "originalTitle": "Apple Intelligence 免費時代終結！官方文件證實雲端 AI 有使用限制， 想多用得看系統臉色",
+      "translatedTitle": "Apple Intelligence 免費時代終結！官方文件證實雲端 AI 有使用限制， 想多用得看系統臉色",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "T客邦",
+      "publishedAt": "2026-11-16T01:30:00.000Z",
+      "fact": "T客邦 報導：Apple Intelligence 免費時代終結！官方文件證實雲端 AI 有使用限制， 想多用得看系統臉色",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Apple Intelligence 免費時代終結！官方文件證實雲端 AI 有使用限制， 想多用得看系統臉色 &nbsp;&nbsp; T客邦。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Apple",
+        "AI"
+      ],
+      "url": "https://www.techbang.com/posts/134857-apple-intelligence-paid-tier-icloud-plus"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "矽谷科技巨頭押注川普恐踢鐵板！OpenAI、Meta政治豪賭埋下AI產業隱憂",
@@ -25,27 +66,7 @@
       "url": "https://news.cnyes.com/news/id/6662917"
     },
     {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google Gemini 4 Hydrogen 登場 速度與智能全面躍升",
-      "originalTitle": "Google Gemini 4 Hydrogen 登場 速度與智能全面躍升",
-      "translatedTitle": "Google Gemini 4 Hydrogen 登場 速度與智能全面躍升",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "ENN台灣電報",
-      "publishedAt": "2026-11-15T11:40:05.000Z",
-      "fact": "ENN台灣電報 報導：Google Gemini 4 Hydrogen 登場 速度與智能全面躍升",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Gemini 4 Hydrogen 登場 速度與智能全面躍升 &nbsp;&nbsp; ENN台灣電報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://enn.tw/807984/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "蘋果智慧眼鏡 N50 為什麼被稱臉上的 AirPods？",
       "title": "蘋果智慧眼鏡 N50 為什麼被稱臉上的 AirPods？解析 Siri 與供應鏈量產進度",
@@ -65,45 +86,24 @@
       "url": "https://mashdigi.com/apple-smart-glasses-n50-wwdc-2027-leaks/"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "Google Android Auto重大升級！新功能只有這8款手機能用",
-      "originalTitle": "Google Android Auto重大升級！新功能只有這8款手機能用",
-      "translatedTitle": "Google Android Auto重大升級！新功能只有這8款手機能用",
+      "title": "手機自己傳LINE？Google Gemini擴大新功能 134款App曝光",
+      "originalTitle": "手機自己傳LINE？Google Gemini擴大新功能　134款App曝光",
+      "translatedTitle": "手機自己傳LINE？Google Gemini擴大新功能 134款App曝光",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
+      "category": "前沿模型",
       "source": "自由電子報3C科技",
-      "publishedAt": "2026-11-15T06:01:00.000Z",
-      "fact": "自由電子報3C科技 報導：Google Android Auto重大升級！新功能只有這8款手機能用",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Android Auto重大升級！新功能只有這8款手機能用 &nbsp;&nbsp; 自由電子報3C科技。",
+      "publishedAt": "2026-11-14T05:09:00.000Z",
+      "fact": "自由電子報3C科技 報導：手機自己傳LINE？Google Gemini擴大新功能 134款App曝光",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；手機自己傳LINE？Google Gemini擴大新功能 134款App曝光 &nbsp;&nbsp; 自由電子報3C科技。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Google"
       ],
-      "url": "https://3c.ltn.com.tw/news/68248"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察",
-      "originalTitle": "Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察",
-      "translatedTitle": "Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "Techapple.com",
-      "publishedAt": "2026-11-15T08:30:00.000Z",
-      "fact": "Techapple.com 報導：Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Wallet 正式接入 Gemini 美國全量用戶可用 經 Plaid 連銀行戶口解鎖個人理財洞察 &nbsp;&nbsp; Techapple.com。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://techapple.com/archives/66229"
+      "url": "https://3c.ltn.com.tw/news/68290"
     },
     {
       "id": "全球財經脈動-1",
@@ -167,50 +167,27 @@
       "url": "https://news.vocofm.com/en/%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/209747/"
     },
     {
-      "id": "美股與全球市場焦點-1",
-      "section": "美股與全球市場焦點",
-      "subject": "Anthropic",
-      "title": "AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
-      "originalTitle": "AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
-      "translatedTitle": "AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 晶片",
-      "source": "美股放大鏡",
-      "publishedAt": "2026-11-15T14:00:25.000Z",
-      "fact": "美股放大鏡 報導：AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來 &nbsp;&nbsp; 美股放大鏡。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Anthropic",
-        "Nvidia",
-        "AI"
-      ],
-      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-e83b496a-e0fc-11f1-a97a-ec6ff6a7547d"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Taiwan 半導體 Manufacturing Com",
-      "title": "Taiwan 半導體 Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄",
-      "originalTitle": "Taiwan Semiconductor Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄",
-      "translatedTitle": "Taiwan 半導體 Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄",
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "South Korea's October ICT Ex",
+      "title": "South Korea's October ICT Exports Hit US$70.35 Billion, Up 202% Year-on-Year — 半導體 Exports Surge 259.4%",
+      "originalTitle": "South Korea's October ICT Exports Hit US$70.35 Billion, Up 202% Year-on-Year — Semiconductor Exports Surge 259.4%",
+      "translatedTitle": "South Korea's October ICT Exports Hit US$70.35 Billion, Up 202% Year-on-Year — 半導體 Exports Surge 259.4%",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 晶片",
-      "source": "Yahoo 財經",
-      "publishedAt": "2026-11-15T12:44:05.000Z",
-      "fact": "Yahoo 財經 報導：Taiwan 半導體 Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Taiwan Semiconductor Manufacturing Company Limited (TSM) 股價、新聞、報價和記錄 &nbsp;&nbsp; Yahoo 財經。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "source": "VOCO News",
+      "publishedAt": "2026-11-16T00:08:23.000Z",
+      "fact": "VOCO News 報導：South Korea's October ICT Exports Hit US$70.35 Billion, Up 202% Year-on-Year — 半導體 Exports Surge 259.4%",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；South Korea's October ICT Exports Hit US$70.35 Billion, Up 202% Year-on-Year — Semiconductor Exports Surge 259.4% &nbsp;。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "市場焦點",
-        "AI",
+        "全球財經",
         "semiconductor"
       ],
-      "url": "https://hk.finance.yahoo.com/quote/TSM/"
+      "url": "https://news.vocofm.com/en/%E8%B2%A1%E7%B6%93%E6%96%B0%E8%81%9E/209823/"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
       "subject": "黃仁勳去職後首場輝達財報說明會 法人看 AI 展望牽動台",
       "title": "黃仁勳去職後首場輝達財報說明會 法人看 AI 展望牽動台股",
@@ -228,6 +205,44 @@
         "AI"
       ],
       "url": "https://finance.technews.tw/2026/11/15/nvidia-earnings-call-post-jensen-huang-departure-ai-outlook-impacts-taiwan-stocks/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "【與前野村證券合作】半導體股，這波反彈是真的嗎？🤔",
+      "title": "【與前野村證券合作】半導體股，這波反彈是真的嗎？🤔",
+      "originalTitle": "【與前野村證券合作】半導體股，這波反彈是真的嗎？🤔",
+      "translatedTitle": "【與前野村證券合作】半導體股，這波反彈是真的嗎？🤔",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-15T08:59:40.000Z",
+      "fact": "Moomoo 報導：【與前野村證券合作】半導體股，這波反彈是真的嗎？🤔",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【與前野村證券合作】半導體股，這波反彈是真的嗎？🤔 &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.moomoo.com/hant/community/feed/in-collaboration-with-nomura-securities-semiconductor-stocks-is-this-rally-117619633684486"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "一週前瞻",
+      "title": "一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
+      "originalTitle": "一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
+      "translatedTitle": "一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "TradingKey",
+      "publishedAt": "2026-11-15T06:06:16.000Z",
+      "fact": "TradingKey 報導：一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262305826-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
     },
     {
       "id": "美股與全球市場焦點-4",
@@ -253,21 +268,24 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "一週前瞻",
-      "title": "一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
-      "originalTitle": "一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
-      "translatedTitle": "一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
+      "subject": "Anthropic",
+      "title": "AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
+      "originalTitle": "AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
+      "translatedTitle": "AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-11-15T06:06:16.000Z",
-      "fact": "TradingKey 報導：一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；一週前瞻：輝達Q3財報重磅來襲，美國10月零售銷售，FOMC會議紀錄與沃爾瑪財報接連登場 &nbsp;&nbsp; TradingKey。",
+      "category": "AI 晶片",
+      "source": "美股放大鏡",
+      "publishedAt": "2026-11-15T14:00:25.000Z",
+      "fact": "美股放大鏡 報導：AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI 金錢風暴：Anthropic 超級IPO點燃矽谷豪賭，Nvidia 震盪下雲端巨頭押上未來 &nbsp;&nbsp; 美股放大鏡。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "Anthropic",
+        "Nvidia",
+        "AI"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262305826-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
+      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-e83b496a-e0fc-11f1-a97a-ec6ff6a7547d"
     }
   ]
 }
