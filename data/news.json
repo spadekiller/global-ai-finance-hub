@@ -1,9 +1,30 @@
 {
-  "generatedAt": "2026-11-18T03:13:55.084Z",
+  "generatedAt": "2026-11-18T04:56:53.152Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "GPT-6.2 Astra與Sol登場！OpenAI旗艦模型降價2成、3D評測奪冠，寫程式代理卻遭疑原地踏步",
+      "originalTitle": "GPT-6.2 Astra與Sol登場！OpenAI旗艦模型降價2成、3D評測奪冠，寫程式代理卻遭疑原地踏步",
+      "translatedTitle": "GPT-6.2 Astra與Sol登場！OpenAI旗艦模型降價2成、3D評測奪冠，寫程式代理卻遭疑原地踏步",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "數位時代",
+      "publishedAt": "2026-11-18T03:50:00.000Z",
+      "fact": "數位時代 報導：GPT-6.2 Astra與Sol登場！OpenAI旗艦模型降價2成、3D評測奪冠，寫程式代理卻遭疑原地踏步",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；GPT-6.2 Astra與Sol登場！OpenAI旗艦模型降價2成、3D評測奪冠，寫程式代理卻遭疑原地踏步 &nbsp;&nbsp; 數位時代。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://www.bnext.com.tw/article/93103/openai-gpt-6-2-astra-sol-launch"
+    },
+    {
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "GPT",
       "title": "GPT-6.2 Astra 來了！官方喊史上最強，自家系統卡卻承認「更容易被越獄」",
@@ -22,7 +43,7 @@
       "url": "https://www.kocpc.com.tw/archives/703800"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "AI 財經快訊：California sues OpenAI over AI models’ cyberattacks on Hugging Face, other companies",
@@ -43,7 +64,7 @@
       "url": "https://hk.news.yahoo.com/us/articles/california-sues-openai-over-ai-184749383.html"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "範式智能發佈Phai系列兩款模型",
       "title": "範式智能發佈Phai系列兩款模型",
@@ -63,7 +84,7 @@
       "url": "https://news.futunn.com/hk/flash/1004821092/paradigm-intelligence-releases-two-models-in-the-phai-series"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "COP31首份全球AI氣候承諾出爐！台灣企業為何觀望？美",
       "title": "COP31首份全球AI氣候承諾出爐！台灣企業為何觀望？美中歐盟與科技巨頭都缺席",
@@ -83,43 +104,24 @@
       "url": "https://esg.businesstoday.com.tw/article/category/180687/post/202611170034/COP31%E9%A6%96%E4%BB%BD%E5%85%A8%E7%90%83AI%E6%B0%A3%E5%80%99%E6%89%BF%E8%AB%BE%E5%87%BA%E7%88%90%EF%BC%81%E5%8F%B0%E7%81%A3%E4%BC%81%E6%A5%AD%E7%82%BA%E4%BD%95%E8%A7%80%E6%9C%9B%EF%BC%9F%E7%BE%8E%E4%B8%AD%E6%AD%90%E7%9B%9F%E8%88%87%E7%A7%91%E6%8A%80%E5%B7%A8%E9%A0%AD%E9%83%BD%E7%BC%BA%E5%B8%AD"
     },
     {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "$99SMART (5326.MY)$ • 除淨日（Ex",
-      "title": "$99SMART (5326.MY)$ • 除淨日（Ex-Date）。落在2026年12月1日，股東需在此日期前持有股...",
-      "originalTitle": "$99SMART (5326.MY)$ • 除淨日（Ex-Date）。落在2026年12月1日，股東需在此日期前持有股...",
-      "translatedTitle": "$99SMART (5326.MY)$ • 除淨日（Ex-Date）。落在2026年12月1日，股東需在此日期前持有股...",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-17T16:37:01.000Z",
-      "fact": "Moomoo 報導：$99SMART (5326.MY)$ • 除淨日（Ex-Date）。落在2026年12月1日，股東需在此日期前持有股...",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；$99SMART (5326.MY)$ • 除淨日（Ex-Date）。落在2026年12月1日，股東需在此日期前持有股... &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.moomoo.com/hant/community/feed/99smart-5326-my-ex-date-occurring-on-december-1-2026-117632756678662"
-    },
-    {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "AAEON Technology Inc. 財報 Cal",
-      "title": "AAEON Technology Inc. 財報 Call — November 17, 2026",
-      "originalTitle": "AAEON Technology Inc. Earnings Call - November 17, 2026",
-      "translatedTitle": "AAEON Technology Inc. 財報 Call — November 17, 2026",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "finance.biggo.com",
-      "publishedAt": "2026-11-17T10:31:01.000Z",
-      "fact": "finance.biggo.com 報導：AAEON Technology Inc. 財報 Call — November 17, 2026",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AAEON Technology Inc. Earnings Call - November 17, 2026 &nbsp;&nbsp; finance.biggo.com。",
+      "subject": "美國堵中國「海外租 GPU」漏洞！BIS 新規將遠端 A",
+      "title": "美國堵中國「海外租 GPU」漏洞！BIS 新規將遠端 AI 算力納入出口管制",
+      "originalTitle": "美國堵中國「海外租 GPU」漏洞！BIS 新規將遠端 AI 算力納入出口管制",
+      "translatedTitle": "美國堵中國「海外租 GPU」漏洞！BIS 新規將遠端 AI 算力納入出口管制",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "全球財經",
+      "source": "XFastest News",
+      "publishedAt": "2026-11-17T19:00:00.000Z",
+      "fact": "XFastest News 報導：美國堵中國「海外租 GPU」漏洞！BIS 新規將遠端 AI 算力納入出口管制",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；美國堵中國「海外租 GPU」漏洞！BIS 新規將遠端 AI 算力納入出口管制 &nbsp;&nbsp; XFastest News。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "earnings"
+        "AI"
       ],
-      "url": "https://finance.biggo.com/quote/6579.TW/earnings-call/TW_6579.TW_2026-11-17"
+      "url": "https://news.xfastest.com/170241/ai-3/"
     },
     {
       "id": "全球財經脈動-2",
@@ -185,22 +187,22 @@
     {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Singapore seeks ‘trusted access’ to AI chips after US curbs",
-      "originalTitle": "Singapore seeks ‘trusted access’ to AI chips after US curbs",
-      "translatedTitle": "AI 財經快訊：Singapore seeks ‘trusted access’ to AI chips after US curbs",
+      "subject": "AAEON Technology Inc. 財報 Cal",
+      "title": "AAEON Technology Inc. 財報 Call — November 17, 2026",
+      "originalTitle": "AAEON Technology Inc. Earnings Call - November 17, 2026",
+      "translatedTitle": "AAEON Technology Inc. 財報 Call — November 17, 2026",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "Macau Business",
-      "publishedAt": "2026-11-17T05:03:01.000Z",
-      "fact": "Macau Business 報導：AI 財經快訊：Singapore seeks ‘trusted access’ to AI chips after US curbs",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Singapore seeks ‘trusted access’ to AI chips after US curbs &nbsp;&nbsp; Macau Business。",
+      "category": "市場焦點",
+      "source": "finance.biggo.com",
+      "publishedAt": "2026-11-17T10:31:01.000Z",
+      "fact": "finance.biggo.com 報導：AAEON Technology Inc. 財報 Call — November 17, 2026",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AAEON Technology Inc. Earnings Call - November 17, 2026 &nbsp;&nbsp; finance.biggo.com。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI"
+        "earnings"
       ],
-      "url": "https://macaubusiness.com/singapore-seeks-trusted-access-to-ai-chips-after-us-curbs/"
+      "url": "https://finance.biggo.com/quote/6579.TW/earnings-call/TW_6579.TW_2026-11-17"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -228,6 +230,29 @@
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
+      "subject": "Is the situation not that ba",
+      "title": "Is the situation not that bad? Following 輝達's 財報 call, 雲端 computing concept 股票 staged a strong rebound.",
+      "originalTitle": "Is the situation not that bad? Following NVIDIA's earnings call, cloud computing concept stocks staged a strong rebound.",
+      "translatedTitle": "Is the situation not that bad? Following 輝達's 財報 call, 雲端 computing concept 股票 staged a strong rebound.",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-18T02:42:00.000Z",
+      "fact": "富途牛牛 報導：Is the situation not that bad? Following 輝達's 財報 call, 雲端 computing concept 股票 staged a strong rebound.",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Is the situation not that bad? Following NVIDIA's earnings call, cloud computing concept stocks staged a strong rebound.。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "earnings",
+        "stocks",
+        "cloud"
+      ],
+      "url": "https://news.futunn.com/en/post/1004836941/is-the-situation-not-that-bad-following-nvidia-s-earnings"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
       "subject": "Why Micron and SanDisk 股票 Ar",
       "title": "Why Micron and SanDisk 股票 Are Falling Before 輝達 財報",
       "originalTitle": "Why Micron and SanDisk Stocks Are Falling Before Nvidia Earnings",
@@ -248,7 +273,7 @@
       "url": "https://tw.tradingview.com/news/gurufocus:84ef2314b094b:0-why-micron-and-sandisk-stocks-are-falling-before-nvidia-earnings/"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Micron",
       "title": "Micron, SK hynix, and Sandisk 股價 plummet, what you need to know",
@@ -267,7 +292,7 @@
       "url": "https://tw.tradingview.com/news/stockstory:e5aef4f39094b:0-micron-sk-hynix-and-sandisk-shares-plummet-what-you-need-to-know/"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：The rotation away from AI and into value is real, says Bahnsen Group’s David Bahnsen",
@@ -285,26 +310,6 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/seekingalpha:f521f7b11094b:0-the-rotation-away-from-ai-and-into-value-is-real-says-bahnsen-group-s-david-bahnsen/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達財報前瞻",
-      "title": "輝達財報前瞻：NVDA 再跌 4% 、比特幣失守 6.5 萬，AI 股與 BTC 能否重新同步？",
-      "originalTitle": "輝達財報前瞻：NVDA 再跌 4% 、比特幣失守 6.5 萬，AI 股與 BTC 能否重新同步？",
-      "translatedTitle": "輝達財報前瞻：NVDA 再跌 4% 、比特幣失守 6.5 萬，AI 股與 BTC 能否重新同步？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "區塊客",
-      "publishedAt": "2026-11-17T03:49:16.000Z",
-      "fact": "區塊客 報導：輝達財報前瞻：NVDA 再跌 4% 、比特幣失守 6.5 萬，AI 股與 BTC 能否重新同步？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達財報前瞻：NVDA 再跌 4% 、比特幣失守 6.5 萬，AI 股與 BTC 能否重新同步？ &nbsp;&nbsp; 區塊客。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://blockcast.it/2026/11/17/nvidia-earnings-preview-ai-stocks-bitcoin-correlation/"
     }
   ]
 }
