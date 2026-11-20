@@ -1,48 +1,30 @@
 {
-  "generatedAt": "2026-11-20T02:45:12.575Z",
+  "generatedAt": "2026-11-20T04:41:05.115Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
-      "originalTitle": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
-      "translatedTitle": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "OpenAI",
+      "title": "OpenAI稱AI改寫AMD電路，部分設計已送製造",
+      "originalTitle": "OpenAI稱AI改寫AMD電路，部分設計已送製造",
+      "translatedTitle": "OpenAI稱AI改寫AMD電路，部分設計已送製造",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-20T00:35:25.000Z",
-      "fact": "Yahoo 報導：Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon &nbsp;&nbsp; Yahoo。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "source": "maygoddejia.com.tw",
+      "publishedAt": "2026-11-19T22:30:54.000Z",
+      "fact": "maygoddejia.com.tw 報導：OpenAI稱AI改寫AMD電路，部分設計已送製造",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI稱AI改寫AMD電路，部分設計已送製造 &nbsp;&nbsp; maygoddejia.com.tw。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "OpenAI",
+        "AI"
       ],
-      "url": "https://hk.news.yahoo.com/argon-%E6%8E%A8%E5%87%BA%E4%B8%8D%E4%B9%85%E5%B7%B2%E6%9C%89%E6%9B%BF%E4%BB%A3%E5%93%81-google-%E5%8D%B3%E6%97%A5%E8%B5%B7%E6%8E%A8%E5%87%BA%E6%96%B0%E9%AB%98%E9%9A%8E%E6%A8%A1%E5%9E%8B-gemini-003027865.html"
+      "url": "https://maygoddejia.com.tw/openai-amd-rtl-chip-design/"
     },
     {
       "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、N",
-      "title": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
-      "originalTitle": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
-      "translatedTitle": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "台視全球資訊網",
-      "publishedAt": "2026-11-19T09:21:40.000Z",
-      "fact": "台視全球資訊網 報導：《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA &nbsp;&nbsp; 台視全球資訊網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.ttv.com.tw/finance/view/default.asp?i"
-    },
-    {
-      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Google",
       "title": "AI 財經快訊：Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs",
@@ -63,26 +45,43 @@
       "url": "https://mashdigi.com/intl/en/google-gemini-4-neon-api-price-antigravity-coding/"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？",
-      "originalTitle": "Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？",
-      "translatedTitle": "Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？",
+      "subject": "Google",
+      "title": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
+      "originalTitle": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
+      "translatedTitle": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "TechOrange 科技報橘",
-      "publishedAt": "2026-11-19T04:39:05.000Z",
-      "fact": "TechOrange 科技報橘 報導：Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？ &nbsp;&nbsp; TechOrange 科技報橘。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-20T00:35:25.000Z",
+      "fact": "Yahoo 報導：Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon &nbsp;&nbsp; Yahoo。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "OpenAI",
-        "Anthropic",
-        "AI"
+        "Google"
       ],
-      "url": "https://techorange.com/2026/11/19/google-ai-models-gemini-4-neon/"
+      "url": "https://hk.news.yahoo.com/argon-%E6%8E%A8%E5%87%BA%E4%B8%8D%E4%B9%85%E5%B7%B2%E6%9C%89%E6%9B%BF%E4%BB%A3%E5%93%81-google-%E5%8D%B3%E6%97%A5%E8%B5%B7%E6%8E%A8%E5%87%BA%E6%96%B0%E9%AB%98%E9%9A%8E%E6%A8%A1%E5%9E%8B-gemini-003027865.html"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、N",
+      "title": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
+      "originalTitle": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
+      "translatedTitle": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "台視全球資訊網",
+      "publishedAt": "2026-11-19T09:20:29.000Z",
+      "fact": "台視全球資訊網 報導：《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA &nbsp;&nbsp; 台視全球資訊網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.ttv.com.tw/finance/view/112026191531A4C2103089BC439CB6F9D09137BC0757A91B/587"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -252,6 +251,26 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
+      "subject": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6",
+      "title": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
+      "originalTitle": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
+      "translatedTitle": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "市場焦點",
+      "source": "區塊客",
+      "publishedAt": "2026-11-18T04:43:17.000Z",
+      "fact": "區塊客 報導：輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？ &nbsp;&nbsp; 區塊客。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://blockcast.it/2026/11/18/nvidia-earnings-115-billion-bitcoin-ai-stocks/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
       "subject": "Major U.S. 股票 Indexes Slip A",
       "title": "Major U.S. 股票 Indexes Slip After 輝達 財報 Fail to Soothe Nerves — WSJ",
       "originalTitle": "Major U.S. Stock Indexes Slip After Nvidia Earnings Fail to Soothe Nerves -- WSJ",
@@ -272,7 +291,7 @@
       "url": "https://www.moomoo.com/hant/news/post/1005068282/major-us-stock-indexes-slip-after-nvidia-earnings-fail-to"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Anthropic",
       "title": "輝達 財報 release + Anthropic IPO: Is the AI supply ch... — Futubull Community",
