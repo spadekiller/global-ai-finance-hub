@@ -1,109 +1,173 @@
 {
-  "generatedAt": "2026-11-19T02:52:45.679Z",
+  "generatedAt": "2026-11-20T02:45:12.575Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Nvidia",
-      "title": "AI 熱潮狂飆卻遇領袖變天：Nvidia被「投票出局」，Intel奪回晶片製造話語權？",
-      "originalTitle": "AI 熱潮狂飆卻遇領袖變天：Nvidia被「投票出局」，Intel奪回晶片製造話語權？",
-      "translatedTitle": "AI 熱潮狂飆卻遇領袖變天：Nvidia被「投票出局」，Intel奪回晶片製造話語權？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 晶片",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-11-19T02:00:26.000Z",
-      "fact": "CMoney投資網誌 報導：AI 熱潮狂飆卻遇領袖變天：Nvidia被「投票出局」，Intel奪回晶片製造話語權？",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 熱潮狂飆卻遇領袖變天：Nvidia被「投票出局」，Intel奪回晶片製造話語權？ &nbsp;&nbsp; CMoney投資網誌。",
+      "subject": "Google",
+      "title": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
+      "originalTitle": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
+      "translatedTitle": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "Yahoo",
+      "publishedAt": "2026-11-20T00:35:25.000Z",
+      "fact": "Yahoo 報導：Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon &nbsp;&nbsp; Yahoo。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Nvidia",
-        "AI"
+        "Google"
       ],
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-fd5a0b7c-e3bc-11f1-87f4-272b89d7a704"
+      "url": "https://hk.news.yahoo.com/argon-%E6%8E%A8%E5%87%BA%E4%B8%8D%E4%B9%85%E5%B7%B2%E6%9C%89%E6%9B%BF%E4%BB%A3%E5%93%81-google-%E5%8D%B3%E6%97%A5%E8%B5%B7%E6%8E%A8%E5%87%BA%E6%96%B0%E9%AB%98%E9%9A%8E%E6%A8%A1%E5%9E%8B-gemini-003027865.html"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google推出Gemini 4 Neon！主打高效AI推理、程式開發能力 成本最高降低60%",
-      "originalTitle": "Google推出Gemini 4 Neon！主打高效AI推理、程式開發能力　成本最高降低60%",
-      "translatedTitle": "Google推出Gemini 4 Neon！主打高效AI推理、程式開發能力 成本最高降低60%",
+      "subject": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、N",
+      "title": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
+      "originalTitle": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
+      "translatedTitle": "《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "台視全球資訊網",
+      "publishedAt": "2026-11-19T09:21:40.000Z",
+      "fact": "台視全球資訊網 報導：《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA &nbsp;&nbsp; 台視全球資訊網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.ttv.com.tw/finance/view/default.asp?i"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "AI 財經快訊：Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs",
+      "originalTitle": "Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs",
+      "translatedTitle": "AI 財經快訊：Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "ETtoday AI科技",
-      "publishedAt": "2026-11-19T01:09:00.000Z",
-      "fact": "ETtoday AI科技 報導：Google推出Gemini 4 Neon！主打高效AI推理、程式開發能力 成本最高降低60%",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google推出Gemini 4 Neon！主打高效AI推理、程式開發能力 成本最高降低60% &nbsp;&nbsp; ETtoday AI科技。",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-19T13:56:51.000Z",
+      "fact": "Mashdigi 報導：AI 財經快訊：Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs &nbsp;&nbsp; Mashdigi。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Google",
         "AI"
       ],
-      "url": "https://ai.ettoday.net/news/3274652"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Gemini 4 Neon 基準測試",
-      "title": "Gemini 4 Neon 基準測試：61 是 xhigh，預設是 59.6",
-      "originalTitle": "Gemini 4 Neon 基準測試：61 是 xhigh，預設是 59.6",
-      "translatedTitle": "Gemini 4 Neon 基準測試：61 是 xhigh，預設是 59.6",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-11-19T01:50:25.000Z",
-      "fact": "OrcaRouter 報導：Gemini 4 Neon 基準測試：61 是 xhigh，預設是 59.6",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Neon 基準測試：61 是 xhigh，預設是 59.6 &nbsp;&nbsp; OrcaRouter。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-neon-benchmark-independent"
+      "url": "https://mashdigi.com/intl/en/google-gemini-4-neon-api-price-antigravity-coding/"
     },
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 推出 Gemini 4 Neon，主打程式開發與企業工作負載的平價前沿模型",
-      "originalTitle": "Google 推出 Gemini 4 Neon，主打程式開發與企業工作負載的平價前沿模型",
-      "translatedTitle": "Google 推出 Gemini 4 Neon，主打程式開發與企業工作負載的平價前沿模型",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "OpenAI",
+      "title": "Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？",
+      "originalTitle": "Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？",
+      "translatedTitle": "Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "BigGo 財經",
-      "publishedAt": "2026-11-18T22:25:00.000Z",
-      "fact": "BigGo 財經 報導：Google 推出 Gemini 4 Neon，主打程式開發與企業工作負載的平價前沿模型",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 推出 Gemini 4 Neon，主打程式開發與企業工作負載的平價前沿模型 &nbsp;&nbsp; BigGo 財經。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "source": "TechOrange 科技報橘",
+      "publishedAt": "2026-11-19T04:39:05.000Z",
+      "fact": "TechOrange 科技報橘 報導：Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Neon 程式評測逼近Opus 5.5，API 標價卻比Anthropic、OpenAI 中階模型貴5 成：企業該怎麼算？ &nbsp;&nbsp; TechOrange 科技報橘。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "OpenAI",
+        "Anthropic",
+        "AI"
       ],
-      "url": "https://finance.biggo.com.tw/news/7a4c8255-7eec-46a0-91d2-6bd980991a64"
+      "url": "https://techorange.com/2026/11/19/google-ai-models-gemini-4-neon/"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "谷歌推出Gemini 4 Neon，智能指数排名第3得6",
-      "title": "谷歌推出Gemini 4 Neon，智能指数排名第3得61分",
-      "originalTitle": "谷歌推出Gemini 4 Neon，智能指数排名第3得61分",
-      "translatedTitle": "谷歌推出Gemini 4 Neon，智能指数排名第3得61分",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Google",
+      "title": "Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一",
+      "originalTitle": "Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一",
+      "translatedTitle": "Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "TradingView",
-      "publishedAt": "2026-11-18T22:01:01.000Z",
-      "fact": "TradingView 報導：谷歌推出Gemini 4 Neon，智能指数排名第3得61分",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；谷歌推出Gemini 4 Neon，智能指数排名第3得61分 &nbsp;&nbsp; TradingView。",
+      "source": "數位時代",
+      "publishedAt": "2026-11-19T02:50:00.000Z",
+      "fact": "數位時代 報導：Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一 &nbsp;&nbsp; 數位時代。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "Google",
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/panews:303a7e1d9acdf:0/"
+      "url": "https://www.bnext.com.tw/article/93119/google-gemini-4-neon-launch-pricing"
     },
     {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "SanDisk leads tech 股票 with b",
+      "title": "SanDisk leads tech 股票 with biggest Q3 財報 surprise",
+      "originalTitle": "SanDisk leads tech stocks with biggest Q3 earnings surprise",
+      "translatedTitle": "SanDisk leads tech 股票 with biggest Q3 財報 surprise",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-18T12:04:46.000Z",
+      "fact": "TradingView 報導：SanDisk leads tech 股票 with biggest Q3 財報 surprise",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；SanDisk leads tech stocks with biggest Q3 earnings surprise &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/seekingalpha:cadef280d094b:0-sandisk-leads-tech-stocks-with-biggest-q3-earnings-surprise/"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "If the AI Trade Unwinds",
+      "title": "If the AI Trade Unwinds, Other Pillars Holding up the U.S. 經濟 Are 'Irrelevant,' Says Barclays",
+      "originalTitle": "If the AI Trade Unwinds, Other Pillars Holding up the U.S. Economy Are 'Irrelevant,' Says Barclays",
+      "translatedTitle": "If the AI Trade Unwinds, Other Pillars Holding up the U.S. 經濟 Are 'Irrelevant,' Says Barclays",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-19T17:16:25.000Z",
+      "fact": "富途牛牛 報導：If the AI Trade Unwinds, Other Pillars Holding up the U.S. 經濟 Are 'Irrelevant,' Says Barclays",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；If the AI Trade Unwinds, Other Pillars Holding up the U.S. Economy Are 'Irrelevant,' Says Barclays &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/1005045749/if-the-ai-trade-unwinds-other-pillars-holding-up-the"
+    },
+    {
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "See How 資料中心 Became the Grow",
+      "title": "See How 資料中心 Became the Growth Engine of America's Power Grid",
+      "originalTitle": "See How Data Centers Became the Growth Engine of America's Power Grid",
+      "translatedTitle": "See How 資料中心 Became the Growth Engine of America's Power Grid",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-19T11:16:55.000Z",
+      "fact": "Moomoo 報導：See How 資料中心 Became the Growth Engine of America's Power Grid",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；See How Data Centers Became the Growth Engine of America's Power Grid &nbsp;&nbsp; Moomoo。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "data center"
+      ],
+      "url": "https://www.moomoo.com/hant/news/post/1005172926/see-how-data-centers-became-the-growth-engine-of-america"
+    },
+    {
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "《TAIPEI TIMES》 輝達 issue part",
       "title": "《TAIPEI TIMES》 輝達 issue part of a supply chain trend: academic",
@@ -121,50 +185,10 @@
         "Nvidia",
         "AI"
       ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5645639"
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5645639"
     },
     {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：《TAIPEI TIMES》 Foreign minister Lin calls for closer ties with Texas",
-      "originalTitle": "《TAIPEI TIMES》 Foreign minister Lin calls for closer ties with Texas",
-      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 Foreign minister Lin calls for closer ties with Texas",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "自由時報",
-      "publishedAt": "2026-11-18T19:00:00.000Z",
-      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 Foreign minister Lin calls for closer ties with Texas",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 Foreign minister Lin calls for closer ties with Texas &nbsp;&nbsp; 自由時報。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.ltn.com.tw/amp/news/focus/breakingnews/5645636"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "AI 股票熱潮",
-      "title": "AI 股票熱潮：為何 2026 年美國中期選舉或將塑造未來能源、基礎設施及 AI 投資格局",
-      "originalTitle": "AI 股票熱潮：為何 2026 年美國中期選舉或將塑造未來能源、基礎設施及 AI 投資格局",
-      "translatedTitle": "AI 股票熱潮：為何 2026 年美國中期選舉或將塑造未來能源、基礎設施及 AI 投資格局",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "全球財經",
-      "source": "www.ig.com",
-      "publishedAt": "2026-11-17T16:51:21.000Z",
-      "fact": "www.ig.com 報導：AI 股票熱潮：為何 2026 年美國中期選舉或將塑造未來能源、基礎設施及 AI 投資格局",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AI 股票熱潮：為何 2026 年美國中期選舉或將塑造未來能源、基礎設施及 AI 投資格局 &nbsp;&nbsp; www.ig.com。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://www.ig.com/cn/trading-strategies/who-powers-the-ai-boom--what-the-2026-us-midterm-elections-coul-261022"
-    },
-    {
-      "id": "全球財經脈動-4",
+      "id": "全球財經脈動-5",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit?",
@@ -184,27 +208,49 @@
       "url": "https://news.futunn.com/hk/post/1004914605/the-ai-power-scramble-is-in-full-force-which-companies"
     },
     {
-      "id": "全球財經脈動-5",
-      "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit?",
-      "originalTitle": "The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit?",
-      "translatedTitle": "AI 財經快訊：The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit?",
+      "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Why Micron 股票 is falling des",
+      "title": "Why Micron 股票 is falling despite strong 輝達 results?",
+      "originalTitle": "Why Micron stock is falling despite strong Nvidia results?",
+      "translatedTitle": "Why Micron 股票 is falling despite strong 輝達 results?",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-18T14:46:28.000Z",
-      "fact": "Moomoo 報導：AI 財經快訊：The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit?",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit? &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-18T15:09:15.000Z",
+      "fact": "TradingView 報導：Why Micron 股票 is falling despite strong 輝達 results?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Micron stock is falling despite strong Nvidia results? &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "全球財經",
-        "AI"
+        "市場焦點",
+        "Nvidia"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1005050942/the-ai-power-scramble-is-in-full-force-which-companies"
+      "url": "https://tw.tradingview.com/news/invezz:255e12d6a094b:0-why-micron-stock-is-falling-despite-strong-nvidia-results/"
     },
     {
-      "id": "美股與全球市場焦點-1",
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "5 AI 股票 That Could Win After",
+      "title": "5 AI 股票 That Could Win After Huang’s 輝達 Exit",
+      "originalTitle": "5 AI Stocks That Could Win After Huang’s Nvidia Exit",
+      "translatedTitle": "5 AI 股票 That Could Win After Huang’s 輝達 Exit",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-18T18:35:06.000Z",
+      "fact": "TradingView 報導：5 AI 股票 That Could Win After Huang’s 輝達 Exit",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；5 AI Stocks That Could Win After Huang’s Nvidia Exit &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/investorplace:62bbc95ba094b:0-5-ai-stocks-that-could-win-after-huang-s-nvidia-exit/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "Major U.S. 股票 Indexes Slip A",
       "title": "Major U.S. 股票 Indexes Slip After 輝達 財報 Fail to Soothe Nerves — WSJ",
@@ -213,7 +259,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "Moomoo",
-      "publishedAt": "2026-11-18T17:43:56.000Z",
+      "publishedAt": "2026-11-18T17:13:00.000Z",
       "fact": "Moomoo 報導：Major U.S. 股票 Indexes Slip After 輝達 財報 Fail to Soothe Nerves — WSJ",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Major U.S. Stock Indexes Slip After Nvidia Earnings Fail to Soothe Nerves -- WSJ &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
@@ -226,85 +272,27 @@
       "url": "https://www.moomoo.com/hant/news/post/1005068282/major-us-stock-indexes-slip-after-nvidia-earnings-fail-to"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Is the situation not that ba",
-      "title": "Is the situation not that bad? Following 輝達's 財報 call, 雲端 computing concept 股票 staged a strong rebound.",
-      "originalTitle": "Is the situation not that bad? Following NVIDIA's earnings call, cloud computing concept stocks staged a strong rebound.",
-      "translatedTitle": "Is the situation not that bad? Following 輝達's 財報 call, 雲端 computing concept 股票 staged a strong rebound.",
+      "subject": "Anthropic",
+      "title": "輝達 財報 release + Anthropic IPO: Is the AI supply ch... — Futubull Community",
+      "originalTitle": "NVIDIA earnings release + Anthropic IPO: Is the AI supply ch... - Futubull Community",
+      "translatedTitle": "輝達 財報 release + Anthropic IPO: Is the AI supply ch... — Futubull Community",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-18T02:42:00.000Z",
-      "fact": "富途牛牛 報導：Is the situation not that bad? Following 輝達's 財報 call, 雲端 computing concept 股票 staged a strong rebound.",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Is the situation not that bad? Following NVIDIA's earnings call, cloud computing concept stocks staged a strong rebound.。",
+      "publishedAt": "2026-11-19T23:55:30.000Z",
+      "fact": "富途牛牛 報導：輝達 財報 release + Anthropic IPO: Is the AI supply ch... — Futubull Community",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVIDIA earnings release + Anthropic IPO: Is the AI supply ch... - Futubull Community &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
+        "Anthropic",
         "Nvidia",
-        "earnings",
-        "stocks",
-        "cloud"
+        "AI",
+        "earnings"
       ],
-      "url": "https://news.futunn.com/en/post/1004836941/is-the-situation-not-that-bad-following-nvidia-s-earnings"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6",
-      "title": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
-      "originalTitle": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
-      "translatedTitle": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "區塊客",
-      "publishedAt": "2026-11-18T04:43:17.000Z",
-      "fact": "區塊客 報導：輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？ &nbsp;&nbsp; 區塊客。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://blockcast.it/2026/11/18/nvidia-earnings-115-billion-bitcoin-ai-stocks/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達Q3 營收1",
-      "title": "輝達Q3 營收1,158 億美元超預期！Q4 指引強勁| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "originalTitle": "輝達Q3 營收1,158 億美元超預期！Q4 指引強勁| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translatedTitle": "輝達Q3 營收1,158 億美元超預期！Q4 指引強勁| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "動區動趨",
-      "publishedAt": "2026-11-18T01:25:12.000Z",
-      "fact": "動區動趨 報導：輝達Q3 營收1,158 億美元超預期！Q4 指引強勁| 動區動趨-最具影響力的區塊鏈新聞媒體",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達Q3 營收1,158 億美元超預期！Q4 指引強勁| 動區動趨-最具影響力的區塊鏈新聞媒體 &nbsp;&nbsp; 動區動趨。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.blocktempo.com/nvidia-q3-earnings-beat-estimates-strong-q4-guidance-shares-rise/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "輝達Q3營收高增103%，下季營收指引達1300億美元，",
-      "title": "輝達Q3營收高增103%，下季營收指引達1300億美元，盤後股價一度上揚超4%",
-      "originalTitle": "輝達Q3營收高增103%，下季營收指引達1300億美元，盤後股價一度上揚超4%",
-      "translatedTitle": "輝達Q3營收高增103%，下季營收指引達1300億美元，盤後股價一度上揚超4%",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-11-17T21:46:05.000Z",
-      "fact": "TradingKey 報導：輝達Q3營收高增103%，下季營收指引達1300億美元，盤後股價一度上揚超4%",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達Q3營收高增103%，下季營收指引達1300億美元，盤後股價一度上揚超4% &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262309792-nvidia-earnings-report-q3-rubin-ramp-data-center-growth-revenue-guidance-gross-margin-tradingkey"
+      "url": "https://q.futunn.com/discussion/2243429968?chain_id"
     }
   ]
 }
