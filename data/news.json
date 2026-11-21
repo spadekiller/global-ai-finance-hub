@@ -1,68 +1,67 @@
 {
-  "generatedAt": "2026-11-20T04:41:05.115Z",
+  "generatedAt": "2026-11-21T02:54:56.924Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI稱AI改寫AMD電路，部分設計已送製造",
-      "originalTitle": "OpenAI稱AI改寫AMD電路，部分設計已送製造",
-      "translatedTitle": "OpenAI稱AI改寫AMD電路，部分設計已送製造",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Anthropic",
+      "title": "Anthropic 破紀錄IPO能否阻止AI泡沫破裂？",
+      "originalTitle": "Anthropic 破紀錄IPO能否阻止AI泡沫破裂？",
+      "translatedTitle": "Anthropic 破紀錄IPO能否阻止AI泡沫破裂？",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "maygoddejia.com.tw",
-      "publishedAt": "2026-11-19T22:30:54.000Z",
-      "fact": "maygoddejia.com.tw 報導：OpenAI稱AI改寫AMD電路，部分設計已送製造",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI稱AI改寫AMD電路，部分設計已送製造 &nbsp;&nbsp; maygoddejia.com.tw。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "source": "BBC",
+      "publishedAt": "2026-11-20T07:57:58.000Z",
+      "fact": "BBC 報導：Anthropic 破紀錄IPO能否阻止AI泡沫破裂？",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic 破紀錄IPO能否阻止AI泡沫破裂？ &nbsp;&nbsp; BBC。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "OpenAI",
+        "Anthropic",
         "AI"
       ],
-      "url": "https://maygoddejia.com.tw/openai-amd-rtl-chip-design/"
+      "url": "https://www.bbc.com/zhongwen/articles/cw7v2zlle4v4o/trad"
     },
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "AI 財經快訊：Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs",
-      "originalTitle": "Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs",
-      "translatedTitle": "AI 財經快訊：Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "Anthropic",
+      "title": "標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁",
+      "originalTitle": "標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁",
+      "translatedTitle": "標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "Mashdigi",
-      "publishedAt": "2026-11-19T13:56:51.000Z",
-      "fact": "Mashdigi 報導：AI 財經快訊：Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google Unveils Gemini 4 Neon: 3x Faster Than Carbon with 40% Lower Task Costs &nbsp;&nbsp; Mashdigi。",
+      "source": "美股放大鏡",
+      "publishedAt": "2026-11-20T11:39:39.000Z",
+      "fact": "美股放大鏡 報導：標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁 &nbsp;&nbsp; 美股放大鏡。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google",
-        "AI"
+        "Anthropic"
       ],
-      "url": "https://mashdigi.com/intl/en/google-gemini-4-neon-api-price-antigravity-coding/"
+      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-11a64076-e4d7-11f1-96c3-16c4bf41978d"
     },
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
-      "originalTitle": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
-      "translatedTitle": "Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-20T00:35:25.000Z",
-      "fact": "Yahoo 報導：Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Argon 推出不久已有替代品 Google 即日起推出新高階模型 Gemini 4 Neon &nbsp;&nbsp; Yahoo。",
+      "subject": "Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
+      "title": "Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
+      "originalTitle": "Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
+      "translatedTitle": "Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "鏈新聞 ABMedia",
+      "publishedAt": "2026-11-20T11:48:54.000Z",
+      "fact": "鏈新聞 ABMedia 報導：Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Signal 預設禁截圖，防手機內建 AI 代理讀聊天 &nbsp;&nbsp; 鏈新聞 ABMedia。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "Google"
+        "AI"
       ],
-      "url": "https://hk.news.yahoo.com/argon-%E6%8E%A8%E5%87%BA%E4%B8%8D%E4%B9%85%E5%B7%B2%E6%9C%89%E6%9B%BF%E4%BB%A3%E5%93%81-google-%E5%8D%B3%E6%97%A5%E8%B5%B7%E6%8E%A8%E5%87%BA%E6%96%B0%E9%AB%98%E9%9A%8E%E6%A8%A1%E5%9E%8B-gemini-003027865.html"
+      "url": "https://abmedia.io/signal-blocks-screenshots-ai-agents"
     },
     {
       "id": "ai-與科技前沿-4",
@@ -74,56 +73,55 @@
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "台視全球資訊網",
-      "publishedAt": "2026-11-19T09:20:29.000Z",
+      "publishedAt": "2026-11-19T09:21:40.000Z",
       "fact": "台視全球資訊網 報導：《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA",
       "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；《美股主題週報》生成式人工智慧—GOOGL、AMZN、NVDA &nbsp;&nbsp; 台視全球資訊網。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿"
       ],
-      "url": "https://www.ttv.com.tw/finance/view/112026191531A4C2103089BC439CB6F9D09137BC0757A91B/587"
+      "url": "https://www.ttv.com.tw/finance/view/default.asp?i"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "Google",
-      "title": "Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一",
-      "originalTitle": "Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一",
-      "translatedTitle": "Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一",
-      "translationNote": "系統翻譯，請以原文為準",
+      "title": "Google 聯手三星推 AI 智慧眼鏡遭秒殺，Gemini 語音助理成大賣點",
+      "originalTitle": "Google 聯手三星推 AI 智慧眼鏡遭秒殺，Gemini 語音助理成大賣點",
+      "translatedTitle": "Google 聯手三星推 AI 智慧眼鏡遭秒殺，Gemini 語音助理成大賣點",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "前沿模型",
-      "source": "數位時代",
-      "publishedAt": "2026-11-19T02:50:00.000Z",
-      "fact": "數位時代 報導：Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google AI變聰明了！Gemini 4 Neon緊追GPT-6.2與Claude Fable 5.2，寫程式奪第一 &nbsp;&nbsp; 數位時代。",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-11-19T03:57:28.000Z",
+      "fact": "TechNews 科技新報 報導：Google 聯手三星推 AI 智慧眼鏡遭秒殺，Gemini 語音助理成大賣點",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 聯手三星推 AI 智慧眼鏡遭秒殺，Gemini 語音助理成大賣點 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
         "Google",
         "AI"
       ],
-      "url": "https://www.bnext.com.tw/article/93119/google-gemini-4-neon-launch-pricing"
+      "url": "https://technews.tw/2026/11/19/google-smart-glasses-pre-order-frenzy/"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "SanDisk leads tech 股票 with b",
-      "title": "SanDisk leads tech 股票 with biggest Q3 財報 surprise",
-      "originalTitle": "SanDisk leads tech stocks with biggest Q3 earnings surprise",
-      "translatedTitle": "SanDisk leads tech 股票 with biggest Q3 財報 surprise",
+      "subject": "TSMC",
+      "title": "AI 財經快訊：TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
+      "originalTitle": "TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
+      "translatedTitle": "AI 財經快訊：TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
+      "category": "AI 晶片",
       "source": "TradingView",
-      "publishedAt": "2026-11-18T12:04:46.000Z",
-      "fact": "TradingView 報導：SanDisk leads tech 股票 with biggest Q3 財報 surprise",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；SanDisk leads tech stocks with biggest Q3 earnings surprise &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-11-19T12:26:33.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules &nbsp;&nbsp; Trading。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "earnings",
-        "stocks"
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/seekingalpha:cadef280d094b:0-sandisk-leads-tech-stocks-with-biggest-q3-earnings-surprise/"
+      "url": "https://tw.tradingview.com/news/stocktwits:ce1c12d17094b:0-tsmc-samsung-reportedly-suspend-some-chip-deliveries-to-chinese-customers-amid-new-us-export-rules/"
     },
     {
       "id": "全球財經脈動-2",
@@ -168,127 +166,124 @@
     {
       "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "《TAIPEI TIMES》 輝達 issue part",
-      "title": "《TAIPEI TIMES》 輝達 issue part of a supply chain trend: academic",
-      "originalTitle": "《TAIPEI TIMES》 Nvidia issue part of a supply chain trend: academic",
-      "translatedTitle": "《TAIPEI TIMES》 輝達 issue part of a supply chain trend: academic",
+      "subject": "TÜV SÜD opens its Internatio",
+      "title": "TÜV SÜD opens its International Technology & Innovation Campus in the Guangdong-Hong Kong-Macao Greater Bay Area — 全球企業動態",
+      "originalTitle": "TÜV SÜD opens its International Technology & Innovation Campus in the Guangdong-Hong Kong-Macao Greater Bay Area - 全球企業動態",
+      "translatedTitle": "TÜV SÜD opens its International Technology & Innovation Campus in the Guangdong-Hong Kong-Macao Greater Bay Area — 全球企業動態",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "自由時報",
-      "publishedAt": "2026-11-18T19:00:00.000Z",
-      "fact": "自由時報 報導：《TAIPEI TIMES》 輝達 issue part of a supply chain trend: academic",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 Nvidia issue part of a supply chain trend: academic &nbsp;&nbsp; 自由時報。",
+      "category": "全球財經",
+      "source": "Quamnet",
+      "publishedAt": "2026-11-20T09:00:01.000Z",
+      "fact": "Quamnet 報導：TÜV SÜD opens its International Technology & Innovation Campus in the Guangdong-Hong Kong-Macao Greater Bay Area — 全球企業動態",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；TÜV SÜD opens its International Technology & Innovation Campus in the Guangdong-Hong Kong-Macao Greater Bay Area - 全球企業動。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "全球財經",
-        "Nvidia",
-        "AI"
+        "全球財經"
       ],
-      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5645639"
+      "url": "https://www.quamnet.com/post/_hy386OWEd9Y7_zFrUZIi"
     },
     {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit?",
-      "originalTitle": "The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit?",
-      "translatedTitle": "AI 財經快訊：The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit?",
+      "subject": "Meta",
+      "title": "AI 財經快訊：Meta says ‘reevaluating’ 2030 net zero target amid AI buildout",
+      "originalTitle": "Meta says ‘reevaluating’ 2030 net zero target amid AI buildout",
+      "translatedTitle": "AI 財經快訊：Meta says ‘reevaluating’ 2030 net zero target amid AI buildout",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-18T14:25:33.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit?",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The AI Power Scramble Is in Full Force. Which Companies Really Stand to Profit? &nbsp;&nbsp; 富途牛牛。",
+      "source": "Macau Business",
+      "publishedAt": "2026-11-20T04:01:05.000Z",
+      "fact": "Macau Business 報導：AI 財經快訊：Meta says ‘reevaluating’ 2030 net zero target amid AI buildout",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Meta says ‘reevaluating’ 2030 net zero target amid AI buildout &nbsp;&nbsp; Macau Business。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
+        "Meta",
         "AI"
       ],
-      "url": "https://news.futunn.com/hk/post/1004914605/the-ai-power-scramble-is-in-full-force-which-companies"
+      "url": "https://macaubusiness.com/meta-says-reevaluating-2030-net-zero-target-amid-ai-buildout/"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "Why Micron 股票 is falling des",
-      "title": "Why Micron 股票 is falling despite strong 輝達 results?",
-      "originalTitle": "Why Micron stock is falling despite strong Nvidia results?",
-      "translatedTitle": "Why Micron 股票 is falling despite strong 輝達 results?",
+      "subject": "Applied Digital and CoreWeav",
+      "title": "Applied Digital and CoreWeave 股價 are falling, what you need to know",
+      "originalTitle": "Applied Digital and CoreWeave shares are falling, what you need to know",
+      "translatedTitle": "Applied Digital and CoreWeave 股價 are falling, what you need to know",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-11-18T15:09:15.000Z",
-      "fact": "TradingView 報導：Why Micron 股票 is falling despite strong 輝達 results?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Micron stock is falling despite strong Nvidia results? &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-11-19T20:35:41.000Z",
+      "fact": "TradingView 報導：Applied Digital and CoreWeave 股價 are falling, what you need to know",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Applied Digital and CoreWeave shares are falling, what you need to know &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "Nvidia"
+        "市場焦點"
       ],
-      "url": "https://tw.tradingview.com/news/invezz:255e12d6a094b:0-why-micron-stock-is-falling-despite-strong-nvidia-results/"
+      "url": "https://tw.tradingview.com/news/stockstory:c465946ae094b:0-applied-digital-and-coreweave-shares-are-falling-what-you-need-to-know/"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "5 AI 股票 That Could Win After",
-      "title": "5 AI 股票 That Could Win After Huang’s 輝達 Exit",
-      "originalTitle": "5 AI Stocks That Could Win After Huang’s Nvidia Exit",
-      "translatedTitle": "5 AI 股票 That Could Win After Huang’s 輝達 Exit",
+      "subject": "【23",
+      "title": "【23:19 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／跟隨AI晶片與半導體族群遭恐慌性賣壓",
+      "originalTitle": "【23:19 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 跌5%／跟隨AI晶片與半導體族群遭恐慌性賣壓",
+      "translatedTitle": "【23:19 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／跟隨AI晶片與半導體族群遭恐慌性賣壓",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-18T18:35:06.000Z",
-      "fact": "TradingView 報導：5 AI 股票 That Could Win After Huang’s 輝達 Exit",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；5 AI Stocks That Could Win After Huang’s Nvidia Exit &nbsp;&nbsp; TradingView。",
+      "category": "AI 晶片",
+      "source": "美股放大鏡",
+      "publishedAt": "2026-11-20T15:19:58.000Z",
+      "fact": "美股放大鏡 報導：【23:19 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／跟隨AI晶片與半導體族群遭恐慌性賣壓",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【23:19 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 跌5%／跟隨AI晶片與半導體族群遭恐慌性賣壓 &nbsp;&nbsp; 美股放大鏡。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
         "AI",
-        "stocks"
+        "semiconductor"
       ],
-      "url": "https://tw.tradingview.com/news/investorplace:62bbc95ba094b:0-5-ai-stocks-that-could-win-after-huang-s-nvidia-exit/"
+      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-d8fa7c88-e4f5-11f1-8245-745c9fb6b9f2"
     },
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6",
-      "title": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
-      "originalTitle": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
-      "translatedTitle": "輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "區塊客",
-      "publishedAt": "2026-11-18T04:43:17.000Z",
-      "fact": "區塊客 報導：輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；輝達營收狂飆 103% 、財測再超預期！比特幣卻困守 6.4 萬，AI 股利多為何帶不動 BTC？ &nbsp;&nbsp; 區塊客。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://blockcast.it/2026/11/18/nvidia-earnings-115-billion-bitcoin-ai-stocks/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Major U.S. 股票 Indexes Slip A",
-      "title": "Major U.S. 股票 Indexes Slip After 輝達 財報 Fail to Soothe Nerves — WSJ",
-      "originalTitle": "Major U.S. Stock Indexes Slip After Nvidia Earnings Fail to Soothe Nerves -- WSJ",
-      "translatedTitle": "Major U.S. 股票 Indexes Slip After 輝達 財報 Fail to Soothe Nerves — WSJ",
+      "subject": "Why are 輝達",
+      "title": "Why are 輝達, AMD, Intel 股票 surging in premarket trading today?",
+      "originalTitle": "Why are Nvidia, AMD, Intel stocks surging in premarket trading today?",
+      "translatedTitle": "Why are 輝達, AMD, Intel 股票 surging in premarket trading today?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-18T17:13:00.000Z",
-      "fact": "Moomoo 報導：Major U.S. 股票 Indexes Slip After 輝達 財報 Fail to Soothe Nerves — WSJ",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Major U.S. Stock Indexes Slip After Nvidia Earnings Fail to Soothe Nerves -- WSJ &nbsp;&nbsp; Moomoo。",
+      "source": "TradingView",
+      "publishedAt": "2026-11-19T12:02:09.000Z",
+      "fact": "TradingView 報導：Why are 輝達, AMD, Intel 股票 surging in premarket trading today?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why are Nvidia, AMD, Intel stocks surging in premarket trading today? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "Nvidia",
-        "AI",
-        "earnings"
+        "stocks"
       ],
-      "url": "https://www.moomoo.com/hant/news/post/1005068282/major-us-stock-indexes-slip-after-nvidia-earnings-fail-to"
+      "url": "https://tw.tradingview.com/news/invezz:7b28b2203094b:0-why-are-nvidia-amd-intel-stocks-surging-in-premarket-trading-today/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Anthropic",
+      "title": "Anthropic上市飆17%仍難救AI股 亞股領跌台日韓科技股遭血洗 | 上報",
+      "originalTitle": "Anthropic上市飆17%仍難救AI股 亞股領跌台日韓科技股遭血洗 | 上報",
+      "translatedTitle": "Anthropic上市飆17%仍難救AI股 亞股領跌台日韓科技股遭血洗 | 上報",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "LINE TODAY",
+      "publishedAt": "2026-11-20T05:13:08.000Z",
+      "fact": "LINE TODAY 報導：Anthropic上市飆17%仍難救AI股 亞股領跌台日韓科技股遭血洗 | 上報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Anthropic上市飆17%仍難救AI股 亞股領跌台日韓科技股遭血洗 | 上報 &nbsp;&nbsp; LINE TODAY。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Anthropic",
+        "AI"
+      ],
+      "url": "https://today.line.me/tw/v3/article/eLpml5n"
     },
     {
       "id": "美股與全球市場焦點-5",
@@ -300,7 +295,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-19T23:55:30.000Z",
+      "publishedAt": "2026-11-20T08:14:38.000Z",
       "fact": "富途牛牛 報導：輝達 財報 release + Anthropic IPO: Is the AI supply ch... — Futubull Community",
       "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVIDIA earnings release + Anthropic IPO: Is the AI supply ch... - Futubull Community &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
