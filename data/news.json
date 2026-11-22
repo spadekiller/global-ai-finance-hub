@@ -1,26 +1,25 @@
 {
-  "generatedAt": "2026-11-21T04:36:09.213Z",
+  "generatedAt": "2026-11-22T01:47:38.766Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批S",
-      "title": "加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批Siri與Gemini「尤其令人擔心」",
-      "originalTitle": "加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批Siri與Gemini「尤其令人擔心」",
-      "translatedTitle": "加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批Siri與Gemini「尤其令人擔心」",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Gemini 4 Neon Video 是成品匯出，而非",
+      "title": "Gemini 4 Neon Video 是成品匯出，而非生成",
+      "originalTitle": "Gemini 4 Neon Video 是成品匯出，而非生成",
+      "translatedTitle": "Gemini 4 Neon Video 是成品匯出，而非生成",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "鉅亨網",
-      "publishedAt": "2026-11-21T00:10:05.000Z",
-      "fact": "鉅亨網 報導：加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批Siri與Gemini「尤其令人擔心」",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批Siri與Gemini「尤其令人擔心」 &nbsp;&nbsp; 鉅亨網。",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-21T22:47:00.000Z",
+      "fact": "OrcaRouter 報導：Gemini 4 Neon Video 是成品匯出，而非生成",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Neon Video 是成品匯出，而非生成 &nbsp;&nbsp; OrcaRouter。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://news.cnyes.com/news/id/6669676"
+      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-neon-video-artifact-export"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -46,26 +45,6 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁",
-      "originalTitle": "標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁",
-      "translatedTitle": "標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "美股放大鏡",
-      "publishedAt": "2026-11-20T11:39:39.000Z",
-      "fact": "美股放大鏡 報導：標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；標題 : 驚天IPO！Anthropic募資逾1千億美元 洛杉磯名人、退休金爆賺成億萬富翁 &nbsp;&nbsp; 美股放大鏡。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic"
-      ],
-      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-11a64076-e4d7-11f1-96c3-16c4bf41978d"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
       "subject": "加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批S",
       "title": "加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批Siri與Gemini「尤其令人擔心」",
       "originalTitle": "加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批Siri與Gemini「尤其令人擔心」",
@@ -81,90 +60,70 @@
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://m.cnyes.com/news/id/6669676"
+      "url": "https://news.cnyes.com/news/id/6669676"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "ANT|Anthropic Ord Shs Class A|價格:88.910|漲跌幅:-8.260",
+      "originalTitle": "ANT|Anthropic Ord Shs Class A|價格:88.910|漲跌幅:-8.260",
+      "translatedTitle": "ANT|Anthropic Ord Shs Class A|價格:88.910|漲跌幅:-8.260",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TradingKey",
+      "publishedAt": "2026-11-21T15:35:11.000Z",
+      "fact": "TradingKey 報導：ANT|Anthropic Ord Shs Class A|價格:88.910|漲跌幅:-8.260",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；ANT|Anthropic Ord Shs Class A|價格:88.910|漲跌幅:-8.260 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/markets/stocks/ant"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
-      "title": "Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
-      "originalTitle": "Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
-      "translatedTitle": "Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "鏈新聞 ABMedia",
-      "publishedAt": "2026-11-20T11:48:54.000Z",
-      "fact": "鏈新聞 ABMedia 報導：Signal 預設禁截圖，防手機內建 AI 代理讀聊天",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Signal 預設禁截圖，防手機內建 AI 代理讀聊天 &nbsp;&nbsp; 鏈新聞 ABMedia。",
+      "subject": "Gemini 4 Hydrogen xhigh 與 hi",
+      "title": "Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼",
+      "originalTitle": "Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼",
+      "translatedTitle": "Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-21T22:48:32.000Z",
+      "fact": "OrcaRouter 報導：Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼 &nbsp;&nbsp; OrcaRouter。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://abmedia.io/signal-blocks-screenshots-ai-agents"
+      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-hydrogen-high-vs-xhigh"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "TSMC",
-      "title": "AI 財經快訊：TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
-      "originalTitle": "TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
-      "translatedTitle": "AI 財經快訊：TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
+      "subject": "Targeting 半導體 and AI Transfo",
+      "title": "Targeting 半導體 and AI Transformation Needs: ASU Launches Dual-Track \"Degree + Micro-Credential\" Talent Program",
+      "originalTitle": "Targeting Semiconductor and AI Transformation Needs: ASU Launches Dual-Track \"Degree + Micro-Credential\" Talent Program",
+      "translatedTitle": "Targeting 半導體 and AI Transformation Needs: ASU Launches Dual-Track \"Degree + Micro-Credential\" Talent Program",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 晶片",
-      "source": "TradingView",
-      "publishedAt": "2026-11-19T12:26:33.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；TSMC, Samsung Reportedly Suspend Some Chip Deliveries To Chinese Customers Amid New US Export Rules &nbsp;&nbsp; Trading。",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-20T07:00:25.000Z",
+      "fact": "Mashdigi 報導：Targeting 半導體 and AI Transformation Needs: ASU Launches Dual-Track \"Degree + Micro-Credential\" Talent Program",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Targeting Semiconductor and AI Transformation Needs: ASU Launches Dual-Track \"Degree + Micro-Credential\" Talent Program。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI"
+        "AI",
+        "semiconductor"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:ce1c12d17094b:0-tsmc-samsung-reportedly-suspend-some-chip-deliveries-to-chinese-customers-amid-new-us-export-rules/"
+      "url": "https://mashdigi.com/intl/en/asu-ai-microcredentials-semiconductor-packaging-talent/"
     },
     {
       "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "If the AI Trade Unwinds",
-      "title": "If the AI Trade Unwinds, Other Pillars Holding up the U.S. 經濟 Are 'Irrelevant,' Says Barclays",
-      "originalTitle": "If the AI Trade Unwinds, Other Pillars Holding up the U.S. Economy Are 'Irrelevant,' Says Barclays",
-      "translatedTitle": "If the AI Trade Unwinds, Other Pillars Holding up the U.S. 經濟 Are 'Irrelevant,' Says Barclays",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-19T17:16:25.000Z",
-      "fact": "富途牛牛 報導：If the AI Trade Unwinds, Other Pillars Holding up the U.S. 經濟 Are 'Irrelevant,' Says Barclays",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；If the AI Trade Unwinds, Other Pillars Holding up the U.S. Economy Are 'Irrelevant,' Says Barclays &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://news.futunn.com/en/post/1005045749/if-the-ai-trade-unwinds-other-pillars-holding-up-the"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
-      "subject": "See How 資料中心 Became the Grow",
-      "title": "See How 資料中心 Became the Growth Engine of America's Power Grid",
-      "originalTitle": "See How Data Centers Became the Growth Engine of America's Power Grid",
-      "translatedTitle": "See How 資料中心 Became the Growth Engine of America's Power Grid",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-19T11:16:55.000Z",
-      "fact": "Moomoo 報導：See How 資料中心 Became the Growth Engine of America's Power Grid",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；See How Data Centers Became the Growth Engine of America's Power Grid &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "data center"
-      ],
-      "url": "https://www.moomoo.com/hant/news/post/1005172926/see-how-data-centers-became-the-growth-engine-of-america"
-    },
-    {
-      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "Senate to vote on bill to sp",
       "title": "Senate to vote on bill to speed up permitting reviews, force 資料中心 to pay for 能源 costs",
@@ -184,7 +143,27 @@
       "url": "https://hk.news.yahoo.com/politics/articles/senate-vote-bill-speed-permitting-020439514.html"
     },
     {
-      "id": "全球財經脈動-5",
+      "id": "全球財經脈動-3",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium",
+      "originalTitle": "SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium",
+      "translatedTitle": "AI 財經快訊：SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-21T16:00:29.000Z",
+      "fact": "Mashdigi 報導：AI 財經快訊：SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium &n。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://mashdigi.com/intl/en/sk-hynix-softbank-son-1-trillion-acquisition-hbm/"
+    },
+    {
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "TÜV SÜD opens its Internatio",
       "title": "TÜV SÜD opens its International Technology & Innovation Campus in the Guangdong-Hong Kong-Macao Greater Bay Area — 全球企業動態",
@@ -203,7 +182,69 @@
       "url": "https://www.quamnet.com/post/_hy386OWEd9Y7_zFrUZIi"
     },
     {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "Beyond U.S. 晶片股",
+      "title": "Beyond U.S. 晶片股: ETC and XETFs Put the Global 半導體 Supply Chain in Focus",
+      "originalTitle": "Beyond U.S. Chip Stocks: ETC and XETFs Put the Global Semiconductor Supply Chain in Focus",
+      "translatedTitle": "Beyond U.S. 晶片股: ETC and XETFs Put the Global 半導體 Supply Chain in Focus",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-20T13:30:00.000Z",
+      "fact": "富途牛牛 報導：Beyond U.S. 晶片股: ETC and XETFs Put the Global 半導體 Supply Chain in Focus",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Beyond U.S. Chip Stocks: ETC and XETFs Put the Global Semiconductor Supply Chain in Focus &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI",
+        "semiconductor",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1005197337/beyond-us-chip-stocks-etc-and-xetfs-put-the-global"
+    },
+    {
       "id": "美股與全球市場焦點-1",
+      "section": "美股與全球市場焦點",
+      "subject": "Why are Micron and SanDisk 股",
+      "title": "Why are Micron and SanDisk 股票 plunging sharply in premarket today?",
+      "originalTitle": "Why are Micron and SanDisk stocks plunging sharply in premarket today?",
+      "translatedTitle": "Why are Micron and SanDisk 股票 plunging sharply in premarket today?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-20T12:40:35.000Z",
+      "fact": "TradingView 報導：Why are Micron and SanDisk 股票 plunging sharply in premarket today?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why are Micron and SanDisk stocks plunging sharply in premarket today? &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/invezz:4a8387d2d094b:0-why-are-micron-and-sandisk-stocks-plunging-sharply-in-premarket-today/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Shattering the \"Geopolitical Haven\" Illusion: Hunterbrook Targets AMD in Explosive Export Compliance Report",
+      "originalTitle": "Shattering the \"Geopolitical Haven\" Illusion: Hunterbrook Targets AMD in Explosive Export Compliance Report",
+      "translatedTitle": "AI 財經快訊：Shattering the \"Geopolitical Haven\" Illusion: Hunterbrook Targets AMD in Explosive Export Compliance Report",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "Mashdigi",
+      "publishedAt": "2026-11-21T15:12:46.000Z",
+      "fact": "Mashdigi 報導：AI 財經快訊：Shattering the \"Geopolitical Haven\" Illusion: Hunterbrook Targets AMD in Explosive Export Compliance Report",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Shattering the \"Geopolitical Haven\" Illusion: Hunterbrook Targets AMD in Explosive Export Compliance Report &nbsp;&nbsp;。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://mashdigi.com/intl/en/amd-stock-plunge-hunterbrook-compliance-risks/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "Taiwan 半導體 (TSM) 股票 Price Qu",
       "title": "Taiwan 半導體 (TSM) 股票 Price Quote & News",
@@ -224,26 +265,7 @@
       "url": "https://www.moomoo.com/stock/TSM-US?chain_id"
     },
     {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Applied Digital and CoreWeav",
-      "title": "Applied Digital and CoreWeave 股價 are falling, what you need to know",
-      "originalTitle": "Applied Digital and CoreWeave shares are falling, what you need to know",
-      "translatedTitle": "Applied Digital and CoreWeave 股價 are falling, what you need to know",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-19T20:35:41.000Z",
-      "fact": "TradingView 報導：Applied Digital and CoreWeave 股價 are falling, what you need to know",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Applied Digital and CoreWeave shares are falling, what you need to know &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點"
-      ],
-      "url": "https://tw.tradingview.com/news/stockstory:c465946ae094b:0-applied-digital-and-coreweave-shares-are-falling-what-you-need-to-know/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "【23",
       "title": "【23:19 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／跟隨AI晶片與半導體族群遭恐慌性賣壓",
@@ -264,7 +286,7 @@
       "url": "https://www.forecastock.tw/article/cmoneyairesearcher-d8fa7c88-e4f5-11f1-8245-745c9fb6b9f2"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Anthropic",
       "title": "Anthropic上市飆17%仍難救AI股 亞股領跌台日韓科技股遭血洗",
@@ -283,29 +305,6 @@
         "AI"
       ],
       "url": "https://www.upmedia.mg/tw/international/headlines/274814"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Anthropic",
-      "title": "輝達 財報 release + Anthropic IPO: Is the AI supply ch... — Futubull Community",
-      "originalTitle": "NVIDIA earnings release + Anthropic IPO: Is the AI supply ch... - Futubull Community",
-      "translatedTitle": "輝達 財報 release + Anthropic IPO: Is the AI supply ch... — Futubull Community",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-20T08:14:38.000Z",
-      "fact": "富途牛牛 報導：輝達 財報 release + Anthropic IPO: Is the AI supply ch... — Futubull Community",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVIDIA earnings release + Anthropic IPO: Is the AI supply ch... - Futubull Community &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Anthropic",
-        "Nvidia",
-        "AI",
-        "earnings"
-      ],
-      "url": "https://q.futunn.com/discussion/2243429968?chain_id"
     }
   ]
 }
