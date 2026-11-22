@@ -1,28 +1,9 @@
 {
-  "generatedAt": "2026-11-22T01:47:38.766Z",
+  "generatedAt": "2026-11-22T03:50:29.787Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
-      "section": "AI 與科技前沿",
-      "subject": "Gemini 4 Neon Video 是成品匯出，而非",
-      "title": "Gemini 4 Neon Video 是成品匯出，而非生成",
-      "originalTitle": "Gemini 4 Neon Video 是成品匯出，而非生成",
-      "translatedTitle": "Gemini 4 Neon Video 是成品匯出，而非生成",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-11-21T22:47:00.000Z",
-      "fact": "OrcaRouter 報導：Gemini 4 Neon Video 是成品匯出，而非生成",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Neon Video 是成品匯出，而非生成 &nbsp;&nbsp; OrcaRouter。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-neon-video-artifact-export"
-    },
-    {
-      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "Anthropic 破紀錄IPO能否阻止AI泡沫破裂？",
@@ -43,7 +24,7 @@
       "url": "https://www.bbc.com/zhongwen/articles/cw7v2zlle4v4o/trad"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批S",
       "title": "加密私訊仍怕AI看螢幕！Signal推預設封鎖截圖 批Siri與Gemini「尤其令人擔心」",
@@ -63,7 +44,7 @@
       "url": "https://news.cnyes.com/news/id/6669676"
     },
     {
-      "id": "ai-與科技前沿-4",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "ANT|Anthropic Ord Shs Class A|價格:88.910|漲跌幅:-8.260",
@@ -83,23 +64,44 @@
       "url": "https://www.tradingkey.com/zh-hant/markets/stocks/ant"
     },
     {
-      "id": "ai-與科技前沿-5",
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Gemini 4 Hydrogen xhigh 與 hi",
-      "title": "Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼",
-      "originalTitle": "Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼",
-      "translatedTitle": "Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼",
+      "subject": "Gemini 4 發布日期",
+      "title": "Gemini 4 發布日期：Neon 對 Carbon，而 Argon 尚未退役",
+      "originalTitle": "Gemini 4 發布日期：Neon 對 Carbon，而 Argon 尚未退役",
+      "translatedTitle": "Gemini 4 發布日期：Neon 對 Carbon，而 Argon 尚未退役",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
       "source": "OrcaRouter",
-      "publishedAt": "2026-11-21T22:48:32.000Z",
-      "fact": "OrcaRouter 報導：Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Hydrogen xhigh 與 high：6 倍成本能換來什麼 &nbsp;&nbsp; OrcaRouter。",
+      "publishedAt": "2026-11-20T19:58:40.000Z",
+      "fact": "OrcaRouter 報導：Gemini 4 發布日期：Neon 對 Carbon，而 Argon 尚未退役",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 發布日期：Neon 對 Carbon，而 Argon 尚未退役 &nbsp;&nbsp; OrcaRouter。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿"
       ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-hydrogen-high-vs-xhigh"
+      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-release-date"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google 推出 Gemini 4 Neon 效能接近旗艦 Carbon AI 任務成本降低 32%",
+      "originalTitle": "Google 推出 Gemini 4 Neon 效能接近旗艦 Carbon AI 任務成本降低 32%",
+      "translatedTitle": "Google 推出 Gemini 4 Neon 效能接近旗艦 Carbon AI 任務成本降低 32%",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "電腦廣場",
+      "publishedAt": "2026-11-20T13:46:18.000Z",
+      "fact": "電腦廣場 報導：Google 推出 Gemini 4 Neon 效能接近旗艦 Carbon AI 任務成本降低 32%",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 推出 Gemini 4 Neon 效能接近旗艦 Carbon AI 任務成本降低 32% &nbsp;&nbsp; 電腦廣場。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://www.pcmarket.com.hk/google-gemini-4-neon-ai-model-coding-agent-api/"
     },
     {
       "id": "全球財經脈動-1",
@@ -125,26 +127,6 @@
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "Senate to vote on bill to sp",
-      "title": "Senate to vote on bill to speed up permitting reviews, force 資料中心 to pay for 能源 costs",
-      "originalTitle": "Senate to vote on bill to speed up permitting reviews, force data centers to pay for energy costs",
-      "translatedTitle": "Senate to vote on bill to speed up permitting reviews, force 資料中心 to pay for 能源 costs",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "Yahoo",
-      "publishedAt": "2026-11-20T02:10:26.000Z",
-      "fact": "Yahoo 報導：Senate to vote on bill to speed up permitting reviews, force 資料中心 to pay for 能源 costs",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Senate to vote on bill to speed up permitting reviews, force data centers to pay for energy costs &nbsp;&nbsp; Yahoo。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "data center"
-      ],
-      "url": "https://hk.news.yahoo.com/politics/articles/senate-vote-bill-speed-permitting-020439514.html"
-    },
-    {
-      "id": "全球財經脈動-3",
-      "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium",
       "originalTitle": "SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium",
@@ -163,7 +145,7 @@
       "url": "https://mashdigi.com/intl/en/sk-hynix-softbank-son-1-trillion-acquisition-hbm/"
     },
     {
-      "id": "全球財經脈動-4",
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "TÜV SÜD opens its Internatio",
       "title": "TÜV SÜD opens its International Technology & Innovation Campus in the Guangdong-Hong Kong-Macao Greater Bay Area — 全球企業動態",
@@ -182,26 +164,46 @@
       "url": "https://www.quamnet.com/post/_hy386OWEd9Y7_zFrUZIi"
     },
     {
-      "id": "全球財經脈動-5",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "Beyond U.S. 晶片股",
-      "title": "Beyond U.S. 晶片股: ETC and XETFs Put the Global 半導體 Supply Chain in Focus",
-      "originalTitle": "Beyond U.S. Chip Stocks: ETC and XETFs Put the Global Semiconductor Supply Chain in Focus",
-      "translatedTitle": "Beyond U.S. 晶片股: ETC and XETFs Put the Global 半導體 Supply Chain in Focus",
+      "subject": "Capitulation selling has arr",
+      "title": "Capitulation selling has arrived; how far are AI tech 股票 from bottoming out?",
+      "originalTitle": "Capitulation selling has arrived; how far are AI tech stocks from bottoming out?",
+      "translatedTitle": "Capitulation selling has arrived; how far are AI tech 股票 from bottoming out?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-20T13:30:00.000Z",
-      "fact": "富途牛牛 報導：Beyond U.S. 晶片股: ETC and XETFs Put the Global 半導體 Supply Chain in Focus",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Beyond U.S. Chip Stocks: ETC and XETFs Put the Global Semiconductor Supply Chain in Focus &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-11-20T09:12:07.000Z",
+      "fact": "富途牛牛 報導：Capitulation selling has arrived; how far are AI tech 股票 from bottoming out?",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Capitulation selling has arrived; how far are AI tech stocks from bottoming out? &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI",
-        "semiconductor",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1005197337/beyond-us-chip-stocks-etc-and-xetfs-put-the-global"
+      "url": "https://news.futunn.com/en/post/1005165167/capitulation-selling-has-arrived-how-far-are-ai-tech-stocks"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "Meta",
+      "title": "AI 財經快訊：Meta says ‘reevaluating’ 2030 net zero target amid AI buildout",
+      "originalTitle": "Meta says ‘reevaluating’ 2030 net zero target amid AI buildout",
+      "translatedTitle": "AI 財經快訊：Meta says ‘reevaluating’ 2030 net zero target amid AI buildout",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Macau Business",
+      "publishedAt": "2026-11-20T04:01:05.000Z",
+      "fact": "Macau Business 報導：AI 財經快訊：Meta says ‘reevaluating’ 2030 net zero target amid AI buildout",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Meta says ‘reevaluating’ 2030 net zero target amid AI buildout &nbsp;&nbsp; Macau Business。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Meta",
+        "AI"
+      ],
+      "url": "https://macaubusiness.com/meta-says-reevaluating-2030-net-zero-target-amid-ai-buildout/"
     },
     {
       "id": "美股與全球市場焦點-1",
