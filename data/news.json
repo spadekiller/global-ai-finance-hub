@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T02:03:59.312Z",
+  "generatedAt": "2026-11-23T04:29:12.373Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -26,6 +26,25 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
+      "subject": "Signal將封鎖手機版Siri、Gemini螢幕截圖",
+      "title": "Signal將封鎖手機版Siri、Gemini螢幕截圖",
+      "originalTitle": "Signal將封鎖手機版Siri、Gemini螢幕截圖",
+      "translatedTitle": "Signal將封鎖手機版Siri、Gemini螢幕截圖",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "iThome",
+      "publishedAt": "2026-11-23T02:25:40.000Z",
+      "fact": "iThome 報導：Signal將封鎖手機版Siri、Gemini螢幕截圖",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Signal將封鎖手機版Siri、Gemini螢幕截圖 &nbsp;&nbsp; iThome。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.ithome.com.tw/news/180698"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI提議以「困惑度」設紅線，警告AI能力突變風險並呼籲業界暫停跨越門檻",
       "originalTitle": "OpenAI提議以「困惑度」設紅線，警告AI能力突變風險並呼籲業界暫停跨越門檻",
@@ -45,7 +64,28 @@
       "url": "https://www.cmoney.tw/forum/article/189486173"
     },
     {
-      "id": "ai-與科技前沿-3",
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "OpenAI",
+      "title": "OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻",
+      "originalTitle": "OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻",
+      "translatedTitle": "OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "前沿模型",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-11-23T02:28:19.000Z",
+      "fact": "TechNews 科技新報 報導：OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻 &nbsp;&nbsp; TechNews 科技新報。",
+      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
+      "tags": [
+        "AI 與科技前沿",
+        "OpenAI",
+        "AI"
+      ],
+      "url": "https://technews.tw/2026/11/23/openai-scientists-suggest-perplexity-metric-set-ai-development-industry-thresholds/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "OpenAI 首席科學家提議 AI 公司設能力上限：監控跟上前不越線",
@@ -66,46 +106,6 @@
       "url": "https://abmedia.io/openai-perplexity-common-limits"
     },
     {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "AI 砸下的數兆美元，真的能回本嗎？｜前沿議題",
-      "title": "AI 砸下的數兆美元，真的能回本嗎？｜前沿議題",
-      "originalTitle": "AI 砸下的數兆美元，真的能回本嗎？｜前沿議題",
-      "translatedTitle": "AI 砸下的數兆美元，真的能回本嗎？｜前沿議題",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "BigGo 財經",
-      "publishedAt": "2026-11-22T16:12:21.000Z",
-      "fact": "BigGo 財經 報導：AI 砸下的數兆美元，真的能回本嗎？｜前沿議題",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AI 砸下的數兆美元，真的能回本嗎？｜前沿議題 &nbsp;&nbsp; BigGo 財經。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://finance.biggo.com.tw/podcast/show/frontline-tech-2026-11-22"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
-      "originalTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
-      "translatedTitle": "Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "TradingKey",
-      "publishedAt": "2026-11-22T21:55:34.000Z",
-      "fact": "TradingKey 報導：Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Anthropic IPO ：關於 Claude 締造者，您需要了解的一些關鍵資訊 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/261951082-anthropic-ipo-claude-ai-tradingkey"
-    },
-    {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
@@ -115,7 +115,7 @@
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
       "source": "Mashdigi",
-      "publishedAt": "2026-11-21T16:00:29.000Z",
+      "publishedAt": "2026-11-23T02:03:43.000Z",
       "fact": "Mashdigi 報導：AI 財經快訊：SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium",
       "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium &n。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
@@ -148,22 +148,22 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "【2026",
-      "title": "【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
-      "originalTitle": "【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
-      "translatedTitle": "【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
+      "subject": "【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本",
+      "title": "【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！",
+      "originalTitle": "【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！",
+      "translatedTitle": "【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "商傳媒",
-      "publishedAt": "2026-11-23T00:24:19.000Z",
-      "fact": "商傳媒 報導：【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股 &nbsp;&nbsp; 商傳媒。",
+      "source": "MacroMicro",
+      "publishedAt": "2026-11-22T10:33:35.000Z",
+      "fact": "MacroMicro 報導：【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！ &nbsp;&nbsp; MacroMicro。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://sunmedia.tw/news/finance/1795393325-%E3%80%902026-11-23%E3%80%91%E3%80%8A%E5%95%86%E5%82%B3%E5%AA%92%EF%BD%9C%E7%BE%8E%E8%B2%A1%E7%B6%93%E4%B8%80%E9%80%B1%E5%A4%A7%E4%BA%8B%E3%80%8B%E5%8D%87%E6%81%AF%E9%99%B0%E5%BD%B1%E8%88%87AI%E7%A5%9E%E8%A9%B1%E7%A0%B4%E6%BB%85%E9%87%8D%E5%89%B5%E7%BE%8E%E8%82%A1"
+      "url": "https://www.macromicro.me/blog/mm-weekly-premarket-update-nvidia-s-earnings-report-and-ant-s-ipo-failed-to-reverse-the-market-s-downward-trend-this-week-focus-will-be-on-us-pce-prices"
     },
     {
       "id": "美股與全球市場焦點-2",
@@ -183,26 +183,6 @@
         "市場焦點"
       ],
       "url": "https://tw.tradingview.com/news/coinpedia:2c8691690094b:0-stock-market-crash-nasdaq-s-p-500-suffer-worst-weekly-losses-in-years/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Beyond AI: A broader opportunity in Emerging Markets",
-      "originalTitle": "Beyond AI: A broader opportunity in Emerging Markets",
-      "translatedTitle": "AI 財經快訊：Beyond AI: A broader opportunity in Emerging Markets",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "T. Rowe Price",
-      "publishedAt": "2026-11-21T14:51:57.000Z",
-      "fact": "T. Rowe Price 報導：AI 財經快訊：Beyond AI: A broader opportunity in Emerging Markets",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Beyond AI: A broader opportunity in Emerging Markets &nbsp;&nbsp; T. Rowe Price。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://www.troweprice.com/financial-intermediary/hk/zh/thinking/articles/2026/q4/beyond-ai-a-broader-opportunity-in-emerging-markets-apac.html"
     },
     {
       "id": "美股與全球市場焦點-4",
@@ -227,23 +207,22 @@
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "Options Traders Brace for Po",
-      "title": "Options Traders Brace for Post-財報 Swings in 輝達 股票 — WSJ",
-      "originalTitle": "Options Traders Brace for Post-Earnings Swings in Nvidia Stock -- WSJ",
-      "translatedTitle": "Options Traders Brace for Post-財報 Swings in 輝達 股票 — WSJ",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "【2026",
+      "title": "【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
+      "originalTitle": "【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
+      "translatedTitle": "【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-22T14:24:27.000Z",
-      "fact": "Moomoo 報導：Options Traders Brace for Post-財報 Swings in 輝達 股票 — WSJ",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Options Traders Brace for Post-Earnings Swings in Nvidia Stock -- WSJ &nbsp;&nbsp; Moomoo。",
+      "source": "商傳媒",
+      "publishedAt": "2026-11-23T00:24:19.000Z",
+      "fact": "商傳媒 報導：【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股 &nbsp;&nbsp; 商傳媒。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "Nvidia",
-        "earnings"
+        "AI"
       ],
-      "url": "https://www.moomoo.com/news/post/1004930543/options-traders-brace-for-post-earnings-swings-in-nvidia-stock"
+      "url": "https://sunmedia.tw/news/finance/1795393325-%E3%80%902026-11-23%E3%80%91%E3%80%8A%E5%95%86%E5%82%B3%E5%AA%92%EF%BD%9C%E7%BE%8E%E8%B2%A1%E7%B6%93%E4%B8%80%E9%80%B1%E5%A4%A7%E4%BA%8B%E3%80%8B%E5%8D%87%E6%81%AF%E9%99%B0%E5%BD%B1%E8%88%87AI%E7%A5%9E%E8%A9%B1%E7%A0%B4%E6%BB%85%E9%87%8D%E5%89%B5%E7%BE%8E%E8%82%A1"
     }
   ]
 }
