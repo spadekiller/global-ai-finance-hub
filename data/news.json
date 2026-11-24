@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T05:40:33.501Z",
+  "generatedAt": "2026-11-24T07:23:28.947Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -24,47 +24,6 @@
     {
       "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
-      "originalTitle": "Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
-      "translatedTitle": "Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "流動日報",
-      "publishedAt": "2026-11-24T00:17:37.000Z",
-      "fact": "流動日報 報導：Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式 &nbsp;&nbsp; 流動日報。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://www.newmobilelife.com/2026/11/24/google-search-personalization/"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
-      "originalTitle": "Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
-      "translatedTitle": "Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "maygoddejia.com.tw",
-      "publishedAt": "2026-11-24T04:15:00.000Z",
-      "fact": "maygoddejia.com.tw 報導：Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定 &nbsp;&nbsp; maygoddejia.com.tw。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://maygoddejia.com.tw/google-search-wallet-personal-intelligence/"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "AI 財經快訊：OpenAI scientist proposes industry AI limits tied to model intelligence metric",
       "originalTitle": "OpenAI scientist proposes industry AI limits tied to model intelligence metric",
@@ -84,26 +43,88 @@
       "url": "https://hk.news.yahoo.com/articles/openai-scientist-proposes-industry-ai-230920757.html"
     },
     {
-      "id": "ai-與科技前沿-5",
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "人工智慧 Sector Performance | Qu",
-      "title": "人工智慧 Sector Performance | Quotes & News",
-      "originalTitle": "Artificial Intelligence Sector Performance | Quotes & News",
-      "translatedTitle": "人工智慧 Sector Performance | Quotes & News",
+      "subject": "Google",
+      "title": "Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
+      "originalTitle": "Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
+      "translatedTitle": "Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "AI 與科技前沿",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-23T20:32:08.000Z",
-      "fact": "Moomoo 報導：人工智慧 Sector Performance | Quotes & News",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Artificial Intelligence Sector Performance | Quotes & News &nbsp;&nbsp; Moomoo。",
+      "source": "流動日報",
+      "publishedAt": "2026-11-24T00:17:37.000Z",
+      "fact": "流動日報 報導：Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式 &nbsp;&nbsp; 流動日報。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "Google",
+        "AI"
       ],
-      "url": "https://www.moomoo.com/sectors/Artificial-Intelligence-BK2136?chain_id"
+      "url": "https://www.newmobilelife.com/2026/11/24/google-search-personalization/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "ANT|Anthropic Ord Shs Class A|價格:87.640|漲跌幅:-1.270",
+      "originalTitle": "ANT|Anthropic Ord Shs Class A|價格:87.640|漲跌幅:-1.270",
+      "translatedTitle": "ANT|Anthropic Ord Shs Class A|價格:87.640|漲跌幅:-1.270",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "TradingKey",
+      "publishedAt": "2026-11-23T22:05:55.000Z",
+      "fact": "TradingKey 報導：ANT|Anthropic Ord Shs Class A|價格:87.640|漲跌幅:-1.270",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；ANT|Anthropic Ord Shs Class A|價格:87.640|漲跌幅:-1.270 &nbsp;&nbsp; TradingKey。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic"
+      ],
+      "url": "https://www.tradingkey.com/zh-hant/markets/stocks/ant"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
+      "originalTitle": "Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
+      "translatedTitle": "Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "maygoddejia.com.tw",
+      "publishedAt": "2026-11-24T04:18:50.000Z",
+      "fact": "maygoddejia.com.tw 報導：Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定 &nbsp;&nbsp; maygoddejia.com.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://maygoddejia.com.tw/google-search-wallet-personal-intelligence/"
     },
     {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation",
+      "originalTitle": "ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation",
+      "translatedTitle": "AI 財經快訊：ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "Media OutReach Newswire",
+      "publishedAt": "2026-11-24T06:40:00.000Z",
+      "fact": "Media OutReach Newswire 報導：AI 財經快訊：ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation &nbsp;&nbs。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://www.media-outreach.com/news/china/2026/11/24/503029/zte-attends-vietnam-china-greater-bay-area-technology-connectivity-forum-to-deepen-digital-talent-cooperation/"
+    },
+    {
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "The AI Build",
       "title": "The AI Build-Out Is Sucking Up Resources and Crowding Out the Rest of the 經濟 — WSJ",
@@ -123,7 +144,7 @@
       "url": "https://news.futunn.com/hk/post/1005297279/the-ai-build-out-is-sucking-up-resources-and-crowding"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium",
@@ -143,7 +164,7 @@
       "url": "https://mashdigi.com/intl/en/sk-hynix-softbank-son-1-trillion-acquisition-hbm/"
     },
     {
-      "id": "全球財經脈動-3",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
       "subject": "Panic selling in U.S. 股票 has",
       "title": "Panic selling in U.S. 股票 has created a rare buying opportunity; investors are advised to increase equity exposure.",
@@ -207,27 +228,6 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "【22",
-      "title": "【22:31 即時新聞】Taiwan 半導體 Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
-      "originalTitle": "【22:31 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
-      "translatedTitle": "【22:31 即時新聞】Taiwan 半導體 Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "CMoney投資網誌",
-      "publishedAt": "2026-11-23T14:42:50.000Z",
-      "fact": "CMoney投資網誌 報導：【22:31 即時新聞】Taiwan 半導體 Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【22:31 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持 &nbsp;&nbsp; CMoney投資網誌。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "semiconductor"
-      ],
-      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-2817d6c4-e74c-11f1-bcac-be08cde0b5e6"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
       "subject": "輝達's Crash",
       "title": "輝達's Crash, Gold's China Boost and Gensler's AI Bubble Warning: This Week in Economics",
       "originalTitle": "Nvidia's Crash, Gold's China Boost and Gensler's AI Bubble Warning: This Week in Economics",
@@ -245,6 +245,27 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/benzinga:a05b6a639094b:0-nvidia-s-crash-gold-s-china-boost-and-gensler-s-ai-bubble-warning-this-week-in-economics/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "【22",
+      "title": "【22:31 即時新聞】Taiwan 半導體 Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
+      "originalTitle": "【22:31 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
+      "translatedTitle": "【22:31 即時新聞】Taiwan 半導體 Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-11-23T14:42:50.000Z",
+      "fact": "CMoney投資網誌 報導：【22:31 即時新聞】Taiwan 半導體 Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【22:31 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持 &nbsp;&nbsp; CMoney投資網誌。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-2817d6c4-e74c-11f1-bcac-be08cde0b5e6"
     },
     {
       "id": "美股與全球市場焦點-5",
