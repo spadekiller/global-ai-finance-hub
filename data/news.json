@@ -1,9 +1,69 @@
 {
-  "generatedAt": "2026-11-23T04:29:12.373Z",
+  "generatedAt": "2026-11-24T05:40:33.501Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Gemini 4 Carbon 與 GPT",
+      "title": "Gemini 4 Carbon 與 GPT-6.2 Sol：每項任務成本為 7.7 倍",
+      "originalTitle": "Gemini 4 Carbon 與 GPT-6.2 Sol：每項任務成本為 7.7 倍",
+      "translatedTitle": "Gemini 4 Carbon 與 GPT-6.2 Sol：每項任務成本為 7.7 倍",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-24T03:03:15.000Z",
+      "fact": "OrcaRouter 報導：Gemini 4 Carbon 與 GPT-6.2 Sol：每項任務成本為 7.7 倍",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Carbon 與 GPT-6.2 Sol：每項任務成本為 7.7 倍 &nbsp;&nbsp; OrcaRouter。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-carbon-vs-gpt-6-2-sol"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
+      "originalTitle": "Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
+      "translatedTitle": "Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "流動日報",
+      "publishedAt": "2026-11-24T00:17:37.000Z",
+      "fact": "流動日報 報導：Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 搜尋個人化升級 Google Drive 及 Wallet 接入 AI 模式 &nbsp;&nbsp; 流動日報。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "AI"
+      ],
+      "url": "https://www.newmobilelife.com/2026/11/24/google-search-personalization/"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
+      "originalTitle": "Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
+      "translatedTitle": "Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "maygoddejia.com.tw",
+      "publishedAt": "2026-11-24T04:15:00.000Z",
+      "fact": "maygoddejia.com.tw 報導：Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google搜尋串接Wallet，台灣能用嗎？連接前先看資料設定 &nbsp;&nbsp; maygoddejia.com.tw。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google"
+      ],
+      "url": "https://maygoddejia.com.tw/google-search-wallet-personal-intelligence/"
+    },
+    {
+      "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
       "subject": "OpenAI",
       "title": "AI 財經快訊：OpenAI scientist proposes industry AI limits tied to model intelligence metric",
@@ -24,89 +84,46 @@
       "url": "https://hk.news.yahoo.com/articles/openai-scientist-proposes-industry-ai-230920757.html"
     },
     {
-      "id": "ai-與科技前沿-2",
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Signal將封鎖手機版Siri、Gemini螢幕截圖",
-      "title": "Signal將封鎖手機版Siri、Gemini螢幕截圖",
-      "originalTitle": "Signal將封鎖手機版Siri、Gemini螢幕截圖",
-      "translatedTitle": "Signal將封鎖手機版Siri、Gemini螢幕截圖",
+      "subject": "人工智慧 Sector Performance | Qu",
+      "title": "人工智慧 Sector Performance | Quotes & News",
+      "originalTitle": "Artificial Intelligence Sector Performance | Quotes & News",
+      "translatedTitle": "人工智慧 Sector Performance | Quotes & News",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "iThome",
-      "publishedAt": "2026-11-23T02:25:40.000Z",
-      "fact": "iThome 報導：Signal將封鎖手機版Siri、Gemini螢幕截圖",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Signal將封鎖手機版Siri、Gemini螢幕截圖 &nbsp;&nbsp; iThome。",
+      "category": "AI 與科技前沿",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-23T20:32:08.000Z",
+      "fact": "Moomoo 報導：人工智慧 Sector Performance | Quotes & News",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Artificial Intelligence Sector Performance | Quotes & News &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿"
       ],
-      "url": "https://www.ithome.com.tw/news/180698"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI提議以「困惑度」設紅線，警告AI能力突變風險並呼籲業界暫停跨越門檻",
-      "originalTitle": "OpenAI提議以「困惑度」設紅線，警告AI能力突變風險並呼籲業界暫停跨越門檻",
-      "translatedTitle": "OpenAI提議以「困惑度」設紅線，警告AI能力突變風險並呼籲業界暫停跨越門檻",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "CMoney",
-      "publishedAt": "2026-11-22T19:32:35.000Z",
-      "fact": "CMoney 報導：OpenAI提議以「困惑度」設紅線，警告AI能力突變風險並呼籲業界暫停跨越門檻",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI提議以「困惑度」設紅線，警告AI能力突變風險並呼籲業界暫停跨越門檻 &nbsp;&nbsp; CMoney。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://www.cmoney.tw/forum/article/189486173"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻",
-      "originalTitle": "OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻",
-      "translatedTitle": "OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-11-23T02:28:19.000Z",
-      "fact": "TechNews 科技新報 報導：OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 科學家建議以困惑度為指標，訂定 AI 發展業界門檻 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://technews.tw/2026/11/23/openai-scientists-suggest-perplexity-metric-set-ai-development-industry-thresholds/"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "OpenAI",
-      "title": "OpenAI 首席科學家提議 AI 公司設能力上限：監控跟上前不越線",
-      "originalTitle": "OpenAI 首席科學家提議 AI 公司設能力上限：監控跟上前不越線",
-      "translatedTitle": "OpenAI 首席科學家提議 AI 公司設能力上限：監控跟上前不越線",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "前沿模型",
-      "source": "鏈新聞 ABMedia",
-      "publishedAt": "2026-11-23T01:25:42.000Z",
-      "fact": "鏈新聞 ABMedia 報導：OpenAI 首席科學家提議 AI 公司設能力上限：監控跟上前不越線",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；OpenAI 首席科學家提議 AI 公司設能力上限：監控跟上前不越線 &nbsp;&nbsp; 鏈新聞 ABMedia。",
-      "hypothesis": "若新模型或新平台能轉化為清楚的企業使用案例，AI 軟體與雲端服務的付費滲透率可能繼續提高。",
-      "tags": [
-        "AI 與科技前沿",
-        "OpenAI",
-        "AI"
-      ],
-      "url": "https://abmedia.io/openai-perplexity-common-limits"
+      "url": "https://www.moomoo.com/sectors/Artificial-Intelligence-BK2136?chain_id"
     },
     {
       "id": "全球財經脈動-1",
+      "section": "全球財經脈動",
+      "subject": "The AI Build",
+      "title": "The AI Build-Out Is Sucking Up Resources and Crowding Out the Rest of the 經濟 — WSJ",
+      "originalTitle": "The AI Build-Out Is Sucking Up Resources and Crowding Out the Rest of the Economy -- WSJ",
+      "translatedTitle": "The AI Build-Out Is Sucking Up Resources and Crowding Out the Rest of the 經濟 — WSJ",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-23T02:00:00.000Z",
+      "fact": "富途牛牛 報導：The AI Build-Out Is Sucking Up Resources and Crowding Out the Rest of the 經濟 — WSJ",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；The AI Build-Out Is Sucking Up Resources and Crowding Out the Rest of the Economy -- WSJ &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/hk/post/1005297279/the-ai-build-out-is-sucking-up-resources-and-crowding"
+    },
+    {
+      "id": "全球財經脈動-2",
       "section": "全球財經脈動",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：SoftBank’s $1 Trillion Moonshot: Masayoshi Son Reportedly Explored Acquiring HBM Leader SK Hynix with Massive Premium",
@@ -126,103 +143,127 @@
       "url": "https://mashdigi.com/intl/en/sk-hynix-softbank-son-1-trillion-acquisition-hbm/"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Trump blames the Democratic Party for the $6 trillion wipeout in U.S. equities, while Bessent argues that the sell-off was driven by multiple factors.",
-      "originalTitle": "Trump blames the Democratic Party for the $6 trillion wipeout in U.S. equities, while Bessent argues that the sell-off was driven by multiple factors.",
-      "translatedTitle": "AI 財經快訊：Trump blames the Democratic Party for the $6 trillion wipeout in U.S. equities, while Bessent argues that the sell-off was driven by multiple factors.",
+      "subject": "Panic selling in U.S. 股票 has",
+      "title": "Panic selling in U.S. 股票 has created a rare buying opportunity; investors are advised to increase equity exposure.",
+      "originalTitle": "Panic selling in U.S. stocks has created a rare buying opportunity; investors are advised to increase equity exposure.",
+      "translatedTitle": "Panic selling in U.S. 股票 has created a rare buying opportunity; investors are advised to increase equity exposure.",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
+      "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-21T15:58:00.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Trump blames the Democratic Party for the $6 trillion wipeout in U.S. equities, while Bessent argues that the sell-off was driven by multiple factors.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Trump blames the Democratic Party for the $6 trillion wipeout in U.S. equities, while Bessent argues that the sell-off w。",
+      "publishedAt": "2026-11-23T13:13:23.000Z",
+      "fact": "富途牛牛 報導：Panic selling in U.S. 股票 has created a rare buying opportunity; investors are advised to increase equity exposure.",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Panic selling in U.S. stocks has created a rare buying opportunity; investors are advised to increase equity exposure. &。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI"
+        "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1005289285/trump-blames-the-democratic-party-for-the-6-trillion-wipeout"
+      "url": "https://news.futunn.com/en/post/1005353131/morgan-stanley-s-wilson-panic-selling-in-us-stocks-has"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本",
-      "title": "【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！",
-      "originalTitle": "【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！",
-      "translatedTitle": "【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！",
+      "subject": "AI 需求能否續強？戴爾、惠普財報見真章",
+      "title": "AI 需求能否續強？戴爾、惠普財報見真章",
+      "originalTitle": "AI 需求能否續強？戴爾、惠普財報見真章",
+      "translatedTitle": "AI 需求能否續強？戴爾、惠普財報見真章",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "MacroMicro",
-      "publishedAt": "2026-11-22T10:33:35.000Z",
-      "fact": "MacroMicro 報導：【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【MM一週盤前】全球 AI 股強烈賣壓、聯準會再放鷹，本週關注美國 PCE 物價！ &nbsp;&nbsp; MacroMicro。",
+      "source": "TechNews 科技新報",
+      "publishedAt": "2026-11-24T03:40:13.000Z",
+      "fact": "TechNews 科技新報 報導：AI 需求能否續強？戴爾、惠普財報見真章",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI 需求能否續強？戴爾、惠普財報見真章 &nbsp;&nbsp; TechNews 科技新報。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://www.macromicro.me/blog/mm-weekly-premarket-update-nvidia-s-earnings-report-and-ant-s-ipo-failed-to-reverse-the-market-s-downward-trend-this-week-focus-will-be-on-us-pce-prices"
+      "url": "https://finance.technews.tw/2026/11/24/dell-and-hp-earnings-emerge-as-key-indicators-for-ai-stocks/"
     },
     {
       "id": "美股與全球市場焦點-2",
       "section": "美股與全球市場焦點",
-      "subject": "股票 市場 Crash",
-      "title": "股票 市場 Crash: Nasdaq, 標普 500 Suffer Worst Weekly Losses in Years",
-      "originalTitle": "Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years",
-      "translatedTitle": "股票 市場 Crash: Nasdaq, 標普 500 Suffer Worst Weekly Losses in Years",
+      "subject": "These 股票 Are the Biggest Gai",
+      "title": "These 股票 Are the Biggest Gainers After Jensen Huang's Return to 輝達",
+      "originalTitle": "These Stocks Are the Biggest Gainers After Jensen Huang's Return to Nvidia",
+      "translatedTitle": "These 股票 Are the Biggest Gainers After Jensen Huang's Return to 輝達",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-21T12:27:10.000Z",
-      "fact": "TradingView 報導：股票 市場 Crash: Nasdaq, 標普 500 Suffer Worst Weekly Losses in Years",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Stock Market Crash: Nasdaq, S&P 500 Suffer Worst Weekly Losses in Years &nbsp;&nbsp; TradingView。",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-23T19:44:00.000Z",
+      "fact": "Moomoo 報導：These 股票 Are the Biggest Gainers After Jensen Huang's Return to 輝達",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；These Stocks Are the Biggest Gainers After Jensen Huang's Return to Nvidia &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點"
+        "市場焦點",
+        "Nvidia",
+        "AI",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/coinpedia:2c8691690094b:0-stock-market-crash-nasdaq-s-p-500-suffer-worst-weekly-losses-in-years/"
+      "url": "https://www.moomoo.com/hant/news/post/1005520611/these-stocks-are-the-biggest-gainers-after-jensen-huang-s"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "【22",
+      "title": "【22:31 即時新聞】Taiwan 半導體 Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
+      "originalTitle": "【22:31 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
+      "translatedTitle": "【22:31 即時新聞】Taiwan 半導體 Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "CMoney投資網誌",
+      "publishedAt": "2026-11-23T14:42:50.000Z",
+      "fact": "CMoney投資網誌 報導：【22:31 即時新聞】Taiwan 半導體 Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【22:31 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 飆漲逾20%／受惠AI晶片族群強彈與高層增持加持 &nbsp;&nbsp; CMoney投資網誌。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://cmnews.com.tw/article/cmoneyairesearcher-2817d6c4-e74c-11f1-bcac-be08cde0b5e6"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "Musk warns",
-      "title": "Musk warns: 資料中心 may face a “funding shortfall” next year, and the “situation will become very severe.”",
-      "originalTitle": "Musk warns: Data centers may face a “funding shortfall” next year, and the “situation will become very severe.”",
-      "translatedTitle": "Musk warns: 資料中心 may face a “funding shortfall” next year, and the “situation will become very severe.”",
+      "subject": "輝達's Crash",
+      "title": "輝達's Crash, Gold's China Boost and Gensler's AI Bubble Warning: This Week in Economics",
+      "originalTitle": "Nvidia's Crash, Gold's China Boost and Gensler's AI Bubble Warning: This Week in Economics",
+      "translatedTitle": "輝達's Crash, Gold's China Boost and Gensler's AI Bubble Warning: This Week in Economics",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-21T11:38:00.000Z",
-      "fact": "富途牛牛 報導：Musk warns: 資料中心 may face a “funding shortfall” next year, and the “situation will become very severe.”",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Musk warns: Data centers may face a “funding shortfall” next year, and the “situation will become very severe.” &nbsp;&n。",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-11-22T11:00:10.000Z",
+      "fact": "TradingView 報導：輝達's Crash, Gold's China Boost and Gensler's AI Bubble Warning: This Week in Economics",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Nvidia's Crash, Gold's China Boost and Gensler's AI Bubble Warning: This Week in Economics &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "data center"
+        "Nvidia",
+        "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1005290165/musk-warns-data-centers-may-face-a-funding-shortfall-next"
+      "url": "https://tw.tradingview.com/news/benzinga:a05b6a639094b:0-nvidia-s-crash-gold-s-china-boost-and-gensler-s-ai-bubble-warning-this-week-in-economics/"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "【2026",
-      "title": "【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
-      "originalTitle": "【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
-      "translatedTitle": "【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
+      "subject": "【美股盤前】谷歌、邁威爾均跌逾11%，Lumentum漲",
+      "title": "【美股盤前】谷歌、邁威爾均跌逾11%，Lumentum漲超6%；亞馬遜、英特爾盤後將發布財報",
+      "originalTitle": "【美股盤前】谷歌、邁威爾均跌逾11%，Lumentum漲超6%；亞馬遜、英特爾盤後將發布財報",
+      "translatedTitle": "【美股盤前】谷歌、邁威爾均跌逾11%，Lumentum漲超6%；亞馬遜、英特爾盤後將發布財報",
       "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "市場焦點",
-      "source": "商傳媒",
-      "publishedAt": "2026-11-23T00:24:19.000Z",
-      "fact": "商傳媒 報導：【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【2026-11-23】《商傳媒｜美財經一週大事》升息陰影與AI神話破滅重創美股 &nbsp;&nbsp; 商傳媒。",
+      "source": "TradingKey",
+      "publishedAt": "2026-11-23T23:41:25.000Z",
+      "fact": "TradingKey 報導：【美股盤前】谷歌、邁威爾均跌逾11%，Lumentum漲超6%；亞馬遜、英特爾盤後將發布財報",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【美股盤前】谷歌、邁威爾均跌逾11%，Lumentum漲超6%；亞馬遜、英特爾盤後將發布財報 &nbsp;&nbsp; TradingKey。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
-        "市場焦點",
-        "AI"
+        "市場焦點"
       ],
-      "url": "https://sunmedia.tw/news/finance/1795393325-%E3%80%902026-11-23%E3%80%91%E3%80%8A%E5%95%86%E5%82%B3%E5%AA%92%EF%BD%9C%E7%BE%8E%E8%B2%A1%E7%B6%93%E4%B8%80%E9%80%B1%E5%A4%A7%E4%BA%8B%E3%80%8B%E5%8D%87%E6%81%AF%E9%99%B0%E5%BD%B1%E8%88%87AI%E7%A5%9E%E8%A9%B1%E7%A0%B4%E6%BB%85%E9%87%8D%E5%89%B5%E7%BE%8E%E8%82%A1"
+      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262252810-us-premarket-google-marvell-lumentum-amazon-intel-earnings-tradingkey"
     }
   ]
 }
