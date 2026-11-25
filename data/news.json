@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T04:41:29.787Z",
+  "generatedAt": "2026-11-25T05:54:31.665Z",
   "source": "Google News RSS",
   "items": [
     {
@@ -45,47 +45,6 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 搜尋擴大「個人智慧」串聯：Wallet、Drive 與 Gemini 陸續加入 AI Mode",
-      "originalTitle": "Google 搜尋擴大「個人智慧」串聯：Wallet、Drive 與 Gemini 陸續加入 AI Mode",
-      "translatedTitle": "Google 搜尋擴大「個人智慧」串聯：Wallet、Drive 與 Gemini 陸續加入 AI Mode",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "T客邦",
-      "publishedAt": "2026-11-25T02:30:00.000Z",
-      "fact": "T客邦 報導：Google 搜尋擴大「個人智慧」串聯：Wallet、Drive 與 Gemini 陸續加入 AI Mode",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 搜尋擴大「個人智慧」串聯：Wallet、Drive 與 Gemini 陸續加入 AI Mode &nbsp;&nbsp; T客邦。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "AI"
-      ],
-      "url": "https://www.techbang.com/posts/135055-google-search-expands-ai-mode-wallet-drive-gemini"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "首起AI自主攻擊現蹤26秒攻陷11家機構打破資安防線",
-      "title": "首起AI自主攻擊現蹤26秒攻陷11家機構打破資安防線- 科技新聞",
-      "originalTitle": "首起AI自主攻擊現蹤26秒攻陷11家機構打破資安防線- 科技新聞",
-      "translatedTitle": "首起AI自主攻擊現蹤26秒攻陷11家機構打破資安防線- 科技新聞",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-11-25T04:10:25.000Z",
-      "fact": "PChome Online 新聞 報導：首起AI自主攻擊現蹤26秒攻陷11家機構打破資安防線- 科技新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；首起AI自主攻擊現蹤26秒攻陷11家機構打破資安防線- 科技新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://news.pchome.com.tw/science/sunmedia/20261125/index-79557982568278329005.html"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "ANT|Anthropic Ord Shs Class A|價格:81.905|漲跌幅:-5.735",
       "originalTitle": "ANT|Anthropic Ord Shs Class A|價格:81.905|漲跌幅:-5.735",
@@ -102,6 +61,46 @@
         "Anthropic"
       ],
       "url": "https://www.tradingkey.com/zh-hant/markets/stocks/ant"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷",
+      "title": "加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞",
+      "originalTitle": "加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞",
+      "translatedTitle": "加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "PChome Online 新聞",
+      "publishedAt": "2026-11-24T18:28:51.000Z",
+      "fact": "PChome Online 新聞 報導：加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞 &nbsp;&nbsp; PChome Online 新聞。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://news.pchome.com.tw/finance/sunmedia/20261125/index-79554493114846329003.html"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Google",
+      "title": "Waystar將爲Google 雲端的Gemini for Healthcare提供收入週期智能服務",
+      "originalTitle": "Waystar將爲Google Cloud的Gemini for Healthcare提供收入週期智能服務",
+      "translatedTitle": "Waystar將爲Google 雲端的Gemini for Healthcare提供收入週期智能服務",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "雲端基礎設施",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-24T15:19:15.000Z",
+      "fact": "富途牛牛 報導：Waystar將爲Google 雲端的Gemini for Healthcare提供收入週期智能服務",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Waystar將爲Google Cloud的Gemini for Healthcare提供收入週期智能服務 &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Google",
+        "cloud"
+      ],
+      "url": "https://news.futunn.com/hk/post/1005487429/waystar-to-provide-revenue-cycle-intelligence-to-google-cloud-s"
     },
     {
       "id": "全球財經脈動-1",
@@ -207,64 +206,65 @@
     {
       "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "輝達 股票 Plunges 46%",
-      "title": "輝達 股票 Plunges 46%: Why WDC Could Be a Better Buy for 2027",
-      "originalTitle": "NVIDIA Stock Plunges 46%: Why WDC Could Be a Better Buy for 2027",
-      "translatedTitle": "輝達 股票 Plunges 46%: Why WDC Could Be a Better Buy for 2027",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-23T19:00:00.000Z",
-      "fact": "TradingView 報導：輝達 股票 Plunges 46%: Why WDC Could Be a Better Buy for 2027",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NVIDIA Stock Plunges 46%: Why WDC Could Be a Better Buy for 2027 &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Nvidia"
-      ],
-      "url": "https://tw.tradingview.com/news/zacks:63570ff38094b:0-nvidia-stock-plunges-46-why-wdc-could-be-a-better-buy-for-2027/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Southbound 資金流向 | Southbound",
-      "title": "Southbound 資金流向 | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of 財報; increased positions in AI hardware 股票 throughout the day",
-      "originalTitle": "Southbound Capital Flow | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of earnings; increased positions in AI hardware stocks throughout the day",
-      "translatedTitle": "Southbound 資金流向 | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of 財報; increased positions in AI hardware 股票 throughout the day",
+      "subject": "Jensen Huang's return drives",
+      "title": "Jensen Huang's return drives a rebound in Japanese and South Korean 晶片股, but AI 投資 returns remain uncertain",
+      "originalTitle": "Jensen Huang's return drives a rebound in Japanese and South Korean chip stocks, but AI investment returns remain uncertain",
+      "translatedTitle": "Jensen Huang's return drives a rebound in Japanese and South Korean 晶片股, but AI 投資 returns remain uncertain",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-24T09:43:52.000Z",
-      "fact": "富途牛牛 報導：Southbound 資金流向 | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of 財報; increased positions in AI hardware 股票 throughout the day",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Southbound Capital Flow | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion i。",
+      "publishedAt": "2026-11-24T15:15:33.000Z",
+      "fact": "富途牛牛 報導：Jensen Huang's return drives a rebound in Japanese and South Korean 晶片股, but AI 投資 returns remain uncertain",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Jensen Huang's return drives a rebound in Japanese and South Korean chip stocks, but AI investment returns remain uncert。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
-        "earnings",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1005461948/southbound-capital-flow-southbound-capital-recorded-net-purchases-of-hk"
+      "url": "https://news.futunn.com/en/post/1005495714/jensen-huang-s-return-drives-a-rebound-in-japanese-and"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "【23",
+      "title": "【23:17 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮",
+      "originalTitle": "【23:17 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮",
+      "translatedTitle": "【23:17 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "美股放大鏡",
+      "publishedAt": "2026-11-24T15:17:10.000Z",
+      "fact": "美股放大鏡 報導：【23:17 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【23:17 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮 &nbsp;&nbsp; 美股放大鏡。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "semiconductor"
+      ],
+      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-1e768832-e81a-11f1-bbb2-263ea7fe1582"
     },
     {
       "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "戴爾Q3財報前瞻",
-      "title": "戴爾Q3財報前瞻：AI伺服器營收有望達850億美元，華爾街最高看至700美元",
-      "originalTitle": "戴爾Q3財報前瞻：AI伺服器營收有望達850億美元，華爾街最高看至700美元",
-      "translatedTitle": "戴爾Q3財報前瞻：AI伺服器營收有望達850億美元，華爾街最高看至700美元",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "subject": "Asian 股票 decline amid AI tra",
+      "title": "Asian 股票 decline amid AI trade worries and fresh US tariff jitters",
+      "originalTitle": "Asian stocks decline amid AI trade worries and fresh US tariff jitters",
+      "translatedTitle": "Asian 股票 decline amid AI trade worries and fresh US tariff jitters",
+      "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingKey",
-      "publishedAt": "2026-11-24T08:57:21.000Z",
-      "fact": "TradingKey 報導：戴爾Q3財報前瞻：AI伺服器營收有望達850億美元，華爾街最高看至700美元",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；戴爾Q3財報前瞻：AI伺服器營收有望達850億美元，華爾街最高看至700美元 &nbsp;&nbsp; TradingKey。",
+      "source": "tmgm.com",
+      "publishedAt": "2026-11-25T04:45:19.000Z",
+      "fact": "tmgm.com 報導：Asian 股票 decline amid AI trade worries and fresh US tariff jitters",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asian stocks decline amid AI trade worries and fresh US tariff jitters &nbsp;&nbsp; tmgm.com。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://www.tradingkey.com/zh-hant/analysis/stocks/us-stock/262319700-dell-q3-earnings-preview-ai-server-revenue-tradingkey"
+      "url": "https://www.tmgm.com/zh-hant/analysis/market-news/article/asian-stocks-decline-amid-ai-trade-worries-and-fresh-us-tariff-jitters-202611250439"
     }
   ]
 }
