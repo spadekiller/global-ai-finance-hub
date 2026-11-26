@@ -1,31 +1,9 @@
 {
-  "generatedAt": "2026-11-26T03:50:49.031Z",
+  "generatedAt": "2026-11-26T05:45:43.707Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
-      "originalTitle": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
-      "translatedTitle": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "鉅亨網",
-      "publishedAt": "2026-11-25T22:01:55.000Z",
-      "fact": "鉅亨網 報導：Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力 &nbsp;&nbsp; 鉅亨網。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "Google",
-        "AI"
-      ],
-      "url": "https://news.cnyes.com/news/id/6671874"
-    },
-    {
-      "id": "ai-與科技前沿-2",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
@@ -45,6 +23,28 @@
         "AI"
       ],
       "url": "https://finance.ettoday.net/news/3278626"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
+      "originalTitle": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
+      "translatedTitle": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "鉅亨網",
+      "publishedAt": "2026-11-25T22:01:55.000Z",
+      "fact": "鉅亨網 報導：Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力 &nbsp;&nbsp; 鉅亨網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic",
+        "Google",
+        "AI"
+      ],
+      "url": "https://news.cnyes.com/news/id/6671874"
     },
     {
       "id": "ai-與科技前沿-3",
@@ -69,25 +69,6 @@
     {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "Qwen4",
-      "title": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
-      "originalTitle": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
-      "translatedTitle": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-11-25T14:37:45.000Z",
-      "fact": "OrcaRouter 報導：Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試 &nbsp;&nbsp; OrcaRouter。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/qwen-4-max-vs-gemini-4-carbon"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Clay helps sales teams win with Codex and ChatGPT",
       "originalTitle": "Clay helps sales teams win with Codex and ChatGPT",
@@ -104,6 +85,25 @@
         "AI"
       ],
       "url": "https://openai.com/zh-Hant-HK/business/customer-stories/clay-plugins-openai/"
+    },
+    {
+      "id": "ai-與科技前沿-5",
+      "section": "AI 與科技前沿",
+      "subject": "Qwen4",
+      "title": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
+      "originalTitle": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
+      "translatedTitle": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-25T14:37:45.000Z",
+      "fact": "OrcaRouter 報導：Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試 &nbsp;&nbsp; OrcaRouter。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.orcarouter.ai/zh-TW/blog/qwen-4-max-vs-gemini-4-carbon"
     },
     {
       "id": "全球財經脈動-1",
@@ -207,6 +207,26 @@
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
+      "subject": "TSMC",
+      "title": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
+      "originalTitle": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares",
+      "translatedTitle": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-25T10:39:46.000Z",
+      "fact": "TradingView 報導：Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/moodys:fdca5e1e76622:0-huang-boost-fades-quickly-as-ai-fears-sink-tsmc-sk-hynix-shares/"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
       "subject": "Why Are AI 股票 Down Again Tod",
       "title": "Why Are AI 股票 Down Again Today? — WSJ",
       "originalTitle": "Why Are AI Stocks Down Again Today? -- WSJ",
@@ -226,7 +246,48 @@
       "url": "https://www.moomoo.com/hant/news/post/1005794324/why-are-ai-stocks-down-again-today-wsj"
     },
     {
-      "id": "美股與全球市場焦點-2",
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish",
+      "originalTitle": "Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish",
+      "translatedTitle": "AI 財經快訊：Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-25T08:36:50.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/stocktwits:9f256ff41094b:0-workday-autodesk-tumble-after-beat-and-raise-quarters-retail-turns-bullish/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Asia's AI Supply Chain 股票 to",
+      "title": "Asia's AI Supply Chain 股票 to Benefit From Jensen Huang's Return — 市場 Talk",
+      "originalTitle": "Asia's AI Supply Chain Stocks to Benefit From Jensen Huang's Return -- Market Talk",
+      "translatedTitle": "Asia's AI Supply Chain 股票 to Benefit From Jensen Huang's Return — 市場 Talk",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-25T05:42:00.000Z",
+      "fact": "富途牛牛 報導：Asia's AI Supply Chain 股票 to Benefit From Jensen Huang's Return — 市場 Talk",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asia's AI Supply Chain Stocks to Benefit From Jensen Huang's Return -- Market Talk &nbsp;&nbsp; 富途牛牛。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1005566155/asia-s-ai-supply-chain-stocks-to-benefit-from-jensen"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Google",
       "title": "Broadcom 股票 Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
@@ -247,49 +308,6 @@
         "cloud"
       ],
       "url": "https://tw.tradingview.com/news/gurufocus:c5ba9cb4f094b:0-broadcom-stocks-fall-3-98-as-google-tpu-order-report-clouds-ai-outlook/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Southbound 資金流向 | Southbound",
-      "title": "Southbound 資金流向 | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of 財報; increased positions in AI hardware 股票 throughout the day",
-      "originalTitle": "Southbound Capital Flow | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of earnings; increased positions in AI hardware stocks throughout the day",
-      "translatedTitle": "Southbound 資金流向 | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of 財報; increased positions in AI hardware 股票 throughout the day",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-24T09:43:52.000Z",
-      "fact": "富途牛牛 報導：Southbound 資金流向 | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of 財報; increased positions in AI hardware 股票 throughout the day",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Southbound Capital Flow | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion i。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "earnings",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1005461948/southbound-capital-flow-southbound-capital-recorded-net-purchases-of-hk"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Taiwan 半導體 (TSM) 股票 Price Qu",
-      "title": "Taiwan 半導體 (TSM) 股票 Price Quote & News",
-      "originalTitle": "Taiwan Semiconductor (TSM) Stock Price Quote & News",
-      "translatedTitle": "Taiwan 半導體 (TSM) 股票 Price Quote & News",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "Moomoo",
-      "publishedAt": "2026-11-24T21:00:00.000Z",
-      "fact": "Moomoo 報導：Taiwan 半導體 (TSM) 股票 Price Quote & News",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Taiwan Semiconductor (TSM) Stock Price Quote & News &nbsp;&nbsp; Moomoo。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "semiconductor"
-      ],
-      "url": "https://www.moomoo.com/stock/TSM-US?chain_id"
     }
   ]
 }
