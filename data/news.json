@@ -1,9 +1,92 @@
 {
-  "generatedAt": "2026-11-25T05:54:31.665Z",
+  "generatedAt": "2026-11-26T03:50:49.031Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
+      "originalTitle": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
+      "translatedTitle": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "鉅亨網",
+      "publishedAt": "2026-11-25T22:01:55.000Z",
+      "fact": "鉅亨網 報導：Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力 &nbsp;&nbsp; 鉅亨網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic",
+        "Google",
+        "AI"
+      ],
+      "url": "https://news.cnyes.com/news/id/6671874"
+    },
+    {
+      "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Anthropic",
+      "title": "Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
+      "originalTitle": "Google掀AI模型價格戰　Gemini 4 Neon便宜4分之1挑戰Anthropic",
+      "translatedTitle": "Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "ETtoday財經雲",
+      "publishedAt": "2026-11-25T23:25:00.000Z",
+      "fact": "ETtoday財經雲 報導：Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic &nbsp;&nbsp; ETtoday財經雲。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "Anthropic",
+        "Google",
+        "AI"
+      ],
+      "url": "https://finance.ettoday.net/news/3278626"
+    },
+    {
+      "id": "ai-與科技前沿-3",
+      "section": "AI 與科技前沿",
+      "subject": "金融合規通訊迎AI變革 新平台串接Claude等工具防竄",
+      "title": "金融合規通訊迎AI變革 新平台串接Claude等工具防竄改",
+      "originalTitle": "金融合規通訊迎AI變革 新平台串接Claude等工具防竄改",
+      "translatedTitle": "金融合規通訊迎AI變革 新平台串接Claude等工具防竄改",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
+      "category": "AI 與科技前沿",
+      "source": "商傳媒",
+      "publishedAt": "2026-11-26T01:52:55.000Z",
+      "fact": "商傳媒 報導：金融合規通訊迎AI變革 新平台串接Claude等工具防竄改",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；金融合規通訊迎AI變革 新平台串接Claude等工具防竄改 &nbsp;&nbsp; 商傳媒。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://sunmedia.tw/news/technology/1795646723-%E9%87%91%E8%9E%8D%E5%90%88%E8%A6%8F%E9%80%9A%E8%A8%8A%E8%BF%8EAI%E8%AE%8A%E9%9D%A9%E3%80%80%E6%96%B0%E5%B9%B3%E5%8F%B0%E4%B8%B2%E6%8E%A5Claude%E7%AD%89%E5%B7%A5%E5%85%B7%E9%98%B2%E7%AB%84%E6%94%B9"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
+      "subject": "Qwen4",
+      "title": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
+      "originalTitle": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
+      "translatedTitle": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-25T14:37:45.000Z",
+      "fact": "OrcaRouter 報導：Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試 &nbsp;&nbsp; OrcaRouter。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.orcarouter.ai/zh-TW/blog/qwen-4-max-vs-gemini-4-carbon"
+    },
+    {
+      "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
       "subject": "AI 財經快訊",
       "title": "AI 財經快訊：Clay helps sales teams win with Codex and ChatGPT",
@@ -20,107 +103,27 @@
         "AI 與科技前沿",
         "AI"
       ],
-      "url": "https://openai.com/zh-Hant/business/customer-stories/clay-plugins-openai/"
-    },
-    {
-      "id": "ai-與科技前沿-2",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Google 推出 Gemini 4 Neon 聚焦程式開發與知識工作",
-      "originalTitle": "Google 推出 Gemini 4 Neon 聚焦程式開發與知識工作",
-      "translatedTitle": "Google 推出 Gemini 4 Neon 聚焦程式開發與知識工作",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "網路資訊雜誌",
-      "publishedAt": "2026-11-24T20:15:29.000Z",
-      "fact": "網路資訊雜誌 報導：Google 推出 Gemini 4 Neon 聚焦程式開發與知識工作",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google 推出 Gemini 4 Neon 聚焦程式開發與知識工作 &nbsp;&nbsp; 網路資訊雜誌。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google"
-      ],
-      "url": "https://netmag.tw/2026/11/25/google-launches-gemini-4-neon-for-coding-and-knowledge-work"
-    },
-    {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "ANT|Anthropic Ord Shs Class A|價格:81.905|漲跌幅:-5.735",
-      "originalTitle": "ANT|Anthropic Ord Shs Class A|價格:81.905|漲跌幅:-5.735",
-      "translatedTitle": "ANT|Anthropic Ord Shs Class A|價格:81.905|漲跌幅:-5.735",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "TradingKey",
-      "publishedAt": "2026-11-25T01:36:00.000Z",
-      "fact": "TradingKey 報導：ANT|Anthropic Ord Shs Class A|價格:81.905|漲跌幅:-5.735",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；ANT|Anthropic Ord Shs Class A|價格:81.905|漲跌幅:-5.735 &nbsp;&nbsp; TradingKey。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Anthropic"
-      ],
-      "url": "https://www.tradingkey.com/zh-hant/markets/stocks/ant"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷",
-      "title": "加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞",
-      "originalTitle": "加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞",
-      "translatedTitle": "加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "PChome Online 新聞",
-      "publishedAt": "2026-11-24T18:28:51.000Z",
-      "fact": "PChome Online 新聞 報導：加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；加拿大砸20億加幣建自主算力力抗美系科技巨頭壟斷- 財經新聞 &nbsp;&nbsp; PChome Online 新聞。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://news.pchome.com.tw/finance/sunmedia/20261125/index-79554493114846329003.html"
-    },
-    {
-      "id": "ai-與科技前沿-5",
-      "section": "AI 與科技前沿",
-      "subject": "Google",
-      "title": "Waystar將爲Google 雲端的Gemini for Healthcare提供收入週期智能服務",
-      "originalTitle": "Waystar將爲Google Cloud的Gemini for Healthcare提供收入週期智能服務",
-      "translatedTitle": "Waystar將爲Google 雲端的Gemini for Healthcare提供收入週期智能服務",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "雲端基礎設施",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-24T15:19:15.000Z",
-      "fact": "富途牛牛 報導：Waystar將爲Google 雲端的Gemini for Healthcare提供收入週期智能服務",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Waystar將爲Google Cloud的Gemini for Healthcare提供收入週期智能服務 &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "Google",
-        "cloud"
-      ],
-      "url": "https://news.futunn.com/hk/post/1005487429/waystar-to-provide-revenue-cycle-intelligence-to-google-cloud-s"
+      "url": "https://openai.com/zh-Hant-HK/business/customer-stories/clay-plugins-openai/"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "ABB helps scale industrial A",
-      "title": "ABB helps scale industrial AI with world's first motor featuring built-in intelligence — 全球企業動態",
-      "originalTitle": "ABB helps scale industrial AI with world's first motor featuring built-in intelligence - 全球企業動態",
-      "translatedTitle": "ABB helps scale industrial AI with world's first motor featuring built-in intelligence — 全球企業動態",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：FORM Benefits From Rising Industry Usage of HBM: What's Ahead?",
+      "originalTitle": "FORM Benefits From Rising Industry Usage of HBM: What's Ahead?",
+      "translatedTitle": "AI 財經快訊：FORM Benefits From Rising Industry Usage of HBM: What's Ahead?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "全球財經",
-      "source": "Quamnet",
-      "publishedAt": "2026-11-24T09:00:00.000Z",
-      "fact": "Quamnet 報導：ABB helps scale industrial AI with world's first motor featuring built-in intelligence — 全球企業動態",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；ABB helps scale industrial AI with world's first motor featuring built-in intelligence - 全球企業動態 &nbsp;&nbsp; Quamnet。",
+      "source": "TradingView",
+      "publishedAt": "2026-11-24T13:48:00.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：FORM Benefits From Rising Industry Usage of HBM: What's Ahead?",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；FORM Benefits From Rising Industry Usage of HBM: What's Ahead? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://www.quamnet.com/post/9tblIOwiJq7iQMKv1tr4I"
+      "url": "https://tw.tradingview.com/news/zacks:afc8de62c094b:0-form-benefits-from-rising-industry-usage-of-hbm-what-s-ahead/"
     },
     {
       "id": "全球財經脈動-2",
@@ -145,126 +148,148 @@
     {
       "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "Panic selling in U.S. 股票 has",
-      "title": "Panic selling in U.S. 股票 has created a rare buying opportunity; investors are advised to increase equity exposure.",
-      "originalTitle": "Panic selling in U.S. stocks has created a rare buying opportunity; investors are advised to increase equity exposure.",
-      "translatedTitle": "Panic selling in U.S. 股票 has created a rare buying opportunity; investors are advised to increase equity exposure.",
+      "subject": "ABB helps scale industrial A",
+      "title": "ABB helps scale industrial AI with world's first motor featuring built-in intelligence — 全球企業動態",
+      "originalTitle": "ABB helps scale industrial AI with world's first motor featuring built-in intelligence - 全球企業動態",
+      "translatedTitle": "ABB helps scale industrial AI with world's first motor featuring built-in intelligence — 全球企業動態",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-23T13:13:23.000Z",
-      "fact": "富途牛牛 報導：Panic selling in U.S. 股票 has created a rare buying opportunity; investors are advised to increase equity exposure.",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Panic selling in U.S. stocks has created a rare buying opportunity; investors are advised to increase equity exposure. &。",
+      "category": "全球財經",
+      "source": "Quamnet",
+      "publishedAt": "2026-11-24T09:00:00.000Z",
+      "fact": "Quamnet 報導：ABB helps scale industrial AI with world's first motor featuring built-in intelligence — 全球企業動態",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；ABB helps scale industrial AI with world's first motor featuring built-in intelligence - 全球企業動態 &nbsp;&nbsp; Quamnet。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "stocks"
+        "AI"
       ],
-      "url": "https://news.futunn.com/en/post/1005353131/morgan-stanley-s-wilson-panic-selling-in-us-stocks-has"
+      "url": "https://www.quamnet.com/post/9tblIOwiJq7iQMKv1tr4I"
+    },
+    {
+      "id": "全球財經脈動-4",
+      "section": "全球財經脈動",
+      "subject": "Amphenol",
+      "title": "Amphenol, NextNav, Flex, IREN, and Nebius Group 股價 plummet, what you need to know",
+      "originalTitle": "Amphenol, NextNav, Flex, IREN, and Nebius Group shares plummet, what you need to know",
+      "translatedTitle": "Amphenol, NextNav, Flex, IREN, and Nebius Group 股價 plummet, what you need to know",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-24T20:01:15.000Z",
+      "fact": "TradingView 報導：Amphenol, NextNav, Flex, IREN, and Nebius Group 股價 plummet, what you need to know",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Amphenol, NextNav, Flex, IREN, and Nebius Group shares plummet, what you need to know &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://tw.tradingview.com/news/stockstory:b19489bf3094b:0-amphenol-nextnav-flex-iren-and-nebius-group-shares-plummet-what-you-need-to-know/"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "Fed",
+      "title": "AI 財經快訊：Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "originalTitle": "Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "translatedTitle": "AI 財經快訊：Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-25T21:26:34.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide &nbs。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/1005658364/fed-beige-book-ai-infrastructure-supports-industrial-expansion-high-costs"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "AI 需求能否續強？戴爾、惠普財報見真章",
-      "title": "AI 需求能否續強？戴爾、惠普財報見真章",
-      "originalTitle": "AI 需求能否續強？戴爾、惠普財報見真章",
-      "translatedTitle": "AI 需求能否續強？戴爾、惠普財報見真章",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "市場焦點",
-      "source": "TechNews 科技新報",
-      "publishedAt": "2026-11-24T03:40:13.000Z",
-      "fact": "TechNews 科技新報 報導：AI 需求能否續強？戴爾、惠普財報見真章",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；AI 需求能否續強？戴爾、惠普財報見真章 &nbsp;&nbsp; TechNews 科技新報。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI"
-      ],
-      "url": "https://finance.technews.tw/2026/11/24/dell-and-hp-earnings-emerge-as-key-indicators-for-ai-stocks/"
-    },
-    {
-      "id": "美股與全球市場焦點-2",
-      "section": "美股與全球市場焦點",
-      "subject": "Anthropic",
-      "title": "Anthropic 股票 Trend, Jensen Huang’s Potential Return As 輝達 CEO And Dell’s Q4 Results To Keep Tech Investors Busy This Week",
-      "originalTitle": "Anthropic Stock Trend, Jensen Huang’s Potential Return As Nvidia CEO And Dell’s Q4 Results To Keep Tech Investors Busy This Week",
-      "translatedTitle": "Anthropic 股票 Trend, Jensen Huang’s Potential Return As 輝達 CEO And Dell’s Q4 Results To Keep Tech Investors Busy This Week",
+      "subject": "Why Are AI 股票 Down Again Tod",
+      "title": "Why Are AI 股票 Down Again Today? — WSJ",
+      "originalTitle": "Why Are AI Stocks Down Again Today? -- WSJ",
+      "translatedTitle": "Why Are AI 股票 Down Again Today? — WSJ",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-23T10:06:51.000Z",
-      "fact": "TradingView 報導：Anthropic 股票 Trend, Jensen Huang’s Potential Return As 輝達 CEO And Dell’s Q4 Results To Keep Tech Investors Busy This Week",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Anthropic Stock Trend, Jensen Huang’s Potential Return As Nvidia CEO And Dell’s Q4 Results To Keep Tech Investors Busy T。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Anthropic",
-        "Nvidia"
-      ],
-      "url": "https://tw.tradingview.com/news/stocktwits:c532c2006094b:0-anthropic-stock-trend-jensen-huang-s-potential-return-as-nvidia-ceo-and-dell-s-q4-results-to-keep-tech-investors-busy-this-week/"
-    },
-    {
-      "id": "美股與全球市場焦點-3",
-      "section": "美股與全球市場焦點",
-      "subject": "Jensen Huang's return drives",
-      "title": "Jensen Huang's return drives a rebound in Japanese and South Korean 晶片股, but AI 投資 returns remain uncertain",
-      "originalTitle": "Jensen Huang's return drives a rebound in Japanese and South Korean chip stocks, but AI investment returns remain uncertain",
-      "translatedTitle": "Jensen Huang's return drives a rebound in Japanese and South Korean 晶片股, but AI 投資 returns remain uncertain",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-24T15:15:33.000Z",
-      "fact": "富途牛牛 報導：Jensen Huang's return drives a rebound in Japanese and South Korean 晶片股, but AI 投資 returns remain uncertain",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Jensen Huang's return drives a rebound in Japanese and South Korean chip stocks, but AI investment returns remain uncert。",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-25T16:50:00.000Z",
+      "fact": "Moomoo 報導：Why Are AI 股票 Down Again Today? — WSJ",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Why Are AI Stocks Down Again Today? -- WSJ &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1005495714/jensen-huang-s-return-drives-a-rebound-in-japanese-and"
+      "url": "https://www.moomoo.com/hant/news/post/1005794324/why-are-ai-stocks-down-again-today-wsj"
+    },
+    {
+      "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "Google",
+      "title": "Broadcom 股票 Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
+      "originalTitle": "Broadcom Stocks Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
+      "translatedTitle": "Broadcom 股票 Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-24T16:54:05.000Z",
+      "fact": "TradingView 報導：Broadcom 股票 Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Broadcom Stocks Fall 3.98% as Google TPU Order Report Clouds AI Outlook &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "Google",
+        "AI",
+        "stocks",
+        "cloud"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:c5ba9cb4f094b:0-broadcom-stocks-fall-3-98-as-google-tpu-order-report-clouds-ai-outlook/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
+      "section": "美股與全球市場焦點",
+      "subject": "Southbound 資金流向 | Southbound",
+      "title": "Southbound 資金流向 | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of 財報; increased positions in AI hardware 股票 throughout the day",
+      "originalTitle": "Southbound Capital Flow | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of earnings; increased positions in AI hardware stocks throughout the day",
+      "translatedTitle": "Southbound 資金流向 | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of 財報; increased positions in AI hardware 股票 throughout the day",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-24T09:43:52.000Z",
+      "fact": "富途牛牛 報導：Southbound 資金流向 | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion in Xiaomi (01810) ahead of 財報; increased positions in AI hardware 股票 throughout the day",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Southbound Capital Flow | Southbound capital recorded net purchases of HK$6.203 billion; accumulated over HK$1 billion i。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "AI",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://news.futunn.com/en/post/1005461948/southbound-capital-flow-southbound-capital-recorded-net-purchases-of-hk"
     },
     {
       "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
-      "subject": "【23",
-      "title": "【23:17 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮",
-      "originalTitle": "【23:17 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮",
-      "translatedTitle": "【23:17 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮",
+      "subject": "Taiwan 半導體 (TSM) 股票 Price Qu",
+      "title": "Taiwan 半導體 (TSM) 股票 Price Quote & News",
+      "originalTitle": "Taiwan Semiconductor (TSM) Stock Price Quote & News",
+      "translatedTitle": "Taiwan 半導體 (TSM) 股票 Price Quote & News",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "美股放大鏡",
-      "publishedAt": "2026-11-24T15:17:10.000Z",
-      "fact": "美股放大鏡 報導：【23:17 即時新聞】Taiwan 半導體 Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；【23:17 即時新聞】Taiwan Semiconductor Manufacturing (TSM) 跌5%／AI 類股反彈降溫、追漲買盤退潮 &nbsp;&nbsp; 美股放大鏡。",
+      "category": "市場焦點",
+      "source": "Moomoo",
+      "publishedAt": "2026-11-24T21:00:00.000Z",
+      "fact": "Moomoo 報導：Taiwan 半導體 (TSM) 股票 Price Quote & News",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Taiwan Semiconductor (TSM) Stock Price Quote & News &nbsp;&nbsp; Moomoo。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI",
         "semiconductor"
       ],
-      "url": "https://www.forecastock.tw/article/cmoneyairesearcher-1e768832-e81a-11f1-bbb2-263ea7fe1582"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Asian 股票 decline amid AI tra",
-      "title": "Asian 股票 decline amid AI trade worries and fresh US tariff jitters",
-      "originalTitle": "Asian stocks decline amid AI trade worries and fresh US tariff jitters",
-      "translatedTitle": "Asian 股票 decline amid AI trade worries and fresh US tariff jitters",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "tmgm.com",
-      "publishedAt": "2026-11-25T04:45:19.000Z",
-      "fact": "tmgm.com 報導：Asian 股票 decline amid AI trade worries and fresh US tariff jitters",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asian stocks decline amid AI trade worries and fresh US tariff jitters &nbsp;&nbsp; tmgm.com。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://www.tmgm.com/zh-hant/analysis/market-news/article/asian-stocks-decline-amid-ai-trade-worries-and-fresh-us-tariff-jitters-202611250439"
+      "url": "https://www.moomoo.com/stock/TSM-US?chain_id"
     }
   ]
 }
