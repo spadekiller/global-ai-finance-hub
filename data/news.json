@@ -1,25 +1,25 @@
 {
-  "generatedAt": "2026-11-27T03:52:20.826Z",
+  "generatedAt": "2026-11-27T05:40:39.077Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Gemini 4 Neon",
-      "title": "Gemini 4 Neon：Gemini 付費任務背後的模型",
-      "originalTitle": "Gemini 4 Neon：Gemini 付費任務背後的模型",
-      "translatedTitle": "Gemini 4 Neon：Gemini 付費任務背後的模型",
+      "subject": "Alphabet Drops 15% in a Year",
+      "title": "Alphabet Drops 15% in a Year: Buy, Sell or Hold the 股票?",
+      "originalTitle": "Alphabet Drops 15% in a Year: Buy, Sell or Hold the Stock?",
+      "translatedTitle": "Alphabet Drops 15% in a Year: Buy, Sell or Hold the 股票?",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-11-26T22:40:44.000Z",
-      "fact": "OrcaRouter 報導：Gemini 4 Neon：Gemini 付費任務背後的模型",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Neon：Gemini 付費任務背後的模型 &nbsp;&nbsp; OrcaRouter。",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-26T13:48:00.000Z",
+      "fact": "TradingView 報導：Alphabet Drops 15% in a Year: Buy, Sell or Hold the 股票?",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Alphabet Drops 15% in a Year: Buy, Sell or Hold the Stock? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿"
       ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-neon-tasks-in-gemini"
+      "url": "https://tw.tradingview.com/news/zacks:e50c49150094b:0-alphabet-drops-15-in-a-year-buy-sell-or-hold-the-stock/"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -88,63 +88,61 @@
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
-      "originalTitle": "BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
-      "translatedTitle": "AI 財經快訊：BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
-      "translationNote": "系統翻譯，請以原文為準",
+      "subject": "歐洲央行官員質疑人工智能支撐全球增長的時間能持續多久。",
+      "title": "歐洲央行官員質疑人工智能支撐全球增長的時間能持續多久。",
+      "originalTitle": "歐洲央行官員質疑人工智能支撐全球增長的時間能持續多久。",
+      "translatedTitle": "歐洲央行官員質疑人工智能支撐全球增長的時間能持續多久。",
+      "translationNote": "原文為中文或 RSS 已提供中文標題",
       "category": "AI 與科技前沿",
       "source": "富途牛牛",
-      "publishedAt": "2026-11-26T11:03:00.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update &nbsp;&nbsp; 富途牛牛。",
+      "publishedAt": "2026-11-26T12:34:12.000Z",
+      "fact": "富途牛牛 報導：歐洲央行官員質疑人工智能支撐全球增長的時間能持續多久。",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；歐洲央行官員質疑人工智能支撐全球增長的時間能持續多久。 &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://news.futunn.com/hk/post/1005745398/boe-warns-scale-and-breadth-of-ai-financing-poses-threat"
+      "url": "https://news.futunn.com/hk/flash/1005753221/european-central-bank-officials-question-how-long-artificial-intelligence-can"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "Sandisk 股票 Plunges 12% as AI",
-      "title": "Sandisk 股票 Plunges 12% as AI Memory Fears Deepen",
-      "originalTitle": "Sandisk Stock Plunges 12% as AI Memory Fears Deepen",
-      "translatedTitle": "Sandisk 股票 Plunges 12% as AI Memory Fears Deepen",
+      "subject": "AMD",
+      "title": "AMD, Micron and Sandisk 股票 Slide as AI Spending Fears Deepen",
+      "originalTitle": "AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen",
+      "translatedTitle": "AMD, Micron and Sandisk 股票 Slide as AI Spending Fears Deepen",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-11-25T18:04:19.000Z",
-      "fact": "TradingView 報導：Sandisk 股票 Plunges 12% as AI Memory Fears Deepen",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Sandisk Stock Plunges 12% as AI Memory Fears Deepen &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:214458ba8094b:0-sandisk-stock-plunges-12-as-ai-memory-fears-deepen/"
-    },
-    {
-      "id": "全球財經脈動-2",
-      "section": "全球財經脈動",
-      "subject": "A Record $132 Billion AI Bac",
-      "title": "A Record $132 Billion AI Backlog Lands as 晶片股 Whipsaw",
-      "originalTitle": "A Record $132 Billion AI Backlog Lands as Chip Stocks Whipsaw",
-      "translatedTitle": "A Record $132 Billion AI Backlog Lands as 晶片股 Whipsaw",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-25T12:15:00.000Z",
-      "fact": "TradingView 報導：A Record $132 Billion AI Backlog Lands as 晶片股 Whipsaw",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；A Record $132 Billion AI Backlog Lands as Chip Stocks Whipsaw &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-11-25T12:27:28.000Z",
+      "fact": "TradingView 報導：AMD, Micron and Sandisk 股票 Slide as AI Spending Fears Deepen",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen &nbsp;&nbsp; TradingView。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI",
         "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/prnewswire:e2eb97a530638:0-a-record-132-billion-ai-backlog-lands-as-chip-stocks-whipsaw/"
+      "url": "https://tw.tradingview.com/news/gurufocus:42040b55d094b:0-amd-micron-and-sandisk-stocks-slide-as-ai-spending-fears-deepen/"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "Tesla",
+      "title": "Plug Power, J.B. Hunt, FuelCell 能源, Tesla, and Viavi Solutions 股價 plummet, what you need to know",
+      "originalTitle": "Plug Power, J.B. Hunt, FuelCell Energy, Tesla, and Viavi Solutions shares plummet, what you need to know",
+      "translatedTitle": "Plug Power, J.B. Hunt, FuelCell 能源, Tesla, and Viavi Solutions 股價 plummet, what you need to know",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-25T16:05:49.000Z",
+      "fact": "TradingView 報導：Plug Power, J.B. Hunt, FuelCell 能源, Tesla, and Viavi Solutions 股價 plummet, what you need to know",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Plug Power, J.B. Hunt, FuelCell Energy, Tesla, and Viavi Solutions shares plummet, what you need to know &nbsp;&nbsp; Tr。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經"
+      ],
+      "url": "https://tw.tradingview.com/news/stockstory:8771f9f93094b:0-plug-power-j-b-hunt-fuelcell-energy-tesla-and-viavi-solutions-shares-plummet-what-you-need-to-know/"
     },
     {
       "id": "全球財經脈動-3",
@@ -167,25 +165,44 @@
       "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653526"
     },
     {
-      "id": "全球財經脈動-5",
+      "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "AMD",
-      "title": "AMD, Micron and Sandisk 股票 Slide as AI Spending Fears Deepen",
-      "originalTitle": "AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen",
-      "translatedTitle": "AMD, Micron and Sandisk 股票 Slide as AI Spending Fears Deepen",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
+      "originalTitle": "BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
+      "translatedTitle": "AI 財經快訊：BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-25T12:27:28.000Z",
-      "fact": "TradingView 報導：AMD, Micron and Sandisk 股票 Slide as AI Spending Fears Deepen",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen &nbsp;&nbsp; TradingView。",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-26T11:03:00.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI",
-        "stocks"
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/gurufocus:42040b55d094b:0-amd-micron-and-sandisk-stocks-slide-as-ai-spending-fears-deepen/"
+      "url": "https://news.futunn.com/hk/post/1005745398/boe-warns-scale-and-breadth-of-ai-financing-poses-threat"
+    },
+    {
+      "id": "全球財經脈動-5",
+      "section": "全球財經脈動",
+      "subject": "Fed",
+      "title": "AI 財經快訊：Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "originalTitle": "Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "translatedTitle": "AI 財經快訊：Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "全球財經",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-25T21:26:34.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide &nbs。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "AI"
+      ],
+      "url": "https://news.futunn.com/en/post/1005658364/fed-beige-book-ai-infrastructure-supports-industrial-expansion-high-costs"
     },
     {
       "id": "美股與全球市場焦點-1",
@@ -229,24 +246,62 @@
       "url": "https://www.moomoo.com/hant/news/post/1005794324/why-are-ai-stocks-down-again-today-wsj"
     },
     {
-      "id": "美股與全球市場焦點-5",
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
-      "subject": "TSMC",
-      "title": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
-      "originalTitle": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares",
-      "translatedTitle": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
+      "subject": "Genpact 股票 Rises 20% in Thre",
+      "title": "Genpact 股票 Rises 20% in Three Months: Here's What You Should Know",
+      "originalTitle": "Genpact Stock Rises 20% in Three Months: Here's What You Should Know",
+      "translatedTitle": "Genpact 股票 Rises 20% in Three Months: Here's What You Should Know",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-11-25T10:39:46.000Z",
-      "fact": "TradingView 報導：Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-11-26T13:08:00.000Z",
+      "fact": "TradingView 報導：Genpact 股票 Rises 20% in Three Months: Here's What You Should Know",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Genpact Stock Rises 20% in Three Months: Here's What You Should Know &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://tw.tradingview.com/news/zacks:22a1f5ac1094b:0-genpact-stock-rises-20-in-three-months-here-s-what-you-should-know/"
+    },
+    {
+      "id": "美股與全球市場焦點-4",
+      "section": "美股與全球市場焦點",
+      "subject": "Seagate 股價 Tumble 46% in 6 m",
+      "title": "Seagate 股價 Tumble 46% in 6 months: Buy, Sell or Hold STX Now?",
+      "originalTitle": "Seagate Shares Tumble 46% in 6 months: Buy, Sell or Hold STX Now?",
+      "translatedTitle": "Seagate 股價 Tumble 46% in 6 months: Buy, Sell or Hold STX Now?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-26T11:55:00.000Z",
+      "fact": "TradingView 報導：Seagate 股價 Tumble 46% in 6 months: Buy, Sell or Hold STX Now?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Seagate Shares Tumble 46% in 6 months: Buy, Sell or Hold STX Now? &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點"
+      ],
+      "url": "https://tw.tradingview.com/news/zacks:434655cb0094b:0-seagate-shares-tumble-46-in-6-months-buy-sell-or-hold-stx-now/"
+    },
+    {
+      "id": "美股與全球市場焦點-5",
+      "section": "美股與全球市場焦點",
+      "subject": "Advanced Packaging Drives La",
+      "title": "Advanced Packaging Drives Lam Research's Growth: Can It Gain More 股價?",
+      "originalTitle": "Advanced Packaging Drives Lam Research's Growth: Can It Gain More Share?",
+      "translatedTitle": "Advanced Packaging Drives Lam Research's Growth: Can It Gain More 股價?",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-26T12:36:00.000Z",
+      "fact": "TradingView 報導：Advanced Packaging Drives Lam Research's Growth: Can It Gain More 股價?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Advanced Packaging Drives Lam Research's Growth: Can It Gain More Share? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/moodys:fdca5e1e76622:0-huang-boost-fades-quickly-as-ai-fears-sink-tsmc-sk-hynix-shares/"
+      "url": "https://tw.tradingview.com/news/zacks:de62f3263094b:0-advanced-packaging-drives-lam-research-s-growth-can-it-gain-more-share/"
     }
   ]
 }
