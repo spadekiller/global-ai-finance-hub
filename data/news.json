@@ -1,31 +1,48 @@
 {
-  "generatedAt": "2026-11-26T05:45:43.707Z",
+  "generatedAt": "2026-11-27T03:52:20.826Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "Anthropic",
-      "title": "Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
-      "originalTitle": "Google掀AI模型價格戰　Gemini 4 Neon便宜4分之1挑戰Anthropic",
-      "translatedTitle": "Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
+      "subject": "Gemini 4 Neon",
+      "title": "Gemini 4 Neon：Gemini 付費任務背後的模型",
+      "originalTitle": "Gemini 4 Neon：Gemini 付費任務背後的模型",
+      "translatedTitle": "Gemini 4 Neon：Gemini 付費任務背後的模型",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "前沿模型",
-      "source": "ETtoday財經雲",
-      "publishedAt": "2026-11-25T23:25:00.000Z",
-      "fact": "ETtoday財經雲 報導：Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic &nbsp;&nbsp; ETtoday財經雲。",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-26T22:40:44.000Z",
+      "fact": "OrcaRouter 報導：Gemini 4 Neon：Gemini 付費任務背後的模型",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Neon：Gemini 付費任務背後的模型 &nbsp;&nbsp; OrcaRouter。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿",
-        "Anthropic",
-        "Google",
-        "AI"
+        "AI 與科技前沿"
       ],
-      "url": "https://finance.ettoday.net/news/3278626"
+      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-neon-tasks-in-gemini"
     },
     {
       "id": "ai-與科技前沿-2",
+      "section": "AI 與科技前沿",
+      "subject": "Signal 推出 Block Siri AI 防護，i",
+      "title": "Signal 推出 Block Siri AI 防護，iOS 27 禁截圖，Android 偵測到 AI 助理即自動啟用螢幕安全",
+      "originalTitle": "Signal 推出 Block Siri AI 防護，iOS 27 禁截圖，Android 偵測到 AI 助理即自動啟用螢幕安全",
+      "translatedTitle": "Signal 推出 Block Siri AI 防護，iOS 27 禁截圖，Android 偵測到 AI 助理即自動啟用螢幕安全",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 與科技前沿",
+      "source": "資安人科技網",
+      "publishedAt": "2026-11-26T08:28:47.000Z",
+      "fact": "資安人科技網 報導：Signal 推出 Block Siri AI 防護，iOS 27 禁截圖，Android 偵測到 AI 助理即自動啟用螢幕安全",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Signal 推出 Block Siri AI 防護，iOS 27 禁截圖，Android 偵測到 AI 助理即自動啟用螢幕安全 &nbsp;&nbsp; 資安人科技網。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿",
+        "AI"
+      ],
+      "url": "https://www.informationsecurity.com.tw/article/article_detail.aspx?aid"
+    },
+    {
+      "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "Google打響AI價格戰！Gemini 4 Neon便宜25%直逼頂尖模型 Anthropic面臨壓力",
@@ -47,182 +64,148 @@
       "url": "https://news.cnyes.com/news/id/6671874"
     },
     {
-      "id": "ai-與科技前沿-3",
-      "section": "AI 與科技前沿",
-      "subject": "金融合規通訊迎AI變革 新平台串接Claude等工具防竄",
-      "title": "金融合規通訊迎AI變革 新平台串接Claude等工具防竄改",
-      "originalTitle": "金融合規通訊迎AI變革 新平台串接Claude等工具防竄改",
-      "translatedTitle": "金融合規通訊迎AI變革 新平台串接Claude等工具防竄改",
-      "translationNote": "原文為中文或 RSS 已提供中文標題",
-      "category": "AI 與科技前沿",
-      "source": "商傳媒",
-      "publishedAt": "2026-11-26T01:52:55.000Z",
-      "fact": "商傳媒 報導：金融合規通訊迎AI變革 新平台串接Claude等工具防竄改",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；金融合規通訊迎AI變革 新平台串接Claude等工具防竄改 &nbsp;&nbsp; 商傳媒。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿",
-        "AI"
-      ],
-      "url": "https://sunmedia.tw/news/technology/1795646723-%E9%87%91%E8%9E%8D%E5%90%88%E8%A6%8F%E9%80%9A%E8%A8%8A%E8%BF%8EAI%E8%AE%8A%E9%9D%A9%E3%80%80%E6%96%B0%E5%B9%B3%E5%8F%B0%E4%B8%B2%E6%8E%A5Claude%E7%AD%89%E5%B7%A5%E5%85%B7%E9%98%B2%E7%AB%84%E6%94%B9"
-    },
-    {
       "id": "ai-與科技前沿-4",
       "section": "AI 與科技前沿",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Clay helps sales teams win with Codex and ChatGPT",
-      "originalTitle": "Clay helps sales teams win with Codex and ChatGPT",
-      "translatedTitle": "AI 財經快訊：Clay helps sales teams win with Codex and ChatGPT",
+      "subject": "Anthropic",
+      "title": "Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
+      "originalTitle": "Google掀AI模型價格戰　Gemini 4 Neon便宜4分之1挑戰Anthropic",
+      "translatedTitle": "Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 與科技前沿",
-      "source": "OpenAI",
-      "publishedAt": "2026-11-24T23:24:41.000Z",
-      "fact": "OpenAI 報導：AI 財經快訊：Clay helps sales teams win with Codex and ChatGPT",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Clay helps sales teams win with Codex and ChatGPT &nbsp;&nbsp; OpenAI。",
+      "category": "前沿模型",
+      "source": "ETtoday財經雲",
+      "publishedAt": "2026-11-25T23:25:00.000Z",
+      "fact": "ETtoday財經雲 報導：Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Google掀AI模型價格戰 Gemini 4 Neon便宜4分之1挑戰Anthropic &nbsp;&nbsp; ETtoday財經雲。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
+        "Anthropic",
+        "Google",
         "AI"
       ],
-      "url": "https://openai.com/zh-Hant-HK/business/customer-stories/clay-plugins-openai/"
+      "url": "https://finance.ettoday.net/news/3278626"
     },
     {
       "id": "ai-與科技前沿-5",
       "section": "AI 與科技前沿",
-      "subject": "Qwen4",
-      "title": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
-      "originalTitle": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
-      "translatedTitle": "Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
+      "originalTitle": "BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
+      "translatedTitle": "AI 財經快訊：BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-11-25T14:37:45.000Z",
-      "fact": "OrcaRouter 報導：Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Qwen4-Max 與 Gemini 4 Carbon：價格與基準測試 &nbsp;&nbsp; OrcaRouter。",
+      "category": "AI 與科技前沿",
+      "source": "富途牛牛",
+      "publishedAt": "2026-11-26T11:03:00.000Z",
+      "fact": "富途牛牛 報導：AI 財經快訊：BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；BOE Warns Scale and Breadth Of AI Financing Poses Threat to Financial Stability -- Update &nbsp;&nbsp; 富途牛牛。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
-        "AI 與科技前沿"
+        "AI 與科技前沿",
+        "AI"
       ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/qwen-4-max-vs-gemini-4-carbon"
+      "url": "https://news.futunn.com/hk/post/1005745398/boe-warns-scale-and-breadth-of-ai-financing-poses-threat"
     },
     {
       "id": "全球財經脈動-1",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：FORM Benefits From Rising Industry Usage of HBM: What's Ahead?",
-      "originalTitle": "FORM Benefits From Rising Industry Usage of HBM: What's Ahead?",
-      "translatedTitle": "AI 財經快訊：FORM Benefits From Rising Industry Usage of HBM: What's Ahead?",
+      "subject": "Sandisk 股票 Plunges 12% as AI",
+      "title": "Sandisk 股票 Plunges 12% as AI Memory Fears Deepen",
+      "originalTitle": "Sandisk Stock Plunges 12% as AI Memory Fears Deepen",
+      "translatedTitle": "Sandisk 股票 Plunges 12% as AI Memory Fears Deepen",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
+      "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-11-24T13:48:00.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：FORM Benefits From Rising Industry Usage of HBM: What's Ahead?",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；FORM Benefits From Rising Industry Usage of HBM: What's Ahead? &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-11-25T18:04:19.000Z",
+      "fact": "TradingView 報導：Sandisk 股票 Plunges 12% as AI Memory Fears Deepen",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Sandisk Stock Plunges 12% as AI Memory Fears Deepen &nbsp;&nbsp; TradingView。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/zacks:afc8de62c094b:0-form-benefits-from-rising-industry-usage-of-hbm-what-s-ahead/"
+      "url": "https://tw.tradingview.com/news/gurufocus:214458ba8094b:0-sandisk-stock-plunges-12-as-ai-memory-fears-deepen/"
     },
     {
       "id": "全球財經脈動-2",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation",
-      "originalTitle": "ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation",
-      "translatedTitle": "AI 財經快訊：ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation",
+      "subject": "A Record $132 Billion AI Bac",
+      "title": "A Record $132 Billion AI Backlog Lands as 晶片股 Whipsaw",
+      "originalTitle": "A Record $132 Billion AI Backlog Lands as Chip Stocks Whipsaw",
+      "translatedTitle": "A Record $132 Billion AI Backlog Lands as 晶片股 Whipsaw",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Media OutReach Newswire",
-      "publishedAt": "2026-11-24T06:40:00.000Z",
-      "fact": "Media OutReach Newswire 報導：AI 財經快訊：ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；ZTE Attends Vietnam–China Greater Bay Area Technology Connectivity Forum to Deepen Digital Talent Cooperation &nbsp;&nbs。",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-25T12:15:00.000Z",
+      "fact": "TradingView 報導：A Record $132 Billion AI Backlog Lands as 晶片股 Whipsaw",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；A Record $132 Billion AI Backlog Lands as Chip Stocks Whipsaw &nbsp;&nbsp; TradingView。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://www.media-outreach.com/news/china/2026/11/24/503029/zte-attends-vietnam-china-greater-bay-area-technology-connectivity-forum-to-deepen-digital-talent-cooperation/"
+      "url": "https://tw.tradingview.com/news/prnewswire:e2eb97a530638:0-a-record-132-billion-ai-backlog-lands-as-chip-stocks-whipsaw/"
     },
     {
       "id": "全球財經脈動-3",
       "section": "全球財經脈動",
-      "subject": "ABB helps scale industrial A",
-      "title": "ABB helps scale industrial AI with world's first motor featuring built-in intelligence — 全球企業動態",
-      "originalTitle": "ABB helps scale industrial AI with world's first motor featuring built-in intelligence - 全球企業動態",
-      "translatedTitle": "ABB helps scale industrial AI with world's first motor featuring built-in intelligence — 全球企業動態",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：《TAIPEI TIMES》 NTU develops chips for on-device generative AI",
+      "originalTitle": "《TAIPEI TIMES》 NTU develops chips for on-device generative AI",
+      "translatedTitle": "AI 財經快訊：《TAIPEI TIMES》 NTU develops chips for on-device generative AI",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "Quamnet",
-      "publishedAt": "2026-11-24T09:00:00.000Z",
-      "fact": "Quamnet 報導：ABB helps scale industrial AI with world's first motor featuring built-in intelligence — 全球企業動態",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；ABB helps scale industrial AI with world's first motor featuring built-in intelligence - 全球企業動態 &nbsp;&nbsp; Quamnet。",
+      "category": "AI 晶片",
+      "source": "自由時報",
+      "publishedAt": "2026-11-25T19:00:00.000Z",
+      "fact": "自由時報 報導：AI 財經快訊：《TAIPEI TIMES》 NTU develops chips for on-device generative AI",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；《TAIPEI TIMES》 NTU develops chips for on-device generative AI &nbsp;&nbsp; 自由時報。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
         "AI"
       ],
-      "url": "https://www.quamnet.com/post/9tblIOwiJq7iQMKv1tr4I"
-    },
-    {
-      "id": "全球財經脈動-4",
-      "section": "全球財經脈動",
-      "subject": "Amphenol",
-      "title": "Amphenol, NextNav, Flex, IREN, and Nebius Group 股價 plummet, what you need to know",
-      "originalTitle": "Amphenol, NextNav, Flex, IREN, and Nebius Group shares plummet, what you need to know",
-      "translatedTitle": "Amphenol, NextNav, Flex, IREN, and Nebius Group 股價 plummet, what you need to know",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-24T20:01:15.000Z",
-      "fact": "TradingView 報導：Amphenol, NextNav, Flex, IREN, and Nebius Group 股價 plummet, what you need to know",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Amphenol, NextNav, Flex, IREN, and Nebius Group shares plummet, what you need to know &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經"
-      ],
-      "url": "https://tw.tradingview.com/news/stockstory:b19489bf3094b:0-amphenol-nextnav-flex-iren-and-nebius-group-shares-plummet-what-you-need-to-know/"
+      "url": "https://news.ltn.com.tw/news/focus/breakingnews/5653526"
     },
     {
       "id": "全球財經脈動-5",
       "section": "全球財經脈動",
-      "subject": "Fed",
-      "title": "AI 財經快訊：Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
-      "originalTitle": "Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
-      "translatedTitle": "AI 財經快訊：Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
+      "subject": "AMD",
+      "title": "AMD, Micron and Sandisk 股票 Slide as AI Spending Fears Deepen",
+      "originalTitle": "AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen",
+      "translatedTitle": "AMD, Micron and Sandisk 股票 Slide as AI Spending Fears Deepen",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "全球財經",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-25T21:26:34.000Z",
-      "fact": "富途牛牛 報導：AI 財經快訊：Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Fed Beige Book: AI Infrastructure Supports Industrial Expansion, High Costs Intensify \"K-Shaped\" Consumption Divide &nbs。",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-25T12:27:28.000Z",
+      "fact": "TradingView 報導：AMD, Micron and Sandisk 股票 Slide as AI Spending Fears Deepen",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AMD, Micron and Sandisk Stocks Slide as AI Spending Fears Deepen &nbsp;&nbsp; TradingView。",
       "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
         "全球財經",
-        "AI"
+        "AI",
+        "stocks"
       ],
-      "url": "https://news.futunn.com/en/post/1005658364/fed-beige-book-ai-infrastructure-supports-industrial-expansion-high-costs"
+      "url": "https://tw.tradingview.com/news/gurufocus:42040b55d094b:0-amd-micron-and-sandisk-stocks-slide-as-ai-spending-fears-deepen/"
     },
     {
       "id": "美股與全球市場焦點-1",
       "section": "美股與全球市場焦點",
-      "subject": "TSMC",
-      "title": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
-      "originalTitle": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares",
-      "translatedTitle": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
+      "subject": "Innodata vs. Cognizant",
+      "title": "Innodata vs. Cognizant: Which AI Services 股票 Is a Better Buy?",
+      "originalTitle": "Innodata vs. Cognizant: Which AI Services Stock Is a Better Buy?",
+      "translatedTitle": "Innodata vs. Cognizant: Which AI Services 股票 Is a Better Buy?",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-11-25T10:39:46.000Z",
-      "fact": "TradingView 報導：Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-11-26T16:23:00.000Z",
+      "fact": "TradingView 報導：Innodata vs. Cognizant: Which AI Services 股票 Is a Better Buy?",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Innodata vs. Cognizant: Which AI Services Stock Is a Better Buy? &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/moodys:fdca5e1e76622:0-huang-boost-fades-quickly-as-ai-fears-sink-tsmc-sk-hynix-shares/"
+      "url": "https://tw.tradingview.com/news/zacks:938b114dc094b:0-innodata-vs-cognizant-which-ai-services-stock-is-a-better-buy/"
     },
     {
       "id": "美股與全球市場焦點-2",
@@ -246,68 +229,24 @@
       "url": "https://www.moomoo.com/hant/news/post/1005794324/why-are-ai-stocks-down-again-today-wsj"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish",
-      "originalTitle": "Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish",
-      "translatedTitle": "AI 財經快訊：Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish",
+      "subject": "TSMC",
+      "title": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
+      "originalTitle": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares",
+      "translatedTitle": "Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-11-25T08:36:50.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Workday, Autodesk Tumble After Beat And Raise Quarters — Retail Turns Bullish &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-11-25T10:39:46.000Z",
+      "fact": "TradingView 報導：Huang boost fades quickly as AI fears sink TSMC, SK Hynix 股價",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Huang boost fades quickly as AI fears sink TSMC, SK Hynix shares &nbsp;&nbsp; TradingView。",
       "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
       "tags": [
         "市場焦點",
         "AI"
       ],
-      "url": "https://tw.tradingview.com/news/stocktwits:9f256ff41094b:0-workday-autodesk-tumble-after-beat-and-raise-quarters-retail-turns-bullish/"
-    },
-    {
-      "id": "美股與全球市場焦點-4",
-      "section": "美股與全球市場焦點",
-      "subject": "Asia's AI Supply Chain 股票 to",
-      "title": "Asia's AI Supply Chain 股票 to Benefit From Jensen Huang's Return — 市場 Talk",
-      "originalTitle": "Asia's AI Supply Chain Stocks to Benefit From Jensen Huang's Return -- Market Talk",
-      "translatedTitle": "Asia's AI Supply Chain 股票 to Benefit From Jensen Huang's Return — 市場 Talk",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "富途牛牛",
-      "publishedAt": "2026-11-25T05:42:00.000Z",
-      "fact": "富途牛牛 報導：Asia's AI Supply Chain 股票 to Benefit From Jensen Huang's Return — 市場 Talk",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Asia's AI Supply Chain Stocks to Benefit From Jensen Huang's Return -- Market Talk &nbsp;&nbsp; 富途牛牛。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "AI",
-        "stocks"
-      ],
-      "url": "https://news.futunn.com/en/post/1005566155/asia-s-ai-supply-chain-stocks-to-benefit-from-jensen"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "Google",
-      "title": "Broadcom 股票 Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
-      "originalTitle": "Broadcom Stocks Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
-      "translatedTitle": "Broadcom 股票 Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-24T16:54:05.000Z",
-      "fact": "TradingView 報導：Broadcom 股票 Fall 3.98% as Google TPU Order Report Clouds AI Outlook",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Broadcom Stocks Fall 3.98% as Google TPU Order Report Clouds AI Outlook &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "Google",
-        "AI",
-        "stocks",
-        "cloud"
-      ],
-      "url": "https://tw.tradingview.com/news/gurufocus:c5ba9cb4f094b:0-broadcom-stocks-fall-3-98-as-google-tpu-order-report-clouds-ai-outlook/"
+      "url": "https://tw.tradingview.com/news/moodys:fdca5e1e76622:0-huang-boost-fades-quickly-as-ai-fears-sink-tsmc-sk-hynix-shares/"
     }
   ]
 }
