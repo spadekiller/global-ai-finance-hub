@@ -1,27 +1,26 @@
 {
-  "generatedAt": "2026-11-28T03:38:30.456Z",
+  "generatedAt": "2026-11-28T05:18:40.442Z",
   "source": "Google News RSS",
   "items": [
     {
       "id": "ai-與科技前沿-1",
       "section": "AI 與科技前沿",
-      "subject": "AMD",
-      "title": "AMD, Intel, Broadcom rally in premarket trading Friday as AI 股票 rebound",
-      "originalTitle": "AMD, Intel, Broadcom rally in premarket trading Friday as AI stocks rebound",
-      "translatedTitle": "AMD, Intel, Broadcom rally in premarket trading Friday as AI 股票 rebound",
+      "subject": "AI 財經快訊",
+      "title": "AI 財經快訊：Could AI Threaten Bitcoin, Ethereum, XRP? Inside Crypto’s ‘Wall of Worry’",
+      "originalTitle": "Could AI Threaten Bitcoin, Ethereum, XRP? Inside Crypto’s ‘Wall of Worry’",
+      "translatedTitle": "AI 財經快訊：Could AI Threaten Bitcoin, Ethereum, XRP? Inside Crypto’s ‘Wall of Worry’",
       "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
+      "category": "AI 與科技前沿",
       "source": "TradingView",
-      "publishedAt": "2026-11-27T11:53:51.000Z",
-      "fact": "TradingView 報導：AMD, Intel, Broadcom rally in premarket trading Friday as AI 股票 rebound",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；AMD, Intel, Broadcom rally in premarket trading Friday as AI stocks rebound &nbsp;&nbsp; TradingView。",
+      "publishedAt": "2026-11-27T12:49:50.000Z",
+      "fact": "TradingView 報導：AI 財經快訊：Could AI Threaten Bitcoin, Ethereum, XRP? Inside Crypto’s ‘Wall of Worry’",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Could AI Threaten Bitcoin, Ethereum, XRP? Inside Crypto’s ‘Wall of Worry’ &nbsp;&nbsp; TradingView。",
       "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
       "tags": [
         "AI 與科技前沿",
-        "AI",
-        "stocks"
+        "AI"
       ],
-      "url": "https://tw.tradingview.com/news/invezz:03a02cae8094b:0-amd-intel-broadcom-rally-in-premarket-trading-friday-as-ai-stocks-rebound/"
+      "url": "https://tw.tradingview.com/news/benzinga:c9242912f094b:0-could-ai-threaten-bitcoin-ethereum-xrp-inside-crypto-s-wall-of-worry/"
     },
     {
       "id": "ai-與科技前沿-2",
@@ -46,6 +45,25 @@
     {
       "id": "ai-與科技前沿-3",
       "section": "AI 與科技前沿",
+      "subject": "Gemini 4 Neon",
+      "title": "Gemini 4 Neon：Gemini 付費任務背後的模型",
+      "originalTitle": "Gemini 4 Neon：Gemini 付費任務背後的模型",
+      "translatedTitle": "Gemini 4 Neon：Gemini 付費任務背後的模型",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "前沿模型",
+      "source": "OrcaRouter",
+      "publishedAt": "2026-11-26T22:40:44.000Z",
+      "fact": "OrcaRouter 報導：Gemini 4 Neon：Gemini 付費任務背後的模型",
+      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Neon：Gemini 付費任務背後的模型 &nbsp;&nbsp; OrcaRouter。",
+      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
+      "tags": [
+        "AI 與科技前沿"
+      ],
+      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-neon-tasks-in-gemini"
+    },
+    {
+      "id": "ai-與科技前沿-4",
+      "section": "AI 與科技前沿",
       "subject": "Anthropic",
       "title": "ANT|Anthropic Ord Shs Class A|價格:82.790|漲跌幅:+0.885",
       "originalTitle": "ANT|Anthropic Ord Shs Class A|價格:82.790|漲跌幅:+0.885",
@@ -62,25 +80,6 @@
         "Anthropic"
       ],
       "url": "https://www.tradingkey.com/zh-hant/markets/stocks/ant"
-    },
-    {
-      "id": "ai-與科技前沿-4",
-      "section": "AI 與科技前沿",
-      "subject": "Gemini 4 Neon",
-      "title": "Gemini 4 Neon：Gemini 付費任務背後的模型",
-      "originalTitle": "Gemini 4 Neon：Gemini 付費任務背後的模型",
-      "translatedTitle": "Gemini 4 Neon：Gemini 付費任務背後的模型",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "前沿模型",
-      "source": "OrcaRouter",
-      "publishedAt": "2026-11-26T22:40:44.000Z",
-      "fact": "OrcaRouter 報導：Gemini 4 Neon：Gemini 付費任務背後的模型",
-      "inference": "這則消息顯示 AI 技術競爭仍集中在模型能力、產品整合與企業導入速度；Gemini 4 Neon：Gemini 付費任務背後的模型 &nbsp;&nbsp; OrcaRouter。",
-      "hypothesis": "若產品體驗能明顯降低使用門檻，AI 應用將更快從試點走向日常工作流程。",
-      "tags": [
-        "AI 與科技前沿"
-      ],
-      "url": "https://www.orcarouter.ai/zh-TW/blog/gemini-4-neon-tasks-in-gemini"
     },
     {
       "id": "ai-與科技前沿-5",
@@ -103,7 +102,7 @@
       "url": "https://hk.finance.yahoo.com/quote/AIAI.L/"
     },
     {
-      "id": "全球財經脈動-2",
+      "id": "全球財經脈動-1",
       "section": "全球財經脈動",
       "subject": "OpenAI",
       "title": "AI 財經快訊：Former OpenAI Researcher's AI Fund Suffers Brutal Loss",
@@ -122,6 +121,27 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/gurufocus:81aca746b094b:0-former-openai-researcher-s-ai-fund-suffers-brutal-loss/"
+    },
+    {
+      "id": "全球財經脈動-2",
+      "section": "全球財經脈動",
+      "subject": "輝達",
+      "title": "輝達, CoreWeave Face New U.S. Restrictions on China AI Chip Access",
+      "originalTitle": "Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access",
+      "translatedTitle": "輝達, CoreWeave Face New U.S. Restrictions on China AI Chip Access",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "AI 晶片",
+      "source": "TradingView",
+      "publishedAt": "2026-11-27T17:23:27.000Z",
+      "fact": "TradingView 報導：輝達, CoreWeave Face New U.S. Restrictions on China AI Chip Access",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Nvidia, CoreWeave Face New U.S. Restrictions on China AI Chip Access &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
+      "tags": [
+        "全球財經",
+        "Nvidia",
+        "AI"
+      ],
+      "url": "https://tw.tradingview.com/news/gurufocus:d112db387094b:0-nvidia-coreweave-face-new-u-s-restrictions-on-china-ai-chip-access/"
     },
     {
       "id": "全球財經脈動-3",
@@ -146,46 +166,47 @@
     {
       "id": "全球財經脈動-4",
       "section": "全球財經脈動",
-      "subject": "AI 財經快訊",
-      "title": "AI 財經快訊：Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
-      "originalTitle": "Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
-      "translatedTitle": "AI 財經快訊：Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "AI 晶片",
-      "source": "TradingView",
-      "publishedAt": "2026-11-27T10:54:14.000Z",
-      "fact": "TradingView 報導：AI 財經快訊：Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions",
-      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；Singapore Reportedly In Talks With US To Retain Advanced AI Chip Access As Washington Tightens Export Restrictions &nbsp。",
-      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
-      "tags": [
-        "全球財經",
-        "AI"
-      ],
-      "url": "https://tw.tradingview.com/news/stocktwits:f71d6d999094b:0-singapore-reportedly-in-talks-with-us-to-retain-advanced-ai-chip-access-as-washington-tightens-export-restrictions/"
-    },
-    {
-      "id": "美股與全球市場焦點-1",
-      "section": "美股與全球市場焦點",
-      "subject": "Is 輝達 股票 Wall Street's bigge",
-      "title": "Is 輝達 股票 Wall Street's biggest Black Friday 便宜標的?",
-      "originalTitle": "Is Nvidia stock Wall Street's biggest Black Friday bargain?",
-      "translatedTitle": "Is 輝達 股票 Wall Street's biggest Black Friday 便宜標的?",
+      "subject": "AMD",
+      "title": "AMD, Intel, Broadcom rally in premarket trading Friday as AI 股票 rebound",
+      "originalTitle": "AMD, Intel, Broadcom rally in premarket trading Friday as AI stocks rebound",
+      "translatedTitle": "AMD, Intel, Broadcom rally in premarket trading Friday as AI 股票 rebound",
       "translationNote": "系統翻譯，請以原文為準",
       "category": "市場焦點",
       "source": "TradingView",
-      "publishedAt": "2026-11-27T11:31:41.000Z",
-      "fact": "TradingView 報導：Is 輝達 股票 Wall Street's biggest Black Friday 便宜標的?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；Is Nvidia stock Wall Street's biggest Black Friday bargain? &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "publishedAt": "2026-11-27T11:53:51.000Z",
+      "fact": "TradingView 報導：AMD, Intel, Broadcom rally in premarket trading Friday as AI 股票 rebound",
+      "inference": "這則消息反映 AI 已成為總體經濟、能源、半導體與資本支出的共同變數；AMD, Intel, Broadcom rally in premarket trading Friday as AI stocks rebound &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若 AI 投資循環維持強度，半導體、資料中心與能源基礎設施可能持續支撐全球成長預期。",
       "tags": [
-        "市場焦點",
-        "Nvidia",
-        "AI"
+        "全球財經",
+        "AI",
+        "stocks"
       ],
-      "url": "https://tw.tradingview.com/news/invezz:abba615fb094b:0-is-nvidia-stock-wall-street-s-biggest-black-friday-bargain/"
+      "url": "https://tw.tradingview.com/news/invezz:03a02cae8094b:0-amd-intel-broadcom-rally-in-premarket-trading-friday-as-ai-stocks-rebound/"
     },
     {
       "id": "美股與全球市場焦點-2",
+      "section": "美股與全球市場焦點",
+      "subject": "3 股票 With Rising 財報 Estimate",
+      "title": "3 股票 With Rising 財報 Estimates to Buy Before 2027",
+      "originalTitle": "3 Stocks With Rising Earnings Estimates to Buy Before 2027",
+      "translatedTitle": "3 股票 With Rising 財報 Estimates to Buy Before 2027",
+      "translationNote": "系統翻譯，請以原文為準",
+      "category": "市場焦點",
+      "source": "TradingView",
+      "publishedAt": "2026-11-27T19:00:00.000Z",
+      "fact": "TradingView 報導：3 股票 With Rising 財報 Estimates to Buy Before 2027",
+      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；3 Stocks With Rising Earnings Estimates to Buy Before 2027 &nbsp;&nbsp; TradingView。",
+      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
+      "tags": [
+        "市場焦點",
+        "earnings",
+        "stocks"
+      ],
+      "url": "https://tw.tradingview.com/news/zacks:2aafc33ea094b:0-3-stocks-with-rising-earnings-estimates-to-buy-before-2027/"
+    },
+    {
+      "id": "美股與全球市場焦點-3",
       "section": "美股與全球市場焦點",
       "subject": "輝達",
       "title": "輝達, AMD and Micron 股票 Plunge as AI Selloff Deepens",
@@ -207,7 +228,7 @@
       "url": "https://tw.tradingview.com/news/gurufocus:b80b1a308094b:0-nvidia-amd-and-micron-stocks-plunge-as-ai-selloff-deepens/"
     },
     {
-      "id": "美股與全球市場焦點-3",
+      "id": "美股與全球市場焦點-4",
       "section": "美股與全球市場焦點",
       "subject": "Micron and Sandisk Are Two o",
       "title": "Micron and Sandisk Are Two of the Cheapest AI 晶片股 to Own",
@@ -228,7 +249,7 @@
       "url": "https://tw.tradingview.com/news/gurufocus:e251cce89094b:0-micron-and-sandisk-are-two-of-the-cheapest-ai-chip-stocks-to-own/"
     },
     {
-      "id": "美股與全球市場焦點-4",
+      "id": "美股與全球市場焦點-5",
       "section": "美股與全球市場焦點",
       "subject": "Innodata vs. Cognizant",
       "title": "Innodata vs. Cognizant: Which AI Services 股票 Is a Better Buy?",
@@ -246,26 +267,6 @@
         "AI"
       ],
       "url": "https://tw.tradingview.com/news/zacks:938b114dc094b:0-innodata-vs-cognizant-which-ai-services-stock-is-a-better-buy/"
-    },
-    {
-      "id": "美股與全球市場焦點-5",
-      "section": "美股與全球市場焦點",
-      "subject": "NetApp 股票 Ahead of Q2 財報",
-      "title": "NetApp 股票 Ahead of Q2 財報: Should You Buy, Hold or Sell?",
-      "originalTitle": "NetApp Stock Ahead of Q2 Earnings: Should You Buy, Hold or Sell?",
-      "translatedTitle": "NetApp 股票 Ahead of Q2 財報: Should You Buy, Hold or Sell?",
-      "translationNote": "系統翻譯，請以原文為準",
-      "category": "市場焦點",
-      "source": "TradingView",
-      "publishedAt": "2026-11-26T14:04:00.000Z",
-      "fact": "TradingView 報導：NetApp 股票 Ahead of Q2 財報: Should You Buy, Hold or Sell?",
-      "inference": "這則消息代表市場資金仍把 AI 收入、算力供給與科技股獲利視為評價核心；NetApp Stock Ahead of Q2 Earnings: Should You Buy, Hold or Sell? &nbsp;&nbsp; TradingView。",
-      "hypothesis": "若企業財報能證明 AI 支出正在轉化為收入與利潤，科技股估值仍有機會維持溢價。",
-      "tags": [
-        "市場焦點",
-        "earnings"
-      ],
-      "url": "https://tw.tradingview.com/news/zacks:897063623094b:0-netapp-stock-ahead-of-q2-earnings-should-you-buy-hold-or-sell/"
     }
   ]
 }
